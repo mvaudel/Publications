@@ -63,7 +63,7 @@ biological networks.*
     \[[Nature Communications](https://go.nature.com/2VeBDRa)\]
     \[[pdf](docs/pdf/478255.full.pdf)\]
 
-  
+<blockquote>
 
 <table>
 
@@ -93,6 +93,8 @@ for which we bust a complete bioinformatic environment from scratch.*
 </table>
 
 <br>
+
+</blockquote>
 
 \#\#\#\#</b> 3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H,
 **Vaudel M**:email:, *Analyzing the Structure of Pathways and Its

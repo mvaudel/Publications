@@ -31,13 +31,15 @@ This repository lists the scientific publications I co-authored as of 1 August 2
 
 2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, Accepted. [[bioRxiv](https://doi.org/10.1101/478255)] [PubMed] [[Nature Communications](https://go.nature.com/2VeBDRa)] [[pdf](docs/pdf/478255.full.pdf)]
 
-&nbsp;&nbsp;<table>
+<blockquote>
+<table>
 <tr>
 <td width="150">![MH time lapse](docs/figures/mh_time-lapse.gif?raw=true "MH time lapse")</td>
 <td>_The association between genetic variation and phenotypes, _e.g._ with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we bust a complete bioinformatic environment from scratch._</td>
 </tr>
 </table>
 <br>
+</blockquote>
 
 
 ####</b> 3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**:email:, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. [[bioRxiv](https://doi.org/10.1101/333492 )] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)] [[Journal of Proteome Research](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)] [[pdf](docs/pdf/acs.jproteome.8b00464.pdf)]
