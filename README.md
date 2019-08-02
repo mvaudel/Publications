@@ -14,7 +14,7 @@ no copyright infringement intended.
 
 # Five highlighted original articles
 
-<font size="5">1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A,
+<font size="7">1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A,
 Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**:email:,
 *PathwayMatcher: proteoform-centric network construction enables
 fine-granularity multi-omics pathway mapping*, GigaScience, 2019.
@@ -27,68 +27,10 @@ fine-granularity multi-omics pathway mapping*, GigaScience, 2019.
 
 <tr>
 
-<td width="500">
+<td width="100">
 
 ![PathwayMatcher](docs/figures/PathwayMatcher.png?raw=true
 "PathwayMatcher")
-
-</td>
-
-<td>
-
-*In this manuscript, we describe a bioinformatic tool that can build
-biological networks of different levels of granularity using the
-[Reactome](reactome.org) pathway database, and map different types of
-omics data to it. Notably, it can build a network to the level of
-[proteoforms](https://www.nature.com/articles/nmeth.2369), where genes
-and proteins are separated according to their post-translational state.
-Hence, interactions are more specific, and interactions between
-different forms of the same proteins become visible as connections
-between different nodes, thus providing a new dimension to study
-biological networks.*
-
-</td>
-
-</tr>
-
-</table>
-
-<table>
-
-<tr>
-
-<td width="500">
-
-<img src="docs/figures/PathwayMatcher.png" width="500" />
-
-</td>
-
-<td>
-
-*In this manuscript, we describe a bioinformatic tool that can build
-biological networks of different levels of granularity using the
-[Reactome](reactome.org) pathway database, and map different types of
-omics data to it. Notably, it can build a network to the level of
-[proteoforms](https://www.nature.com/articles/nmeth.2369), where genes
-and proteins are separated according to their post-translational state.
-Hence, interactions are more specific, and interactions between
-different forms of the same proteins become visible as connections
-between different nodes, thus providing a new dimension to study
-biological networks.*
-
-</td>
-
-</tr>
-
-</table>
-
-<table>
-
-<tr>
-
-<td width="500">
-
-<img src="docs/figures/PathwayMatcher.png" width="600" />
 
 </td>
 
@@ -123,62 +65,10 @@ biological networks.*
 
 <tr>
 
-<td width="500">
+<td width="100">
 
 ![MH time lapse](docs/figures/mh_time-lapse.gif?raw=true
 "MH time lapse")
-
-</td>
-
-<td>
-
-*The association between genetic variation and phenotypes, *e.g.* with
-the Body Mass Index (BMI), is often presented as static, yet it changes
-over the course of life. Here we present genome-wide association results
-during the first years of life, from birth to age 8, making possibly one
-of the first genetic time lapse. It represents 12 GWASs on the [MoBa
-cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/),
-for which we bust a complete bioinformatic environment from scratch.*
-
-</td>
-
-</tr>
-
-</table>
-
-<table>
-
-<tr>
-
-<td width="500">
-
-<img src="docs/figures/mh_time-lapse.gif" width="500" />
-
-</td>
-
-<td>
-
-*The association between genetic variation and phenotypes, *e.g.* with
-the Body Mass Index (BMI), is often presented as static, yet it changes
-over the course of life. Here we present genome-wide association results
-during the first years of life, from birth to age 8, making possibly one
-of the first genetic time lapse. It represents 12 GWASs on the [MoBa
-cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/),
-for which we bust a complete bioinformatic environment from scratch.*
-
-</td>
-
-</tr>
-
-</table>
-
-<table>
-
-<tr>
-
-<td width="500">
-
-<img src="docs/figures/mh_time-lapse.gif" width="600" />
 
 </td>
 
