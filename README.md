@@ -10,14 +10,20 @@ August 2019. Citation metrics as obtained from the NIH
 no copyright infringement intended.
 
 > <sup>\*</sup> shared first, <sup>:email:</sup> corresponding
-> authorship, <sup>†</sup> shared
-last.
+> authorship, <sup>†</sup> shared last.
 
 <br>
 
 # Five highlighted original articles
 
-##### 1\. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, *PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping*, GigaScience, 2019. \[[bioRxiv](https://doi.org/10.1101/375097)\] \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)\] \[[GigaScience](https://doi.org/10.1093/gigascience/giz088)\] \[[pdf](docs/pdf/giz088.pdf)\]</font>
+1.  Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
+    Njølstad PR, Barsnes H, Hermjakob H, **Vaudel
+    M**<sup>:email:</sup>, *PathwayMatcher: proteoform-centric network
+    construction enables fine-granularity multi-omics pathway mapping*,
+    GigaScience, 2019. \[[bioRxiv](https://doi.org/10.1101/375097)\]
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)\]
+    \[[GigaScience](https://doi.org/10.1093/gigascience/giz088)\]
+    \[[pdf](docs/pdf/giz088.pdf)\]</font>
 
 <table>
 
@@ -33,6 +39,8 @@ last.
 <td>
 
 ###### *In this manuscript, we describe a bioinformatic tool that can build biological networks of different levels of granularity using the [Reactome](reactome.org) pathway database, and map different types of omics data to it. Notably, it can build a network to the level of [proteoforms](https://www.nature.com/articles/nmeth.2369), where genes and proteins are separated according to their post-translational state. Hence, interactions are more specific, and interactions between different forms of the same proteins become visible as connections between different nodes, thus providing a new dimension to study biological networks.*
+
+<br>
 
 </td>
 
@@ -63,7 +71,9 @@ last.
 
 <td>
 
-###### The association between genetic variation and phenotypes, *e.g.* with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we bust a complete bioinformatic environment from scratch.
+###### *The association between genetic variation and phenotypes, *e.g.* with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we bust a complete bioinformatic environment from scratch.*
+
+<br>
 
 </td>
 
@@ -89,16 +99,16 @@ last.
 
 <td width="150">
 
-![Pathways](docs/figures/TOC_bram.png?raw=true "Pathways")
+![Pathways](docs/figures/TOC_bram.png?raw=true
+"Pathways")
 
 </td>
 
 <td>
 
-<sub> \#\#\#\#\#\# *An analysis of the knowledge consolidated in the
-[Reactome](reactome.org) pathway database. How are biochemical pathways
-modelled? What is the current extent of our knowledge? How does this
-affect the interpretation of biomedical (proteomics) data?* </sub>
+###### *<sub>An analysis of the knowledge consolidated in the [Reactome](reactome.org) pathway database. How are biochemical pathways modelled? What is the current extent of our knowledge? How does this affect the interpretation of biomedical (proteomics) data?</sub>*
+
+<br>
 
 </td>
 
