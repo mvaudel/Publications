@@ -102,8 +102,7 @@ scratch.</sub>* <br>
     \[[bioRxiv](https://doi.org/10.1101/333492)\]
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)\]
     \[[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[Unpaywall](https://www.biorxiv.org/content/biorxiv/early/2018/05/30/333492.full.pdf)\]
 
 <table>
 
