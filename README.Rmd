@@ -25,7 +25,7 @@ This repository lists the scientific publications I co-authored as of 1 August 2
 ![PathwayMatcher](docs/figures/PathwayMatcher.png?raw=true "PathwayMatcher")
 </td>
 <td>
-_<sub>In this manuscript, we describe a bioinformatic tool that can build biological networks of different levels of granularity using the [Reactome](reactome.org) pathway database, and map different types of omics data to it. Notably, it can build a network to the level of [proteoforms](https://www.nature.com/articles/nmeth.2369), where genes and proteins are separated according to their post-translational state. Hence, interactions are more specific, and interactions between different forms of the same proteins become visible as connections between different nodes, thus providing a new dimension to study biological networks.</sub>_
+_<sub>PathwayMatcher can build biological networks of different levels of granularity using the [Reactome](reactome.org) pathway database, and map different types of omics data to it. Notably, it can build a network to the level of [proteoforms](https://www.nature.com/articles/nmeth.2369), where genes and proteins are separated according to their post-translational state. Hence, interactions are more specific, and interactions between different forms of the same proteins become visible as connections between different nodes, thus providing a new dimension to study biological networks.</sub>_
 <br>
 </td>
 </tr>
@@ -79,3 +79,23 @@ _<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequ
 </tr>
 </table>
 <br>
+
+
+5. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)] [[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)] [[pdf](docs/pdf/nbt.3109.pdf)]
+
+<table>
+<tr>
+<td width="150">
+![PeptideMapper](docs/figures/PeptideMapper.png?raw=true "PeptideMapper")
+</td>
+<td>
+_<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequences can be partial with missing sections represented as mass gaps or wild cards. It accounts for post-translational modifications and sequence variants during mapping.</sub>_
+<br>
+</td>
+</tr>
+</table>
+<br>
+
+# Original Articles
+
+
