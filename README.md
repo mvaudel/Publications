@@ -15,7 +15,7 @@ no copyright infringement intended.
 
 # Five highlighted original articles
 
-### 1\. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, <u>Vaudel M</u><sup>:email:</sup>, *PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping*, GigaScience, 2019. \[[bioRxiv](https://doi.org/10.1101/375097)\] \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)\] \[[GigaScience](https://doi.org/10.1093/gigascience/giz088)\] \[[pdf](docs/pdf/giz088.pdf)\]</font>
+##### 1\. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, <u>Vaudel M</u><sup>:email:</sup>, *PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping*, GigaScience, 2019. \[[bioRxiv](https://doi.org/10.1101/375097)\] \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)\] \[[GigaScience](https://doi.org/10.1093/gigascience/giz088)\] \[[pdf](docs/pdf/giz088.pdf)\]</font>
 
 <table>
 
@@ -74,8 +74,7 @@ over the course of life. Here we present genome-wide association results
 during the first years of life, from birth to age 8, making possibly one
 of the first genetic time lapse. It represents 12 GWASs on the [MoBa
 cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/),
-for which we bust a complete bioinformatic environment from
-scratch.*
+for which we bust a complete bioinformatic environment from scratch.*
 
 </td>
 
@@ -83,7 +82,15 @@ scratch.*
 
 </table>
 
-#### 3\. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**:email:, *Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets*, Journal of Proteome Research, 2018. \[[bioRxiv](https://doi.org/10.1101/333492)\] \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)\] \[[Journal of Proteome Research](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)\] \[[pdf](docs/pdf/acs.jproteome.8b00464.pdf)\]
+\#\#\#\#</b> 3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H,
+**Vaudel M**:email:, *Analyzing the Structure of Pathways and Its
+Influence on the Interpretation of Biomedical Proteomics Data Sets*,
+Journal of Proteome Research, 2018.
+\[[bioRxiv](https://doi.org/10.1101/333492)\]
+\[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)\] \[[Journal of
+Proteome
+Research](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)\]
+\[[pdf](docs/pdf/acs.jproteome.8b00464.pdf)\]
 
 > *An analysis of the knowledge consolidated in the
 > [Reactome](reactome.org) pathway database. How are biochemical

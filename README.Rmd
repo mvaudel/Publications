@@ -17,7 +17,7 @@ This repository lists the scientific publications I co-authored as of 1 August 2
 
 # Five highlighted original articles
 
-### 1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, <u>Vaudel M</u><sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. [[bioRxiv](https://doi.org/10.1101/375097)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)] [[GigaScience](https://doi.org/10.1093/gigascience/giz088)] [[pdf](docs/pdf/giz088.pdf)]</font>
+##### 1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, <u>Vaudel M</u><sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. [[bioRxiv](https://doi.org/10.1101/375097)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)] [[GigaScience](https://doi.org/10.1093/gigascience/giz088)] [[pdf](docs/pdf/giz088.pdf)]</font>
 
 <table>
 <tr>
@@ -39,6 +39,6 @@ This repository lists the scientific publications I co-authored as of 1 August 2
 </table>
 
 
-#### 3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**:email:, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. [[bioRxiv](https://doi.org/10.1101/333492 )] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)] [[Journal of Proteome Research](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)] [[pdf](docs/pdf/acs.jproteome.8b00464.pdf)]
+####</b> 3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**:email:, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. [[bioRxiv](https://doi.org/10.1101/333492 )] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)] [[Journal of Proteome Research](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)] [[pdf](docs/pdf/acs.jproteome.8b00464.pdf)]
 
 > _An analysis of the knowledge consolidated in the [Reactome](reactome.org) pathway database. How are biochemical pathways modelled? What is the current extent of our knowledge? How does this affect the interpretation of biomedical (proteomics) data?_
