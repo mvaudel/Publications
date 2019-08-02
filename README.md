@@ -14,7 +14,7 @@ no copyright infringement intended.
 
 # Five highlighted original articles
 
-<font size="13">1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A,
+<font size="14">1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A,
 Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**:email:,
 *PathwayMatcher: proteoform-centric network construction enables
 fine-granularity multi-omics pathway mapping*, GigaScience, 2019.
@@ -31,6 +31,35 @@ fine-granularity multi-omics pathway mapping*, GigaScience, 2019.
 
 ![PathwayMatcher](docs/figures/PathwayMatcher.png?raw=true
 "PathwayMatcher")
+
+</td>
+
+<td>
+
+*In this manuscript, we describe a bioinformatic tool that can build
+biological networks of different levels of granularity using the
+[Reactome](reactome.org) pathway database, and map different types of
+omics data to it. Notably, it can build a network to the level of
+[proteoforms](https://www.nature.com/articles/nmeth.2369), where genes
+and proteins are separated according to their post-translational state.
+Hence, interactions are more specific, and interactions between
+different forms of the same proteins become visible as connections
+between different nodes, thus providing a new dimension to study
+biological networks.*
+
+</td>
+
+</tr>
+
+</table>
+
+<table>
+
+<tr>
+
+<td>
+
+<img src="docs/figures/PathwayMatcher.png" width="200" />
 
 </td>
 
