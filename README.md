@@ -28,11 +28,14 @@ August 2019. Citation metrics as obtained from the NIH
 
 <tr>
 
-<td width="150", bgcolor="#FF0000">
-![PathwayMatcher](docs/figures/PathwayMatcher.png?raw=true "PathwayMatcher")
+<td width="150">
+
+![PathwayMatcher](docs/figures/PathwayMatcher.png?raw=true
+"PathwayMatcher")
+
 </td>
 
-<td bgcolor="#FF0000">
+<td>
 
 *<sub>PathwayMatcher can build biological networks of different levels
 of granularity using the [Reactome](reactome.org) pathway database, and
