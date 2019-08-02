@@ -14,7 +14,7 @@ no copyright infringement intended.
 
 # Five highlighted original articles
 
-<font size="14">1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A,
+<font size="15">1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A,
 Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**:email:,
 *PathwayMatcher: proteoform-centric network construction enables
 fine-granularity multi-omics pathway mapping*, GigaScience, 2019.
@@ -59,7 +59,7 @@ biological networks.*
 
 <td>
 
-<img src="docs/figures/PathwayMatcher.png" width="200" />
+<img src="docs/figures/PathwayMatcher.png" width="500" />
 
 </td>
 
@@ -85,15 +85,59 @@ networks.*
 
 #### 2\. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S†:email:, Njølstad PR†:email:, *Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth*, Nature Communications, Accepted. \[[bioRxiv](https://doi.org/10.1101/478255)\] \[PubMed\] \[[Nature Communications](https://go.nature.com/2VeBDRa)\] \[[pdf](docs/pdf/478255.full.pdf)\]
 
-> *The association between genetic variation and phenotypes, *e.g.* with
-> the Body Mass Index (BMI), is often presented as static, yet it
-> changes over the course of life. Here we present genome-wide
-> association results during the first years of life, from birth to age
-> 8, making possibly one of the first genetic time lapse. It represents
-> 12 GWASs on the [MoBa
-> cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/),
-> for which we bust a complete bioinformatic environment from
+<table>
+
+<tr>
+
+<td>
+
+![MH time lapse](docs/figures/mh_time-lapse.gif?raw=true
+"MH time lapse")
+
+</td>
+
+<td>
+
+*The association between genetic variation and phenotypes, *e.g.* with
+the Body Mass Index (BMI), is often presented as static, yet it changes
+over the course of life. Here we present genome-wide association results
+during the first years of life, from birth to age 8, making possibly one
+of the first genetic time lapse. It represents 12 GWASs on the [MoBa
+cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/),
+for which we bust a complete bioinformatic environment from scratch.*
+
+</td>
+
+</tr>
+
+</table>
+
+<table>
+
+<tr>
+
+<td>
+
+<img src="docs/figures/mh_time-lapse.gif" width="500" />
+
+</td>
+
+<td>
+
+*The association between genetic variation and phenotypes, *e.g.* with
+the Body Mass Index (BMI), is often presented as static, yet it changes
+over the course of life. Here we present genome-wide association results
+during the first years of life, from birth to age 8, making possibly one
+of the first genetic time lapse. It represents 12 GWASs on the [MoBa
+cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/),
+for which we bust a complete bioinformatic environment from
 scratch.*
+
+</td>
+
+</tr>
+
+</table>
 
 #### 3\. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**:email:, *Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets*, Journal of Proteome Research, 2018. \[[bioRxiv](https://doi.org/10.1101/333492)\] \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)\] \[[Journal of Proteome Research](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)\] \[[pdf](docs/pdf/acs.jproteome.8b00464.pdf)\]
 
