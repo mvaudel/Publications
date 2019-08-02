@@ -102,7 +102,8 @@ scratch.</sub>* <br>
     \[[bioRxiv](https://doi.org/10.1101/333492)\]
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)\]
     \[[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)\]
-    \[Unpaywall\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
 
 <table>
 
@@ -168,8 +169,8 @@ modifications and sequence variants during mapping.</sub>* <br>
     reanalysis of mass spectrometry-derived proteomics datasets*, Nature
     Biotechnology, 2015. \[bioRxiv\]
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)\]
-    \[[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)\]
-    \[Unpaywall\]
+    \[[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)\] \[No
+    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
 
 <table>
 

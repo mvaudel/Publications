@@ -29,7 +29,7 @@ getUnpayWall <- function(doi) {
         
     } else {
         
-        return("[Unpaywall]")
+        return("[No Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)]")
         
     }
 }
