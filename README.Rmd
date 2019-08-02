@@ -17,7 +17,7 @@ This repository lists the scientific publications I co-authored as of 1 August 2
 
 # Five highlighted original articles
 
-1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. [[bioRxiv](https://doi.org/10.1101/375097)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)] [[GigaScience](https://doi.org/10.1093/gigascience/giz088)] [[pdf](docs/pdf/giz088.pdf)]</font>
+1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. [[bioRxiv](https://doi.org/10.1101/375097)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)] [[doi: 10.1093/gigascience/giz088](https://doi.org/10.1093/gigascience/giz088)] [[pdf](docs/pdf/giz088.pdf)]</font>
 
 <table>
 <tr>
@@ -33,7 +33,7 @@ _<sub>In this manuscript, we describe a bioinformatic tool that can build biolog
 <br>
 
 
-2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. [[bioRxiv](https://doi.org/10.1101/478255)] [PubMed] [[Nature Communications](https://go.nature.com/2VeBDRa)] [[pdf](docs/pdf/478255.full.pdf)]
+2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. [[bioRxiv](https://doi.org/10.1101/478255)] [PubMed] [[doi: 10.1101/478255](https://doi.org/10.1101/478255)] [[pdf](docs/pdf/478255.full.pdf)]
 
 <table>
 <tr>
@@ -49,7 +49,7 @@ _<sub>The association between genetic variation and phenotypes, _e.g._ with the 
 <br>
 
 
-3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. [[bioRxiv](https://doi.org/10.1101/333492)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)] [[Journal of Proteome Research](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)] [[pdf](docs/pdf/acs.jproteome.8b00464.pdf)]
+3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. [[bioRxiv](https://doi.org/10.1101/333492)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)] [[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)] [[pdf](docs/pdf/acs.jproteome.8b00464.pdf)]
 
 <table>
 <tr>
@@ -58,6 +58,22 @@ _<sub>The association between genetic variation and phenotypes, _e.g._ with the 
 </td>
 <td>
 _<sub>An analysis of the knowledge consolidated in the [Reactome](reactome.org) pathway database. How are biochemical pathways modelled? What is the current extent of our knowledge? How does this affect the interpretation of biomedical (proteomics) data?</sub>_
+<br>
+</td>
+</tr>
+</table>
+<br>
+
+
+4. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)] [[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)] [[pdf](docs/pdf/btx122.pdf)]
+
+<table>
+<tr>
+<td width="150">
+![PeptideMapper](docs/figures/PeptideMapper.png?raw=true "PeptideMapper")
+</td>
+<td>
+_<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequences can be partial with missing sections represented as mass gaps or wild cards. It accounts for post-translational modifications and sequence variants during mapping.</sub>_
 <br>
 </td>
 </tr>
