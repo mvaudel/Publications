@@ -10,12 +10,18 @@ August 2019. Citation metrics as obtained from the NIH
 no copyright infringement intended.
 
 > <sup>\*</sup> shared first, <sup>:email:</sup> corresponding
-> authorship, <sup>†</sup> shared last.
-<br>
+> authorship, <sup>†</sup> shared last. <br>
 
 # Five highlighted original articles
 
-##### 1\. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, <u>Vaudel M</u><sup>:email:</sup>, *PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping*, GigaScience, 2019. \[[bioRxiv](https://doi.org/10.1101/375097)\] \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)\] \[[GigaScience](https://doi.org/10.1093/gigascience/giz088)\] \[[pdf](docs/pdf/giz088.pdf)\]</font>
+1.  Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
+    Njølstad PR, Barsnes H, Hermjakob H, <u>Vaudel
+    M</u><sup>:email:</sup>, *PathwayMatcher: proteoform-centric network
+    construction enables fine-granularity multi-omics pathway mapping*,
+    GigaScience, 2019. \[[bioRxiv](https://doi.org/10.1101/375097)\]
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)\]
+    \[[GigaScience](https://doi.org/10.1093/gigascience/giz088)\]
+    \[[pdf](docs/pdf/giz088.pdf)\]</font>
 
 <table>
 
@@ -47,6 +53,8 @@ biological networks.*
 
 </table>
 
+<br>
+
 2.  Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson
     S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, *Genome-wide
     association study reveals a dynamic role of common genetic variation
@@ -54,6 +62,8 @@ biological networks.*
     Accepted. \[[bioRxiv](https://doi.org/10.1101/478255)\] \[PubMed\]
     \[[Nature Communications](https://go.nature.com/2VeBDRa)\]
     \[[pdf](docs/pdf/478255.full.pdf)\]
+
+  
 
 <table>
 
@@ -81,6 +91,8 @@ for which we bust a complete bioinformatic environment from scratch.*
 </tr>
 
 </table>
+
+<br>
 
 \#\#\#\#</b> 3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H,
 **Vaudel M**:email:, *Analyzing the Structure of Pathways and Its
