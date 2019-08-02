@@ -76,7 +76,7 @@ biological networks.*
 
 <td>
 
-# The association between genetic variation and phenotypes, *e.g.* with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we bust a complete bioinformatic environment from scratch.
+###### The association between genetic variation and phenotypes, *e.g.* with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we bust a complete bioinformatic environment from scratch.
 
 </td>
 
@@ -108,14 +108,10 @@ biological networks.*
 
 <td>
 
-<blockquote>
-
-*An analysis of the knowledge consolidated in the
+<sub> *An analysis of the knowledge consolidated in the
 [Reactome](reactome.org) pathway database. How are biochemical pathways
 modelled? What is the current extent of our knowledge? How does this
-affect the interpretation of biomedical (proteomics) data?*
-
-</blockquote>
+affect the interpretation of biomedical (proteomics) data?* </sub>
 
 </td>
 

@@ -41,7 +41,8 @@ _In this manuscript, we describe a bioinformatic tool that can build biological 
 <td width="150">
 ![MH time lapse](docs/figures/mh_time-lapse.gif?raw=true "MH time lapse")
 </td>
-<td> # The association between genetic variation and phenotypes, _e.g._ with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we bust a complete bioinformatic environment from scratch.
+<td> 
+###### The association between genetic variation and phenotypes, _e.g._ with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we bust a complete bioinformatic environment from scratch.
 </td>
 </tr>
 </table>
@@ -56,9 +57,9 @@ _In this manuscript, we describe a bioinformatic tool that can build biological 
 ![Pathways](docs/figures/TOC_bram.png?raw=true "Pathways")
 </td>
 <td>
-<blockquote>
+<sub>
 _An analysis of the knowledge consolidated in the [Reactome](reactome.org) pathway database. How are biochemical pathways modelled? What is the current extent of our knowledge? How does this affect the interpretation of biomedical (proteomics) data?_
-</blockquote>
+</sub>
 </td>
 </tr>
 </table>
