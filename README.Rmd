@@ -8,8 +8,35 @@ output:
     toc_depth: 1
 ---
 
+```{r libraries, warning=FALSE, results='hide', message=FALSE, echo=FALSE}
 
-This repository lists the scientific publications I co-authored as of 1 August 2019. Citation metrics as obtained from the NIH [iCite](icite.od.nih.gov) are available [here](docs/icite/icite_report_01.08.2019.xlsx). For personal use only, no copyright infringement intended.
+library(roadoi)
+
+```
+
+```{r functions, warning=FALSE, results='hide', message=FALSE, echo=FALSE}
+
+getUnpayWall <- function(doi) {
+    
+    result <- oadoi_fetch(dois = doi, 
+                          email = "mvaudel@gmail.com")
+    
+    if (result$is_oa) {
+        
+        pdfUrl <- result$best_oa_location[[1]]$url_for_pdf
+        
+        return(paste0("[[Unpaywall](", pdfUrl, ")]"))
+        
+    } else {
+        
+        return("[Unpaywall]")
+        
+    }
+}
+
+```
+
+This repository lists the scientific publications I co-authored as of 1 August 2019. Citation metrics as obtained from the NIH [iCite](icite.od.nih.gov) are available [here](docs/icite/icite_report_01.08.2019.xlsx). 
 
 > <sup>*</sup> shared first, <sup>:email:</sup> corresponding authorship, <sup>†</sup> shared last. 
 
@@ -17,7 +44,7 @@ This repository lists the scientific publications I co-authored as of 1 August 2
 
 # Five highlighted original articles
 
-1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. [[bioRxiv](https://doi.org/10.1101/375097)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)] [[doi: 10.1093/gigascience/giz088](https://doi.org/10.1093/gigascience/giz088)] [[pdf](docs/pdf/giz088.pdf)]</font>
+1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. [[bioRxiv](https://doi.org/10.1101/375097)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)] [[doi: 10.1093/gigascience/giz088](https://doi.org/10.1093/gigascience/giz088)] `r getUnpayWall(doi = "10.1093/gigascience/giz088")`
 
 <table>
 <tr>
@@ -33,7 +60,7 @@ _<sub>PathwayMatcher can build biological networks of different levels of granul
 <br>
 
 
-2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. [[bioRxiv](https://doi.org/10.1101/478255)] [PubMed] [[doi: 10.1101/478255](https://doi.org/10.1101/478255)] [[pdf](docs/pdf/478255.full.pdf)]
+2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. [[bioRxiv](https://doi.org/10.1101/478255)] [PubMed] [[doi: 10.1101/478255](https://doi.org/10.1101/478255)] `r getUnpayWall(doi = "10.1101/478255")`
 
 <table>
 <tr>
@@ -49,7 +76,7 @@ _<sub>The association between genetic variation and phenotypes, _e.g._ with the 
 <br>
 
 
-3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. [[bioRxiv](https://doi.org/10.1101/333492)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)] [[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)] [[pdf](docs/pdf/acs.jproteome.8b00464.pdf)]
+3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. [[bioRxiv](https://doi.org/10.1101/333492)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)] [[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)] `r getUnpayWall(doi = "10.1021/acs.jproteome.8b00464")`
 
 <table>
 <tr>
@@ -65,7 +92,7 @@ _<sub>An analysis of the knowledge consolidated in the [Reactome](reactome.org) 
 <br>
 
 
-4. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)] [[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)] [[pdf](docs/pdf/btx122.pdf)]
+4. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)] [[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)] `r getUnpayWall(doi = "10.1093/bioinformatics/btx122")`
 
 <table>
 <tr>
@@ -81,7 +108,7 @@ _<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequ
 <br>
 
 
-5. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)] [[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)] [[pdf](docs/pdf/nbt.3109.pdf)]
+5. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)] [[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)] `r getUnpayWall(doi = "10.1038/nbt.3109")`
 
 <table>
 <tr>
@@ -99,3 +126,18 @@ _<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequ
 # Original Articles
 
 
+
+# About
+
+This document was generated from this [Rmd](README.Rmd). [Unpaywall](unpaywall.org) was queried using the [roadoi](https://cran.r-project.org/web/packages/roadoi/vignettes/intro.html) package.
+
+For personal use only, no copyright infringement intended.
+
+
+## R Session Info
+
+```{r session_info}
+
+sessionInfo()
+
+```
