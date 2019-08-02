@@ -75,10 +75,10 @@ This repository lists the scientific publications I co-authored as of 1 August 2
 
 <table>
 <tr>
-<td width="150">
+<td width="150", bgcolor="#FF0000">
 ![PathwayMatcher](docs/figures/PathwayMatcher.png?raw=true "PathwayMatcher")
 </td>
-<td>
+<td bgcolor="#FF0000">
 _<sub>PathwayMatcher can build biological networks of different levels of granularity using the [Reactome](reactome.org) pathway database, and map different types of omics data to it. Notably, it can build a network to the level of [proteoforms](https://www.nature.com/articles/nmeth.2369), where genes and proteins are separated according to their post-translational state. Hence, interactions are more specific, and interactions between different forms of the same proteins become visible as connections between different nodes, thus providing a new dimension to study biological networks.</sub>_
 <br>
 </td>
