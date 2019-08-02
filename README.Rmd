@@ -16,35 +16,48 @@ library(roadoi)
 
 ```{r functions, warning=FALSE, results='hide', message=FALSE, echo=FALSE}
 
-getUnpayWall <- function(journalDOI, preprintDOI) {
+getUnpayWall <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
     
     result <- NULL 
     
     if (!is.null(journalDOI)) {
         
         result <- oadoi_fetch(dois = journalDOI, 
-                    email = "mvaudel@gmail.com")
+                              email = "mvaudel@gmail.com")
         
+        if (result$is_oa) {
+            
+            pdfUrl <- result$best_oa_location[[1]]$url_for_pdf
+            
+            return(paste0("[[pdf](", pdfUrl, ")]"))
+            
+        }
     }
     
-    if ((is.null(result) || !result$is_oa) && !is.null(preprintDOI)) {
+    if (!is.null(preprintDOI)) {
         
         result <- oadoi_fetch(dois = preprintDOI, 
                               email = "mvaudel@gmail.com")
         
+        if (result$is_oa) {
+            
+            pdfUrl <- result$best_oa_location[[1]]$url_for_pdf
+            
+            return(paste0("[[pdf (preprint)](", pdfUrl, ")]"))
+            
+        }
+        
     }
     
-    if (result$is_oa) {
+    if (!is.null(aam)) {
         
-        pdfUrl <- result$best_oa_location[[1]]$url_for_pdf
-        
-        return(paste0("[[pdf (Unpaywall)](", pdfUrl, ")]"))
-        
-    } else {
-        
-        return("[No Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)]")
+        return(paste0("[[pdf (post-peer-review, pre-copyedit version)](", aam, ")]"))
         
     }
+    
+    
+    return("[No Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)]")
+    
 }
 
 ```
@@ -74,7 +87,7 @@ _<sub>PathwayMatcher can build biological networks of different levels of granul
 <br>
 
 
-2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. [[bioRxiv](https://doi.org/10.1101/478255)] [PubMed] [[doi: 10.1101/478255](https://doi.org/10.1101/478255)] `r getUnpayWall(journalDOI = NULL, preprintDOI = "10.1101/478255")`
+2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. [[bioRxiv](https://doi.org/10.1101/478255)] [PubMed] [[doi: 10.1101/478255](https://doi.org/10.1101/478255)] `r getUnpayWall(preprintDOI = "10.1101/478255")`
 
 <table>
 <tr>
@@ -106,7 +119,7 @@ _<sub>An analysis of the knowledge consolidated in the [Reactome](reactome.org) 
 <br>
 
 
-4. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)] [[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)] `r getUnpayWall(journalDOI = "10.1093/bioinformatics/btx122", preprintDOI = NULL)`
+4. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)] [[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)] `r getUnpayWall(journalDOI = "10.1093/bioinformatics/btx122")`
 
 <table>
 <tr>
@@ -122,7 +135,7 @@ _<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequ
 <br>
 
 
-5. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)] [[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)] `r getUnpayWall(journalDOI = "10.1038/nbt.3109", preprintDOI = NULL)`
+5. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)] [[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)] `r getUnpayWall(journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
 
 <table>
 <tr>
@@ -144,7 +157,7 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 # About
 
-This document was generated from this [Rmd](README.Rmd). [Unpaywall](unpaywall.org) was queried using the [roadoi](https://cran.r-project.org/web/packages/roadoi/vignettes/intro.html) package.
+This document was generated from this [Rmd](README.Rmd). Links to pdfs are obtained from [Unpaywall](unpaywall.org), queried using the [roadoi](https://cran.r-project.org/web/packages/roadoi/vignettes/intro.html) package.
 
 For personal use only, no copyright infringement intended.
 <br>

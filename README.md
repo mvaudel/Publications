@@ -22,8 +22,7 @@ August 2019. Citation metrics as obtained from the NIH
     GigaScience, 2019. \[[bioRxiv](https://doi.org/10.1101/375097)\]
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)\]
     \[[doi: 10.1093/gigascience/giz088](https://doi.org/10.1093/gigascience/giz088)\]
-    \[[pdf
-    (Unpaywall)](https://academic.oup.com/gigascience/article-pdf/8/8/giz088/29020604/giz088.pdf)\]
+    \[[pdf](https://academic.oup.com/gigascience/article-pdf/8/8/giz088/29020604/giz088.pdf)\]
 
 <table>
 
@@ -63,7 +62,7 @@ biological networks.</sub>* <br>
     in infant and early childhood growth*, Nature Communications,
     *Accepted*. \[[bioRxiv](https://doi.org/10.1101/478255)\] \[PubMed\]
     \[[doi: 10.1101/478255](https://doi.org/10.1101/478255)\] \[[pdf
-    (Unpaywall)](https://www.biorxiv.org/content/biorxiv/early/2018/11/25/478255.full.pdf)\]
+    (preprint)](https://www.biorxiv.org/content/biorxiv/early/2018/11/25/478255.full.pdf)\]
 
 <table>
 
@@ -104,7 +103,7 @@ scratch.</sub>* <br>
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)\]
     \[[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)\]
     \[[pdf
-    (Unpaywall)](https://www.biorxiv.org/content/biorxiv/early/2018/05/30/333492.full.pdf)\]
+    (preprint)](https://www.biorxiv.org/content/biorxiv/early/2018/05/30/333492.full.pdf)\]
 
 <table>
 
@@ -137,8 +136,7 @@ affect the interpretation of biomedical (proteomics) data?</sub>* <br>
     Bioinformatics, 2017. \[bioRxiv\]
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)\]
     \[[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)\]
-    \[[pdf
-    (Unpaywall)](https://academic.oup.com/bioinformatics/article-pdf/33/13/2042/25155905/btx122.pdf)\]
+    \[[pdf](https://academic.oup.com/bioinformatics/article-pdf/33/13/2042/25155905/btx122.pdf)\]
 
 <table>
 
@@ -171,9 +169,9 @@ modifications and sequence variants during mapping.</sub>* <br>
     reanalysis of mass spectrometry-derived proteomics datasets*, Nature
     Biotechnology, 2015. \[bioRxiv\]
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)\]
-    \[[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)\] \[No
-    Open Access found [Request a
-reprint](mailto:marc.vaudel@uib.no)\]
+    \[[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)\] \[[pdf
+    (post-peer-review, pre-copyedit
+    version)](docs/aam/peptideshaker_submitted.pdf)\]
 
 <table>
 
@@ -206,16 +204,16 @@ support for sequence variants.</sub>* <br>
 
 # Original Articles
 
-(Coming soon\!)
+(Coming soon\!) <br>
 
 # About
 
-This document was generated from this [Rmd](README.Rmd).
-[Unpaywall](unpaywall.org) was queried using the
+This document was generated from this [Rmd](README.Rmd). Links to pdfs
+are obtained from [Unpaywall](unpaywall.org), queried using the
 [roadoi](https://cran.r-project.org/web/packages/roadoi/vignettes/intro.html)
 package.
 
-For personal use only, no copyright infringement intended.
+For personal use only, no copyright infringement intended. <br>
 
 ## R Session Info
 
