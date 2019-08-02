@@ -152,7 +152,104 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 # Original Articles
 
+(Work in progress)
+
+38. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. [[bioRxiv](https://doi.org/10.1101/375097)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)] [[doi: 10.1093/gigascience/giz088](https://doi.org/10.1093/gigascience/giz088)] `r getUnpayWall(journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
+
+37. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. [[bioRxiv](https://doi.org/10.1101/478255)] [PubMed] [[doi: 10.1101/478255](https://doi.org/10.1101/478255)] `r getUnpayWall(preprintDOI = "10.1101/478255")`
+
+36.	Bradfield JP<sup>$</sup>, Vogelezang S<sup>$</sup>, …, **Vaudel M**, …, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†,:email:</sup>, _A Trans-ancestral Meta-Analysis of Genome-Wide Association Studies Reveals Loci Associated with Childhood Obesity_, Human Molecular Genetics, 2019
+
+35.	Warrington MW<sup>$</sup>, Beaumont R<sup>$</sup>, Horikoshi M<sup>$</sup>, Day FR<sup>$</sup>, Helgeland Ø<sup>$</sup>, …, **Vaudel M**, …, Njølstad PR, Johansson S, Ong KK<sup>†</sup>, McCarthy MI<sup>†</sup>, Perry JRB<sup>†</sup>, Evans DM<sup>†,:email:</sup>, Freathy RM<sup>†,:email:</sup>, _Maternal and fetal genetic effects on birth weight and their relevance to cardio-metabolic risk factors_, Nature Genetics, 2019 (biorxiv.org/content/10.1101/442756v1)
+
+34.	Zhang-James Y, **Vaudel M**, Mjaavatten O, Berven FS, Haavik J, Faraone SV, _Effect of disease-associated SLC9A9 mutations on protein-protein interaction networks: implications for molecular mechanisms for ADHD and autism_, ADHD Attention Deficit and Hyperactivity Disorders, 2019. 
+
+33. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. [[bioRxiv](https://doi.org/10.1101/333492)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)] [[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)] `r getUnpayWall(journalDOI = "10.1021/acs.jproteome.8b00464", preprintDOI = "10.1101/333492")`
+
+32. Barsnes H, **Vaudel M**<sup>:email:</sup>, _SearchGUI: A Highly Adaptable Common Interface for Proteomics Search and de Novo Engines_, Journal of Proteome Research, 2018.
+
+31.	Li K, **Vaudel M**, Zhang B, Ren Y, Wen B<sup>:email:</sup>, _PDV: an integrative proteomics data viewer_, Bioinformatics, 2018. 
+
+30. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)] [[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)] `r getUnpayWall(journalDOI = "10.1093/bioinformatics/btx122")`
+
+29.	Berland S, Toft Bertelsen TL, Aukrust I, Byška J, **Vaudel M**, MacAulay N, Houge G<sup>:email:</sup>, _A de novo Ser111Thr in aquaporin-4 in a patient with transient brain edema, transient heart failure, intellectual disability and slowly progressive brain dysfunction_, Molecular Case Studies, 2017. 
+
+28.	Beaumont RN<sup>$</sup>, Warrington NM<sup>$</sup>, …, **Vaudel M**, …, Evans DM<sup>†</sup>, Lawlor DA<sup>†,:email:</sup>, Feenstra B<sup>†,:email:</sup>, Freathy RM<sup>†,:email:</sup>, _Genome-wide association study of offspring birth weight in 86,577 women highlights maternal genetic effects that are independent of fetal genetics_, Human Molecular Genetics, 2017.
+
+27.	Chambers MC, Jagtap PD, Johnson JE, McGowan T, Kumar P, Onsongo G, Guerrero CR, Barnses H, **Vaudel M**, Martens L, Grüning BA, Cooke IR, Heydarian M, Reddy KL, Griffin TJ<sup>:email:</sup>, _An accessible proteogenomics informatics resource for cancer researchers_, Cancer Research, 2017.
+
+26.	Vizcaíno JA, Meyer G, Perkins SR, Barsnes H, **Vaudel M**, Perez-Riverol Y, Terment T, Uszkoreit J, Eineacher M, Fischer L, Rappsilber J, Netz E, Walzer M, Kohlbacher O, Leitner A, Chalkley RJ, Ghali F, Martínez-Bartolomé S, Deutsch EW, Johnes AR<sup>:email:</sup>, _The mzIdentML data standard version 1.2, supporting advances in proteome informatics_, Mol Cell Proteomics, 2017.
+
+25.	Leprevost FdV, Aflitos SA, Grüning BA, Röst HL, Uszkoreit J, Barsnes H, **Vaudel M**, Moreno P, Gatto L, Weber J, Bai M, Jimenez RC, Sachsenberg T, Pfeufferz J, Alvarez RV, Griss J, Nesvizhskii AI, Perez-Riverol Y<sup>:email:</sup>, _BioContainers: An open-source and community-driven framework for software standardization_, Bioinformatics, 2017.
+
+24.	Kroksveen AC<sup>:email:</sup>, Guldbrandsen A, **Vaudel M**, Lereim RR, Barsnes H, Myr KM, Torkildsen Ø, Berven FS<sup>:email:</sup>, _In-Depth Cerebrospinal Fluid Quantitative Proteome and Deglycoproteome Analysis: Presenting a Comprehensive Picture of Pathways and Processes Affected by Multiple Sclerosis_, Journal of Proteome Research, 2017.
+
+23.	Hernandez-Valladares M<sup>$,:email:</sup>, Aasebø E<sup>$</sup>, Mjaavatten O, **Vaudel M**, Bruserud Ø, Berven FS, Selheim F, _Reliable FASP-based procedures for optimal quantitative proteomic and phosphoproteomic analysis on samples from acute myeloid leukemia patients_, Biol Proced Online, 2016.
+
+22.	Aasebø E<sup>$</sup>, Mjaavatten O, **Vaudel M**, Farag Y, Selheim F, Berven FS, Bruserud Ø, Hernandez-Valladares M<sup>$,:email:</sup>, _Freezing effects on the acute myeloid leukemia cell proteome and phosphoproteome revealed using optimal quantitative workflows_, Journal of Proteomics, 2016.
+
+21.	Opsahl JA, **Vaudel M**, Guldbrandsen A, Aasebø E, Van Pesch V, Franciotta D, Myhr KM, Barsnes H, Berle M, Torkildsen Ø, Kroksveen AC, Berven FS<sup>:email:</sup>, _Label free analysis of human cerebrospinal fluid addressing various normalization strategies and revealing protein groups affected by multiple sclerosis_, Proteomics, 2016.
+
+20. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)] [[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)] `r getUnpayWall(journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
+
+19. Verheggen K, Maddelein D, Hulstaert N, Martens L<sup>:email:</sup>, Barsnes H, Vaudel M, _Pladipus enables universal distributed computing in proteomics bioinformatics_, Journal of Proteome Research, 2015. 
+
+18.	Barsnes H<sup>:email:</sup>, **Vaudel M**, Martens L, _JSparklines: Making tabular proteomics data come alive_, Proteomics, 2015.
+
+17.	Bjørlykke Y, Vethe H, **Vaudel M**, Barsnes H, Berven FS, Tjora E, Raeder H<sup>:email:</sup>, _Carboxyl-Ester Lipase Maturity-Onset Diabetes of the Young Disease Protein Biomarkers in Secretin-Stimulated Duodenal Juice_, Journal of Proteome Research, 2015.
+
+16.	Muth T<sup>$</sup>, Weilnböck L<sup>$</sup>, Rapp E, Huber CG, Martens L, Vaudel M<sup>:email:</sup>, Barsnes H, _DeNovoGUI: an open source graphical user interface for de novo sequencing of tandem mass spectra_, Journal of Proteome Research, 2014.
+
+15.	Helgeland E, Breivik LE, **Vaudel M**, Svendsen OS, Garberg H, Nordrehaug JE, Berven FS, Jonassen AK<sup>:email:</sup>, _Exploring the human plasma proteome for humoral mediators of remote ischemic preconditioning - a word of caution_, PLoS One, 2014. 
+
+14.	Vethe H, Finne K, Skogstrand T, **Vaudel M**, Vikse BE, Hultström M, Placier S, Scherer A, Tenstad O, Marti HP<sup>:email:</sup>, _Distinct protein signature of hypertension-induced damage in the renal proteome of the two-kidney, one-clip rat model_, Journal of Hypertension, 2015. 
+
+13.	Aasebø E, **Vaudel M**, Mjaavatten O, Gaudsdal G, Van der Burgh A, Gjertsen BT, Døskeland SO, Brusserud O, Berven FS, Selheim F<sup>:email:</sup>, _Performance of super-SILAC based quantitative proteomics for comparison of different acute myeloid leukemia (AML) cell lines_, Proteomics, 2014.
+
+12.	**Vaudel M**, Venne S, Berven FS, Zahedi RP, Martens L, Barsnes H<sup>:email:</sup>, _Shedding light on black boxes in protein identification_, Proteomics, 2014.
+
+11.	Beck F, Geiger J, Gambaryan S, Veit J, **Vaudel M**, Nollau P, Kohlbacher O, Martens L, Walter U, Sickmann A<sup>:email:</sup>, Zahedi RP<sup>:email:</sup>, _Time-resolved characterization of cAMP/PKA-dependent signaling reveals that platelet inhibition is a concerted process involving multiple signaling pathways_, Blood, 2014.
+
+10.	**Vaudel M**, Breiter D, Beck F, Rahnenführer J, Martens L<sup>:email:</sup>, Zahedi RP, _D-score: a search engine independent MD-score_, Proteomics, 2013.
+
+9.	Burkhart JM<sup>$</sup>, Vaudel M<sup>$</sup>, Gambaryan S, Radau S, Walter U, Martens L, Geiger J<sup>:email:</sup>, Sickmann A, and Zahedi RP<sup>:email:</sup>, _The first comprehensive and quantitative analysis of human platelet protein composition allows the comparative analysis of structural and functional pathways in human platelets_, Blood, 2012.
+
+8.	**Vaudel M**<sup>$</sup>, Burkhart JM<sup>$</sup>, Radau S, Zahedi RP, Martens L<sup>:email:</sup>, Sickmann A, _Integral Quantification Accuracy estimation for Reporter Ion based quantitative proteomics (iQuARI)_, Journal of Proteome Research, 2012.
+
+7. **Vaudel M**<sup>$</sup>, Burkhart JM<sup>$</sup>, Breiter D, Zahedi RP, Sickmann A<sup>:email:</sup>, Martens L, _A complex standard for protein identification, designed by evolution_, Journal of Proteome Research, 2012.
+
+6.	Vaudel M<sup>$</sup>, Barsnes H<sup>$,:email:</sup>, Berven FS, Sickmann A, Martens L, _SearchGUI: an open-source graphical user interface for simultaneous OMSSA and X!Tandem searches_, Proteomics, 2011.
+
+5.	Colaert N, Barsnes H, **Vaudel M**, Helsens K, Timmerman E, Sickmann A, Gevaert K, Martens L<sup>:email:</sup>, _Thermo-msf-parser: an open source Java library to parse and visualize Thermo Proteome Discoverer msf files_, Journal of Proteome Research, 2011.
+
+4.	**Vaudel M**<sup>$</sup>, Burkhart JM<sup>$</sup>, Sickmann A, Martens L<sup>:email:</sup>, Zahedi RP, _Peptide identification quality control_, Proteomics, 2011.
+
+3.	Barsnes H, **Vaudel M**, Colaert N, Helsens K, Sickmann A, Berven FS, Martens L<sup>:email:</sup>, _compomics-utilities: an open-source Java library for computational proteomics_, BMC Bioinformatics, 2011.
+
+2.	Burkhart JM<sup>$</sup>, **Vaudel M**<sup>$</sup>, Zahedi RP, Martens L, Sickmann A<sup>:email:</sup>, _iTRAQ protein quantification: a quality-controlled workflow_, Proteomics, 2011.
+
+1.	Muth T, **Vaudel M**, Barsnes H, Martens L<sup>:email:</sup>, Sickmann A, _XTandem Parser: An open-source library to parse and analyse X!Tandem MS/MS search results_, Proteomics, 2010. 
+
+<br>
+
+# Reviews
+
 (Coming soon!)
+<br>
+
+# Book Chapters
+
+(Coming soon!)
+<br>
+
+# Outreach - Proceeding
+
+(Coming soon!)
+<br>
+
+# PhD thesis
+
+_Detailed analysis of the blood platelet proteome through the use of innovative bioinformatics methods for protein identification, quantification and post-translational modification localization._ [link](hdl.handle.net/1854/LU-3076565) 
 <br>
 
 # About
