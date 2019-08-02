@@ -22,7 +22,8 @@ August 2019. Citation metrics as obtained from the NIH
     GigaScience, 2019. \[[bioRxiv](https://doi.org/10.1101/375097)\]
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)\]
     \[[doi: 10.1093/gigascience/giz088](https://doi.org/10.1093/gigascience/giz088)\]
-    \[[Unpaywall](https://academic.oup.com/gigascience/article-pdf/8/8/giz088/29020604/giz088.pdf)\]
+    \[[pdf
+    (Unpaywall)](https://academic.oup.com/gigascience/article-pdf/8/8/giz088/29020604/giz088.pdf)\]
 
 <table>
 
@@ -61,8 +62,8 @@ biological networks.</sub>* <br>
     association study reveals a dynamic role of common genetic variation
     in infant and early childhood growth*, Nature Communications,
     *Accepted*. \[[bioRxiv](https://doi.org/10.1101/478255)\] \[PubMed\]
-    \[[doi: 10.1101/478255](https://doi.org/10.1101/478255)\]
-    \[[Unpaywall](https://www.biorxiv.org/content/biorxiv/early/2018/11/25/478255.full.pdf)\]
+    \[[doi: 10.1101/478255](https://doi.org/10.1101/478255)\] \[[pdf
+    (Unpaywall)](https://www.biorxiv.org/content/biorxiv/early/2018/11/25/478255.full.pdf)\]
 
 <table>
 
@@ -102,7 +103,8 @@ scratch.</sub>* <br>
     \[[bioRxiv](https://doi.org/10.1101/333492)\]
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)\]
     \[[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)\]
-    \[[Unpaywall](https://www.biorxiv.org/content/biorxiv/early/2018/05/30/333492.full.pdf)\]
+    \[[pdf
+    (Unpaywall)](https://www.biorxiv.org/content/biorxiv/early/2018/05/30/333492.full.pdf)\]
 
 <table>
 
@@ -135,7 +137,8 @@ affect the interpretation of biomedical (proteomics) data?</sub>* <br>
     Bioinformatics, 2017. \[bioRxiv\]
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)\]
     \[[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)\]
-    \[[Unpaywall](https://academic.oup.com/bioinformatics/article-pdf/33/13/2042/25155905/btx122.pdf)\]
+    \[[pdf
+    (Unpaywall)](https://academic.oup.com/bioinformatics/article-pdf/33/13/2042/25155905/btx122.pdf)\]
 
 <table>
 
@@ -169,7 +172,8 @@ modifications and sequence variants during mapping.</sub>* <br>
     Biotechnology, 2015. \[bioRxiv\]
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)\]
     \[[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)\] \[No
-    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
+    Open Access found [Request a
+reprint](mailto:marc.vaudel@uib.no)\]
 
 <table>
 
@@ -177,17 +181,20 @@ modifications and sequence variants during mapping.</sub>* <br>
 
 <td width="150">
 
-![PeptideMapper](docs/figures/PeptideMapper.png?raw=true
-"PeptideMapper")
+![PeptideShaker](docs/figures/SearchGUI_and_PS-overview-figure.png?raw=true
+"PeptideShaker")
 
 </td>
 
 <td>
 
-*<sub>PeptideMapper is an efficient sequence alignment tool for
-proteomics. Sequences can be partial with missing sections represented
-as mass gaps or wild cards. It accounts for post-translational
-modifications and sequence variants during mapping.</sub>* <br>
+*<sub>PeptideShaker is a bioinformatic tools that processes proteomics
+identification results. It has both rich graphical and command line
+interfaces and can operate on in-house data just like on public
+proteomics data from the [EMBL-EBI
+PRIDE](https://www.ebi.ac.uk/pride/archive/) repository. It can handle
+results from database searches as well as *de novo* sequencing, with
+support for sequence variants.</sub>* <br>
 
 </td>
 
@@ -198,6 +205,8 @@ modifications and sequence variants during mapping.</sub>* <br>
 <br>
 
 # Original Articles
+
+(Coming soon\!)
 
 # About
 

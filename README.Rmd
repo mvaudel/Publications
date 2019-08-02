@@ -38,7 +38,7 @@ getUnpayWall <- function(journalDOI, preprintDOI) {
         
         pdfUrl <- result$best_oa_location[[1]]$url_for_pdf
         
-        return(paste0("[[Unpaywall](", pdfUrl, ")]"))
+        return(paste0("[[pdf (Unpaywall)](", pdfUrl, ")]"))
         
     } else {
         
@@ -127,10 +127,10 @@ _<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequ
 <table>
 <tr>
 <td width="150">
-![PeptideMapper](docs/figures/PeptideMapper.png?raw=true "PeptideMapper")
+![PeptideShaker](docs/figures/SearchGUI_and_PS-overview-figure.png?raw=true "PeptideShaker")
 </td>
 <td>
-_<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequences can be partial with missing sections represented as mass gaps or wild cards. It accounts for post-translational modifications and sequence variants during mapping.</sub>_
+_<sub>PeptideShaker is a bioinformatic tools that processes proteomics identification results. It has both rich graphical and command line interfaces and can operate on in-house data just like on public proteomics data from the [EMBL-EBI PRIDE](https://www.ebi.ac.uk/pride/archive/) repository. It can handle results from database searches as well as _de novo_ sequencing, with support for sequence variants.</sub>_
 <br>
 </td>
 </tr>
@@ -139,13 +139,15 @@ _<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequ
 
 # Original Articles
 
-
+(Coming soon!)
+<br>
 
 # About
 
 This document was generated from this [Rmd](README.Rmd). [Unpaywall](unpaywall.org) was queried using the [roadoi](https://cran.r-project.org/web/packages/roadoi/vignettes/intro.html) package.
 
 For personal use only, no copyright infringement intended.
+<br>
 
 
 ## R Session Info
