@@ -63,6 +63,7 @@ biological networks.</sub>* <br>
     *Accepted*. \[[bioRxiv](https://doi.org/10.1101/478255)\] \[PubMed\]
     \[[doi: 10.1101/478255](https://doi.org/10.1101/478255)\] \[[pdf
     (preprint)](https://www.biorxiv.org/content/biorxiv/early/2018/11/25/478255.full.pdf)\]
+    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
 
 <table>
 
@@ -104,6 +105,7 @@ scratch.</sub>* <br>
     \[[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)\]
     \[[pdf
     (preprint)](https://www.biorxiv.org/content/biorxiv/early/2018/05/30/333492.full.pdf)\]
+    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
 
 <table>
 
@@ -171,7 +173,8 @@ modifications and sequence variants during mapping.</sub>* <br>
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)\]
     \[[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)\] \[[pdf
     (post-peer-review, pre-copyedit
-    version)](docs/aam/peptideshaker_submitted.pdf)\]
+    version)](docs/aam/peptideshaker_submitted.pdf)\] \[[Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
 
 <table>
 

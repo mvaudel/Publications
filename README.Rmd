@@ -43,7 +43,7 @@ getUnpayWall <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
             
             pdfUrl <- result$best_oa_location[[1]]$url_for_pdf
             
-            return(paste0("[[pdf (preprint)](", pdfUrl, ")]"))
+            return(paste0("[[pdf (preprint)](", pdfUrl, ")] [[Request a reprint](mailto:marc.vaudel@uib.no)]"))
             
         }
         
@@ -51,7 +51,7 @@ getUnpayWall <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
     
     if (!is.null(aam)) {
         
-        return(paste0("[[pdf (post-peer-review, pre-copyedit version)](", aam, ")]"))
+        return(paste0("[[pdf (post-peer-review, pre-copyedit version)](", aam, ")] [[Request a reprint](mailto:marc.vaudel@uib.no)]"))
         
     }
     
