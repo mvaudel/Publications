@@ -14,7 +14,7 @@ no copyright infringement intended.
 
 # Five highlighted original articles
 
-<font size="7">1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A,
+<font size="+1">1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A,
 Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**:email:,
 *PathwayMatcher: proteoform-centric network construction enables
 fine-granularity multi-omics pathway mapping*, GigaScience, 2019.
@@ -27,7 +27,7 @@ fine-granularity multi-omics pathway mapping*, GigaScience, 2019.
 
 <tr>
 
-<td width="100">
+<td width="150">
 
 ![PathwayMatcher](docs/figures/PathwayMatcher.png?raw=true
 "PathwayMatcher")
@@ -65,7 +65,7 @@ biological networks.*
 
 <tr>
 
-<td width="100">
+<td width="150">
 
 ![MH time lapse](docs/figures/mh_time-lapse.gif?raw=true
 "MH time lapse")
