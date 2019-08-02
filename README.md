@@ -23,19 +23,9 @@ no copyright infringement intended.
     \[[GigaScience](https://doi.org/10.1093/gigascience/giz088)\]
     \[[pdf](docs/pdf/giz088.pdf)\]
 
-| |  
-<img src="docs/figures/PathwayMatcher.png" width="100" height="100" /> |
-*In this manuscript, we describe a bioinformatic tool that can build
-biological networks of different levels of granularity using the
-[Reactome](reactome.org) pathway database, and map different types of
-omics data to it. Notably, it can build a network to the level of
-[proteoforms](https://www.nature.com/articles/nmeth.2369), where genes
-and proteins are separated according to their post-translational state.
-Hence, interactions are more specific, and interactions between
-different forms of the same proteins become visible as connections
-between different nodes, thus providing a new dimension to study
-biological networks.*
-|
+|                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="docs/figures/PathwayMatcher.png" width="100" height="100" /> | *In this manuscript, we describe a bioinformatic tool that can build biological networks of different levels of granularity using the [Reactome](reactome.org) pathway database, and map different types of omics data to it. Notably, it can build a network to the level of [proteoforms](https://www.nature.com/articles/nmeth.2369), where genes and proteins are separated according to their post-translational state. Hence, interactions are more specific, and interactions between different forms of the same proteins become visible as connections between different nodes, thus providing a new dimension to study biological networks.* |
 
 #### 2\. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S†:email:, Njølstad PR†:email:, *Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth*, Nature Communications, Accepted. \[[bioRxiv](https://doi.org/10.1101/478255)\] \[PubMed\] \[[Nature Communications](https://go.nature.com/2VeBDRa)\] \[[pdf](docs/pdf/478255.full.pdf)\]
 
