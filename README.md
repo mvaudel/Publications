@@ -65,7 +65,7 @@ biological networks.
     S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, *Genome-wide
     association study reveals a dynamic role of common genetic variation
     in infant and early childhood growth*, Nature Communications,
-    Accepted. \[[bioRxiv](https://doi.org/10.1101/478255)\] \[PubMed\]
+    *Accepted*. \[[bioRxiv](https://doi.org/10.1101/478255)\] \[PubMed\]
     \[[Nature Communications](https://go.nature.com/2VeBDRa)\]
     \[[pdf](docs/pdf/478255.full.pdf)\]
 
@@ -80,15 +80,7 @@ biological networks.
 
 </td>
 
-<td style="color:blue">
-
-The association between genetic variation and phenotypes, *e.g.* with
-the Body Mass Index (BMI), is often presented as static, yet it changes
-over the course of life. Here we present genome-wide association results
-during the first years of life, from birth to age 8, making possibly one
-of the first genetic time lapse. It represents 12 GWASs on the [MoBa
-cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/),
-for which we bust a complete bioinformatic environment from scratch.
+###### The association between genetic variation and phenotypes, *e.g.* with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we bust a complete bioinformatic environment from scratch.
 
 </td>
 
@@ -118,12 +110,12 @@ for which we bust a complete bioinformatic environment from scratch.
 
 </td>
 
-<td>
+<td color="red">
 
-<font color="red"> An analysis of the knowledge consolidated in the
-[Reactome](reactome.org) pathway database. How are biochemical pathways
-modelled? What is the current extent of our knowledge? How does this
-affect the interpretation of biomedical (proteomics) data? </font>
+> An analysis of the knowledge consolidated in the
+> [Reactome](reactome.org) pathway database. How are biochemical
+> pathways modelled? What is the current extent of our knowledge? How
+> does this affect the interpretation of biomedical (proteomics) data?
 
 </td>
 
