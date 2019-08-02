@@ -38,9 +38,16 @@ no copyright infringement intended.
 
 <td>
 
-###### *In this manuscript, we describe a bioinformatic tool that can build biological networks of different levels of granularity using the [Reactome](reactome.org) pathway database, and map different types of omics data to it. Notably, it can build a network to the level of [proteoforms](https://www.nature.com/articles/nmeth.2369), where genes and proteins are separated according to their post-translational state. Hence, interactions are more specific, and interactions between different forms of the same proteins become visible as connections between different nodes, thus providing a new dimension to study biological networks.*
-
-<br>
+*<sub>In this manuscript, we describe a bioinformatic tool that can
+build biological networks of different levels of granularity using the
+[Reactome](reactome.org) pathway database, and map different types of
+omics data to it. Notably, it can build a network to the level of
+[proteoforms](https://www.nature.com/articles/nmeth.2369), where genes
+and proteins are separated according to their post-translational state.
+Hence, interactions are more specific, and interactions between
+different forms of the same proteins become visible as connections
+between different nodes, thus providing a new dimension to study
+biological networks.</sub>* <br>
 
 </td>
 
@@ -71,9 +78,15 @@ no copyright infringement intended.
 
 <td>
 
-###### *The association between genetic variation and phenotypes, *e.g.* with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we bust a complete bioinformatic environment from scratch.*
-
-<br>
+*<sub>The association between genetic variation and phenotypes, *e.g.*
+with the Body Mass Index (BMI), is often presented as static, yet it
+changes over the course of life. Here we present genome-wide association
+results during the first years of life, from birth to age 8, making
+possibly one of the first genetic time lapse. It represents 12 GWASs on
+the [MoBa
+cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/),
+for which we bust a complete bioinformatic environment from
+scratch.</sub>* <br>
 
 </td>
 
@@ -99,16 +112,16 @@ no copyright infringement intended.
 
 <td width="150">
 
-![Pathways](docs/figures/TOC_bram.png?raw=true
-"Pathways")
+![Pathways](docs/figures/TOC_bram.png?raw=true "Pathways")
 
 </td>
 
 <td>
 
-###### *<sub>An analysis of the knowledge consolidated in the [Reactome](reactome.org) pathway database. How are biochemical pathways modelled? What is the current extent of our knowledge? How does this affect the interpretation of biomedical (proteomics) data?</sub>*
-
-<br>
+*<sub>An analysis of the knowledge consolidated in the
+[Reactome](reactome.org) pathway database. How are biochemical pathways
+modelled? What is the current extent of our knowledge? How does this
+affect the interpretation of biomedical (proteomics) data?</sub>* <br>
 
 </td>
 
