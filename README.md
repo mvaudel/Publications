@@ -14,7 +14,7 @@ no copyright infringement intended.
 
 # Five highlighted original articles
 
-<font size="15">1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A,
+<font size="5">1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A,
 Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**:email:,
 *PathwayMatcher: proteoform-centric network construction enables
 fine-granularity multi-omics pathway mapping*, GigaScience, 2019.
@@ -27,7 +27,7 @@ fine-granularity multi-omics pathway mapping*, GigaScience, 2019.
 
 <tr>
 
-<td>
+<td width="500">
 
 ![PathwayMatcher](docs/figures/PathwayMatcher.png?raw=true
 "PathwayMatcher")
@@ -57,7 +57,7 @@ biological networks.*
 
 <tr>
 
-<td>
+<td width="500">
 
 <img src="docs/figures/PathwayMatcher.png" width="500" />
 
@@ -86,7 +86,7 @@ biological networks.*
 
 <tr>
 
-<td>
+<td width="500">
 
 <img src="docs/figures/PathwayMatcher.png" width="600" />
 
@@ -123,7 +123,7 @@ biological networks.*
 
 <tr>
 
-<td>
+<td width="500">
 
 ![MH time lapse](docs/figures/mh_time-lapse.gif?raw=true
 "MH time lapse")
@@ -150,7 +150,7 @@ for which we bust a complete bioinformatic environment from scratch.*
 
 <tr>
 
-<td>
+<td width="500">
 
 <img src="docs/figures/mh_time-lapse.gif" width="500" />
 
@@ -176,7 +176,7 @@ for which we bust a complete bioinformatic environment from scratch.*
 
 <tr>
 
-<td>
+<td width="500">
 
 <img src="docs/figures/mh_time-lapse.gif" width="600" />
 
