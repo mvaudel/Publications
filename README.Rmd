@@ -16,9 +16,74 @@ library(roadoi)
 
 ```{r functions, warning=FALSE, results='hide', message=FALSE, echo=FALSE}
 
-getUnpayWall <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
+
+#' Returns a string containing the link to the preprint, empty if null.
+#' 
+#' @param preprintDOI the preprint DOI
+#' 
+#' @return a string containing the link to the preprint, empty if null.
+getPreprintLink <- function(preprintDOI = NULL) {
     
-    result <- NULL 
+    if (!is.null(preprintDOI)) {
+        
+        return(paste0("[[Preprint](https://doi.org/", preprintDOI, ")]"))
+        
+    } else {
+        
+        return("")
+        
+    }
+}
+
+#' Returns a string containing the link to PubMed
+#' 
+#' @param pmid the pubmed id
+#' 
+#' @return a string containing the link to PubMed
+getPubmedLink <- function(pmid = NULL) {
+    
+    if (is.null(pmid)) {
+        
+        return("[PubMed]")
+        
+    } else {
+        
+        return(paste0("[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/", pmid, ")]"))
+        
+    }
+}
+
+#' Returns a string containing the DOI link
+#' 
+#' @param journalDOI the journal DOI
+#' @param preprintDOI the preprint DOI
+#' 
+#' @return a string containing the DOI link
+getDoiLink <- function(journalDOI = NULL, preprintDOI = NULL) {
+    
+    if (!is.null(journalDOI)) {
+        
+        return(paste0("[[doi: ", journalDOI, "](https://doi.org/", journalDOI, ")]"))
+        
+    } else if (!is.null(preprintDOI)) {
+        
+        return(paste0("[[doi: ", preprintDOI, "](https://doi.org/", preprintDOI, ")]"))
+        
+    } else {
+        
+        return("[no DOI yet]")
+        
+    }
+}
+
+#' Returns a string containing the link to pdf.
+#' 
+#' @param journalDOI the journal DOI
+#' @param preprintDOI the preprint DOI
+#' @param aam the path to the AAM
+#' 
+#' @return a string containing the link to pdf
+getPdfLink <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
     
     if (!is.null(journalDOI)) {
         
@@ -60,6 +125,37 @@ getUnpayWall <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
     
 }
 
+#' Returns a string containing the links
+#' 
+#' @param pmid the pubmed id
+#' @param journalDOI the journal DOI
+#' @param preprintDOI the preprint DOI
+#' @param aam the path to the AAM
+#' 
+#' @return a string containing the DOI link
+getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
+    
+    return(
+        paste(
+            getPreprintLink(
+                preprintDOI = preprintDOI
+                ),
+            getDoiLink(
+                journalDOI = journalDOI, 
+                preprintDOI = preprintDOI
+                ),
+            getPdfLink(
+                journalDOI = journalDOI,
+                preprintDOI = preprintDOI,
+                aam = aam
+            )
+        )
+    )
+    
+}
+
+
+
 ```
 
 
@@ -71,7 +167,7 @@ This repository lists the scientific publications I co-authored as of 1 August 2
 
 # Five highlighted original articles
 
-1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. [[bioRxiv](https://doi.org/10.1101/375097)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)] [[doi: 10.1093/gigascience/giz088](https://doi.org/10.1093/gigascience/giz088)] `r getUnpayWall(journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
+1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
 <table>
 <tr>
@@ -87,7 +183,7 @@ _<sub>PathwayMatcher can build biological networks of different levels of granul
 <br>
 
 
-2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. [[bioRxiv](https://doi.org/10.1101/478255)] [PubMed] [[doi: 10.1101/478255](https://doi.org/10.1101/478255)] `r getUnpayWall(preprintDOI = "10.1101/478255")`
+2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. `r getLinks(preprintDOI = "10.1101/478255")`
 
 <table>
 <tr>
@@ -103,7 +199,7 @@ _<sub>The association between genetic variation and phenotypes, _e.g._ with the 
 <br>
 
 
-3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. [[bioRxiv](https://doi.org/10.1101/333492)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)] [[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)] `r getUnpayWall(journalDOI = "10.1021/acs.jproteome.8b00464", preprintDOI = "10.1101/333492")`
+3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. `r getLinks(pmid = "30251541", journalDOI = "10.1021/acs.jproteome.8b00464", preprintDOI = "10.1101/333492")`
 
 <table>
 <tr>
@@ -119,7 +215,7 @@ _<sub>An analysis of the knowledge consolidated in the [Reactome](reactome.org) 
 <br>
 
 
-4. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)] [[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)] `r getUnpayWall(journalDOI = "10.1093/bioinformatics/btx122")`
+4. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. `r getLinks(pmid = "28334306", journalDOI = "10.1093/bioinformatics/btx122")`
 
 <table>
 <tr>
@@ -135,7 +231,7 @@ _<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequ
 <br>
 
 
-5. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)] [[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)] `r getUnpayWall(journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
+5. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. `r getLinks(pmid = "25574629", journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
 
 <table>
 <tr>
@@ -154,9 +250,9 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 (Work in progress)
 
-38. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. [[bioRxiv](https://doi.org/10.1101/375097)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)] [[doi: 10.1093/gigascience/giz088](https://doi.org/10.1093/gigascience/giz088)] `r getUnpayWall(journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
+38. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. [[bioRxiv](https://doi.org/10.1101/375097)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31363752)] [[doi: 10.1093/gigascience/giz088](https://doi.org/10.1093/gigascience/giz088)] `r getPdfLink(journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
-37. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. [[bioRxiv](https://doi.org/10.1101/478255)] [PubMed] [[doi: 10.1101/478255](https://doi.org/10.1101/478255)] `r getUnpayWall(preprintDOI = "10.1101/478255")`
+37. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. [[bioRxiv](https://doi.org/10.1101/478255)] [PubMed] [[doi: 10.1101/478255](https://doi.org/10.1101/478255)] `r getPdfLink(preprintDOI = "10.1101/478255")`
 
 36.	Bradfield JP<sup>$</sup>, Vogelezang S<sup>$</sup>, …, **Vaudel M**, …, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†,:email:</sup>, _A Trans-ancestral Meta-Analysis of Genome-Wide Association Studies Reveals Loci Associated with Childhood Obesity_, Human Molecular Genetics, 2019
 
@@ -164,13 +260,13 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 34.	Zhang-James Y, **Vaudel M**, Mjaavatten O, Berven FS, Haavik J, Faraone SV, _Effect of disease-associated SLC9A9 mutations on protein-protein interaction networks: implications for molecular mechanisms for ADHD and autism_, ADHD Attention Deficit and Hyperactivity Disorders, 2019. 
 
-33. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. [[bioRxiv](https://doi.org/10.1101/333492)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)] [[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)] `r getUnpayWall(journalDOI = "10.1021/acs.jproteome.8b00464", preprintDOI = "10.1101/333492")`
+33. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. [[bioRxiv](https://doi.org/10.1101/333492)] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)] [[doi: 10.1021/acs.jproteome.8b00464](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00464)] `r getPdfLink(journalDOI = "10.1021/acs.jproteome.8b00464", preprintDOI = "10.1101/333492")`
 
 32. Barsnes H, **Vaudel M**<sup>:email:</sup>, _SearchGUI: A Highly Adaptable Common Interface for Proteomics Search and de Novo Engines_, Journal of Proteome Research, 2018.
 
 31.	Li K, **Vaudel M**, Zhang B, Ren Y, Wen B<sup>:email:</sup>, _PDV: an integrative proteomics data viewer_, Bioinformatics, 2018. 
 
-30. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)] [[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)] `r getUnpayWall(journalDOI = "10.1093/bioinformatics/btx122")`
+30. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)] [[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)] `r getPdfLink(journalDOI = "10.1093/bioinformatics/btx122")`
 
 29.	Berland S, Toft Bertelsen TL, Aukrust I, Byška J, **Vaudel M**, MacAulay N, Houge G<sup>:email:</sup>, _A de novo Ser111Thr in aquaporin-4 in a patient with transient brain edema, transient heart failure, intellectual disability and slowly progressive brain dysfunction_, Molecular Case Studies, 2017. 
 
@@ -190,7 +286,7 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 21.	Opsahl JA, **Vaudel M**, Guldbrandsen A, Aasebø E, Van Pesch V, Franciotta D, Myhr KM, Barsnes H, Berle M, Torkildsen Ø, Kroksveen AC, Berven FS<sup>:email:</sup>, _Label free analysis of human cerebrospinal fluid addressing various normalization strategies and revealing protein groups affected by multiple sclerosis_, Proteomics, 2016.
 
-20. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)] [[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)] `r getUnpayWall(journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
+20. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. [bioRxiv] [[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)] [[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)] `r getPdfLink(journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
 
 19. Verheggen K, Maddelein D, Hulstaert N, Martens L<sup>:email:</sup>, Barsnes H, Vaudel M, _Pladipus enables universal distributed computing in proteomics bioinformatics_, Journal of Proteome Research, 2015. 
 
