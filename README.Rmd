@@ -163,7 +163,7 @@ This repository lists the scientific publications I co-authored as of 1 August 2
 
 <br>
 
-> <sup>*</sup> shared first, <sup>:email:</sup> corresponding authorship, <sup>†</sup> shared last. 
+> <sup>*</sup> shared first, <sup>:email:</sup> correspondence, <sup>†</sup> shared last. 
 
 # Five highlighted original articles
 

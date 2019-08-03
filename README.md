@@ -10,8 +10,8 @@ August 2019. Citation metrics as obtained from the NIH
 
 <br>
 
-> <sup>\*</sup> shared first, <sup>:email:</sup> corresponding
-> authorship, <sup>†</sup> shared last.
+> <sup>\*</sup> shared first, <sup>:email:</sup> correspondence,
+> <sup>†</sup> shared last.
 
 # Five highlighted original articles
 
