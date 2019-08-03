@@ -8,10 +8,10 @@ August 2019. Citation metrics as obtained from the NIH
 [iCite](icite.od.nih.gov) are available
 [here](docs/icite/icite_report_01.08.2019.xlsx).
 
+<br>
+
 > <sup>\*</sup> shared first, <sup>:email:</sup> corresponding
 > authorship, <sup>†</sup> shared last.
-
-<br>
 
 # Five highlighted original articles
 
