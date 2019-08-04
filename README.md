@@ -393,7 +393,7 @@ support for sequence variants.</sub>* <br>
     Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
 
 23. Muth T<sup>1</sup>, Weilnböck L<sup>1</sup>, Rapp E, Huber CG,
-    Martens L, Vaudel M<sup>:email:</sup>, Barsnes H, *DeNovoGUI: an
+    Martens L, **Vaudel M**<sup>:email:</sup>, Barsnes H, *DeNovoGUI: an
     open source graphical user interface for de novo sequencing of
     tandem mass spectra*, Journal of Proteome Research, 2014.
     \[[doi: 10.1021/pr4008078](https://doi.org/10.1021/pr4008078)\]
@@ -447,9 +447,9 @@ support for sequence variants.</sub>* <br>
     version)](docs/aam/D-score%20revised%20version.pdf)\] \[[Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
-30. Burkhart JM<sup>1</sup>, Vaudel M<sup>1</sup>, Gambaryan S, Radau S,
-    Walter U, Martens L, Geiger J<sup>:email:</sup>, Sickmann A, and
-    Zahedi RP<sup>:email:</sup>, *The first comprehensive and
+30. Burkhart JM<sup>1</sup>, **Vaudel M**<sup>1</sup>, Gambaryan S,
+    Radau S, Walter U, Martens L, Geiger J<sup>:email:</sup>, Sickmann
+    A, and Zahedi RP<sup>:email:</sup>, *The first comprehensive and
     quantitative analysis of human platelet protein composition allows
     the comparative analysis of structural and functional pathways in
     human platelets*, Blood, 2012.
@@ -471,7 +471,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1021/pr300055q](https://doi.org/10.1021/pr300055q)\] \[No
     Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
 
-33. Vaudel M<sup>1</sup>, Barsnes H<sup>1,:email:</sup>, Berven FS,
+33. **Vaudel M**<sup>1</sup>, Barsnes H<sup>1,:email:</sup>, Berven FS,
     Sickmann A, Martens L, *SearchGUI: an open-source graphical user
     interface for simultaneous OMSSA and X\!Tandem searches*,
     Proteomics, 2011.

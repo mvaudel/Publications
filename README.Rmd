@@ -299,7 +299,7 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 1. Bjørlykke Y, Vethe H, **Vaudel M**, Barsnes H, Berven FS, Tjora E, Raeder H<sup>:email:</sup>, _Carboxyl-Ester Lipase Maturity-Onset Diabetes of the Young Disease Protein Biomarkers in Secretin-Stimulated Duodenal Juice_, Journal of Proteome Research, 2015. `r getLinks(pmid = "25369532", journalDOI = "10.1021/pr500750z")`
 
-1. Muth T<sup>1</sup>, Weilnböck L<sup>1</sup>, Rapp E, Huber CG, Martens L, Vaudel M<sup>:email:</sup>, Barsnes H, _DeNovoGUI: an open source graphical user interface for de novo sequencing of tandem mass spectra_, Journal of Proteome Research, 2014. `r getLinks(pmid = "24295440", journalDOI = "10.1021/pr4008078")`
+1. Muth T<sup>1</sup>, Weilnböck L<sup>1</sup>, Rapp E, Huber CG, Martens L, **Vaudel M**<sup>:email:</sup>, Barsnes H, _DeNovoGUI: an open source graphical user interface for de novo sequencing of tandem mass spectra_, Journal of Proteome Research, 2014. `r getLinks(pmid = "24295440", journalDOI = "10.1021/pr4008078")`
 
 1. Helgeland E, Breivik LE, **Vaudel M**, Svendsen OS, Garberg H, Nordrehaug JE, Berven FS, Jonassen AK<sup>:email:</sup>, _Exploring the human plasma proteome for humoral mediators of remote ischemic preconditioning - a word of caution_, PLoS One, 2014. `r getLinks(pmid = "25333471", journalDOI = "10.1371/journal.pone.0109279")`
 
@@ -313,13 +313,13 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 1. **Vaudel M**, Breiter D, Beck F, Rahnenführer J, Martens L<sup>:email:</sup>, Zahedi RP, _D-score: a search engine independent MD-score_, Proteomics, 2013. `r getLinks(pmid = "23307401", journalDOI = "10.1002/pmic.201200408", aam = "docs/aam/D-score revised version.pdf")`
 
-1. Burkhart JM<sup>1</sup>, Vaudel M<sup>1</sup>, Gambaryan S, Radau S, Walter U, Martens L, Geiger J<sup>:email:</sup>, Sickmann A, and Zahedi RP<sup>:email:</sup>, _The first comprehensive and quantitative analysis of human platelet protein composition allows the comparative analysis of structural and functional pathways in human platelets_, Blood, 2012. `r getLinks(pmid = "22869793", journalDOI = "10.1182/blood-2012-04-416594")`
+1. Burkhart JM<sup>1</sup>, **Vaudel M**<sup>1</sup>, Gambaryan S, Radau S, Walter U, Martens L, Geiger J<sup>:email:</sup>, Sickmann A, and Zahedi RP<sup>:email:</sup>, _The first comprehensive and quantitative analysis of human platelet protein composition allows the comparative analysis of structural and functional pathways in human platelets_, Blood, 2012. `r getLinks(pmid = "22869793", journalDOI = "10.1182/blood-2012-04-416594")`
 
 1. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Radau S, Zahedi RP, Martens L<sup>:email:</sup>, Sickmann A, _Integral Quantification Accuracy estimation for Reporter Ion based quantitative proteomics (iQuARI)_, Journal of Proteome Research, 2012. `r getLinks(pmid = "22874012", journalDOI = "10.1021/pr300247u")`
 
 1. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Breiter D, Zahedi RP, Sickmann A<sup>:email:</sup>, Martens L, _A complex standard for protein identification, designed by evolution_, Journal of Proteome Research, 2012. `r getLinks(pmid = "22489649", journalDOI = "10.1021/pr300055q")`
 
-1. Vaudel M<sup>1</sup>, Barsnes H<sup>1,:email:</sup>, Berven FS, Sickmann A, Martens L, _SearchGUI: an open-source graphical user interface for simultaneous OMSSA and X!Tandem searches_, Proteomics, 2011. `r getLinks(pmid = "21337703", journalDOI = "10.1002/pmic.201000595", aam = "docs/aam/Vaudel_et_al_SearchGUI_17092010.pdf")`
+1. **Vaudel M**<sup>1</sup>, Barsnes H<sup>1,:email:</sup>, Berven FS, Sickmann A, Martens L, _SearchGUI: an open-source graphical user interface for simultaneous OMSSA and X!Tandem searches_, Proteomics, 2011. `r getLinks(pmid = "21337703", journalDOI = "10.1002/pmic.201000595", aam = "docs/aam/Vaudel_et_al_SearchGUI_17092010.pdf")`
 
 1. Colaert N, Barsnes H, **Vaudel M**, Helsens K, Timmerman E, Sickmann A, Gevaert K, Martens L<sup>:email:</sup>, _Thermo-msf-parser: an open source Java library to parse and visualize Thermo Proteome Discoverer msf files_, Journal of Proteome Research, 2011. `r getLinks(pmid = "21714566", journalDOI = "10.1021/pr2005154")`
 
