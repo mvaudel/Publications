@@ -376,7 +376,7 @@ support for sequence variants.</sub>* <br>
     computing in proteomics bioinformatics*, Journal of Proteome
     Research, 2015.
     \[[doi: 10.1021/acs.jproteome.5b00850](https://doi.org/10.1021/acs.jproteome.5b00850)\]
-    \[[pdf]()\]
+    \[[pdf](https://doi.org/10.1021/acs.jproteome.5b00850)\]
 
 21. Barsnes H<sup>:email:</sup>, **Vaudel M**, Martens L, *JSparklines:
     Making tabular proteomics data come alive*, Proteomics, 2015.
@@ -397,7 +397,7 @@ support for sequence variants.</sub>* <br>
     open source graphical user interface for de novo sequencing of
     tandem mass spectra*, Journal of Proteome Research, 2014.
     \[[doi: 10.1021/pr4008078](https://doi.org/10.1021/pr4008078)\]
-    \[[pdf]()\]
+    \[[pdf](https://doi.org/10.1021/pr4008078)\]
 
 24. Helgeland E, Breivik LE, **Vaudel M**, Svendsen OS, Garberg H,
     Nordrehaug JE, Berven FS, Jonassen AK<sup>:email:</sup>, *Exploring

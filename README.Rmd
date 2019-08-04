@@ -92,10 +92,17 @@ getPdfLink <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
         
         if (result$is_oa) {
             
-            pdfUrl <- result$best_oa_location[[1]]$url_for_pdf
+            oaLocation <- result$best_oa_location[[1]]
             
-            return(paste0("[[pdf](", pdfUrl, ")]"))
-            
+            if ("url_for_pdf" %in% names(oaLocation)) {
+                
+                return(paste0("[[pdf](", oaLocation$url_for_pdf, ")]"))
+                
+            } else {
+                
+                return(paste0("[[pdf](", oaLocation$url, ")]"))
+                
+            }
         }
     }
     
@@ -139,11 +146,11 @@ getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = N
         paste(
             getPreprintLink(
                 preprintDOI = preprintDOI
-                ),
+            ),
             getDoiLink(
                 journalDOI = journalDOI, 
                 preprintDOI = preprintDOI
-                ),
+            ),
             getPdfLink(
                 journalDOI = journalDOI,
                 preprintDOI = preprintDOI,
