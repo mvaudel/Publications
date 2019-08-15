@@ -13,7 +13,7 @@ August 2019. Citation metrics as obtained from the NIH
 > <sup>1</sup> shared first, <sup>:email:</sup> correspondence,
 > <sup>†</sup> shared last.
 
-# Five highlighted original articles
+# Five Highlighted Original Articles
 
 1.  Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
     Njølstad PR, Barsnes H, Hermjakob H, **Vaudel
@@ -517,15 +517,55 @@ support for sequence variants.</sub>* <br>
 
 <br>
 
+# Outreach - Proceeding
+
+1.  Njølstad PR<sup>:email:</sup>, …, **Vaudel M**, …, Stefánsson K,
+    *Roadmap for a precision-medicine initiative in the Nordic region*,
+    Nature Genetics, 2019.
+    \[[doi: 10.1038/s41588-019-0391-1](https://doi.org/10.1038/s41588-019-0391-1)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+2.  Grüning BA, Lampa S, **Vaudel M**, Blankenberg D<sup>:email:</sup>,
+    *Software engineering for scientific big data analysis*,
+    Gigascience, 2019.
+    \[[doi: 10.1093/gigascience/giz054](https://doi.org/10.1093/gigascience/giz054)\]
+    \[[pdf](https://academic.oup.com/gigascience/article-pdf/8/5/giz054/28698071/giz054.pdf)\]
+
+3.  Willems S, bouyssié D, Deforce D, Dorfer V, Gorshkov V, Kopczynski
+    D, Laukens K, Locard-Paulet M, Schwämml V, Uszkoreit J, Valkenborg
+    D, **Vaudel M**, Bittremieux W<sup>:email:</sup>, *Proceedings of
+    the EuBIC developer’s meeting 2018*, Journal of Proteomics, 2018.
+    \[[doi: 10.1016/j.jprot.2018.05.015](https://doi.org/10.1016/j.jprot.2018.05.015)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+4.  Willems S, Bouyssié D, David M, Locard-Paulet M, Mechtler K,
+    Schwämmle V, Uszkoreit J, **Vaudel M**, Dorfer V<sup>:email:</sup>,
+    *Proceedings of the EuBIC Winter School 2017*, Journal of
+    Proteomics, 2017.
+    \[[doi: 10.1016/j.jprot.2017.04.001](https://doi.org/10.1016/j.jprot.2017.04.001)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+5.  **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer,
+    *The EuPA Bioinformatics Community (EuBIC) initiative*, EuPA Open
+    Proteomics, 2016.
+    \[[doi: 10.1016/j.euprot.2016.03.009](https://doi.org/10.1016/j.euprot.2016.03.009)\]
+    \[[pdf](https://doi.org/10.1016/j.euprot.2016.03.009)\]
+
+6.  Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>,
+    *Framtiden for biomedisinsk forskning - store endringer og nye
+    muligheter*, Best Practice Nordic, 2016.
+    [Link](https://bestprac.no/framtiden-biomedisinsk-forskning-store-endringer-gir-nye-muligheter/)
+
+<br>
+
 # Reviews
 
 (Coming soon\!) <br>
 
 # Book Chapters
-
-(Coming soon\!) <br>
-
-# Outreach - Proceeding
 
 (Coming soon\!) <br>
 

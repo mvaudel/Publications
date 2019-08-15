@@ -172,7 +172,7 @@ This repository lists the scientific publications I co-authored as of 1 August 2
 
 > <sup>1</sup> shared first, <sup>:email:</sup> correspondence, <sup>†</sup> shared last. 
 
-# Five highlighted original articles
+# Five Highlighted Original Articles
 
 1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
