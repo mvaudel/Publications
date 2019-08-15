@@ -337,15 +337,15 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 1. Njølstad PR<sup>:email:</sup>, …, **Vaudel M**, …, Stefánsson K, _Roadmap for a precision-medicine initiative in the Nordic region_, Nature Genetics, 2019. `r getLinks(pmid = "30988515", journalDOI = "10.1038/s41588-019-0391-1")`
 
-1. Grüning BA, Lampa S, **Vaudel M**, Blankenberg D<sup>:email:</sup>, _Roadmap for a precision-medicine initiative in the Nordic region_, Gigascience, 2019. `r getLinks(pmid = "31121028", journalDOI = "10.1093/gigascience/giz054")`
+1. Grüning BA, Lampa S, **Vaudel M**, Blankenberg D<sup>:email:</sup>, _Software engineering for scientific big data analysis_, Gigascience, 2019. `r getLinks(pmid = "31121028", journalDOI = "10.1093/gigascience/giz054")`
 
-1. Willems S, bouyssié D, Deforce D, Dorfer V, Gorshkov V, Kopczynski D, Laukens K, Locard-Paulet M, Schwämml V, Uszkoreit J, Valkenborg D, **Vaudel M**, Bittremieux W<sup>:email:</sup>, _Proceedings of the EuBIC developer's meeting 2018_, Journal of Proteomics, 2018. `r getLinks(pmid = "", journalDOI = "")`
+1. Willems S, bouyssié D, Deforce D, Dorfer V, Gorshkov V, Kopczynski D, Laukens K, Locard-Paulet M, Schwämml V, Uszkoreit J, Valkenborg D, **Vaudel M**, Bittremieux W<sup>:email:</sup>, _Proceedings of the EuBIC developer's meeting 2018_, Journal of Proteomics, 2018. `r getLinks(pmid = "29864591", journalDOI = "10.1016/j.jprot.2018.05.015")`
 
-1. Willems S, Bouyssié D, David M, Locard-Paulet M, Mechtler K, Schwämmle V, Uszkoreit J, **Vaudel M**, Dorfer V<sup>:email:</sup>, _Proceedings of the EuBIC Winter School 2017_, Journal of Proteomics, 2017. `r getLinks(pmid = "", journalDOI = "")`
+1. Willems S, Bouyssié D, David M, Locard-Paulet M, Mechtler K, Schwämmle V, Uszkoreit J, **Vaudel M**, Dorfer V<sup>:email:</sup>, _Proceedings of the EuBIC Winter School 2017_, Journal of Proteomics, 2017. `r getLinks(pmid = "28385664", journalDOI = "10.1016/j.jprot.2017.04.001")`
 
-1. **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer, _The EuPA Bioinformatics Community (EuBIC) initiative_, EuPA Open Proteomics, 2016. `r getLinks(pmid = "", journalDOI = "")`
+1. **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer, _The EuPA Bioinformatics Community (EuBIC) initiative_, EuPA Open Proteomics, 2016. `r getLinks(pmid = "", journalDOI = "10.1016/j.euprot.2016.03.009")`
 
-1. Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>, _Framtiden for biomedisinsk forskning - store endringer og nye muligheter_, Best Practices, 2016. `r getLinks(pmid = "", journalDOI = "")`
+1. Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>, _Framtiden for biomedisinsk forskning - store endringer og nye muligheter_, Best Practice Nordic, 2016. [Link](https://bestprac.no/framtiden-biomedisinsk-forskning-store-endringer-gir-nye-muligheter/)
 
 <br>
 
