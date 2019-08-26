@@ -255,6 +255,9 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 # Original Articles
 
+1. Qiao Z, Zheng J, Helgeland Ø, **Vaudel M**, Johansson S, Njølstad PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>, _Introducing M-GCTA a software package to estimate maternal (or paternal) genetic
+effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks()`
+
 1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
 1. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. `r getLinks(preprintDOI = "10.1101/478255")`
@@ -345,7 +348,7 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 1. **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer, _The EuPA Bioinformatics Community (EuBIC) initiative_, EuPA Open Proteomics, 2016. `r getLinks(pmid = "", journalDOI = "10.1016/j.euprot.2016.03.009")`
 
-1. Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>, _Framtiden for biomedisinsk forskning - store endringer og nye muligheter_, Best Practice Nordic, 2016. [Link](https://bestprac.no/framtiden-biomedisinsk-forskning-store-endringer-gir-nye-muligheter/)
+1. Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>, _Framtiden for biomedisinsk forskning - store endringer og nye muligheter_, Best Practice Nordic, 2016. [[Link]](https://bestprac.no/framtiden-biomedisinsk-forskning-store-endringer-gir-nye-muligheter/)
 
 <br>
 
