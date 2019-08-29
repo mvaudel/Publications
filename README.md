@@ -571,7 +571,62 @@ support for sequence variants.</sub>* <br>
 
 # Reviews
 
-(Coming soon\!) <br>
+1.  Muth T, Hartkopf F, **Vaudel M**<sup>:email:</sup>, Renard
+    BY<sup>:email:</sup>, *A Potential Golden Age to Come-Current Tools,
+    Recent Use Cases, and Future Avenues for De Novo Sequencing in
+    Proteomics*, Proteomics, 2018.
+    \[[doi: 10.1002/pmic.201700150](https://doi.org/10.1002/pmic.201700150)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+2.  Verheggen K, Ræder H, Breven FS, Martens L<sup>:email:</sup>,
+    Barsnes H, **Vaudel M**, *Anatomy and evolution of database search
+    engines—a central component of mass spectrometry based proteomic
+    workflows*, Mass Spectrometry Reviews, 2017.
+    \[[doi: 10.1002/mas.21543](https://doi.org/10.1002/mas.21543)\] \[No
+    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
+
+3.  Hernandez-Valladares M<sup>:email:</sup>, **Vaudel M**, Selheim F,
+    Berven F, Bruserud Ø, *Anatomy and evolution of database search
+    engines—a central component of mass spectrometry based proteomic
+    workflows*, Expert Reviews of Proteomics, 2017.
+    \[[doi: 10.1080/14789450.2017.1352474](https://doi.org/10.1080/14789450.2017.1352474)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+4.  **Vaudel M**, Verheggen K, Csordas A, Raeder H, Berven FS, Martens
+    L, Vizcaíno JA, Barsnes H<sup>:email:</sup>, *Exploring the
+    potential of public proteomics data*, Proteomics, 2015.
+    \[[doi: 10.1002/pmic.201500295](https://doi.org/10.1002/pmic.201500295)\]
+    \[[pdf](https://onlinelibrary.wiley.com/doi/pdf/10.1002/pmic.201500295)\]
+
+5.  **Vaudel M**<sup>:email:</sup>, Barsnes H, Bjerkvig R, Bikfalvi A,
+    Selheim F, Berven FS, Daubon T, *Practical considerations for omics
+    experiments in biomedical sciences*, Current Pharmaceutical
+    Biotechnology, 2015.
+    \[[doi: 10.2174/1389201016666150817095348](https://doi.org/10.2174/1389201016666150817095348)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+6.  **Vaudel M**<sup>:email:</sup>, Sickmann A, Martens L, *Introduction
+    to opportunities and pitfalls in functional mass spectrometry based
+    proteomics*, Biochim Biophys Acta, 2014.
+    \[[doi: 10.1016/j.bbapap.2013.06.019](https://doi.org/10.1016/j.bbapap.2013.06.019)\]
+    \[[pdf](https://biblio.ugent.be/publication/4259751/file/4286995.pdf)\]
+
+7.  **Vaudel M**, Sickmann A, Martens L<sup>:email:</sup>, *Current
+    methods for global proteome identification*, Expert Reviews of
+    Proteomics, 2012.
+    \[[doi: 10.1586/epr.12.51](https://doi.org/10.1586/epr.12.51)\] \[No
+    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
+
+8.  **Vaudel M**<sup>:email:</sup>, Sickmann A, Martens L, *Peptide and
+    protein quantification: a map of the minefield*, Proteomics, 2010.
+    \[[doi: 10.1002/pmic.200900481](https://doi.org/10.1002/pmic.200900481)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+<br>
 
 # Book Chapters
 

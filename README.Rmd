@@ -354,7 +354,22 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(aam = "do
 
 # Reviews
 
-(Coming soon!)
+1. Muth T, Hartkopf F, **Vaudel M**<sup>:email:</sup>, Renard BY<sup>:email:</sup>, _A Potential Golden Age to Come-Current Tools, Recent Use Cases, and Future Avenues for De Novo Sequencing in Proteomics_, Proteomics, 2018. `r getLinks(pmid = "29968278", journalDOI = "10.1002/pmic.201700150")`
+
+1. Verheggen K, Ræder H, Breven FS, Martens L<sup>:email:</sup>, Barsnes H, **Vaudel M**, _Anatomy and evolution of database search engines—a central component of mass spectrometry based proteomic workflows_, Mass Spectrometry Reviews, 2017. `r getLinks(pmid = "28902424", journalDOI = "10.1002/mas.21543")`
+
+1. Hernandez-Valladares M<sup>:email:</sup>, **Vaudel M**, Selheim F, Berven F, Bruserud Ø, _Anatomy and evolution of database search engines—a central component of mass spectrometry based proteomic workflows_, Expert Reviews of Proteomics, 2017. `r getLinks(pmid = "28693350", journalDOI = "10.1080/14789450.2017.1352474")`
+
+1. **Vaudel M**, Verheggen K, Csordas A, Raeder H, Berven FS, Martens L, Vizcaíno JA, Barsnes H<sup>:email:</sup>, _Exploring the potential of public proteomics data_, Proteomics, 2015. `r getLinks(pmid = "26449181", journalDOI = "10.1002/pmic.201500295")`
+
+1. **Vaudel M**<sup>:email:</sup>, Barsnes H, Bjerkvig R, Bikfalvi A, Selheim F, Berven FS, Daubon T, _Practical considerations for omics experiments in biomedical sciences_, Current Pharmaceutical Biotechnology, 2015. `r getLinks(pmid = "26278526", journalDOI = "10.2174/1389201016666150817095348")`
+
+1. **Vaudel M**<sup>:email:</sup>, Sickmann A, Martens L, _Introduction to opportunities and pitfalls in functional mass spectrometry based proteomics_, Biochim Biophys Acta, 2014. `r getLinks(pmid = "23845992", journalDOI = "10.1016/j.bbapap.2013.06.019")`
+
+1. **Vaudel M**, Sickmann A, Martens L<sup>:email:</sup>, _Current methods for global proteome identification_, Expert Reviews of Proteomics, 2012. `r getLinks(pmid = "23194269", journalDOI = "10.1586/epr.12.51")`
+
+1. **Vaudel M**<sup>:email:</sup>, Sickmann A, Martens L, _Peptide and protein quantification: a map of the minefield_, Proteomics, 2010. `r getLinks(pmid = "19953549", journalDOI = "10.1002/pmic.200900481")`
+
 <br>
 
 # Book Chapters
