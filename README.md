@@ -571,10 +571,10 @@ support for sequence variants.</sub>* <br>
 
 # Reviews
 
-1.  Muth T, Hartkopf F, **Vaudel M**<sup>:email:</sup>, Renard
-    BY<sup>:email:</sup>, *A Potential Golden Age to Come-Current Tools,
-    Recent Use Cases, and Future Avenues for De Novo Sequencing in
-    Proteomics*, Proteomics, 2018.
+1.  Muth T<sup>:email:</sup>, Hartkopf F, **Vaudel
+    M**<sup>:email:</sup>, Renard BY, *A Potential Golden Age to
+    Come-Current Tools, Recent Use Cases, and Future Avenues for De Novo
+    Sequencing in Proteomics*, Proteomics, 2018.
     \[[doi: 10.1002/pmic.201700150](https://doi.org/10.1002/pmic.201700150)\]
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
@@ -587,9 +587,9 @@ support for sequence variants.</sub>* <br>
     Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
 
 3.  Hernandez-Valladares M<sup>:email:</sup>, **Vaudel M**, Selheim F,
-    Berven F, Bruserud Ø, *Anatomy and evolution of database search
-    engines—a central component of mass spectrometry based proteomic
-    workflows*, Expert Reviews of Proteomics, 2017.
+    Berven F, Bruserud Ø, *Proteogenomics approaches for studying cancer
+    biology and their potential in the identification of Acute Myeloid
+    Leukemia biomarkers*, Expert Reviews of Proteomics, 2017.
     \[[doi: 10.1080/14789450.2017.1352474](https://doi.org/10.1080/14789450.2017.1352474)\]
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
