@@ -207,7 +207,8 @@ support for sequence variants.</sub>* <br>
     PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>,
     *Introducing M-GCTA a software package to estimate maternal (or
     paternal) genetic effects on offspring phenotypes*, Behavior
-    Genetics, 2019. \[no DOI yet\] \[No Open Access found [Request a
+    Genetics, 2019. \[no DOI yet\] \[[pdf (accepted
+    version)](docs/aam/M-GCTA_R1.pdf)\] \[[Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
 2.  Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
