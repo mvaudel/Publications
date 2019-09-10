@@ -144,6 +144,9 @@ getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = N
     
     return(
         paste(
+            getPubmedLink(
+                pmid = pmid
+            ),
             getPreprintLink(
                 preprintDOI = preprintDOI
             ),
