@@ -207,8 +207,9 @@ support for sequence variants.</sub>* <br>
     PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>,
     *Introducing M-GCTA a software package to estimate maternal (or
     paternal) genetic effects on offspring phenotypes*, Behavior
-    Genetics, 2019. \[no DOI yet\] \[[pdf (accepted
-    version)](docs/aam/M-GCTA_R1.pdf)\] \[[Request a
+    Genetics, 2019.
+    \[[doi: 10.1007/s10519-019-09969-4](https://doi.org/10.1007/s10519-019-09969-4)\]
+    \[[pdf (accepted version)](docs/aam/M-GCTA_R1.pdf)\] \[[Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
 2.  Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
@@ -598,7 +599,7 @@ support for sequence variants.</sub>* <br>
     L, Vizcaíno JA, Barsnes H<sup>:email:</sup>, *Exploring the
     potential of public proteomics data*, Proteomics, 2015.
     \[[doi: 10.1002/pmic.201500295](https://doi.org/10.1002/pmic.201500295)\]
-    \[[pdf](https://onlinelibrary.wiley.com/doi/pdf/10.1002/pmic.201500295)\]
+    \[[pdf](http://europepmc.org/articles/pmc4738454?pdf=render)\]
 
 5.  **Vaudel M**<sup>:email:</sup>, Barsnes H, Bjerkvig R, Bikfalvi A,
     Selheim F, Berven FS, Daubon T, *Practical considerations for omics
@@ -674,12 +675,12 @@ sessionInfo()
     ## [1] roadoi_0.5.2
     ## 
     ## loaded via a namespace (and not attached):
-    ##  [1] Rcpp_1.0.2       knitr_1.23       magrittr_1.5     tidyselect_0.2.5
+    ##  [1] Rcpp_1.0.2       knitr_1.24       magrittr_1.5     tidyselect_0.2.5
     ##  [5] xtable_1.8-4     R6_2.4.0         rlang_0.4.0      plyr_1.8.4      
-    ##  [9] stringr_1.4.0    httr_1.4.0       dplyr_0.8.3      tools_3.6.1     
-    ## [13] xfun_0.8         miniUI_0.1.1.1   htmltools_0.3.6  yaml_2.2.0      
+    ##  [9] stringr_1.4.0    httr_1.4.1       dplyr_0.8.3      tools_3.6.1     
+    ## [13] xfun_0.9         miniUI_0.1.1.1   htmltools_0.3.6  yaml_2.2.0      
     ## [17] assertthat_0.2.1 digest_0.6.20    tibble_2.1.3     crayon_1.3.4    
     ## [21] shiny_1.3.2      tidyr_0.8.3      later_0.8.0      purrr_0.3.2     
     ## [25] promises_1.0.1   curl_4.0         mime_0.7         glue_1.3.1      
-    ## [29] evaluate_0.14    rmarkdown_1.14   stringi_1.4.3    compiler_3.6.1  
+    ## [29] evaluate_0.14    rmarkdown_1.15   stringi_1.4.3    compiler_3.6.1  
     ## [33] pillar_1.4.2     jsonlite_1.6     httpuv_1.5.1     pkgconfig_2.0.2

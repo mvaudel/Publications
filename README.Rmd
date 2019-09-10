@@ -256,7 +256,7 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 # Original Articles
 
 1. Qiao Z, Zheng J, Helgeland Ø, **Vaudel M**, Johansson S, Njølstad PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>, _Introducing M-GCTA a software package to estimate maternal (or paternal) genetic
-effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(aam = "docs/aam/M-GCTA_R1.pdf")`
+effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "31493278", journalDOI = "10.1007/s10519-019-09969-4", aam = "docs/aam/M-GCTA_R1.pdf")`
 
 1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
