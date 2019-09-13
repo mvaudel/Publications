@@ -248,7 +248,8 @@ support for sequence variants.</sub>* <br>
     …, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†,:email:</sup>, *A
     Trans-ancestral Meta-Analysis of Genome-Wide Association Studies
     Reveals Loci Associated with Childhood Obesity*, Human Molecular
-    Genetics, 2019. \[PubMed\]
+    Genetics, 2019.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31504550)\]
     \[[doi: 10.1093/hmg/ddz161](https://doi.org/10.1093/hmg/ddz161)\]
     \[[pdf (accepted version)](docs/aam/aav.zip)\] \[[Request a
     reprint](mailto:marc.vaudel@uib.no)\]
