@@ -195,7 +195,7 @@ _<sub>PathwayMatcher can build biological networks of different levels of granul
 <br>
 
 
-2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. `r getLinks(preprintDOI = "10.1101/478255")`
+2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
 
 <table>
 <tr>
@@ -267,9 +267,9 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
-1. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. `r getLinks(preprintDOI = "10.1101/478255")`
+1. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
 
-1. Bradfield JP<sup>1</sup>, Vogelezang S<sup>1</sup>, …, **Vaudel M**, …, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†,:email:</sup>, _A Trans-ancestral Meta-Analysis of Genome-Wide Association Studies Reveals Loci Associated with Childhood Obesity_, Human Molecular Genetics, 2019. `r getLinks(pmid = "31504550", journalDOI = "10.1093/hmg/ddz161", aam = "docs/aam/aav.zip")`
+1. Bradfield JP<sup>1</sup>, Vogelezang S<sup>1</sup>, …, **Vaudel M**, …, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†,:email:</sup>, _A Trans-ancestral Meta-Analysis of Genome-Wide Association Studies Reveals Loci Associated with Childhood Obesity_, Human Molecular Genetics, 2019. `r getLinks(pmid = "31504550", journalDOI = "10.1093/hmg/ddz161", aam = "docs/aam/AAV.zip")`
 
 1. Warrington MW<sup>1</sup>, Beaumont R<sup>1</sup>, Horikoshi M<sup>1</sup>, Day FR<sup>1</sup>, Helgeland Ø<sup>1</sup>, …, **Vaudel M**, …, Njølstad PR, Johansson S, Ong KK<sup>†</sup>, McCarthy MI<sup>†</sup>, Perry JRB<sup>†</sup>, Evans DM<sup>†,:email:</sup>, Freathy RM<sup>†,:email:</sup>, _Maternal and fetal genetic effects on birth weight and their relevance to cardio-metabolic risk factors_, Nature Genetics, 2019. `r getLinks(pmid = "31043758", preprintDOI = "10.1101/442756", journalDOI = "10.1038/s41588-019-0403-1")`
 

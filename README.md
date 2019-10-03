@@ -61,11 +61,11 @@ biological networks.</sub>* <br>
     S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, *Genome-wide
     association study reveals a dynamic role of common genetic variation
     in infant and early childhood growth*, Nature Communications,
-    *Accepted*. \[PubMed\]
+    *Accepted*.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31575865)\]
     \[[Preprint](https://doi.org/10.1101/478255)\]
-    \[[doi: 10.1101/478255](https://doi.org/10.1101/478255)\] \[[pdf
-    (preprint)](https://www.biorxiv.org/content/biorxiv/early/2018/11/25/478255.full.pdf)\]
-    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
+    \[[doi: 10.1038/s41467-019-12308-0](https://doi.org/10.1038/s41467-019-12308-0)\]
+    \[[pdf](https://doi.org/10.1038/s41467-019-12308-0)\]
 
 <table>
 
@@ -238,11 +238,11 @@ support for sequence variants.</sub>* <br>
     S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, *Genome-wide
     association study reveals a dynamic role of common genetic variation
     in infant and early childhood growth*, Nature Communications,
-    *Accepted*. \[PubMed\]
+    *Accepted*.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31575865)\]
     \[[Preprint](https://doi.org/10.1101/478255)\]
-    \[[doi: 10.1101/478255](https://doi.org/10.1101/478255)\] \[[pdf
-    (preprint)](https://www.biorxiv.org/content/biorxiv/early/2018/11/25/478255.full.pdf)\]
-    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
+    \[[doi: 10.1038/s41467-019-12308-0](https://doi.org/10.1038/s41467-019-12308-0)\]
+    \[[pdf](https://doi.org/10.1038/s41467-019-12308-0)\]
 
 5.  Bradfield JP<sup>1</sup>, Vogelezang S<sup>1</sup>, …, **Vaudel M**,
     …, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†,:email:</sup>, *A
@@ -251,7 +251,7 @@ support for sequence variants.</sub>* <br>
     Genetics, 2019.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31504550)\]
     \[[doi: 10.1093/hmg/ddz161](https://doi.org/10.1093/hmg/ddz161)\]
-    \[[pdf (accepted version)](docs/aam/aav.zip)\] \[[Request a
+    \[[pdf (accepted version)](docs/aam/AAV.zip)\] \[[Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
 6.  Warrington MW<sup>1</sup>, Beaumont R<sup>1</sup>, Horikoshi
@@ -339,7 +339,7 @@ support for sequence variants.</sub>* <br>
     researchers*, Cancer Research, 2017.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29092937)\]
     \[[doi: 10.1158/0008-5472.CAN-17-0331](https://doi.org/10.1158/0008-5472.CAN-17-0331)\]
-    \[[pdf](http://cancerres.aacrjournals.org/content/canres/77/21/e43.full.pdf)\]
+    \[[pdf](https://cancerres.aacrjournals.org/content/canres/77/21/e43.full.pdf)\]
 
 15. Vizcaíno JA, Meyer G, Perkins SR, Barsnes H, **Vaudel M**,
     Perez-Riverol Y, Terment T, Uszkoreit J, Eineacher M, Fischer L,
@@ -349,7 +349,7 @@ support for sequence variants.</sub>* <br>
     supporting advances in proteome informatics*, Mol Cell Proteomics,
     2017. \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28515314)\]
     \[[doi: 10.1074/mcp.M117.068429](https://doi.org/10.1074/mcp.M117.068429)\]
-    \[[pdf](http://www.mcponline.org/content/mcprot/16/7/1275.full.pdf)\]
+    \[[pdf](https://www.mcponline.org/content/mcprot/16/7/1275.full.pdf)\]
 
 16. Leprevost FdV, Aflitos SA, Grüning BA, Röst HL, Uszkoreit J, Barsnes
     H, **Vaudel M**, Moreno P, Gatto L, Weber J, Bai M, Jimenez RC,
@@ -484,16 +484,14 @@ support for sequence variants.</sub>* <br>
     concerted process involving multiple signaling pathways*, Blood,
     2014. \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24324209)\]
     \[[doi: 10.1182/blood-2013-07-512384](https://doi.org/10.1182/blood-2013-07-512384)\]
-    \[[pdf](http://www.bloodjournal.org/content/123/5/e1.full.pdf)\]
+    \[[pdf](http://www.bloodjournal.org/content/bloodjournal/123/5/e1.full.pdf)\]
 
 31. **Vaudel M**, Breiter D, Beck F, Rahnenführer J, Martens
     L<sup>:email:</sup>, Zahedi RP, *D-score: a search engine
     independent MD-score*, Proteomics, 2013.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23307401)\]
     \[[doi: 10.1002/pmic.201200408](https://doi.org/10.1002/pmic.201200408)\]
-    \[[pdf (accepted
-    version)](docs/aam/D-score%20revised%20version.pdf)\] \[[Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://zenodo.org/record/3410333/files/fulltext.pdf)\]
 
 32. Burkhart JM<sup>1</sup>, **Vaudel M**<sup>1</sup>, Gambaryan S,
     Radau S, Walter U, Martens L, Geiger J<sup>:email:</sup>, Sickmann
@@ -510,8 +508,8 @@ support for sequence variants.</sub>* <br>
     Quantification Accuracy estimation for Reporter Ion based
     quantitative proteomics (iQuARI)*, Journal of Proteome Research,
     2012. \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22874012)\]
-    \[[doi: 10.1021/pr300247u](https://doi.org/10.1021/pr300247u)\] \[No
-    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
+    \[[doi: 10.1021/pr300247u](https://doi.org/10.1021/pr300247u)\]
+    \[[pdf](https://zenodo.org/record/3425392/files/fulltext.pdf)\]
 
 34. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Breiter D, Zahedi
     RP, Sickmann A<sup>:email:</sup>, Martens L, *A complex standard for
