@@ -688,7 +688,109 @@ support for sequence variants.</sub>* <br>
 
 # Book Chapters
 
-(Coming soon\!) <br>
+1.  **Vaudel M**<sup>:email:</sup>, *Proteomics*, Processing
+    Metabolomics and Proteomics Data, Royal Society of Chemistry, 2019.
+    *in press*
+
+2.  Schwämmle V<sup>:email:</sup>, **Vaudel M**, \_ Computational and
+    Statistical Methods for High-Throughput Mass Spectrometry-Based PTM
+    Analysis\_, Methods in Molecular Biology: Protein Bioinformatics,
+    Springer, 2017.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28150251)\]
+    \[[doi: 10.1007/978-1-4939-6783-4\_21](https://doi.org/10.1007/978-1-4939-6783-4_21)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+3.  **Vaudel M**<sup>:email:</sup>, *MS2-Based Quantitation*, Proteome
+    Informatics, Royal Society of Chemistry, 2016. \[PubMed\]
+    \[[doi: 10.1039/9781782626732-00155](https://doi.org/10.1039/9781782626732-00155)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+4.  Lereim RR, Oveland E, Berven FS, **Vaudel M**<sup>:email:</sup>,
+    Barsnes H, *Visualization, Inspection and Interpretation of Shotgun
+    Proteomics Identification Results*, Advances in Experimental
+    Medicine and Biology: Modern Proteomics – Sample Preparation,
+    Analysis and Practical Applications, Springer, 2016.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27975220)\]
+    \[[doi: 10.1007/978-3-319-41448-5\_11](https://doi.org/10.1007/978-3-319-41448-5_11)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+5.  Muth T, Rapp E, Berven FS, Barsnes H, **Vaudel
+    M**<sup>:email:</sup>, *Tandem Mass Spectrum Sequencing: An
+    Alternative to Database Search Engines in Shotgun Proteomics*,
+    Advances in Experimental Medicine and Biology: Modern Proteomics –
+    Sample Preparation, Analysis and Practical Applications, Springer,
+    2016. \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27975219)\]
+    \[[doi: 10.1007/978-3-319-41448-5\_10](https://doi.org/10.1007/978-3-319-41448-5_10)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+6.  Verheggen K, Martens L, Berven FS, Barsnes H, **Vaudel
+    M**<sup>:email:</sup>, *Database Search Engines: Paradigms,
+    Challenges and Solutions*, Advances in Experimental Medicine and
+    Biology: Modern Proteomics – Sample Preparation, Analysis and
+    Practical Applications, Springer, 2016.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27975215)\]
+    \[[doi: 10.1007/978-3-319-41448-5\_6](https://doi.org/10.1007/978-3-319-41448-5_6)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+7.  **Vaudel M**<sup>:email:</sup>, Barsnes H, Ræder H, Berven FS,
+    *Using Proteomics Bioinformatics Tools and Resources in
+    Proteogenomic Studies*, Advances in Experimental Medicine and
+    Biology: Proteogenomics, Springer, 2016.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27686806)\]
+    \[[doi: 10.1007/978-3-319-42316-6\_5](https://doi.org/10.1007/978-3-319-42316-6_5)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+8.  Hernández Sánchez LF, Aasebø E, Selheim F, Berven FS, Ræder H,
+    Barsnes H, **Vaudel M**<sup>:email:</sup>, *Systemic Analysis of
+    Regulated Functional Networks*, Methods in Molecular Biology:
+    Proteomics in Systems Biology, Springer, 2015.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26700057)\]
+    \[[doi: 10.1007/978-1-4939-3341-9\_21](https://doi.org/10.1007/978-1-4939-3341-9_21)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+9.  Guldbrandsen A, Barsnes H, Kroksveen AC, Berven FS, **Vaudel
+    M**<sup>:email:</sup>, *A Simple Workflow for Large Scale Shotgun
+    Glycoproteomics*, Methods in Molecular Biology: Proteomics in
+    Systems Biology, Springer, 2015.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26700056)\]
+    \[[doi: 10.1007/978-1-4939-3341-9\_20](https://doi.org/10.1007/978-1-4939-3341-9_20)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+10. Aasebø E, Berven FS, Selheim F, Barsnes H, **Vaudel
+    M**<sup>:email:</sup>, *Interpretation of Quantitative Shotgun
+    Proteomic Data*, Methods in Molecular Biology: Proteomics in Systems
+    Biology, Springer, 2015.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26700055)\]
+    \[[doi: 10.1007/978-1-4939-3341-9\_19](https://doi.org/10.1007/978-1-4939-3341-9_19)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+11. **Vaudel M**<sup>:email:</sup>, Barsnes H, Martens L, Berven FS,
+    *Bioinformatics for Proteomics: Opportunities at the interface
+    between the scientists, their experiments and the community*,
+    Methods in Molecular Biology: Shotgun Proteomics, Springer, 2015.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24791993)\]
+    \[[doi: 10.1007/978-1-4939-0685-7\_16](https://doi.org/10.1007/978-1-4939-0685-7_16)\]
+    \[[pdf](https://zenodo.org/record/3410651/files/fulltext.pdf)\]
+
+12. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Zahedi RP,
+    Martens L, Sickmann A<sup>:email:</sup>, *iTRAQ data
+    interpretation*, Methods in Molecular Biology: Quantitative Methods
+    in Proteomics, Springer, 2012.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22665319)\]
+    \[[doi: 10.1007/978-1-61779-885-6\_30](https://doi.org/10.1007/978-1-61779-885-6_30)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+<br>
 
 # PhD thesis
 
@@ -703,6 +805,9 @@ This document was generated from this [Rmd](README.Rmd). Links to pdfs
 are obtained from [Unpaywall](unpaywall.org), queried using the
 [roadoi](https://cran.r-project.org/web/packages/roadoi/vignettes/intro.html)
 package.
+
+For questions or error report, please do not hesitate to reach out *via*
+the [issue tracker](https://github.com/mvaudel/Publications/issues).
 
 For personal use only, no copyright infringement intended. <br>
 

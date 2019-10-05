@@ -381,7 +381,30 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 # Book Chapters
 
-(Coming soon!)
+1. **Vaudel M**<sup>:email:</sup>, _Proteomics_, Processing Metabolomics and Proteomics Data, Royal Society of Chemistry, 2019. _in press_
+
+1. Schwämmle V<sup>:email:</sup>, **Vaudel M**, _ Computational and Statistical Methods for High-Throughput Mass Spectrometry-Based PTM Analysis_, Methods in Molecular Biology: Protein Bioinformatics, Springer, 2017. `r getLinks(pmid = "28150251", journalDOI = "10.1007/978-1-4939-6783-4_21")`
+
+1. **Vaudel M**<sup>:email:</sup>, _MS2-Based Quantitation_, Proteome Informatics, Royal Society of Chemistry, 2016. `r getLinks(journalDOI = "10.1039/9781782626732-00155")`
+
+1. Lereim RR, Oveland E, Berven FS, **Vaudel M**<sup>:email:</sup>, Barsnes H, _Visualization, Inspection and Interpretation of Shotgun Proteomics Identification Results_, Advances in Experimental Medicine and Biology: Modern Proteomics – Sample Preparation, Analysis and Practical Applications, Springer, 2016. `r getLinks(pmid = "27975220", journalDOI = "10.1007/978-3-319-41448-5_11")`
+
+1. Muth T, Rapp E, Berven FS, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Tandem Mass Spectrum Sequencing: An Alternative to Database Search Engines in Shotgun Proteomics_, Advances in Experimental Medicine and Biology: Modern Proteomics – Sample Preparation, Analysis and Practical Applications, Springer, 2016. `r getLinks(pmid = "27975219", journalDOI = "10.1007/978-3-319-41448-5_10")`
+
+1. Verheggen K, Martens L, Berven FS, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Database Search Engines: Paradigms, Challenges and Solutions_, Advances in Experimental Medicine and Biology: Modern Proteomics – Sample Preparation, Analysis and Practical Applications, Springer, 2016. `r getLinks(pmid = "27975215", journalDOI = "10.1007/978-3-319-41448-5_6")`
+
+1. **Vaudel M**<sup>:email:</sup>, Barsnes H, Ræder H, Berven FS, _Using Proteomics Bioinformatics Tools and Resources in Proteogenomic Studies_, Advances in Experimental Medicine and Biology: Proteogenomics, Springer, 2016. `r getLinks(pmid = "27686806", journalDOI = "10.1007/978-3-319-42316-6_5")`
+
+1. Hernández Sánchez LF, Aasebø E, Selheim F, Berven FS, Ræder H, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Systemic Analysis of Regulated Functional Networks_, Methods in Molecular Biology: Proteomics in Systems Biology, Springer, 2015. `r getLinks(pmid = "26700057", journalDOI = "10.1007/978-1-4939-3341-9_21")`
+
+1. Guldbrandsen A, Barsnes H, Kroksveen AC, Berven FS, **Vaudel M**<sup>:email:</sup>, _A Simple Workflow for Large Scale Shotgun Glycoproteomics_, Methods in Molecular Biology: Proteomics in Systems Biology, Springer, 2015. `r getLinks(pmid = "26700056", journalDOI = "10.1007/978-1-4939-3341-9_20")`
+
+1. Aasebø E, Berven FS, Selheim F, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Interpretation of Quantitative Shotgun Proteomic Data_, Methods in Molecular Biology: Proteomics in Systems Biology, Springer, 2015. `r getLinks(pmid = "26700055", journalDOI = "10.1007/978-1-4939-3341-9_19")`
+
+1. **Vaudel M**<sup>:email:</sup>, Barsnes H, Martens L, Berven FS, _Bioinformatics for Proteomics: Opportunities at the interface between the scientists, their experiments and the community_, Methods in Molecular Biology: Shotgun Proteomics, Springer, 2015. `r getLinks(pmid = "24791993", journalDOI = "10.1007/978-1-4939-0685-7_16")`
+
+1. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Zahedi RP, Martens L, Sickmann A<sup>:email:</sup>, _iTRAQ data interpretation_, Methods in Molecular Biology: Quantitative Methods in Proteomics, Springer, 2012. `r getLinks(pmid = "22665319", journalDOI = "10.1007/978-1-61779-885-6_30")`
+
 <br>
 
 # PhD thesis
@@ -392,6 +415,8 @@ _Detailed analysis of the blood platelet proteome through the use of innovative 
 # About
 
 This document was generated from this [Rmd](README.Rmd). Links to pdfs are obtained from [Unpaywall](unpaywall.org), queried using the [roadoi](https://cran.r-project.org/web/packages/roadoi/vignettes/intro.html) package.
+
+For questions or error report, please do not hesitate to reach out _via_ the [issue tracker](https://github.com/mvaudel/Publications/issues).
 
 For personal use only, no copyright infringement intended.
 <br>
