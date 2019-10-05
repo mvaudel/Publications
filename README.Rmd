@@ -303,7 +303,7 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 1. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. `r getLinks(pmid = "25574629", journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
 
-1. Verheggen K, Maddelein D, Hulstaert N, Martens L<sup>:email:</sup>, Barsnes H, Vaudel M, _Pladipus enables universal distributed computing in proteomics bioinformatics_, Journal of Proteome Research, 2015. `r getLinks(pmid = "26510693", journalDOI = "10.1021/acs.jproteome.5b00850")`
+1. Verheggen K, Maddelein D, Hulstaert N, Martens L<sup>:email:</sup>, Barsnes H, **Vaudel M**, _Pladipus enables universal distributed computing in proteomics bioinformatics_, Journal of Proteome Research, 2015. `r getLinks(pmid = "26510693", journalDOI = "10.1021/acs.jproteome.5b00850")`
 
 1. Barsnes H<sup>:email:</sup>, **Vaudel M**, Martens L, _JSparklines: Making tabular proteomics data come alive_, Proteomics, 2015. `r getLinks(pmid = "25422159", journalDOI = "10.1002/pmic.201400356")`
 

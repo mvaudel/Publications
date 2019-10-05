@@ -410,7 +410,7 @@ support for sequence variants.</sub>* <br>
     \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
 
 22. Verheggen K, Maddelein D, Hulstaert N, Martens L<sup>:email:</sup>,
-    Barsnes H, Vaudel M, *Pladipus enables universal distributed
+    Barsnes H, **Vaudel M**, *Pladipus enables universal distributed
     computing in proteomics bioinformatics*, Journal of Proteome
     Research, 2015.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26510693)\]
