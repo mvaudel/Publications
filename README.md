@@ -60,8 +60,7 @@ biological networks.</sub>* <br>
 2.  Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson
     S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, *Genome-wide
     association study reveals a dynamic role of common genetic variation
-    in infant and early childhood growth*, Nature Communications,
-    *Accepted*.
+    in infant and early childhood growth*, Nature Communications, 2019.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31575865)\]
     \[[Preprint](https://doi.org/10.1101/478255)\]
     \[[doi: 10.1038/s41467-019-12308-0](https://doi.org/10.1038/s41467-019-12308-0)\]
@@ -237,8 +236,7 @@ support for sequence variants.</sub>* <br>
 4.  Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson
     S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, *Genome-wide
     association study reveals a dynamic role of common genetic variation
-    in infant and early childhood growth*, Nature Communications,
-    *Accepted*.
+    in infant and early childhood growth*, Nature Communications, 2019.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31575865)\]
     \[[Preprint](https://doi.org/10.1101/478255)\]
     \[[doi: 10.1038/s41467-019-12308-0](https://doi.org/10.1038/s41467-019-12308-0)\]
@@ -475,7 +473,8 @@ support for sequence variants.</sub>* <br>
     identification*, Proteomics, 2014.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24678044)\]
     \[[doi: 10.1002/pmic.201300488](https://doi.org/10.1002/pmic.201300488)\]
-    \[[pdf](https://bora.uib.no/bitstream/1956/16924/5/Shedding%20light%20on%20black%20boxes%20in%20protein%20identification%20%28postprint%29.pdf)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
 
 30. Beck F, Geiger J, Gambaryan S, Veit J, **Vaudel M**, Nollau P,
     Kohlbacher O, Martens L, Walter U, Sickmann A<sup>:email:</sup>,
@@ -501,7 +500,8 @@ support for sequence variants.</sub>* <br>
     human platelets*, Blood, 2012.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22869793)\]
     \[[doi: 10.1182/blood-2012-04-416594](https://doi.org/10.1182/blood-2012-04-416594)\]
-    \[[pdf](http://www.bloodjournal.org/content/120/15/e73.full.pdf)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
 
 33. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Radau S, Zahedi
     RP, Martens L<sup>:email:</sup>, Sickmann A, *Integral
@@ -692,9 +692,9 @@ support for sequence variants.</sub>* <br>
     Metabolomics and Proteomics Data, Royal Society of Chemistry, 2019.
     *in press*
 
-2.  Schwämmle V<sup>:email:</sup>, **Vaudel M**, \_ Computational and
+2.  Schwämmle V<sup>:email:</sup>, **Vaudel M**, *Computational and
     Statistical Methods for High-Throughput Mass Spectrometry-Based PTM
-    Analysis\_, Methods in Molecular Biology: Protein Bioinformatics,
+    Analysis*, Methods in Molecular Biology: Protein Bioinformatics,
     Springer, 2017.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28150251)\]
     \[[doi: 10.1007/978-1-4939-6783-4\_21](https://doi.org/10.1007/978-1-4939-6783-4_21)\]

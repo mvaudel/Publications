@@ -195,7 +195,7 @@ _<sub>PathwayMatcher can build biological networks of different levels of granul
 <br>
 
 
-2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
+2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, 2019. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
 
 <table>
 <tr>
@@ -267,7 +267,7 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
-1. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, _Accepted_. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
+1. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, 2019. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
 
 1. Bradfield JP<sup>1</sup>, Vogelezang S<sup>1</sup>, …, **Vaudel M**, …, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†,:email:</sup>, _A Trans-ancestral Meta-Analysis of Genome-Wide Association Studies Reveals Loci Associated with Childhood Obesity_, Human Molecular Genetics, 2019. `r getLinks(pmid = "31504550", journalDOI = "10.1093/hmg/ddz161", aam = "docs/aam/AAV.zip")`
 
@@ -383,7 +383,7 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 1. **Vaudel M**<sup>:email:</sup>, _Proteomics_, Processing Metabolomics and Proteomics Data, Royal Society of Chemistry, 2019. _in press_
 
-1. Schwämmle V<sup>:email:</sup>, **Vaudel M**, _ Computational and Statistical Methods for High-Throughput Mass Spectrometry-Based PTM Analysis_, Methods in Molecular Biology: Protein Bioinformatics, Springer, 2017. `r getLinks(pmid = "28150251", journalDOI = "10.1007/978-1-4939-6783-4_21")`
+1. Schwämmle V<sup>:email:</sup>, **Vaudel M**, _Computational and Statistical Methods for High-Throughput Mass Spectrometry-Based PTM Analysis_, Methods in Molecular Biology: Protein Bioinformatics, Springer, 2017. `r getLinks(pmid = "28150251", journalDOI = "10.1007/978-1-4939-6783-4_21")`
 
 1. **Vaudel M**<sup>:email:</sup>, _MS2-Based Quantitation_, Proteome Informatics, Royal Society of Chemistry, 2016. `r getLinks(journalDOI = "10.1039/9781782626732-00155")`
 
