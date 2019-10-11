@@ -171,13 +171,19 @@ getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = N
 ```
 
 
-This repository lists the scientific publications I co-authored as of 1 August 2019. Citation metrics as obtained from the NIH [iCite](icite.od.nih.gov) are available [here](docs/icite/icite_report_01.08.2019.xlsx). 
+This repository lists the scientific publications I co-authored as of `r format(Sys.time(), "%d.%m.%Y")`. 
+
+- [NIH iCite](https://icite.od.nih.gov/analysis?search_id=r21kkqcurn75ir0t)
+- [Google Scholar](https://scholar.google.com/citations?user=JTK8FTkAAAAJ)
 
 <br>
 
+
 > <sup>1</sup> shared first, <sup>:email:</sup> correspondence, <sup>†</sup> shared last. 
 
-# Five Highlighted Original Articles
+<br>
+
+## Five Highlighted Original Articles
 
 1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
@@ -258,7 +264,7 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 </table>
 <br>
 
-# Original Articles
+## Original Articles
 
 1. Bjørlykke Y, Søviknes AM, Hoareau L, Vethe H, Mathisen AF, Chera S, **Vaudel M**, Ghila L, Ræder H<sup>:email:</sup>, _Reprogrammed cells display distinct proteomic signatures associated with colony morphology variability_, Stem Cells International, 2019. _In press_
 
@@ -343,7 +349,7 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 <br>
 
-# Outreach - Proceeding
+## Outreach - Proceeding
 
 1. Njølstad PR<sup>:email:</sup>, …, **Vaudel M**, …, Stefánsson K, _Roadmap for a precision-medicine initiative in the Nordic region_, Nature Genetics, 2019. `r getLinks(pmid = "30988515", journalDOI = "10.1038/s41588-019-0391-1")`
 
@@ -359,7 +365,7 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 <br>
 
-# Reviews
+## Reviews
 
 1. Muth T<sup>:email:</sup>, Hartkopf F, **Vaudel M**<sup>:email:</sup>, Renard BY, _A Potential Golden Age to Come-Current Tools, Recent Use Cases, and Future Avenues for De Novo Sequencing in Proteomics_, Proteomics, 2018. `r getLinks(pmid = "29968278", journalDOI = "10.1002/pmic.201700150")`
 
@@ -379,7 +385,7 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 <br>
 
-# Book Chapters
+## Book Chapters
 
 1. **Vaudel M**<sup>:email:</sup>, _Proteomics_, Processing Metabolomics and Proteomics Data, Royal Society of Chemistry, 2019. _in press_
 
@@ -407,12 +413,12 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 <br>
 
-# PhD thesis
+## PhD thesis
 
 _Detailed analysis of the blood platelet proteome through the use of innovative bioinformatics methods for protein identification, quantification and post-translational modification localization._ [link](https://hdl.handle.net/1854/LU-3076565) 
 <br>
 
-# About
+## About
 
 This document was generated from this [Rmd](README.Rmd). Links to pdfs are obtained from [Unpaywall](unpaywall.org), queried using the [roadoi](https://cran.r-project.org/web/packages/roadoi/vignettes/intro.html) package.
 

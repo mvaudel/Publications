@@ -1,19 +1,23 @@
 Publications
 ================
-Marc Vaudel
-2019-08-01
 
-This repository lists the scientific publications I co-authored as of 1
-August 2019. Citation metrics as obtained from the NIH
-[iCite](icite.od.nih.gov) are available
-[here](docs/icite/icite_report_01.08.2019.xlsx).
+
+This repository lists the scientific publications I co-authored as of
+11.10.2019.
+
+  - [NIH
+    iCite](https://icite.od.nih.gov/analysis?search_id=r21kkqcurn75ir0t)
+  - [Google
+    Scholar](https://scholar.google.com/citations?user=JTK8FTkAAAAJ)
 
 <br>
 
 > <sup>1</sup> shared first, <sup>:email:</sup> correspondence,
 > <sup>†</sup> shared last.
 
-# Five Highlighted Original Articles
+<br>
+
+## Five Highlighted Original Articles
 
 1.  Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
     Njølstad PR, Barsnes H, Hermjakob H, **Vaudel
@@ -206,7 +210,7 @@ support for sequence variants.</sub>* <br>
 
 <br>
 
-# Original Articles
+## Original Articles
 
 1.  Bjørlykke Y, Søviknes AM, Hoareau L, Vethe H, Mathisen AF, Chera S,
     **Vaudel M**, Ghila L, Ræder H<sup>:email:</sup>, *Reprogrammed
@@ -571,7 +575,7 @@ support for sequence variants.</sub>* <br>
 
 <br>
 
-# Outreach - Proceeding
+## Outreach - Proceeding
 
 1.  Njølstad PR<sup>:email:</sup>, …, **Vaudel M**, …, Stefánsson K,
     *Roadmap for a precision-medicine initiative in the Nordic region*,
@@ -619,7 +623,7 @@ support for sequence variants.</sub>* <br>
 
 <br>
 
-# Reviews
+## Reviews
 
 1.  Muth T<sup>:email:</sup>, Hartkopf F, **Vaudel
     M**<sup>:email:</sup>, Renard BY, *A Potential Golden Age to
@@ -686,7 +690,7 @@ support for sequence variants.</sub>* <br>
 
 <br>
 
-# Book Chapters
+## Book Chapters
 
 1.  **Vaudel M**<sup>:email:</sup>, *Proteomics*, Processing
     Metabolomics and Proteomics Data, Royal Society of Chemistry, 2019.
@@ -792,14 +796,14 @@ support for sequence variants.</sub>* <br>
 
 <br>
 
-# PhD thesis
+## PhD thesis
 
 *Detailed analysis of the blood platelet proteome through the use of
 innovative bioinformatics methods for protein identification,
 quantification and post-translational modification localization.*
 [link](https://hdl.handle.net/1854/LU-3076565) <br>
 
-# About
+## About
 
 This document was generated from this [Rmd](README.Rmd). Links to pdfs
 are obtained from [Unpaywall](unpaywall.org), queried using the
