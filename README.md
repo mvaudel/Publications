@@ -1,9 +1,10 @@
 Publications
 ================
-
+Marc Vaudel
+2019-08-01
 
 This repository lists the scientific publications I co-authored as of
-11.10.2019.
+19.11.2019.
 
   - [NIH
     iCite](https://icite.od.nih.gov/analysis?search_id=r21kkqcurn75ir0t)
@@ -68,7 +69,7 @@ biological networks.</sub>* <br>
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31575865)\]
     \[[Preprint](https://doi.org/10.1101/478255)\]
     \[[doi: 10.1038/s41467-019-12308-0](https://doi.org/10.1038/s41467-019-12308-0)\]
-    \[[pdf](https://doi.org/10.1038/s41467-019-12308-0)\]
+    \[[pdf](https://www.nature.com/articles/s41467-019-12308-0.pdf)\]
 
 <table>
 
@@ -178,8 +179,7 @@ modifications and sequence variants during mapping.</sub>* <br>
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25574629)\]
     \[[doi: 10.1038/nbt.3109](https://doi.org/10.1038/nbt.3109)\] \[[pdf
     (accepted version)](docs/aam/peptideshaker_submitted.pdf)\]
-    \[[Request a
-reprint](mailto:marc.vaudel@uib.no)\]
+    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
 
 <table>
 
@@ -215,7 +215,10 @@ support for sequence variants.</sub>* <br>
 1.  Bjørlykke Y, Søviknes AM, Hoareau L, Vethe H, Mathisen AF, Chera S,
     **Vaudel M**, Ghila L, Ræder H<sup>:email:</sup>, *Reprogrammed
     cells display distinct proteomic signatures associated with colony
-    morphology variability*, Stem Cells International, 2019. *In press*
+    morphology variability*, Stem Cells International, 2019. \[PubMed\]
+    \[[doi: 10.1155/2019/8036035](https://doi.org/10.1155/2019/8036035)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
 
 2.  Qiao Z, Zheng J, Helgeland Ø, **Vaudel M**, Johansson S, Njølstad
     PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>,
@@ -244,7 +247,7 @@ support for sequence variants.</sub>* <br>
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31575865)\]
     \[[Preprint](https://doi.org/10.1101/478255)\]
     \[[doi: 10.1038/s41467-019-12308-0](https://doi.org/10.1038/s41467-019-12308-0)\]
-    \[[pdf](https://doi.org/10.1038/s41467-019-12308-0)\]
+    \[[pdf](https://www.nature.com/articles/s41467-019-12308-0.pdf)\]
 
 5.  Bradfield JP<sup>1</sup>, Vogelezang S<sup>1</sup>, …, **Vaudel M**,
     …, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†,:email:</sup>, *A
@@ -266,9 +269,7 @@ support for sequence variants.</sub>* <br>
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31043758)\]
     \[[Preprint](https://doi.org/10.1101/442756)\]
     \[[doi: 10.1038/s41588-019-0403-1](https://doi.org/10.1038/s41588-019-0403-1)\]
-    \[[pdf
-    (preprint)](https://www.biorxiv.org/content/biorxiv/early/2018/10/17/442756.full.pdf)\]
-    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://trepo.tuni.fi/bitstream/10024/117129/2/Maternal_and_fetal_genetic_effects_2019.pdf)\]
 
 7.  Zhang-James Y, **Vaudel M**, Mjaavatten O, Berven FS, Haavik J,
     Faraone SV, *Effect of disease-associated SLC9A9 mutations on
@@ -477,8 +478,7 @@ support for sequence variants.</sub>* <br>
     identification*, Proteomics, 2014.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24678044)\]
     \[[doi: 10.1002/pmic.201300488](https://doi.org/10.1002/pmic.201300488)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://bora.uib.no/bitstream/1956/16924/5/Shedding%20light%20on%20black%20boxes%20in%20protein%20identification%20%28postprint%29.pdf)\]
 
 30. Beck F, Geiger J, Gambaryan S, Veit J, **Vaudel M**, Nollau P,
     Kohlbacher O, Martens L, Walter U, Sickmann A<sup>:email:</sup>,
@@ -504,8 +504,7 @@ support for sequence variants.</sub>* <br>
     human platelets*, Blood, 2012.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22869793)\]
     \[[doi: 10.1182/blood-2012-04-416594](https://doi.org/10.1182/blood-2012-04-416594)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://ashpublications.org/blood/article-pdf/120/15/e73/1359688/zh804112000e73.pdf)\]
 
 33. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Radau S, Zahedi
     RP, Martens L<sup>:email:</sup>, Sickmann A, *Integral
@@ -520,8 +519,8 @@ support for sequence variants.</sub>* <br>
     protein identification, designed by evolution*, Journal of Proteome
     Research, 2012.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/22489649)\]
-    \[[doi: 10.1021/pr300055q](https://doi.org/10.1021/pr300055q)\] \[No
-    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
+    \[[doi: 10.1021/pr300055q](https://doi.org/10.1021/pr300055q)\]
+    \[[pdf](https://zenodo.org/record/3425386/files/fulltext.pdf)\]
 
 35. **Vaudel M**<sup>1</sup>, Barsnes H<sup>1,:email:</sup>, Berven FS,
     Sickmann A, Martens L, *SearchGUI: an open-source graphical user
@@ -607,8 +606,7 @@ support for sequence variants.</sub>* <br>
     Proteomics, 2017.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28385664)\]
     \[[doi: 10.1016/j.jprot.2017.04.001](https://doi.org/10.1016/j.jprot.2017.04.001)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://biblio.ugent.be/publication/8631774/file/8631777.pdf)\]
 
 5.  **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer,
     *The EuPA Bioinformatics Community (EuBIC) initiative*, EuPA Open
@@ -678,8 +676,8 @@ support for sequence variants.</sub>* <br>
     methods for global proteome identification*, Expert Reviews of
     Proteomics, 2012.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23194269)\]
-    \[[doi: 10.1586/epr.12.51](https://doi.org/10.1586/epr.12.51)\] \[No
-    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
+    \[[doi: 10.1586/epr.12.51](https://doi.org/10.1586/epr.12.51)\]
+    \[[pdf](https://zenodo.org/record/3440270/files/fulltext.pdf)\]
 
 8.  **Vaudel M**<sup>:email:</sup>, Sickmann A, Martens L, *Peptide and
     protein quantification: a map of the minefield*, Proteomics, 2010.
@@ -842,11 +840,11 @@ sessionInfo()
     ## 
     ## loaded via a namespace (and not attached):
     ##  [1] Rcpp_1.0.2       knitr_1.24       magrittr_1.5     tidyselect_0.2.5
-    ##  [5] xtable_1.8-4     R6_2.4.0         rlang_0.4.0      plyr_1.8.4      
+    ##  [5] xtable_1.8-4     R6_2.4.0         rlang_0.4.1      plyr_1.8.4      
     ##  [9] stringr_1.4.0    httr_1.4.1       dplyr_0.8.3      tools_3.6.1     
     ## [13] xfun_0.9         miniUI_0.1.1.1   htmltools_0.3.6  yaml_2.2.0      
-    ## [17] assertthat_0.2.1 digest_0.6.20    tibble_2.1.3     crayon_1.3.4    
+    ## [17] assertthat_0.2.1 digest_0.6.22    tibble_2.1.3     crayon_1.3.4    
     ## [21] shiny_1.3.2      tidyr_0.8.3      later_0.8.0      purrr_0.3.2     
     ## [25] promises_1.0.1   curl_4.0         mime_0.7         glue_1.3.1      
-    ## [29] evaluate_0.14    rmarkdown_1.15   stringi_1.4.3    compiler_3.6.1  
+    ## [29] evaluate_0.14    rmarkdown_1.16   stringi_1.4.3    compiler_3.6.1  
     ## [33] pillar_1.4.2     jsonlite_1.6     httpuv_1.5.1     pkgconfig_2.0.2

@@ -92,7 +92,7 @@ getPdfLink <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
             email = "mvaudel@gmail.com"
         )
         
-        if (result$is_oa) {
+        if (length(result) > 0 && result$is_oa) {
             
             oaLocation <- result$best_oa_location[[1]]
             
@@ -113,7 +113,7 @@ getPdfLink <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
         result <- oadoi_fetch(dois = preprintDOI, 
                               email = "mvaudel@gmail.com")
         
-        if (result$is_oa) {
+        if (length(result) > 0 && result$is_oa) {
             
             pdfUrl <- result$best_oa_location[[1]]$url_for_pdf
             
@@ -266,7 +266,7 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 ## Original Articles
 
-1. Bjørlykke Y, Søviknes AM, Hoareau L, Vethe H, Mathisen AF, Chera S, **Vaudel M**, Ghila L, Ræder H<sup>:email:</sup>, _Reprogrammed cells display distinct proteomic signatures associated with colony morphology variability_, Stem Cells International, 2019. _In press_
+1. Bjørlykke Y, Søviknes AM, Hoareau L, Vethe H, Mathisen AF, Chera S, **Vaudel M**, Ghila L, Ræder H<sup>:email:</sup>, _Reprogrammed cells display distinct proteomic signatures associated with colony morphology variability_, Stem Cells International, 2019. `r getLinks(journalDOI = "10.1155/2019/8036035")`
 
 1. Qiao Z, Zheng J, Helgeland Ø, **Vaudel M**, Johansson S, Njølstad PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>, _Introducing M-GCTA a software package to estimate maternal (or paternal) genetic
 effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "31493278", journalDOI = "10.1007/s10519-019-09969-4", aam = "docs/aam/M-GCTA_R1.pdf")`
