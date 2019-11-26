@@ -3,11 +3,13 @@ Publications
 Marc Vaudel
 2019-08-01
 
-This repository lists the scientific publications I co-authored as of
-19.11.2019.
+[![DOI](https://zenodo.org/badge/200110790.svg)](https://zenodo.org/badge/latestdoi/200110790)
+
+This repository lists the scientific publications co-authored by [Marc
+Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 26.11.2019.
 
   - [NIH
-    iCite](https://icite.od.nih.gov/analysis?search_id=r21kkqcurn75ir0t)
+    iCite 26.11.19](https://icite.od.nih.gov/analysis?search_id=87lghf7z77q1eloy)
   - [Google
     Scholar](https://scholar.google.com/citations?user=JTK8FTkAAAAJ)
 
@@ -217,8 +219,7 @@ support for sequence variants.</sub>* <br>
     cells display distinct proteomic signatures associated with colony
     morphology variability*, Stem Cells International, 2019. \[PubMed\]
     \[[doi: 10.1155/2019/8036035](https://doi.org/10.1155/2019/8036035)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](http://downloads.hindawi.com/journals/sci/2019/8036035.pdf)\]
 
 2.  Qiao Z, Zheng J, Helgeland Ø, **Vaudel M**, Johansson S, Njølstad
     PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>,
@@ -269,7 +270,7 @@ support for sequence variants.</sub>* <br>
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31043758)\]
     \[[Preprint](https://doi.org/10.1101/442756)\]
     \[[doi: 10.1038/s41588-019-0403-1](https://doi.org/10.1038/s41588-019-0403-1)\]
-    \[[pdf](https://trepo.tuni.fi/bitstream/10024/117129/2/Maternal_and_fetal_genetic_effects_2019.pdf)\]
+    \[[pdf](https://trepo.tuni.fi/bitstream/10024/117129/1/maternal_and_fetal_genetic_effects_2019.pdf)\]
 
 7.  Zhang-James Y, **Vaudel M**, Mjaavatten O, Berven FS, Haavik J,
     Faraone SV, *Effect of disease-associated SLC9A9 mutations on
@@ -629,16 +630,15 @@ support for sequence variants.</sub>* <br>
     Sequencing in Proteomics*, Proteomics, 2018.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29968278)\]
     \[[doi: 10.1002/pmic.201700150](https://doi.org/10.1002/pmic.201700150)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://bora.uib.no/bitstream/1956/20984/3/De%2bnovo%2bsequencing%2breview_revised_final.pdf)\]
 
 2.  Verheggen K, Ræder H, Breven FS, Martens L<sup>:email:</sup>,
     Barsnes H, **Vaudel M**, *Anatomy and evolution of database search
     engines—a central component of mass spectrometry based proteomic
     workflows*, Mass Spectrometry Reviews, 2017.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28902424)\]
-    \[[doi: 10.1002/mas.21543](https://doi.org/10.1002/mas.21543)\] \[No
-    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
+    \[[doi: 10.1002/mas.21543](https://doi.org/10.1002/mas.21543)\]
+    \[[pdf](https://bora.uib.no/bitstream/1956/21005/4/Verheggen%2bet%2bal.%2bProteomic%2bdatabase%2bsearch%2bengines%2b-%2bfinal%2bversion.pdf)\]
 
 3.  Hernandez-Valladares M<sup>:email:</sup>, **Vaudel M**, Selheim F,
     Berven F, Bruserud Ø, *Proteogenomics approaches for studying cancer
