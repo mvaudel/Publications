@@ -174,11 +174,12 @@ getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = N
 
 This repository lists the scientific publications co-authored by [Marc Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of `r format(Sys.time(), "%d.%m.%Y")`. 
 
-- [NIH iCite 26.11.19](https://icite.od.nih.gov/analysis?search_id=87lghf7z77q1eloy)
+
+- [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
+- [NIH iCite (26.11.19)](https://icite.od.nih.gov/analysis?search_id=87lghf7z77q1eloy)
 - [Google Scholar](https://scholar.google.com/citations?user=JTK8FTkAAAAJ)
 
 <br>
-
 
 > <sup>1</sup> shared first, <sup>:email:</sup> correspondence, <sup>†</sup> shared last. 
 
@@ -267,7 +268,9 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 ## Original Articles
 
-1. Bjørlykke Y, Søviknes AM, Hoareau L, Vethe H, Mathisen AF, Chera S, **Vaudel M**, Ghila L, Ræder H<sup>:email:</sup>, _Reprogrammed cells display distinct proteomic signatures associated with colony morphology variability_, Stem Cells International, 2019. `r getLinks(journalDOI = "10.1155/2019/8036035")`
+1. Loo LSW, Vethe H, Soetedjo AAP, Paulo JA, Jasmen J, Jackson N, Bjørlykke Y, Valdez IA, **Vaudel M**, Barsnes H, Gygi SP, Ræder H, Teo AKK<sup>:email:</sup>, Kulkarni RN<sup>:email:</sup>, _Dynamic proteome profiling of human pluripotent stem cell-derived pancreatic progenitors_, Stem Cells, 2019. `r getLinks(pmid = "31828876", journalDOI = "10.1002/stem.3135")`
+
+1. Bjørlykke Y, Søviknes AM, Hoareau L, Vethe H, Mathisen AF, Chera S, **Vaudel M**, Ghila L, Ræder H<sup>:email:</sup>, _Reprogrammed cells display distinct proteomic signatures associated with colony morphology variability_, Stem Cells International, 2019. `r getLinks(pmid = "31827534", journalDOI = "10.1155/2019/8036035")`
 
 1. Qiao Z, Zheng J, Helgeland Ø, **Vaudel M**, Johansson S, Njølstad PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>, _Introducing M-GCTA a software package to estimate maternal (or paternal) genetic
 effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "31493278", journalDOI = "10.1007/s10519-019-09969-4", aam = "docs/aam/M-GCTA_R1.pdf")`
