@@ -187,7 +187,7 @@ This repository lists the scientific publications co-authored by [Marc Vaudel](h
 
 ## Five Highlighted Original Articles
 
-1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
+1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>. _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
 <table>
 <tr>
@@ -203,7 +203,7 @@ _<sub>PathwayMatcher can build biological networks of different levels of granul
 <br>
 
 
-2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, 2019. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
+2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>. _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, 2019. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
 
 <table>
 <tr>
@@ -219,7 +219,7 @@ _<sub>The association between genetic variation and phenotypes, _e.g._ with the 
 <br>
 
 
-3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. `r getLinks(pmid = "30251541", journalDOI = "10.1021/acs.jproteome.8b00464", preprintDOI = "10.1101/333492")`
+3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>. _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. `r getLinks(pmid = "30251541", journalDOI = "10.1021/acs.jproteome.8b00464", preprintDOI = "10.1101/333492")`
 
 <table>
 <tr>
@@ -235,7 +235,7 @@ _<sub>An analysis of the knowledge consolidated in the [Reactome](reactome.org) 
 <br>
 
 
-4. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. `r getLinks(pmid = "28334306", journalDOI = "10.1093/bioinformatics/btx122")`
+4. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>. _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. `r getLinks(pmid = "28334306", journalDOI = "10.1093/bioinformatics/btx122")`
 
 <table>
 <tr>
@@ -251,7 +251,7 @@ _<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequ
 <br>
 
 
-5. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. `r getLinks(pmid = "25574629", journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
+5. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H. _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. `r getLinks(pmid = "25574629", journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
 
 <table>
 <tr>
@@ -268,152 +268,154 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 ## Original Articles
 
-1. Loo LSW, Vethe H, Soetedjo AAP, Paulo JA, Jasmen J, Jackson N, Bjørlykke Y, Valdez IA, **Vaudel M**, Barsnes H, Gygi SP, Ræder H, Teo AKK<sup>:email:</sup>, Kulkarni RN<sup>:email:</sup>, _Dynamic proteome profiling of human pluripotent stem cell-derived pancreatic progenitors_, Stem Cells, 2019. `r getLinks(pmid = "31828876", journalDOI = "10.1002/stem.3135")`
+1. Aasebø E, Berven FS, Bartaula-Brevik S, Stokowy T, Hovland R, **Vaudel M**, Døskeland SO, McCormack E, Batth TS, Olsen JV, Bruserud Ø, Selheim F<sup>†</sup>, Hernandez-Valladares M<sup>†</sup>,<sup>:email:</sup>,. _Dynamic proteome profiling of human pluripotent stem cell-derived pancreatic progenitors_, Cancers, 2020. `r getLinks(pmid = "32192169", journalDOI = "10.3390/cancers12030709")`
 
-1. Bjørlykke Y, Søviknes AM, Hoareau L, Vethe H, Mathisen AF, Chera S, **Vaudel M**, Ghila L, Ræder H<sup>:email:</sup>, _Reprogrammed cells display distinct proteomic signatures associated with colony morphology variability_, Stem Cells International, 2019. `r getLinks(pmid = "31827534", journalDOI = "10.1155/2019/8036035")`
+1. Loo LSW, Vethe H, Soetedjo AAP, Paulo JA, Jasmen J, Jackson N, Bjørlykke Y, Valdez IA, **Vaudel M**, Barsnes H, Gygi SP, Ræder H, Teo AKK<sup>:email:</sup>, Kulkarni RN<sup>:email:</sup>. _Dynamic proteome profiling of human pluripotent stem cell-derived pancreatic progenitors_, Stem Cells, 2019. `r getLinks(pmid = "31828876", journalDOI = "10.1002/stem.3135")`
 
-1. Qiao Z, Zheng J, Helgeland Ø, **Vaudel M**, Johansson S, Njølstad PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>, _Introducing M-GCTA a software package to estimate maternal (or paternal) genetic
+1. Bjørlykke Y, Søviknes AM, Hoareau L, Vethe H, Mathisen AF, Chera S, **Vaudel M**, Ghila L, Ræder H<sup>:email:</sup>. _Reprogrammed cells display distinct proteomic signatures associated with colony morphology variability_, Stem Cells International, 2019. `r getLinks(pmid = "31827534", journalDOI = "10.1155/2019/8036035")`
+
+1. Qiao Z, Zheng J, Helgeland Ø, **Vaudel M**, Johansson S, Njølstad PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>. _Introducing M-GCTA a software package to estimate maternal (or paternal) genetic
 effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "31493278", journalDOI = "10.1007/s10519-019-09969-4", aam = "docs/aam/M-GCTA_R1.pdf")`
 
-1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>, _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
+1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>. _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
-1. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>, _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, 2019. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
+1. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>. _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, 2019. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
 
-1. Bradfield JP<sup>1</sup>, Vogelezang S<sup>1</sup>, …, **Vaudel M**, …, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†,:email:</sup>, _A Trans-ancestral Meta-Analysis of Genome-Wide Association Studies Reveals Loci Associated with Childhood Obesity_, Human Molecular Genetics, 2019. `r getLinks(pmid = "31504550", journalDOI = "10.1093/hmg/ddz161", aam = "docs/aam/AAV.zip")`
+1. Bradfield JP<sup>1</sup>, Vogelezang S<sup>1</sup>, …, **Vaudel M**, …, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†,:email:</sup>. _A Trans-ancestral Meta-Analysis of Genome-Wide Association Studies Reveals Loci Associated with Childhood Obesity_, Human Molecular Genetics, 2019. `r getLinks(pmid = "31504550", journalDOI = "10.1093/hmg/ddz161", aam = "docs/aam/AAV.zip")`
 
-1. Warrington MW<sup>1</sup>, Beaumont R<sup>1</sup>, Horikoshi M<sup>1</sup>, Day FR<sup>1</sup>, Helgeland Ø<sup>1</sup>, …, **Vaudel M**, …, Njølstad PR, Johansson S, Ong KK<sup>†</sup>, McCarthy MI<sup>†</sup>, Perry JRB<sup>†</sup>, Evans DM<sup>†,:email:</sup>, Freathy RM<sup>†,:email:</sup>, _Maternal and fetal genetic effects on birth weight and their relevance to cardio-metabolic risk factors_, Nature Genetics, 2019. `r getLinks(pmid = "31043758", preprintDOI = "10.1101/442756", journalDOI = "10.1038/s41588-019-0403-1")`
+1. Warrington MW<sup>1</sup>, Beaumont R<sup>1</sup>, Horikoshi M<sup>1</sup>, Day FR<sup>1</sup>, Helgeland Ø<sup>1</sup>, …, **Vaudel M**, …, Njølstad PR, Johansson S, Ong KK<sup>†</sup>, McCarthy MI<sup>†</sup>, Perry JRB<sup>†</sup>, Evans DM<sup>†,:email:</sup>, Freathy RM<sup>†,:email:</sup>. _Maternal and fetal genetic effects on birth weight and their relevance to cardio-metabolic risk factors_, Nature Genetics, 2019. `r getLinks(pmid = "31043758", preprintDOI = "10.1101/442756", journalDOI = "10.1038/s41588-019-0403-1")`
 
-1. Zhang-James Y, **Vaudel M**, Mjaavatten O, Berven FS, Haavik J, Faraone SV, _Effect of disease-associated SLC9A9 mutations on protein-protein interaction networks: implications for molecular mechanisms for ADHD and autism_, ADHD Attention Deficit and Hyperactivity Disorders, 2019. `r getLinks(pmid = "30927234", journalDOI = "10.1007/s12402-018-0281-x")`
+1. Zhang-James Y, **Vaudel M**, Mjaavatten O, Berven FS, Haavik J, Faraone SV. _Effect of disease-associated SLC9A9 mutations on protein-protein interaction networks: implications for molecular mechanisms for ADHD and autism_, ADHD Attention Deficit and Hyperactivity Disorders, 2019. `r getLinks(pmid = "30927234", journalDOI = "10.1007/s12402-018-0281-x")`
 
-1. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. `r getLinks(pmid = "30251541", preprintDOI = "10.1101/333492", journalDOI = "10.1021/acs.jproteome.8b00464")`
+1. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>. _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. `r getLinks(pmid = "30251541", preprintDOI = "10.1101/333492", journalDOI = "10.1021/acs.jproteome.8b00464")`
 
-1. Barsnes H, **Vaudel M**<sup>:email:</sup>, _SearchGUI: A Highly Adaptable Common Interface for Proteomics Search and de Novo Engines_, Journal of Proteome Research, 2018. `r getLinks(pmid = "29774740", journalDOI = "10.1021/acs.jproteome.8b00175", aam = "docs/aam/Barsnes_et_al_SearchGUI - revision.pdf")`
+1. Barsnes H, **Vaudel M**<sup>:email:</sup>. _SearchGUI: A Highly Adaptable Common Interface for Proteomics Search and de Novo Engines_, Journal of Proteome Research, 2018. `r getLinks(pmid = "29774740", journalDOI = "10.1021/acs.jproteome.8b00175", aam = "docs/aam/Barsnes_et_al_SearchGUI - revision.pdf")`
 
-1. Li K, **Vaudel M**, Zhang B, Ren Y, Wen B<sup>:email:</sup>, _PDV: an integrative proteomics data viewer_, Bioinformatics, 2018. `r getLinks(pmid = "30169737", journalDOI = "10.1093/bioinformatics/bty770", aam = "docs/aam/PDV_manuscript_final.pdf")`
+1. Li K, **Vaudel M**, Zhang B, Ren Y, Wen B<sup>:email:</sup>. _PDV: an integrative proteomics data viewer_, Bioinformatics, 2018. `r getLinks(pmid = "30169737", journalDOI = "10.1093/bioinformatics/bty770", aam = "docs/aam/PDV_manuscript_final.pdf")`
 
-1. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>, _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. `r getLinks(pmid = "28334306", journalDOI = "10.1093/bioinformatics/btx122")`
+1. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>. _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. `r getLinks(pmid = "28334306", journalDOI = "10.1093/bioinformatics/btx122")`
 
-1. Berland S, Toft Bertelsen TL, Aukrust I, Byška J, **Vaudel M**, MacAulay N, Houge G<sup>:email:</sup>, _A de novo Ser111Thr in aquaporin-4 in a patient with transient brain edema, transient heart failure, intellectual disability and slowly progressive brain dysfunction_, Molecular Case Studies, 2017. `r getLinks(pmid = "29437797", journalDOI = "10.1101/mcs.a002303")`
+1. Berland S, Toft Bertelsen TL, Aukrust I, Byška J, **Vaudel M**, MacAulay N, Houge G<sup>:email:</sup>. _A de novo Ser111Thr in aquaporin-4 in a patient with transient brain edema, transient heart failure, intellectual disability and slowly progressive brain dysfunction_, Molecular Case Studies, 2017. `r getLinks(pmid = "29437797", journalDOI = "10.1101/mcs.a002303")`
 
-1. Beaumont RN<sup>1</sup>, Warrington NM<sup>1</sup>, …, **Vaudel M**, …, Evans DM<sup>†</sup>, Lawlor DA<sup>†,:email:</sup>, Feenstra B<sup>†,:email:</sup>, Freathy RM<sup>†,:email:</sup>, _Genome-wide association study of offspring birth weight in 86,577 women highlights maternal genetic effects that are independent of fetal genetics_, Human Molecular Genetics, 2017. `r getLinks(pmid = "29309628", journalDOI = "10.1101/mcs.a002303")`
+1. Beaumont RN<sup>1</sup>, Warrington NM<sup>1</sup>, …, **Vaudel M**, …, Evans DM<sup>†</sup>, Lawlor DA<sup>†,:email:</sup>, Feenstra B<sup>†,:email:</sup>, Freathy RM<sup>†,:email:</sup>. _Genome-wide association study of offspring birth weight in 86,577 women highlights maternal genetic effects that are independent of fetal genetics_, Human Molecular Genetics, 2017. `r getLinks(pmid = "29309628", journalDOI = "10.1101/mcs.a002303")`
 
-1. Chambers MC, Jagtap PD, Johnson JE, McGowan T, Kumar P, Onsongo G, Guerrero CR, Barnses H, **Vaudel M**, Martens L, Grüning BA, Cooke IR, Heydarian M, Reddy KL, Griffin TJ<sup>:email:</sup>, _An accessible proteogenomics informatics resource for cancer researchers_, Cancer Research, 2017. `r getLinks(pmid = "29092937", journalDOI = "10.1158/0008-5472.CAN-17-0331")`
+1. Chambers MC, Jagtap PD, Johnson JE, McGowan T, Kumar P, Onsongo G, Guerrero CR, Barnses H, **Vaudel M**, Martens L, Grüning BA, Cooke IR, Heydarian M, Reddy KL, Griffin TJ<sup>:email:</sup>. _An accessible proteogenomics informatics resource for cancer researchers_, Cancer Research, 2017. `r getLinks(pmid = "29092937", journalDOI = "10.1158/0008-5472.CAN-17-0331")`
 
-1. Vizcaíno JA, Meyer G, Perkins SR, Barsnes H, **Vaudel M**, Perez-Riverol Y, Terment T, Uszkoreit J, Eineacher M, Fischer L, Rappsilber J, Netz E, Walzer M, Kohlbacher O, Leitner A, Chalkley RJ, Ghali F, Martínez-Bartolomé S, Deutsch EW, Johnes AR<sup>:email:</sup>, _The mzIdentML data standard version 1.2, supporting advances in proteome informatics_, Mol Cell Proteomics, 2017. `r getLinks(pmid = "28515314", journalDOI = "10.1074/mcp.M117.068429")`
+1. Vizcaíno JA, Meyer G, Perkins SR, Barsnes H, **Vaudel M**, Perez-Riverol Y, Terment T, Uszkoreit J, Eineacher M, Fischer L, Rappsilber J, Netz E, Walzer M, Kohlbacher O, Leitner A, Chalkley RJ, Ghali F, Martínez-Bartolomé S, Deutsch EW, Johnes AR<sup>:email:</sup>. _The mzIdentML data standard version 1.2, supporting advances in proteome informatics_, Mol Cell Proteomics, 2017. `r getLinks(pmid = "28515314", journalDOI = "10.1074/mcp.M117.068429")`
 
-1. Leprevost FdV, Aflitos SA, Grüning BA, Röst HL, Uszkoreit J, Barsnes H, **Vaudel M**, Moreno P, Gatto L, Weber J, Bai M, Jimenez RC, Sachsenberg T, Pfeufferz J, Alvarez RV, Griss J, Nesvizhskii AI, Perez-Riverol Y<sup>:email:</sup>, _BioContainers: An open-source and community-driven framework for software standardization_, Bioinformatics, 2017. `r getLinks(pmid = "28379341", journalDOI = "10.1093/bioinformatics/btx192")`
+1. Leprevost FdV, Aflitos SA, Grüning BA, Röst HL, Uszkoreit J, Barsnes H, **Vaudel M**, Moreno P, Gatto L, Weber J, Bai M, Jimenez RC, Sachsenberg T, Pfeufferz J, Alvarez RV, Griss J, Nesvizhskii AI, Perez-Riverol Y<sup>:email:</sup>. _BioContainers: An open-source and community-driven framework for software standardization_, Bioinformatics, 2017. `r getLinks(pmid = "28379341", journalDOI = "10.1093/bioinformatics/btx192")`
 
-1. Kroksveen AC<sup>:email:</sup>, Guldbrandsen A, **Vaudel M**, Lereim RR, Barsnes H, Myr KM, Torkildsen Ø, Berven FS<sup>:email:</sup>, _In-Depth Cerebrospinal Fluid Quantitative Proteome and Deglycoproteome Analysis: Presenting a Comprehensive Picture of Pathways and Processes Affected by Multiple Sclerosis_, Journal of Proteome Research, 2017. `r getLinks(pmid = "27728768", journalDOI = "10.1021/acs.jproteome.6b00659")`
+1. Kroksveen AC<sup>:email:</sup>, Guldbrandsen A, **Vaudel M**, Lereim RR, Barsnes H, Myr KM, Torkildsen Ø, Berven FS<sup>:email:</sup>. _In-Depth Cerebrospinal Fluid Quantitative Proteome and Deglycoproteome Analysis: Presenting a Comprehensive Picture of Pathways and Processes Affected by Multiple Sclerosis_, Journal of Proteome Research, 2017. `r getLinks(pmid = "27728768", journalDOI = "10.1021/acs.jproteome.6b00659")`
 
-1. Hernandez-Valladares M<sup>1,:email:</sup>, Aasebø E<sup>1</sup>, Mjaavatten O, **Vaudel M**, Bruserud Ø, Berven FS, Selheim F, _Reliable FASP-based procedures for optimal quantitative proteomic and phosphoproteomic analysis on samples from acute myeloid leukemia patients_, Biol Proced Online, 2016. `r getLinks(pmid = "27330413", journalDOI = "10.1186/s12575-016-0043-0")`
+1. Hernandez-Valladares M<sup>1,:email:</sup>, Aasebø E<sup>1</sup>, Mjaavatten O, **Vaudel M**, Bruserud Ø, Berven FS, Selheim F. _Reliable FASP-based procedures for optimal quantitative proteomic and phosphoproteomic analysis on samples from acute myeloid leukemia patients_, Biol Proced Online, 2016. `r getLinks(pmid = "27330413", journalDOI = "10.1186/s12575-016-0043-0")`
 
-1. Aasebø E<sup>1</sup>, Mjaavatten O, **Vaudel M**, Farag Y, Selheim F, Berven FS, Bruserud Ø, Hernandez-Valladares M<sup>1,:email:</sup>, _Freezing effects on the acute myeloid leukemia cell proteome and phosphoproteome revealed using optimal quantitative workflows_, Journal of Proteomics, 2016. `r getLinks(pmid = "27107777", journalDOI = "10.1016/j.jprot.2016.03.049")`
+1. Aasebø E<sup>1</sup>, Mjaavatten O, **Vaudel M**, Farag Y, Selheim F, Berven FS, Bruserud Ø, Hernandez-Valladares M<sup>1,:email:</sup>. _Freezing effects on the acute myeloid leukemia cell proteome and phosphoproteome revealed using optimal quantitative workflows_, Journal of Proteomics, 2016. `r getLinks(pmid = "27107777", journalDOI = "10.1016/j.jprot.2016.03.049")`
 
-1. Opsahl JA, **Vaudel M**, Guldbrandsen A, Aasebø E, Van Pesch V, Franciotta D, Myhr KM, Barsnes H, Berle M, Torkildsen Ø, Kroksveen AC, Berven FS<sup>:email:</sup>, _Label free analysis of human cerebrospinal fluid addressing various normalization strategies and revealing protein groups affected by multiple sclerosis_, Proteomics, 2016. `r getLinks(pmid = "26841090", journalDOI = "10.1002/pmic.201500284")`
+1. Opsahl JA, **Vaudel M**, Guldbrandsen A, Aasebø E, Van Pesch V, Franciotta D, Myhr KM, Barsnes H, Berle M, Torkildsen Ø, Kroksveen AC, Berven FS<sup>:email:</sup>. _Label free analysis of human cerebrospinal fluid addressing various normalization strategies and revealing protein groups affected by multiple sclerosis_, Proteomics, 2016. `r getLinks(pmid = "26841090", journalDOI = "10.1002/pmic.201500284")`
 
-1. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H, _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. `r getLinks(pmid = "25574629", journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
+1. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H. _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. `r getLinks(pmid = "25574629", journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
 
-1. Verheggen K, Maddelein D, Hulstaert N, Martens L<sup>:email:</sup>, Barsnes H, **Vaudel M**, _Pladipus enables universal distributed computing in proteomics bioinformatics_, Journal of Proteome Research, 2015. `r getLinks(pmid = "26510693", journalDOI = "10.1021/acs.jproteome.5b00850")`
+1. Verheggen K, Maddelein D, Hulstaert N, Martens L<sup>:email:</sup>, Barsnes H, **Vaudel M**. _Pladipus enables universal distributed computing in proteomics bioinformatics_, Journal of Proteome Research, 2015. `r getLinks(pmid = "26510693", journalDOI = "10.1021/acs.jproteome.5b00850")`
 
-1. Barsnes H<sup>:email:</sup>, **Vaudel M**, Martens L, _JSparklines: Making tabular proteomics data come alive_, Proteomics, 2015. `r getLinks(pmid = "25422159", journalDOI = "10.1002/pmic.201400356")`
+1. Barsnes H<sup>:email:</sup>, **Vaudel M**, Martens L. _JSparklines: Making tabular proteomics data come alive_, Proteomics, 2015. `r getLinks(pmid = "25422159", journalDOI = "10.1002/pmic.201400356")`
 
-1. Bjørlykke Y, Vethe H, **Vaudel M**, Barsnes H, Berven FS, Tjora E, Raeder H<sup>:email:</sup>, _Carboxyl-Ester Lipase Maturity-Onset Diabetes of the Young Disease Protein Biomarkers in Secretin-Stimulated Duodenal Juice_, Journal of Proteome Research, 2015. `r getLinks(pmid = "25369532", journalDOI = "10.1021/pr500750z")`
+1. Bjørlykke Y, Vethe H, **Vaudel M**, Barsnes H, Berven FS, Tjora E, Raeder H<sup>:email:</sup>. _Carboxyl-Ester Lipase Maturity-Onset Diabetes of the Young Disease Protein Biomarkers in Secretin-Stimulated Duodenal Juice_, Journal of Proteome Research, 2015. `r getLinks(pmid = "25369532", journalDOI = "10.1021/pr500750z")`
 
-1. Muth T<sup>1</sup>, Weilnböck L<sup>1</sup>, Rapp E, Huber CG, Martens L, **Vaudel M**<sup>:email:</sup>, Barsnes H, _DeNovoGUI: an open source graphical user interface for de novo sequencing of tandem mass spectra_, Journal of Proteome Research, 2014. `r getLinks(pmid = "24295440", journalDOI = "10.1021/pr4008078")`
+1. Muth T<sup>1</sup>, Weilnböck L<sup>1</sup>, Rapp E, Huber CG, Martens L, **Vaudel M**<sup>:email:</sup>, Barsnes H. _DeNovoGUI: an open source graphical user interface for de novo sequencing of tandem mass spectra_, Journal of Proteome Research, 2014. `r getLinks(pmid = "24295440", journalDOI = "10.1021/pr4008078")`
 
-1. Helgeland E, Breivik LE, **Vaudel M**, Svendsen OS, Garberg H, Nordrehaug JE, Berven FS, Jonassen AK<sup>:email:</sup>, _Exploring the human plasma proteome for humoral mediators of remote ischemic preconditioning - a word of caution_, PLoS One, 2014. `r getLinks(pmid = "25333471", journalDOI = "10.1371/journal.pone.0109279")`
+1. Helgeland E, Breivik LE, **Vaudel M**, Svendsen OS, Garberg H, Nordrehaug JE, Berven FS, Jonassen AK<sup>:email:</sup>. _Exploring the human plasma proteome for humoral mediators of remote ischemic preconditioning - a word of caution_, PLoS One, 2014. `r getLinks(pmid = "25333471", journalDOI = "10.1371/journal.pone.0109279")`
 
-1. Vethe H, Finne K, Skogstrand T, **Vaudel M**, Vikse BE, Hultström M, Placier S, Scherer A, Tenstad O, Marti HP<sup>:email:</sup>, _Distinct protein signature of hypertension-induced damage in the renal proteome of the two-kidney, one-clip rat model_, Journal of Hypertension, 2015. `r getLinks(pmid = "25304470", journalDOI = "10.1097/HJH.0000000000000370")`
+1. Vethe H, Finne K, Skogstrand T, **Vaudel M**, Vikse BE, Hultström M, Placier S, Scherer A, Tenstad O, Marti HP<sup>:email:</sup>. _Distinct protein signature of hypertension-induced damage in the renal proteome of the two-kidney, one-clip rat model_, Journal of Hypertension, 2015. `r getLinks(pmid = "25304470", journalDOI = "10.1097/HJH.0000000000000370")`
 
-1. Aasebø E, **Vaudel M**, Mjaavatten O, Gaudsdal G, Van der Burgh A, Gjertsen BT, Døskeland SO, Brusserud O, Berven FS, Selheim F<sup>:email:</sup>, _Performance of super-SILAC based quantitative proteomics for comparison of different acute myeloid leukemia (AML) cell lines_, Proteomics, 2014. `r getLinks(pmid = "25044641", journalDOI = "10.1002/pmic.201300448")`
+1. Aasebø E, **Vaudel M**, Mjaavatten O, Gaudsdal G, Van der Burgh A, Gjertsen BT, Døskeland SO, Brusserud O, Berven FS, Selheim F<sup>:email:</sup>. _Performance of super-SILAC based quantitative proteomics for comparison of different acute myeloid leukemia (AML) cell lines_, Proteomics, 2014. `r getLinks(pmid = "25044641", journalDOI = "10.1002/pmic.201300448")`
 
-1. **Vaudel M**, Venne S, Berven FS, Zahedi RP, Martens L, Barsnes H<sup>:email:</sup>, _Shedding light on black boxes in protein identification_, Proteomics, 2014. `r getLinks(pmid = "24678044", journalDOI = "10.1002/pmic.201300488")`
+1. **Vaudel M**, Venne S, Berven FS, Zahedi RP, Martens L, Barsnes H<sup>:email:</sup>. _Shedding light on black boxes in protein identification_, Proteomics, 2014. `r getLinks(pmid = "24678044", journalDOI = "10.1002/pmic.201300488")`
 
-1. Beck F, Geiger J, Gambaryan S, Veit J, **Vaudel M**, Nollau P, Kohlbacher O, Martens L, Walter U, Sickmann A<sup>:email:</sup>, Zahedi RP<sup>:email:</sup>, _Time-resolved characterization of cAMP/PKA-dependent signaling reveals that platelet inhibition is a concerted process involving multiple signaling pathways_, Blood, 2014. `r getLinks(pmid = "24324209", journalDOI = "10.1182/blood-2013-07-512384")`
+1. Beck F, Geiger J, Gambaryan S, Veit J, **Vaudel M**, Nollau P, Kohlbacher O, Martens L, Walter U, Sickmann A<sup>:email:</sup>, Zahedi RP<sup>:email:</sup>. _Time-resolved characterization of cAMP/PKA-dependent signaling reveals that platelet inhibition is a concerted process involving multiple signaling pathways_, Blood, 2014. `r getLinks(pmid = "24324209", journalDOI = "10.1182/blood-2013-07-512384")`
 
-1. **Vaudel M**, Breiter D, Beck F, Rahnenführer J, Martens L<sup>:email:</sup>, Zahedi RP, _D-score: a search engine independent MD-score_, Proteomics, 2013. `r getLinks(pmid = "23307401", journalDOI = "10.1002/pmic.201200408", aam = "docs/aam/D-score revised version.pdf")`
+1. **Vaudel M**, Breiter D, Beck F, Rahnenführer J, Martens L<sup>:email:</sup>, Zahedi RP. _D-score: a search engine independent MD-score_, Proteomics, 2013. `r getLinks(pmid = "23307401", journalDOI = "10.1002/pmic.201200408", aam = "docs/aam/D-score revised version.pdf")`
 
-1. Burkhart JM<sup>1</sup>, **Vaudel M**<sup>1</sup>, Gambaryan S, Radau S, Walter U, Martens L, Geiger J<sup>:email:</sup>, Sickmann A, and Zahedi RP<sup>:email:</sup>, _The first comprehensive and quantitative analysis of human platelet protein composition allows the comparative analysis of structural and functional pathways in human platelets_, Blood, 2012. `r getLinks(pmid = "22869793", journalDOI = "10.1182/blood-2012-04-416594")`
+1. Burkhart JM<sup>1</sup>, **Vaudel M**<sup>1</sup>, Gambaryan S, Radau S, Walter U, Martens L, Geiger J<sup>:email:</sup>, Sickmann A, and Zahedi RP<sup>:email:</sup>. _The first comprehensive and quantitative analysis of human platelet protein composition allows the comparative analysis of structural and functional pathways in human platelets_, Blood, 2012. `r getLinks(pmid = "22869793", journalDOI = "10.1182/blood-2012-04-416594")`
 
-1. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Radau S, Zahedi RP, Martens L<sup>:email:</sup>, Sickmann A, _Integral Quantification Accuracy estimation for Reporter Ion based quantitative proteomics (iQuARI)_, Journal of Proteome Research, 2012. `r getLinks(pmid = "22874012", journalDOI = "10.1021/pr300247u")`
+1. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Radau S, Zahedi RP, Martens L<sup>:email:</sup>, Sickmann A. _Integral Quantification Accuracy estimation for Reporter Ion based quantitative proteomics (iQuARI)_, Journal of Proteome Research, 2012. `r getLinks(pmid = "22874012", journalDOI = "10.1021/pr300247u")`
 
-1. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Breiter D, Zahedi RP, Sickmann A<sup>:email:</sup>, Martens L, _A complex standard for protein identification, designed by evolution_, Journal of Proteome Research, 2012. `r getLinks(pmid = "22489649", journalDOI = "10.1021/pr300055q")`
+1. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Breiter D, Zahedi RP, Sickmann A<sup>:email:</sup>, Martens L. _A complex standard for protein identification, designed by evolution_, Journal of Proteome Research, 2012. `r getLinks(pmid = "22489649", journalDOI = "10.1021/pr300055q")`
 
-1. **Vaudel M**<sup>1</sup>, Barsnes H<sup>1,:email:</sup>, Berven FS, Sickmann A, Martens L, _SearchGUI: an open-source graphical user interface for simultaneous OMSSA and X!Tandem searches_, Proteomics, 2011. `r getLinks(pmid = "21337703", journalDOI = "10.1002/pmic.201000595", aam = "docs/aam/Vaudel_et_al_SearchGUI_17092010.pdf")`
+1. **Vaudel M**<sup>1</sup>, Barsnes H<sup>1,:email:</sup>, Berven FS, Sickmann A, Martens L. _SearchGUI: an open-source graphical user interface for simultaneous OMSSA and X!Tandem searches_, Proteomics, 2011. `r getLinks(pmid = "21337703", journalDOI = "10.1002/pmic.201000595", aam = "docs/aam/Vaudel_et_al_SearchGUI_17092010.pdf")`
 
-1. Colaert N, Barsnes H, **Vaudel M**, Helsens K, Timmerman E, Sickmann A, Gevaert K, Martens L<sup>:email:</sup>, _Thermo-msf-parser: an open source Java library to parse and visualize Thermo Proteome Discoverer msf files_, Journal of Proteome Research, 2011. `r getLinks(pmid = "21714566", journalDOI = "10.1021/pr2005154")`
+1. Colaert N, Barsnes H, **Vaudel M**, Helsens K, Timmerman E, Sickmann A, Gevaert K, Martens L<sup>:email:</sup>. _Thermo-msf-parser: an open source Java library to parse and visualize Thermo Proteome Discoverer msf files_, Journal of Proteome Research, 2011. `r getLinks(pmid = "21714566", journalDOI = "10.1021/pr2005154")`
 
-1. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Sickmann A, Martens L<sup>:email:</sup>, Zahedi RP, _Peptide identification quality control_, Proteomics, 2011. `r getLinks(pmid = "21500347", journalDOI = "10.1002/pmic.201000704")`
+1. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Sickmann A, Martens L<sup>:email:</sup>, Zahedi RP. _Peptide identification quality control_, Proteomics, 2011. `r getLinks(pmid = "21500347", journalDOI = "10.1002/pmic.201000704")`
 
-1. Barsnes H, **Vaudel M**, Colaert N, Helsens K, Sickmann A, Berven FS, Martens L<sup>:email:</sup>, _compomics-utilities: an open-source Java library for computational proteomics_, BMC Bioinformatics, 2011. `r getLinks(pmid = "21385435", journalDOI = "10.1186/1471-2105-12-70")`
+1. Barsnes H, **Vaudel M**, Colaert N, Helsens K, Sickmann A, Berven FS, Martens L<sup>:email:</sup>. _compomics-utilities: an open-source Java library for computational proteomics_, BMC Bioinformatics, 2011. `r getLinks(pmid = "21385435", journalDOI = "10.1186/1471-2105-12-70")`
 
-1. Burkhart JM<sup>1</sup>, **Vaudel M**<sup>1</sup>, Zahedi RP, Martens L, Sickmann A<sup>:email:</sup>, _iTRAQ protein quantification: a quality-controlled workflow_, Proteomics, 2011. `r getLinks(pmid = "21328540", journalDOI = "10.1002/pmic.201000711")`
+1. Burkhart JM<sup>1</sup>, **Vaudel M**<sup>1</sup>, Zahedi RP, Martens L, Sickmann A<sup>:email:</sup>. _iTRAQ protein quantification: a quality-controlled workflow_, Proteomics, 2011. `r getLinks(pmid = "21328540", journalDOI = "10.1002/pmic.201000711")`
 
-1. Muth T, **Vaudel M**, Barsnes H, Martens L<sup>:email:</sup>, Sickmann A, _XTandem Parser: An open-source library to parse and analyse X!Tandem MS/MS search results_, Proteomics, 2010. `r getLinks(pmid = "20140905", journalDOI = "10.1002/pmic.200900759")`
+1. Muth T, **Vaudel M**, Barsnes H, Martens L<sup>:email:</sup>, Sickmann A. _XTandem Parser: An open-source library to parse and analyse X!Tandem MS/MS search results_, Proteomics, 2010. `r getLinks(pmid = "20140905", journalDOI = "10.1002/pmic.200900759")`
 
 <br>
 
 ## Outreach - Proceeding
 
-1. Njølstad PR<sup>:email:</sup>, …, **Vaudel M**, …, Stefánsson K, _Roadmap for a precision-medicine initiative in the Nordic region_, Nature Genetics, 2019. `r getLinks(pmid = "30988515", journalDOI = "10.1038/s41588-019-0391-1")`
+1. Njølstad PR<sup>:email:</sup>, …, **Vaudel M**, …, Stefánsson K. _Roadmap for a precision-medicine initiative in the Nordic region_, Nature Genetics, 2019. `r getLinks(pmid = "30988515", journalDOI = "10.1038/s41588-019-0391-1")`
 
-1. Grüning BA, Lampa S, **Vaudel M**, Blankenberg D<sup>:email:</sup>, _Software engineering for scientific big data analysis_, Gigascience, 2019. `r getLinks(pmid = "31121028", journalDOI = "10.1093/gigascience/giz054")`
+1. Grüning BA, Lampa S, **Vaudel M**, Blankenberg D<sup>:email:</sup>. _Software engineering for scientific big data analysis_, Gigascience, 2019. `r getLinks(pmid = "31121028", journalDOI = "10.1093/gigascience/giz054")`
 
-1. Willems S, bouyssié D, Deforce D, Dorfer V, Gorshkov V, Kopczynski D, Laukens K, Locard-Paulet M, Schwämml V, Uszkoreit J, Valkenborg D, **Vaudel M**, Bittremieux W<sup>:email:</sup>, _Proceedings of the EuBIC developer's meeting 2018_, Journal of Proteomics, 2018. `r getLinks(pmid = "29864591", journalDOI = "10.1016/j.jprot.2018.05.015")`
+1. Willems S, bouyssié D, Deforce D, Dorfer V, Gorshkov V, Kopczynski D, Laukens K, Locard-Paulet M, Schwämml V, Uszkoreit J, Valkenborg D, **Vaudel M**, Bittremieux W<sup>:email:</sup>. _Proceedings of the EuBIC developer's meeting 2018_, Journal of Proteomics, 2018. `r getLinks(pmid = "29864591", journalDOI = "10.1016/j.jprot.2018.05.015")`
 
-1. Willems S, Bouyssié D, David M, Locard-Paulet M, Mechtler K, Schwämmle V, Uszkoreit J, **Vaudel M**, Dorfer V<sup>:email:</sup>, _Proceedings of the EuBIC Winter School 2017_, Journal of Proteomics, 2017. `r getLinks(pmid = "28385664", journalDOI = "10.1016/j.jprot.2017.04.001")`
+1. Willems S, Bouyssié D, David M, Locard-Paulet M, Mechtler K, Schwämmle V, Uszkoreit J, **Vaudel M**, Dorfer V<sup>:email:</sup>. _Proceedings of the EuBIC Winter School 2017_, Journal of Proteomics, 2017. `r getLinks(pmid = "28385664", journalDOI = "10.1016/j.jprot.2017.04.001")`
 
-1. **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer, _The EuPA Bioinformatics Community (EuBIC) initiative_, EuPA Open Proteomics, 2016. `r getLinks(pmid = "", journalDOI = "10.1016/j.euprot.2016.03.009")`
+1. **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer. _The EuPA Bioinformatics Community (EuBIC) initiative_, EuPA Open Proteomics, 2016. `r getLinks(pmid = "", journalDOI = "10.1016/j.euprot.2016.03.009")`
 
-1. Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>, _Framtiden for biomedisinsk forskning - store endringer og nye muligheter_, Best Practice Nordic, 2016. [[Link]](https://bestprac.no/framtiden-biomedisinsk-forskning-store-endringer-gir-nye-muligheter/)
+1. Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>. _Framtiden for biomedisinsk forskning - store endringer og nye muligheter_, Best Practice Nordic, 2016. [[Link]](https://bestprac.no/framtiden-biomedisinsk-forskning-store-endringer-gir-nye-muligheter/)
 
 <br>
 
 ## Reviews
 
-1. Muth T<sup>:email:</sup>, Hartkopf F, **Vaudel M**<sup>:email:</sup>, Renard BY, _A Potential Golden Age to Come-Current Tools, Recent Use Cases, and Future Avenues for De Novo Sequencing in Proteomics_, Proteomics, 2018. `r getLinks(pmid = "29968278", journalDOI = "10.1002/pmic.201700150")`
+1. Muth T<sup>:email:</sup>, Hartkopf F, **Vaudel M**<sup>:email:</sup>, Renard BY. _A Potential Golden Age to Come-Current Tools, Recent Use Cases, and Future Avenues for De Novo Sequencing in Proteomics_, Proteomics, 2018. `r getLinks(pmid = "29968278", journalDOI = "10.1002/pmic.201700150")`
 
-1. Verheggen K, Ræder H, Breven FS, Martens L<sup>:email:</sup>, Barsnes H, **Vaudel M**, _Anatomy and evolution of database search engines—a central component of mass spectrometry based proteomic workflows_, Mass Spectrometry Reviews, 2017. `r getLinks(pmid = "28902424", journalDOI = "10.1002/mas.21543")`
+1. Verheggen K, Ræder H, Breven FS, Martens L<sup>:email:</sup>, Barsnes H, **Vaudel M**. _Anatomy and evolution of database search engines—a central component of mass spectrometry based proteomic workflows_, Mass Spectrometry Reviews, 2017. `r getLinks(pmid = "28902424", journalDOI = "10.1002/mas.21543")`
 
-1. Hernandez-Valladares M<sup>:email:</sup>, **Vaudel M**, Selheim F, Berven F, Bruserud Ø, _Proteogenomics approaches for studying cancer biology and their potential in the identification of Acute Myeloid Leukemia biomarkers_, Expert Reviews of Proteomics, 2017. `r getLinks(pmid = "28693350", journalDOI = "10.1080/14789450.2017.1352474")`
+1. Hernandez-Valladares M<sup>:email:</sup>, **Vaudel M**, Selheim F, Berven F, Bruserud Ø. _Proteogenomics approaches for studying cancer biology and their potential in the identification of Acute Myeloid Leukemia biomarkers_, Expert Reviews of Proteomics, 2017. `r getLinks(pmid = "28693350", journalDOI = "10.1080/14789450.2017.1352474")`
 
-1. **Vaudel M**, Verheggen K, Csordas A, Raeder H, Berven FS, Martens L, Vizcaíno JA, Barsnes H<sup>:email:</sup>, _Exploring the potential of public proteomics data_, Proteomics, 2015. `r getLinks(pmid = "26449181", journalDOI = "10.1002/pmic.201500295")`
+1. **Vaudel M**, Verheggen K, Csordas A, Raeder H, Berven FS, Martens L, Vizcaíno JA, Barsnes H<sup>:email:</sup>. _Exploring the potential of public proteomics data_, Proteomics, 2015. `r getLinks(pmid = "26449181", journalDOI = "10.1002/pmic.201500295")`
 
-1. **Vaudel M**<sup>:email:</sup>, Barsnes H, Bjerkvig R, Bikfalvi A, Selheim F, Berven FS, Daubon T, _Practical considerations for omics experiments in biomedical sciences_, Current Pharmaceutical Biotechnology, 2015. `r getLinks(pmid = "26278526", journalDOI = "10.2174/1389201016666150817095348")`
+1. **Vaudel M**<sup>:email:</sup>, Barsnes H, Bjerkvig R, Bikfalvi A, Selheim F, Berven FS, Daubon T. _Practical considerations for omics experiments in biomedical sciences_, Current Pharmaceutical Biotechnology, 2015. `r getLinks(pmid = "26278526", journalDOI = "10.2174/1389201016666150817095348")`
 
-1. **Vaudel M**<sup>:email:</sup>, Sickmann A, Martens L, _Introduction to opportunities and pitfalls in functional mass spectrometry based proteomics_, Biochim Biophys Acta, 2014. `r getLinks(pmid = "23845992", journalDOI = "10.1016/j.bbapap.2013.06.019")`
+1. **Vaudel M**<sup>:email:</sup>, Sickmann A, Martens L. _Introduction to opportunities and pitfalls in functional mass spectrometry based proteomics_, Biochim Biophys Acta, 2014. `r getLinks(pmid = "23845992", journalDOI = "10.1016/j.bbapap.2013.06.019")`
 
-1. **Vaudel M**, Sickmann A, Martens L<sup>:email:</sup>, _Current methods for global proteome identification_, Expert Reviews of Proteomics, 2012. `r getLinks(pmid = "23194269", journalDOI = "10.1586/epr.12.51")`
+1. **Vaudel M**, Sickmann A, Martens L<sup>:email:</sup>. _Current methods for global proteome identification_, Expert Reviews of Proteomics, 2012. `r getLinks(pmid = "23194269", journalDOI = "10.1586/epr.12.51")`
 
-1. **Vaudel M**<sup>:email:</sup>, Sickmann A, Martens L, _Peptide and protein quantification: a map of the minefield_, Proteomics, 2010. `r getLinks(pmid = "19953549", journalDOI = "10.1002/pmic.200900481")`
+1. **Vaudel M**<sup>:email:</sup>, Sickmann A, Martens L. _Peptide and protein quantification: a map of the minefield_, Proteomics, 2010. `r getLinks(pmid = "19953549", journalDOI = "10.1002/pmic.200900481")`
 
 <br>
 
 ## Book Chapters
 
-1. **Vaudel M**<sup>:email:</sup>, _Proteomics_, Processing Metabolomics and Proteomics Data, Royal Society of Chemistry, 2019. _in press_
+1. **Vaudel M**<sup>:email:</sup>. _Proteomics_, Processing Metabolomics and Proteomics Data, Royal Society of Chemistry, 2019. _in press_
 
-1. Schwämmle V<sup>:email:</sup>, **Vaudel M**, _Computational and Statistical Methods for High-Throughput Mass Spectrometry-Based PTM Analysis_, Methods in Molecular Biology: Protein Bioinformatics, Springer, 2017. `r getLinks(pmid = "28150251", journalDOI = "10.1007/978-1-4939-6783-4_21")`
+1. Schwämmle V<sup>:email:</sup>, **Vaudel M**. _Computational and Statistical Methods for High-Throughput Mass Spectrometry-Based PTM Analysis_, Methods in Molecular Biology: Protein Bioinformatics, Springer, 2017. `r getLinks(pmid = "28150251", journalDOI = "10.1007/978-1-4939-6783-4_21")`
 
-1. **Vaudel M**<sup>:email:</sup>, _MS2-Based Quantitation_, Proteome Informatics, Royal Society of Chemistry, 2016. `r getLinks(journalDOI = "10.1039/9781782626732-00155")`
+1. **Vaudel M**<sup>:email:</sup>. _MS2-Based Quantitation_, Proteome Informatics, Royal Society of Chemistry, 2016. `r getLinks(journalDOI = "10.1039/9781782626732-00155")`
 
-1. Lereim RR, Oveland E, Berven FS, **Vaudel M**<sup>:email:</sup>, Barsnes H, _Visualization, Inspection and Interpretation of Shotgun Proteomics Identification Results_, Advances in Experimental Medicine and Biology: Modern Proteomics – Sample Preparation, Analysis and Practical Applications, Springer, 2016. `r getLinks(pmid = "27975220", journalDOI = "10.1007/978-3-319-41448-5_11")`
+1. Lereim RR, Oveland E, Berven FS, **Vaudel M**<sup>:email:</sup>, Barsnes H. _Visualization, Inspection and Interpretation of Shotgun Proteomics Identification Results_, Advances in Experimental Medicine and Biology: Modern Proteomics – Sample Preparation, Analysis and Practical Applications, Springer, 2016. `r getLinks(pmid = "27975220", journalDOI = "10.1007/978-3-319-41448-5_11")`
 
-1. Muth T, Rapp E, Berven FS, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Tandem Mass Spectrum Sequencing: An Alternative to Database Search Engines in Shotgun Proteomics_, Advances in Experimental Medicine and Biology: Modern Proteomics – Sample Preparation, Analysis and Practical Applications, Springer, 2016. `r getLinks(pmid = "27975219", journalDOI = "10.1007/978-3-319-41448-5_10")`
+1. Muth T, Rapp E, Berven FS, Barsnes H, **Vaudel M**<sup>:email:</sup>. _Tandem Mass Spectrum Sequencing: An Alternative to Database Search Engines in Shotgun Proteomics_, Advances in Experimental Medicine and Biology: Modern Proteomics – Sample Preparation, Analysis and Practical Applications, Springer, 2016. `r getLinks(pmid = "27975219", journalDOI = "10.1007/978-3-319-41448-5_10")`
 
-1. Verheggen K, Martens L, Berven FS, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Database Search Engines: Paradigms, Challenges and Solutions_, Advances in Experimental Medicine and Biology: Modern Proteomics – Sample Preparation, Analysis and Practical Applications, Springer, 2016. `r getLinks(pmid = "27975215", journalDOI = "10.1007/978-3-319-41448-5_6")`
+1. Verheggen K, Martens L, Berven FS, Barsnes H, **Vaudel M**<sup>:email:</sup>. _Database Search Engines: Paradigms, Challenges and Solutions_, Advances in Experimental Medicine and Biology: Modern Proteomics – Sample Preparation, Analysis and Practical Applications, Springer, 2016. `r getLinks(pmid = "27975215", journalDOI = "10.1007/978-3-319-41448-5_6")`
 
-1. **Vaudel M**<sup>:email:</sup>, Barsnes H, Ræder H, Berven FS, _Using Proteomics Bioinformatics Tools and Resources in Proteogenomic Studies_, Advances in Experimental Medicine and Biology: Proteogenomics, Springer, 2016. `r getLinks(pmid = "27686806", journalDOI = "10.1007/978-3-319-42316-6_5")`
+1. **Vaudel M**<sup>:email:</sup>, Barsnes H, Ræder H, Berven FS. _Using Proteomics Bioinformatics Tools and Resources in Proteogenomic Studies_, Advances in Experimental Medicine and Biology: Proteogenomics, Springer, 2016. `r getLinks(pmid = "27686806", journalDOI = "10.1007/978-3-319-42316-6_5")`
 
-1. Hernández Sánchez LF, Aasebø E, Selheim F, Berven FS, Ræder H, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Systemic Analysis of Regulated Functional Networks_, Methods in Molecular Biology: Proteomics in Systems Biology, Springer, 2015. `r getLinks(pmid = "26700057", journalDOI = "10.1007/978-1-4939-3341-9_21")`
+1. Hernández Sánchez LF, Aasebø E, Selheim F, Berven FS, Ræder H, Barsnes H, **Vaudel M**<sup>:email:</sup>. _Systemic Analysis of Regulated Functional Networks_, Methods in Molecular Biology: Proteomics in Systems Biology, Springer, 2015. `r getLinks(pmid = "26700057", journalDOI = "10.1007/978-1-4939-3341-9_21")`
 
-1. Guldbrandsen A, Barsnes H, Kroksveen AC, Berven FS, **Vaudel M**<sup>:email:</sup>, _A Simple Workflow for Large Scale Shotgun Glycoproteomics_, Methods in Molecular Biology: Proteomics in Systems Biology, Springer, 2015. `r getLinks(pmid = "26700056", journalDOI = "10.1007/978-1-4939-3341-9_20")`
+1. Guldbrandsen A, Barsnes H, Kroksveen AC, Berven FS, **Vaudel M**<sup>:email:</sup>. _A Simple Workflow for Large Scale Shotgun Glycoproteomics_, Methods in Molecular Biology: Proteomics in Systems Biology, Springer, 2015. `r getLinks(pmid = "26700056", journalDOI = "10.1007/978-1-4939-3341-9_20")`
 
-1. Aasebø E, Berven FS, Selheim F, Barsnes H, **Vaudel M**<sup>:email:</sup>, _Interpretation of Quantitative Shotgun Proteomic Data_, Methods in Molecular Biology: Proteomics in Systems Biology, Springer, 2015. `r getLinks(pmid = "26700055", journalDOI = "10.1007/978-1-4939-3341-9_19")`
+1. Aasebø E, Berven FS, Selheim F, Barsnes H, **Vaudel M**<sup>:email:</sup>. _Interpretation of Quantitative Shotgun Proteomic Data_, Methods in Molecular Biology: Proteomics in Systems Biology, Springer, 2015. `r getLinks(pmid = "26700055", journalDOI = "10.1007/978-1-4939-3341-9_19")`
 
-1. **Vaudel M**<sup>:email:</sup>, Barsnes H, Martens L, Berven FS, _Bioinformatics for Proteomics: Opportunities at the interface between the scientists, their experiments and the community_, Methods in Molecular Biology: Shotgun Proteomics, Springer, 2015. `r getLinks(pmid = "24791993", journalDOI = "10.1007/978-1-4939-0685-7_16")`
+1. **Vaudel M**<sup>:email:</sup>, Barsnes H, Martens L, Berven FS. _Bioinformatics for Proteomics: Opportunities at the interface between the scientists, their experiments and the community_, Methods in Molecular Biology: Shotgun Proteomics, Springer, 2015. `r getLinks(pmid = "24791993", journalDOI = "10.1007/978-1-4939-0685-7_16")`
 
-1. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Zahedi RP, Martens L, Sickmann A<sup>:email:</sup>, _iTRAQ data interpretation_, Methods in Molecular Biology: Quantitative Methods in Proteomics, Springer, 2012. `r getLinks(pmid = "22665319", journalDOI = "10.1007/978-1-61779-885-6_30")`
+1. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Zahedi RP, Martens L, Sickmann A<sup>:email:</sup>. _iTRAQ data interpretation_, Methods in Molecular Biology: Quantitative Methods in Proteomics, Springer, 2012. `r getLinks(pmid = "22665319", journalDOI = "10.1007/978-1-61779-885-6_30")`
 
 <br>
 
