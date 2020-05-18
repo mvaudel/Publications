@@ -709,8 +709,11 @@ support for sequence variants.</sub>* <br>
 ## Book Chapters
 
 1.  **Vaudel M**<sup>:email:</sup>. *Proteomics*, Processing
-    Metabolomics and Proteomics Data, Royal Society of Chemistry, 2019.
-    *in press*
+    Metabolomics and Proteomics Data with Open Software: A Practical
+    Guide, 2019. \[PubMed\]
+    \[[doi: 10.1039/9781788019880-00096](https://doi.org/10.1039/9781788019880-00096)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
 
 2.  Schwämmle V<sup>:email:</sup>, **Vaudel M**. *Computational and
     Statistical Methods for High-Throughput Mass Spectrometry-Based PTM

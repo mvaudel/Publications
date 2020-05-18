@@ -393,7 +393,7 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 ## Book Chapters
 
-1. **Vaudel M**<sup>:email:</sup>. _Proteomics_, Processing Metabolomics and Proteomics Data, Royal Society of Chemistry, 2019. _in press_
+1. **Vaudel M**<sup>:email:</sup>. _Proteomics_, Processing Metabolomics and Proteomics Data with Open Software: A Practical Guide, 2019. `r getLinks(journalDOI = "10.1039/9781788019880-00096")`
 
 1. Schwämmle V<sup>:email:</sup>, **Vaudel M**. _Computational and Statistical Methods for High-Throughput Mass Spectrometry-Based PTM Analysis_, Methods in Molecular Biology: Protein Bioinformatics, Springer, 2017. `r getLinks(pmid = "28150251", journalDOI = "10.1007/978-1-4939-6783-4_21")`
 
