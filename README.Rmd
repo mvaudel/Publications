@@ -268,6 +268,8 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 ## Original Articles
 
+1. Smajlagić D, Lavrichenko K, Berland S, Helgeland Ø, Knudsen GP, **Vaudel M**, Haavik J, Knappskog PM, Njølstad PR, Houge G, Johansson S<sup>:email:</sup>. _Population prevalence and inheritance pattern of recurrent CNVs associated with neurodevelopmental disorders in 12,252 newborns and their parents_, European Journal of Human Genetics, 2020. `r getLinks(pmid = " 32778765", journalDOI = " 10.1038/s41431-020-00707-7 ")`
+
 1. Aasebø E, Berven FS, Bartaula-Brevik S, Stokowy T, Hovland R, **Vaudel M**, Døskeland SO, McCormack E, Batth TS, Olsen JV, Bruserud Ø, Selheim F<sup>†</sup>, Hernandez-Valladares M<sup>†</sup>,<sup>:email:</sup>,. _Dynamic proteome profiling of human pluripotent stem cell-derived pancreatic progenitors_, Cancers, 2020. `r getLinks(pmid = "32192169", journalDOI = "10.3390/cancers12030709")`
 
 1. Loo LSW, Vethe H, Soetedjo AAP, Paulo JA, Jasmen J, Jackson N, Bjørlykke Y, Valdez IA, **Vaudel M**, Barsnes H, Gygi SP, Ræder H, Teo AKK<sup>:email:</sup>, Kulkarni RN<sup>:email:</sup>. _Dynamic proteome profiling of human pluripotent stem cell-derived pancreatic progenitors_, Stem Cells, 2019. `r getLinks(pmid = "31828876", journalDOI = "10.1002/stem.3135")`
