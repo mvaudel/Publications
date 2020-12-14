@@ -10,6 +10,7 @@ output:
 
 ```{r libraries, warning=FALSE, results='hide', message=FALSE, echo=FALSE}
 
+library(conflicted)
 library(roadoi)
 
 ```
@@ -176,7 +177,7 @@ This repository lists the scientific publications co-authored by [Marc Vaudel](h
 
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
-- [NIH iCite (26.11.19)](https://icite.od.nih.gov/analysis?search_id=87lghf7z77q1eloy)
+- [NIH iCite](https://icite.od.nih.gov/analysis?search_id=87lghf7z77q1eloy)
 - [Google Scholar](https://scholar.google.com/citations?user=JTK8FTkAAAAJ)
 
 <br>
@@ -184,6 +185,8 @@ This repository lists the scientific publications co-authored by [Marc Vaudel](h
 > <sup>1</sup> shared first, <sup>:email:</sup> correspondence, <sup>†</sup> shared last. 
 
 <br>
+
+Note: for the sake of brevity, author lists might be trimmed.
 
 ## Five Highlighted Original Articles
 
@@ -268,7 +271,13 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 ## Original Articles
 
-1. Smajlagić D, Lavrichenko K, Berland S, Helgeland Ø, Knudsen GP, **Vaudel M**, Haavik J, Knappskog PM, Njølstad PR, Houge G, Johansson S<sup>:email:</sup>. _Population prevalence and inheritance pattern of recurrent CNVs associated with neurodevelopmental disorders in 12,252 newborns and their parents_, European Journal of Human Genetics, 2020. `r getLinks(pmid = " 32778765", journalDOI = " 10.1038/s41431-020-00707-7 ")`
+1. Sole-Navais P<sup>:email:</sup>, Bacelis J, Helgeland Ø, Modzelewska D, Vaudel M, Flatley C, Andreassen O, Njølstad PR, Muglia LJ, Johansson S, Zhang G, Jacobsson B. _Autozygosity mapping and time-to-spontaneous delivery in Norwegian parent-offspring trios_, Human Molecular Genetics, 2020. `r getLinks(pmid = "33291140", journalDOI = "10.1093/hmg/ddaa255")`
+
+1. Gupta MK, Vethe H, Softic S, Rao TN, Wagh V, Shirakawa J, Barsnes H, Vaudel M, Takatani T, Kahraman S, Sakaguchi M, Martinez R, Hu J, Bjørlykke Y, Raeder H, Kulkarni RN<sup>:email:</sup>. _Leptin Receptor Signaling Regulates Protein Synthesis Pathways and Neuronal Differentiation in Pluripotent Stem Cells_, Stem Cell Reports, 2020. `r getLinks(pmid = "33125875", journalDOI = "10.1016/j.stemcr.2020.10.001")`
+
+1. Vogelezang S<sup>1</sup>, Bradfield JP<sup>1</sup>, …, **Vaudel M**, …, Early Growth Genetics Consortium, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†</sup>, Felix JF<sup>†,:email:</sup>. _Novel loci for childhood body mass index and shared heritability with adult cardiometabolic traits_, PLoS Genetics, 2020. `r getLinks(pmid = "33045005", journalDOI = "10.1371/journal.pgen.1008718")`
+
+1. Smajlagić D, Lavrichenko K, Berland S, Helgeland Ø, Knudsen GP, **Vaudel M**, Haavik J, Knappskog PM, Njølstad PR, Houge G, Johansson S<sup>:email:</sup>. _Population prevalence and inheritance pattern of recurrent CNVs associated with neurodevelopmental disorders in 12,252 newborns and their parents_, European Journal of Human Genetics, 2020. `r getLinks(pmid = "32778765", journalDOI = "10.1038/s41431-020-00707-7")`
 
 1. Aasebø E, Berven FS, Bartaula-Brevik S, Stokowy T, Hovland R, **Vaudel M**, Døskeland SO, McCormack E, Batth TS, Olsen JV, Bruserud Ø, Selheim F<sup>†</sup>, Hernandez-Valladares M<sup>†</sup>,<sup>:email:</sup>,. _Dynamic proteome profiling of human pluripotent stem cell-derived pancreatic progenitors_, Cancers, 2020. `r getLinks(pmid = "32192169", journalDOI = "10.3390/cancers12030709")`
 
@@ -358,6 +367,8 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 <br>
 
 ## Outreach - Proceeding
+
+1. Burger B<sup>:email:</sup>, **Vaudel M**<sup>:email:</sup>, Barsnes H. _Importance of Block Randomization When Designing Proteomics Experiments_, Journal of Proteome Research, 2020. `r getLinks(pmid = " 32969222", journalDOI = "10.1021/acs.jproteome.0c00536")`
 
 1. Njølstad PR<sup>:email:</sup>, …, **Vaudel M**, …, Stefánsson K. _Roadmap for a precision-medicine initiative in the Nordic region_, Nature Genetics, 2019. `r getLinks(pmid = "30988515", journalDOI = "10.1038/s41588-019-0391-1")`
 
