@@ -217,7 +217,7 @@ support for sequence variants.</sub>* <br>
 ## Original Articles
 
 1.  Sole-Navais P<sup>:email:</sup>, Bacelis J, Helgeland Ø, Modzelewska
-    D, Vaudel M, Flatley C, Andreassen O, Njølstad PR, Muglia LJ,
+    D, **Vaudel M**, Flatley C, Andreassen O, Njølstad PR, Muglia LJ,
     Johansson S, Zhang G, Jacobsson B. *Autozygosity mapping and
     time-to-spontaneous delivery in Norwegian parent-offspring trios*,
     Human Molecular Genetics, 2020.
@@ -226,7 +226,7 @@ support for sequence variants.</sub>* <br>
     \[[pdf](https://academic.oup.com/hmg/advance-article-pdf/doi/10.1093/hmg/ddaa255/34784610/ddaa255.pdf)\]
 
 2.  Gupta MK, Vethe H, Softic S, Rao TN, Wagh V, Shirakawa J, Barsnes H,
-    Vaudel M, Takatani T, Kahraman S, Sakaguchi M, Martinez R, Hu J,
+    **Vaudel M**, Takatani T, Kahraman S, Sakaguchi M, Martinez R, Hu J,
     Bjørlykke Y, Raeder H, Kulkarni RN<sup>:email:</sup>. *Leptin
     Receptor Signaling Regulates Protein Synthesis Pathways and Neuronal
     Differentiation in Pluripotent Stem Cells*, Stem Cell Reports, 2020.
@@ -256,9 +256,8 @@ support for sequence variants.</sub>* <br>
 5.  Aasebø E, Berven FS, Bartaula-Brevik S, Stokowy T, Hovland R,
     **Vaudel M**, Døskeland SO, McCormack E, Batth TS, Olsen JV,
     Bruserud Ø, Selheim F<sup>†</sup>, Hernandez-Valladares
-    M<sup>†</sup>,<sup>:email:</sup>,. *Dynamic proteome profiling of
-    human pluripotent stem cell-derived pancreatic progenitors*,
-    Cancers, 2020.
+    M<sup>†,:email:</sup>. *Proteome and Phosphoproteome Changes
+    Associated with Prognosis in Acute Myeloid Leukemia*, Cancers, 2020.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/32192169)\]
     \[[doi: 10.3390/cancers12030709](https://doi.org/10.3390/cancers12030709)\]
     \[[pdf](https://www.mdpi.com/2072-6694/12/3/709/pdf)\]
@@ -633,8 +632,8 @@ support for sequence variants.</sub>* <br>
 ## Outreach - Proceeding
 
 1.  Burger B<sup>:email:</sup>, **Vaudel M**<sup>:email:</sup>, Barsnes
-    H. \_Importance of Block Randomization When Designing Proteomics
-    Experiments\_Journal of Proteome Research, 2020.
+    H. *Importance of Block Randomization When Designing Proteomics
+    Experiments*, Journal of Proteome Research, 2020.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/%2032969222)\]
     \[[doi: 10.1021/acs.jproteome.0c00536](https://doi.org/10.1021/acs.jproteome.0c00536)\]
     \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00536)\]

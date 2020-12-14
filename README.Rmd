@@ -271,15 +271,15 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 ## Original Articles
 
-1. Sole-Navais P<sup>:email:</sup>, Bacelis J, Helgeland Ø, Modzelewska D, Vaudel M, Flatley C, Andreassen O, Njølstad PR, Muglia LJ, Johansson S, Zhang G, Jacobsson B. _Autozygosity mapping and time-to-spontaneous delivery in Norwegian parent-offspring trios_, Human Molecular Genetics, 2020. `r getLinks(pmid = "33291140", journalDOI = "10.1093/hmg/ddaa255")`
+1. Sole-Navais P<sup>:email:</sup>, Bacelis J, Helgeland Ø, Modzelewska D, **Vaudel M**, Flatley C, Andreassen O, Njølstad PR, Muglia LJ, Johansson S, Zhang G, Jacobsson B. _Autozygosity mapping and time-to-spontaneous delivery in Norwegian parent-offspring trios_, Human Molecular Genetics, 2020. `r getLinks(pmid = "33291140", journalDOI = "10.1093/hmg/ddaa255")`
 
-1. Gupta MK, Vethe H, Softic S, Rao TN, Wagh V, Shirakawa J, Barsnes H, Vaudel M, Takatani T, Kahraman S, Sakaguchi M, Martinez R, Hu J, Bjørlykke Y, Raeder H, Kulkarni RN<sup>:email:</sup>. _Leptin Receptor Signaling Regulates Protein Synthesis Pathways and Neuronal Differentiation in Pluripotent Stem Cells_, Stem Cell Reports, 2020. `r getLinks(pmid = "33125875", journalDOI = "10.1016/j.stemcr.2020.10.001")`
+1. Gupta MK, Vethe H, Softic S, Rao TN, Wagh V, Shirakawa J, Barsnes H, **Vaudel M**, Takatani T, Kahraman S, Sakaguchi M, Martinez R, Hu J, Bjørlykke Y, Raeder H, Kulkarni RN<sup>:email:</sup>. _Leptin Receptor Signaling Regulates Protein Synthesis Pathways and Neuronal Differentiation in Pluripotent Stem Cells_, Stem Cell Reports, 2020. `r getLinks(pmid = "33125875", journalDOI = "10.1016/j.stemcr.2020.10.001")`
 
 1. Vogelezang S<sup>1</sup>, Bradfield JP<sup>1</sup>, …, **Vaudel M**, …, Early Growth Genetics Consortium, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†</sup>, Felix JF<sup>†,:email:</sup>. _Novel loci for childhood body mass index and shared heritability with adult cardiometabolic traits_, PLoS Genetics, 2020. `r getLinks(pmid = "33045005", journalDOI = "10.1371/journal.pgen.1008718")`
 
 1. Smajlagić D, Lavrichenko K, Berland S, Helgeland Ø, Knudsen GP, **Vaudel M**, Haavik J, Knappskog PM, Njølstad PR, Houge G, Johansson S<sup>:email:</sup>. _Population prevalence and inheritance pattern of recurrent CNVs associated with neurodevelopmental disorders in 12,252 newborns and their parents_, European Journal of Human Genetics, 2020. `r getLinks(pmid = "32778765", journalDOI = "10.1038/s41431-020-00707-7")`
 
-1. Aasebø E, Berven FS, Bartaula-Brevik S, Stokowy T, Hovland R, **Vaudel M**, Døskeland SO, McCormack E, Batth TS, Olsen JV, Bruserud Ø, Selheim F<sup>†</sup>, Hernandez-Valladares M<sup>†</sup>,<sup>:email:</sup>,. _Dynamic proteome profiling of human pluripotent stem cell-derived pancreatic progenitors_, Cancers, 2020. `r getLinks(pmid = "32192169", journalDOI = "10.3390/cancers12030709")`
+1. Aasebø E, Berven FS, Bartaula-Brevik S, Stokowy T, Hovland R, **Vaudel M**, Døskeland SO, McCormack E, Batth TS, Olsen JV, Bruserud Ø, Selheim F<sup>†</sup>, Hernandez-Valladares M<sup>†,:email:</sup>. _Proteome and Phosphoproteome Changes Associated with Prognosis in Acute Myeloid Leukemia_, Cancers, 2020. `r getLinks(pmid = "32192169", journalDOI = "10.3390/cancers12030709")`
 
 1. Loo LSW, Vethe H, Soetedjo AAP, Paulo JA, Jasmen J, Jackson N, Bjørlykke Y, Valdez IA, **Vaudel M**, Barsnes H, Gygi SP, Ræder H, Teo AKK<sup>:email:</sup>, Kulkarni RN<sup>:email:</sup>. _Dynamic proteome profiling of human pluripotent stem cell-derived pancreatic progenitors_, Stem Cells, 2019. `r getLinks(pmid = "31828876", journalDOI = "10.1002/stem.3135")`
 
