@@ -6,7 +6,9 @@ Marc Vaudel
 [![DOI](https://zenodo.org/badge/200110790.svg)](https://zenodo.org/badge/latestdoi/200110790)
 
 This repository lists the scientific publications co-authored by [Marc
-Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 14.12.2020.
+Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 16.03.2021.
+Note: For the sake of brevity, some author lists are truncated as
+indicated with `...`, apologies if your name went missing.
 
   - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
   - [NIH
@@ -147,8 +149,7 @@ affect the interpretation of biomedical (proteomics) data?</sub>* <br>
     Bioinformatics, 2017.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)\]
     \[[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://academic.oup.com/bioinformatics/article-pdf/33/13/2042/25155905/btx122.pdf)\]
 
 <table>
 
@@ -216,16 +217,31 @@ support for sequence variants.</sub>* <br>
 
 ## Original Articles
 
-1.  Sole-Navais P<sup>:email:</sup>, Bacelis J, Helgeland Ø, Modzelewska
+1.  Eriksson D<sup>1</sup>, Røyrvik EC<sup>1</sup>, Aranda-Guillén
+    M<sup>1</sup>, Berger AH, Landegren N, Artaza H, Hallgren Å, Grytaas
+    MA, Ström S, Bratland E, Botusan IR, Oftedal BE, Breivik L, **Vaudel
+    M**, Helgeland Ø, Falorni A, Jørgensen AP, Hulting A-L, Svartberg J,
+    Ekwall O, Fougner KJ, Wahlberg J, Nedrebø BG, Dahlqvist P, The
+    Norwegian Addison Registry Study Group, The Swedish Addison Registry
+    Study Group, Knappskog PM, Bøe AS, Bensing S, Johansson
+    S<sup>†</sup>, Kämpe O<sup>†,:email:</sup>, Husebye
+    ES<sup>†,:email:</sup>. *GWAS for autoimmune Addison’s disease
+    identifies multiple risk loci and highlights AIRE in disease
+    susceptibility*, Nature Communications, 2021.
+    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/33574239)\]
+    \[[doi: 10.1038/s41467-021-21015-8](https://doi.org/10.1038/s41467-021-21015-8)\]
+    \[[pdf](https://www.nature.com/articles/s41467-021-21015-8.pdf)\]
+
+2.  Sole-Navais P<sup>:email:</sup>, Bacelis J, Helgeland Ø, Modzelewska
     D, **Vaudel M**, Flatley C, Andreassen O, Njølstad PR, Muglia LJ,
     Johansson S, Zhang G, Jacobsson B. *Autozygosity mapping and
     time-to-spontaneous delivery in Norwegian parent-offspring trios*,
     Human Molecular Genetics, 2020.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/33291140)\]
     \[[doi: 10.1093/hmg/ddaa255](https://doi.org/10.1093/hmg/ddaa255)\]
-    \[[pdf](https://academic.oup.com/hmg/advance-article-pdf/doi/10.1093/hmg/ddaa255/34784610/ddaa255.pdf)\]
+    \[[pdf](https://academic.oup.com/hmg/article-pdf/29/23/3845/36194738/ddaa255.pdf)\]
 
-2.  Gupta MK, Vethe H, Softic S, Rao TN, Wagh V, Shirakawa J, Barsnes H,
+3.  Gupta MK, Vethe H, Softic S, Rao TN, Wagh V, Shirakawa J, Barsnes H,
     **Vaudel M**, Takatani T, Kahraman S, Sakaguchi M, Martinez R, Hu J,
     Bjørlykke Y, Raeder H, Kulkarni RN<sup>:email:</sup>. *Leptin
     Receptor Signaling Regulates Protein Synthesis Pathways and Neuronal
@@ -234,16 +250,16 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1016/j.stemcr.2020.10.001](https://doi.org/10.1016/j.stemcr.2020.10.001)\]
     \[[pdf](http://www.cell.com/article/S2213671120303866/pdf)\]
 
-3.  Vogelezang S<sup>1</sup>, Bradfield JP<sup>1</sup>, …, **Vaudel M**,
+4.  Vogelezang S<sup>1</sup>, Bradfield JP<sup>1</sup>, …, **Vaudel M**,
     …, Early Growth Genetics Consortium, Jaddoe VWV<sup>†</sup>, Grant
     SFA<sup>†</sup>, Felix JF<sup>†,:email:</sup>. *Novel loci for
     childhood body mass index and shared heritability with adult
     cardiometabolic traits*, PLoS Genetics, 2020.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/33045005)\]
     \[[doi: 10.1371/journal.pgen.1008718](https://doi.org/10.1371/journal.pgen.1008718)\]
-    \[[pdf](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1008718&type=printable)\]
+    \[[pdf](https://doi.org/10.1371/journal.pgen.1008718)\]
 
-4.  Smajlagić D, Lavrichenko K, Berland S, Helgeland Ø, Knudsen GP,
+5.  Smajlagić D, Lavrichenko K, Berland S, Helgeland Ø, Knudsen GP,
     **Vaudel M**, Haavik J, Knappskog PM, Njølstad PR, Houge G,
     Johansson S<sup>:email:</sup>. *Population prevalence and
     inheritance pattern of recurrent CNVs associated with
@@ -253,7 +269,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1038/s41431-020-00707-7](https://doi.org/10.1038/s41431-020-00707-7)\]
     \[[pdf](https://www.nature.com/articles/s41431-020-00707-7.pdf)\]
 
-5.  Aasebø E, Berven FS, Bartaula-Brevik S, Stokowy T, Hovland R,
+6.  Aasebø E, Berven FS, Bartaula-Brevik S, Stokowy T, Hovland R,
     **Vaudel M**, Døskeland SO, McCormack E, Batth TS, Olsen JV,
     Bruserud Ø, Selheim F<sup>†</sup>, Hernandez-Valladares
     M<sup>†,:email:</sup>. *Proteome and Phosphoproteome Changes
@@ -262,7 +278,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.3390/cancers12030709](https://doi.org/10.3390/cancers12030709)\]
     \[[pdf](https://www.mdpi.com/2072-6694/12/3/709/pdf)\]
 
-6.  Loo LSW, Vethe H, Soetedjo AAP, Paulo JA, Jasmen J, Jackson N,
+7.  Loo LSW, Vethe H, Soetedjo AAP, Paulo JA, Jasmen J, Jackson N,
     Bjørlykke Y, Valdez IA, **Vaudel M**, Barsnes H, Gygi SP, Ræder H,
     Teo AKK<sup>:email:</sup>, Kulkarni RN<sup>:email:</sup>. *Dynamic
     proteome profiling of human pluripotent stem cell-derived pancreatic
@@ -271,24 +287,24 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1002/stem.3135](https://doi.org/10.1002/stem.3135)\]
     \[[pdf](http://europepmc.org/articles/pmc7289403?pdf=render)\]
 
-7.  Bjørlykke Y, Søviknes AM, Hoareau L, Vethe H, Mathisen AF, Chera S,
+8.  Bjørlykke Y, Søviknes AM, Hoareau L, Vethe H, Mathisen AF, Chera S,
     **Vaudel M**, Ghila L, Ræder H<sup>:email:</sup>. *Reprogrammed
     cells display distinct proteomic signatures associated with colony
     morphology variability*, Stem Cells International, 2019.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31827534)\]
     \[[doi: 10.1155/2019/8036035](https://doi.org/10.1155/2019/8036035)\]
-    \[[pdf](http://downloads.hindawi.com/journals/sci/2019/8036035.pdf)\]
+    \[[pdf](https://doi.org/10.1155/2019/8036035)\]
 
-8.  Qiao Z, Zheng J, Helgeland Ø, **Vaudel M**, Johansson S, Njølstad
+9.  Qiao Z, Zheng J, Helgeland Ø, **Vaudel M**, Johansson S, Njølstad
     PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>.
     *Introducing M-GCTA a software package to estimate maternal (or
     paternal) genetic effects on offspring phenotypes*, Behavior
     Genetics, 2019.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31493278)\]
     \[[doi: 10.1007/s10519-019-09969-4](https://doi.org/10.1007/s10519-019-09969-4)\]
-    \[[pdf](https://espace.library.uq.edu.au/view/UQ:2ce0c5e/M-GCTA_R1_Accepted.pdf)\]
+    \[[pdf](https://research-information.bris.ac.uk/ws/files/207903720/M_GCTA_R1.pdf)\]
 
-9.  Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
+10. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
     Njølstad PR, Barsnes H, Hermjakob H, **Vaudel
     M**<sup>:email:</sup>. *PathwayMatcher: proteoform-centric network
     construction enables fine-granularity multi-omics pathway mapping*,
@@ -298,7 +314,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1093/gigascience/giz088](https://doi.org/10.1093/gigascience/giz088)\]
     \[[pdf](https://academic.oup.com/gigascience/article-pdf/8/8/giz088/29020604/giz088.pdf)\]
 
-10. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson
+11. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson
     S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>. *Genome-wide
     association study reveals a dynamic role of common genetic variation
     in infant and early childhood growth*, Nature Communications, 2019.
@@ -307,7 +323,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1038/s41467-019-12308-0](https://doi.org/10.1038/s41467-019-12308-0)\]
     \[[pdf](https://www.nature.com/articles/s41467-019-12308-0.pdf)\]
 
-11. Bradfield JP<sup>1</sup>, Vogelezang S<sup>1</sup>, …, **Vaudel M**,
+12. Bradfield JP<sup>1</sup>, Vogelezang S<sup>1</sup>, …, **Vaudel M**,
     …, Jaddoe VWV<sup>†</sup>, Grant SFA<sup>†,:email:</sup>. *A
     Trans-ancestral Meta-Analysis of Genome-Wide Association Studies
     Reveals Loci Associated with Childhood Obesity*, Human Molecular
@@ -316,7 +332,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1093/hmg/ddz161](https://doi.org/10.1093/hmg/ddz161)\]
     \[[pdf](https://erepo.uef.fi/bitstream/123456789/7860/2/1575979386684725654.pdf)\]
 
-12. Warrington MW<sup>1</sup>, Beaumont R<sup>1</sup>, Horikoshi
+13. Warrington MW<sup>1</sup>, Beaumont R<sup>1</sup>, Horikoshi
     M<sup>1</sup>, Day FR<sup>1</sup>, Helgeland Ø<sup>1</sup>, …,
     **Vaudel M**, …, Njølstad PR, Johansson S, Ong KK<sup>†</sup>,
     McCarthy MI<sup>†</sup>, Perry JRB<sup>†</sup>, Evans
@@ -326,9 +342,9 @@ support for sequence variants.</sub>* <br>
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31043758)\]
     \[[Preprint](https://doi.org/10.1101/442756)\]
     \[[doi: 10.1038/s41588-019-0403-1](https://doi.org/10.1038/s41588-019-0403-1)\]
-    \[[pdf](https://helda.helsinki.fi/bitstream/10138/321964/1/s41588_019_0403_1.pdf)\]
+    \[[pdf](http://europepmc.org/articles/pmc6522365?pdf=render)\]
 
-13. Zhang-James Y, **Vaudel M**, Mjaavatten O, Berven FS, Haavik J,
+14. Zhang-James Y, **Vaudel M**, Mjaavatten O, Berven FS, Haavik J,
     Faraone SV. *Effect of disease-associated SLC9A9 mutations on
     protein-protein interaction networks: implications for molecular
     mechanisms for ADHD and autism*, ADHD Attention Deficit and
@@ -338,7 +354,7 @@ support for sequence variants.</sub>* <br>
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
-14. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel
+15. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel
     M**<sup>:email:</sup>. *Analyzing the Structure of Pathways and Its
     Influence on the Interpretation of Biomedical Proteomics Data Sets*,
     Journal of Proteome Research, 2018.
@@ -347,29 +363,28 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1021/acs.jproteome.8b00464](https://doi.org/10.1021/acs.jproteome.8b00464)\]
     \[[pdf](https://bora.uib.no/bora-xmlui/bitstream/1956/22539/4/Burger%2bet%2bal.%2bAnalysing%2bthe%2bstructure%2bof%2bpathways%2band%2bits%2binfluence%2bon%2bthe%2binterpretation%2bof%2bbiomedical%2bdatasets%2b%2528postprint%2529.pdf)\]
 
-15. Barsnes H, **Vaudel M**<sup>:email:</sup>. *SearchGUI: A Highly
+16. Barsnes H, **Vaudel M**<sup>:email:</sup>. *SearchGUI: A Highly
     Adaptable Common Interface for Proteomics Search and de Novo
     Engines*, Journal of Proteome Research, 2018.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29774740)\]
     \[[doi: 10.1021/acs.jproteome.8b00175](https://doi.org/10.1021/acs.jproteome.8b00175)\]
-    \[[pdf](https://bora.uib.no/bitstream/1956/22093/4/Barsnes%2bet%2bal.%2bSearchGUI%2b%2528postprint%2529.pdf)\]
+    \[[pdf](https://bora.uib.no/bora-xmlui/bitstream/1956/22093/4/Barsnes%2bet%2bal.%2bSearchGUI%2b%2528postprint%2529.pdf)\]
 
-16. Li K, **Vaudel M**, Zhang B, Ren Y, Wen B<sup>:email:</sup>. *PDV:
+17. Li K, **Vaudel M**, Zhang B, Ren Y, Wen B<sup>:email:</sup>. *PDV:
     an integrative proteomics data viewer*, Bioinformatics, 2018.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30169737)\]
     \[[doi: 10.1093/bioinformatics/bty770](https://doi.org/10.1093/bioinformatics/bty770)\]
     \[[pdf](http://europepmc.org/articles/pmc6821182?pdf=render)\]
 
-17. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel
+18. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel
     M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>. *PeptideMapper:
     Efficient and Versatile Amino Acid Sequence and Tag Mapping*,
     Bioinformatics, 2017.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28334306)\]
     \[[doi: 10.1093/bioinformatics/btx122](https://doi.org/10.1093/bioinformatics/btx122)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://academic.oup.com/bioinformatics/article-pdf/33/13/2042/25155905/btx122.pdf)\]
 
-18. Berland S, Toft Bertelsen TL, Aukrust I, Byška J, **Vaudel M**,
+19. Berland S, Toft Bertelsen TL, Aukrust I, Byška J, **Vaudel M**,
     MacAulay N, Houge G<sup>:email:</sup>. *A de novo Ser111Thr in
     aquaporin-4 in a patient with transient brain edema, transient heart
     failure, intellectual disability and slowly progressive brain
@@ -378,7 +393,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1101/mcs.a002303](https://doi.org/10.1101/mcs.a002303)\]
     \[[pdf](http://molecularcasestudies.cshlp.org/content/4/1/a002303.full.pdf)\]
 
-19. Beaumont RN<sup>1</sup>, Warrington NM<sup>1</sup>, …, **Vaudel M**,
+20. Beaumont RN<sup>1</sup>, Warrington NM<sup>1</sup>, …, **Vaudel M**,
     …, Evans DM<sup>†</sup>, Lawlor DA<sup>†,:email:</sup>, Feenstra
     B<sup>†,:email:</sup>, Freathy RM<sup>†,:email:</sup>. *Genome-wide
     association study of offspring birth weight in 86,577 women
@@ -388,7 +403,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1101/mcs.a002303](https://doi.org/10.1101/mcs.a002303)\]
     \[[pdf](http://molecularcasestudies.cshlp.org/content/4/1/a002303.full.pdf)\]
 
-20. Chambers MC, Jagtap PD, Johnson JE, McGowan T, Kumar P, Onsongo G,
+21. Chambers MC, Jagtap PD, Johnson JE, McGowan T, Kumar P, Onsongo G,
     Guerrero CR, Barnses H, **Vaudel M**, Martens L, Grüning BA, Cooke
     IR, Heydarian M, Reddy KL, Griffin TJ<sup>:email:</sup>. *An
     accessible proteogenomics informatics resource for cancer
@@ -397,7 +412,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1158/0008-5472.CAN-17-0331](https://doi.org/10.1158/0008-5472.CAN-17-0331)\]
     \[[pdf](https://cancerres.aacrjournals.org/content/canres/77/21/e43.full.pdf)\]
 
-21. Vizcaíno JA, Meyer G, Perkins SR, Barsnes H, **Vaudel M**,
+22. Vizcaíno JA, Meyer G, Perkins SR, Barsnes H, **Vaudel M**,
     Perez-Riverol Y, Terment T, Uszkoreit J, Eineacher M, Fischer L,
     Rappsilber J, Netz E, Walzer M, Kohlbacher O, Leitner A, Chalkley
     RJ, Ghali F, Martínez-Bartolomé S, Deutsch EW, Johnes
@@ -405,9 +420,9 @@ support for sequence variants.</sub>* <br>
     supporting advances in proteome informatics*, Mol Cell Proteomics,
     2017. \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28515314)\]
     \[[doi: 10.1074/mcp.M117.068429](https://doi.org/10.1074/mcp.M117.068429)\]
-    \[[pdf](https://www.mcponline.org/content/mcprot/16/7/1275.full.pdf)\]
+    \[[pdf](https://doi.org/10.1074/mcp.m117.068429)\]
 
-22. Leprevost FdV, Aflitos SA, Grüning BA, Röst HL, Uszkoreit J, Barsnes
+23. Leprevost FdV, Aflitos SA, Grüning BA, Röst HL, Uszkoreit J, Barsnes
     H, **Vaudel M**, Moreno P, Gatto L, Weber J, Bai M, Jimenez RC,
     Sachsenberg T, Pfeufferz J, Alvarez RV, Griss J, Nesvizhskii AI,
     Perez-Riverol Y<sup>:email:</sup>. *BioContainers: An open-source
@@ -417,7 +432,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1093/bioinformatics/btx192](https://doi.org/10.1093/bioinformatics/btx192)\]
     \[[pdf](https://academic.oup.com/bioinformatics/article-pdf/33/16/2580/25163480/btx192.pdf)\]
 
-23. Kroksveen AC<sup>:email:</sup>, Guldbrandsen A, **Vaudel M**, Lereim
+24. Kroksveen AC<sup>:email:</sup>, Guldbrandsen A, **Vaudel M**, Lereim
     RR, Barsnes H, Myr KM, Torkildsen Ø, Berven FS<sup>:email:</sup>.
     *In-Depth Cerebrospinal Fluid Quantitative Proteome and
     Deglycoproteome Analysis: Presenting a Comprehensive Picture of
@@ -425,18 +440,19 @@ support for sequence variants.</sub>* <br>
     Proteome Research, 2017.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27728768)\]
     \[[doi: 10.1021/acs.jproteome.6b00659](https://doi.org/10.1021/acs.jproteome.6b00659)\]
-    \[[pdf](https://bora.uib.no/bitstream/1956/23324/4/Kroksveen%2bet%2bal.%2bIn-depth%2bcerebrospinal%2bfluid%2bquantitative%2bproteome%2band%2bdeglycoproteome%2banalysis%2b%2528postprint%2529.pdf)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
 
-24. Hernandez-Valladares M<sup>1,:email:</sup>, Aasebø E<sup>1</sup>,
+25. Hernandez-Valladares M<sup>1,:email:</sup>, Aasebø E<sup>1</sup>,
     Mjaavatten O, **Vaudel M**, Bruserud Ø, Berven FS, Selheim F.
     *Reliable FASP-based procedures for optimal quantitative proteomic
     and phosphoproteomic analysis on samples from acute myeloid leukemia
     patients*, Biol Proced Online, 2016.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27330413)\]
     \[[doi: 10.1186/s12575-016-0043-0](https://doi.org/10.1186/s12575-016-0043-0)\]
-    \[[pdf](https://doi.org/10.1186/s12575-016-0043-0)\]
+    \[[pdf](https://biologicalproceduresonline.biomedcentral.com/track/pdf/10.1186/s12575-016-0043-0)\]
 
-25. Aasebø E<sup>1</sup>, Mjaavatten O, **Vaudel M**, Farag Y, Selheim
+26. Aasebø E<sup>1</sup>, Mjaavatten O, **Vaudel M**, Farag Y, Selheim
     F, Berven FS, Bruserud Ø, Hernandez-Valladares
     M<sup>1,:email:</sup>. *Freezing effects on the acute myeloid
     leukemia cell proteome and phosphoproteome revealed using optimal
@@ -446,7 +462,7 @@ support for sequence variants.</sub>* <br>
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
-26. Opsahl JA, **Vaudel M**, Guldbrandsen A, Aasebø E, Van Pesch V,
+27. Opsahl JA, **Vaudel M**, Guldbrandsen A, Aasebø E, Van Pesch V,
     Franciotta D, Myhr KM, Barsnes H, Berle M, Torkildsen Ø, Kroksveen
     AC, Berven FS<sup>:email:</sup>. *Label free analysis of human
     cerebrospinal fluid addressing various normalization strategies and
@@ -457,7 +473,7 @@ support for sequence variants.</sub>* <br>
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
-27. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann
+28. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann
     A, Martens L<sup>:email:</sup>, Barsnes H. *PeptideShaker enables
     reanalysis of mass spectrometry-derived proteomics datasets*, Nature
     Biotechnology, 2015.
@@ -466,7 +482,7 @@ support for sequence variants.</sub>* <br>
     (accepted version)](docs/aam/peptideshaker_submitted.pdf)\]
     \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
 
-28. Verheggen K, Maddelein D, Hulstaert N, Martens L<sup>:email:</sup>,
+29. Verheggen K, Maddelein D, Hulstaert N, Martens L<sup>:email:</sup>,
     Barsnes H, **Vaudel M**. *Pladipus enables universal distributed
     computing in proteomics bioinformatics*, Journal of Proteome
     Research, 2015.
@@ -474,14 +490,14 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1021/acs.jproteome.5b00850](https://doi.org/10.1021/acs.jproteome.5b00850)\]
     \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.5b00850)\]
 
-29. Barsnes H<sup>:email:</sup>, **Vaudel M**, Martens L. *JSparklines:
+30. Barsnes H<sup>:email:</sup>, **Vaudel M**, Martens L. *JSparklines:
     Making tabular proteomics data come alive*, Proteomics, 2015.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25422159)\]
     \[[doi: 10.1002/pmic.201400356](https://doi.org/10.1002/pmic.201400356)\]
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
-30. Bjørlykke Y, Vethe H, **Vaudel M**, Barsnes H, Berven FS, Tjora E,
+31. Bjørlykke Y, Vethe H, **Vaudel M**, Barsnes H, Berven FS, Tjora E,
     Raeder H<sup>:email:</sup>. *Carboxyl-Ester Lipase Maturity-Onset
     Diabetes of the Young Disease Protein Biomarkers in
     Secretin-Stimulated Duodenal Juice*, Journal of Proteome Research,
@@ -489,7 +505,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1021/pr500750z](https://doi.org/10.1021/pr500750z)\] \[No
     Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
 
-31. Muth T<sup>1</sup>, Weilnböck L<sup>1</sup>, Rapp E, Huber CG,
+32. Muth T<sup>1</sup>, Weilnböck L<sup>1</sup>, Rapp E, Huber CG,
     Martens L, **Vaudel M**<sup>:email:</sup>, Barsnes H. *DeNovoGUI: an
     open source graphical user interface for de novo sequencing of
     tandem mass spectra*, Journal of Proteome Research, 2014.
@@ -497,7 +513,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1021/pr4008078](https://doi.org/10.1021/pr4008078)\]
     \[[pdf](https://doi.org/10.1021/pr4008078)\]
 
-32. Helgeland E, Breivik LE, **Vaudel M**, Svendsen OS, Garberg H,
+33. Helgeland E, Breivik LE, **Vaudel M**, Svendsen OS, Garberg H,
     Nordrehaug JE, Berven FS, Jonassen AK<sup>:email:</sup>. *Exploring
     the human plasma proteome for humoral mediators of remote ischemic
     preconditioning - a word of caution*, PLoS One, 2014.
@@ -505,7 +521,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1371/journal.pone.0109279](https://doi.org/10.1371/journal.pone.0109279)\]
     \[[pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0109279&type=printable)\]
 
-33. Vethe H, Finne K, Skogstrand T, **Vaudel M**, Vikse BE, Hultström M,
+34. Vethe H, Finne K, Skogstrand T, **Vaudel M**, Vikse BE, Hultström M,
     Placier S, Scherer A, Tenstad O, Marti HP<sup>:email:</sup>.
     *Distinct protein signature of hypertension-induced damage in the
     renal proteome of the two-kidney, one-clip rat model*, Journal of
@@ -515,7 +531,7 @@ support for sequence variants.</sub>* <br>
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
-34. Aasebø E, **Vaudel M**, Mjaavatten O, Gaudsdal G, Van der Burgh A,
+35. Aasebø E, **Vaudel M**, Mjaavatten O, Gaudsdal G, Van der Burgh A,
     Gjertsen BT, Døskeland SO, Brusserud O, Berven FS, Selheim
     F<sup>:email:</sup>. *Performance of super-SILAC based quantitative
     proteomics for comparison of different acute myeloid leukemia (AML)
@@ -525,14 +541,14 @@ support for sequence variants.</sub>* <br>
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
-35. **Vaudel M**, Venne S, Berven FS, Zahedi RP, Martens L, Barsnes
+36. **Vaudel M**, Venne S, Berven FS, Zahedi RP, Martens L, Barsnes
     H<sup>:email:</sup>. *Shedding light on black boxes in protein
     identification*, Proteomics, 2014.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24678044)\]
     \[[doi: 10.1002/pmic.201300488](https://doi.org/10.1002/pmic.201300488)\]
-    \[[pdf](https://bora.uib.no/bitstream/1956/16924/5/Shedding%20light%20on%20black%20boxes%20in%20protein%20identification%20%28postprint%29.pdf)\]
+    \[[pdf](https://bora.uib.no/bora-xmlui/bitstream/1956/16924/5/Shedding%20light%20on%20black%20boxes%20in%20protein%20identification%20%28postprint%29.pdf)\]
 
-36. Beck F, Geiger J, Gambaryan S, Veit J, **Vaudel M**, Nollau P,
+37. Beck F, Geiger J, Gambaryan S, Veit J, **Vaudel M**, Nollau P,
     Kohlbacher O, Martens L, Walter U, Sickmann A<sup>:email:</sup>,
     Zahedi RP<sup>:email:</sup>. *Time-resolved characterization of
     cAMP/PKA-dependent signaling reveals that platelet inhibition is a
@@ -542,7 +558,7 @@ support for sequence variants.</sub>* <br>
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
-37. **Vaudel M**, Breiter D, Beck F, Rahnenführer J, Martens
+38. **Vaudel M**, Breiter D, Beck F, Rahnenführer J, Martens
     L<sup>:email:</sup>, Zahedi RP. *D-score: a search engine
     independent MD-score*, Proteomics, 2013.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/23307401)\]
@@ -551,7 +567,7 @@ support for sequence variants.</sub>* <br>
     version)](docs/aam/D-score%20revised%20version.pdf)\] \[[Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
-38. Burkhart JM<sup>1</sup>, **Vaudel M**<sup>1</sup>, Gambaryan S,
+39. Burkhart JM<sup>1</sup>, **Vaudel M**<sup>1</sup>, Gambaryan S,
     Radau S, Walter U, Martens L, Geiger J<sup>:email:</sup>, Sickmann
     A, and Zahedi RP<sup>:email:</sup>. *The first comprehensive and
     quantitative analysis of human platelet protein composition allows
@@ -561,7 +577,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1182/blood-2012-04-416594](https://doi.org/10.1182/blood-2012-04-416594)\]
     \[[pdf](https://ashpublications.org/blood/article-pdf/120/15/e73/1359688/zh804112000e73.pdf)\]
 
-39. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Radau S, Zahedi
+40. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Radau S, Zahedi
     RP, Martens L<sup>:email:</sup>, Sickmann A. *Integral
     Quantification Accuracy estimation for Reporter Ion based
     quantitative proteomics (iQuARI)*, Journal of Proteome Research,
@@ -569,7 +585,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1021/pr300247u](https://doi.org/10.1021/pr300247u)\] \[No
     Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
 
-40. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Breiter D, Zahedi
+41. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Breiter D, Zahedi
     RP, Sickmann A<sup>:email:</sup>, Martens L. *A complex standard for
     protein identification, designed by evolution*, Journal of Proteome
     Research, 2012.
@@ -577,7 +593,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1021/pr300055q](https://doi.org/10.1021/pr300055q)\] \[No
     Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
 
-41. **Vaudel M**<sup>1</sup>, Barsnes H<sup>1,:email:</sup>, Berven FS,
+42. **Vaudel M**<sup>1</sup>, Barsnes H<sup>1,:email:</sup>, Berven FS,
     Sickmann A, Martens L. *SearchGUI: an open-source graphical user
     interface for simultaneous OMSSA and X\!Tandem searches*,
     Proteomics, 2011.
@@ -587,15 +603,15 @@ support for sequence variants.</sub>* <br>
     version)](docs/aam/Vaudel_et_al_SearchGUI_17092010.pdf)\] \[[Request
     a reprint](mailto:marc.vaudel@uib.no)\]
 
-42. Colaert N, Barsnes H, **Vaudel M**, Helsens K, Timmerman E, Sickmann
+43. Colaert N, Barsnes H, **Vaudel M**, Helsens K, Timmerman E, Sickmann
     A, Gevaert K, Martens L<sup>:email:</sup>. *Thermo-msf-parser: an
     open source Java library to parse and visualize Thermo Proteome
     Discoverer msf files*, Journal of Proteome Research, 2011.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21714566)\]
-    \[[doi: 10.1021/pr2005154](https://doi.org/10.1021/pr2005154)\] \[No
-    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
+    \[[doi: 10.1021/pr2005154](https://doi.org/10.1021/pr2005154)\]
+    \[[pdf](https://bora.uib.no/bora-xmlui/bitstream/1956/16679/3/Colaert%2bet%2bal%2b%2528postprint%2529.pdf)\]
 
-43. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Sickmann A,
+44. **Vaudel M**<sup>1</sup>, Burkhart JM<sup>1</sup>, Sickmann A,
     Martens L<sup>:email:</sup>, Zahedi RP. *Peptide identification
     quality control*, Proteomics, 2011.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21500347)\]
@@ -603,7 +619,7 @@ support for sequence variants.</sub>* <br>
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
-44. Barsnes H, **Vaudel M**, Colaert N, Helsens K, Sickmann A, Berven
+45. Barsnes H, **Vaudel M**, Colaert N, Helsens K, Sickmann A, Berven
     FS, Martens L<sup>:email:</sup>. *compomics-utilities: an
     open-source Java library for computational proteomics*, BMC
     Bioinformatics, 2011.
@@ -611,7 +627,7 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1186/1471-2105-12-70](https://doi.org/10.1186/1471-2105-12-70)\]
     \[[pdf](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/1471-2105-12-70)\]
 
-45. Burkhart JM<sup>1</sup>, **Vaudel M**<sup>1</sup>, Zahedi RP,
+46. Burkhart JM<sup>1</sup>, **Vaudel M**<sup>1</sup>, Zahedi RP,
     Martens L, Sickmann A<sup>:email:</sup>. *iTRAQ protein
     quantification: a quality-controlled workflow*, Proteomics, 2011.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21328540)\]
@@ -619,7 +635,7 @@ support for sequence variants.</sub>* <br>
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
 
-46. Muth T, **Vaudel M**, Barsnes H, Martens L<sup>:email:</sup>,
+47. Muth T, **Vaudel M**, Barsnes H, Martens L<sup>:email:</sup>,
     Sickmann A. *XTandem Parser: An open-source library to parse and
     analyse X\!Tandem MS/MS search results*, Proteomics, 2010.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/20140905)\]
@@ -643,8 +659,7 @@ support for sequence variants.</sub>* <br>
     Nature Genetics, 2019.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30988515)\]
     \[[doi: 10.1038/s41588-019-0391-1](https://doi.org/10.1038/s41588-019-0391-1)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://helda.helsinki.fi/bitstream/10138/325612/1/kaprio_48572_2_merged_1552149424_v2.pdf)\]
 
 3.  Grüning BA, Lampa S, **Vaudel M**, Blankenberg D<sup>:email:</sup>.
     *Software engineering for scientific big data analysis*,
@@ -667,7 +682,7 @@ support for sequence variants.</sub>* <br>
     Proteomics, 2017.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28385664)\]
     \[[doi: 10.1016/j.jprot.2017.04.001](https://doi.org/10.1016/j.jprot.2017.04.001)\]
-    \[[pdf](https://biblio.ugent.be/publication/8631774/file/8631777.pdf)\]
+    \[[pdf](https://air.unimi.it/bitstream/2434/803373/2/1-s2.0-S2212968519300078-main.pdf)\]
 
 6.  **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer.
     *The EuPA Bioinformatics Community (EuBIC) initiative*, EuPA Open
@@ -690,7 +705,7 @@ support for sequence variants.</sub>* <br>
     Sequencing in Proteomics*, Proteomics, 2018.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29968278)\]
     \[[doi: 10.1002/pmic.201700150](https://doi.org/10.1002/pmic.201700150)\]
-    \[[pdf](https://bora.uib.no/bitstream/1956/20984/3/De%2bnovo%2bsequencing%2breview_revised_final.pdf)\]
+    \[[pdf](https://bora.uib.no/bora-xmlui/bitstream/1956/20984/3/De%2bnovo%2bsequencing%2breview_revised_final.pdf)\]
 
 2.  Verheggen K, Ræder H, Breven FS, Martens L<sup>:email:</sup>,
     Barsnes H, **Vaudel M**. *Anatomy and evolution of database search
@@ -698,7 +713,7 @@ support for sequence variants.</sub>* <br>
     workflows*, Mass Spectrometry Reviews, 2017.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28902424)\]
     \[[doi: 10.1002/mas.21543](https://doi.org/10.1002/mas.21543)\]
-    \[[pdf](https://bora.uib.no/bitstream/1956/21005/4/Verheggen%2bet%2bal.%2bProteomic%2bdatabase%2bsearch%2bengines%2b-%2bfinal%2bversion.pdf)\]
+    \[[pdf](https://bora.uib.no/bora-xmlui/bitstream/1956/21005/4/Verheggen%2bet%2bal.%2bProteomic%2bdatabase%2bsearch%2bengines%2b-%2bfinal%2bversion.pdf)\]
 
 3.  Hernandez-Valladares M<sup>:email:</sup>, **Vaudel M**, Selheim F,
     Berven F, Bruserud Ø. *Proteogenomics approaches for studying cancer
@@ -722,8 +737,7 @@ support for sequence variants.</sub>* <br>
     Biotechnology, 2015.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26278526)\]
     \[[doi: 10.2174/1389201016666150817095348](https://doi.org/10.2174/1389201016666150817095348)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://bora.uib.no/bora-xmlui/bitstream/1956/21252/4/review%2bcpb%2bleukemia%2b07.07.15.pdf)\]
 
 6.  **Vaudel M**<sup>:email:</sup>, Sickmann A, Martens L. *Introduction
     to opportunities and pitfalls in functional mass spectrometry based
@@ -906,7 +920,7 @@ sessionInfo()
     ##  [1] Rcpp_1.0.4.6     pillar_1.4.6     compiler_3.6.1   later_1.1.0.1   
     ##  [5] plyr_1.8.6       tools_3.6.1      digest_0.6.25    jsonlite_1.7.0  
     ##  [9] evaluate_0.14    memoise_1.1.0    lifecycle_0.2.0  tibble_3.0.0    
-    ## [13] pkgconfig_2.0.3  rlang_0.4.6      shiny_1.5.0      cli_2.0.2       
+    ## [13] pkgconfig_2.0.3  rlang_0.4.10     shiny_1.5.0      cli_2.0.2       
     ## [17] curl_4.3         yaml_2.2.1       xfun_0.16        fastmap_1.0.1   
     ## [21] dplyr_1.0.0      stringr_1.4.0    httr_1.4.2       knitr_1.29      
     ## [25] generics_0.0.2   vctrs_0.3.1      tidyselect_1.1.0 glue_1.4.0      
