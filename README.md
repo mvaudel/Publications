@@ -6,7 +6,7 @@ Marc Vaudel
 [![DOI](https://zenodo.org/badge/200110790.svg)](https://zenodo.org/badge/latestdoi/200110790)
 
 This repository lists the scientific publications co-authored by [Marc
-Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 16.03.2021.
+Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 15.09.2021.
 Note: For the sake of brevity, some author lists are truncated as
 indicated with `...`, apologies if your name went missing.
 
@@ -27,7 +27,48 @@ Note: for the sake of brevity, author lists might be trimmed.
 
 ## Five Highlighted Original Articles
 
-1.  Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
+1.  Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P,
+    Flatley C, Juodakis J, Bacelis J, Koløen IL, Peggy Knudsen G,
+    Johansson BB, Magnus P, Reichborn Kjennerud T, Juliusson PB,
+    Stoltenberg C, Holmen OL, Andreassen OA, Jacobsson B, Njølstad
+    PR<sup>:email:</sup>, Johansson S<sup>:email:</sup>.
+    *Characterization of the genetic architecture of BMI in infancy and
+    early childhood reveals age-specific effects and implicates pathways
+    involved in Mendelian obesity*, under review. \[PubMed\]
+    \[[Preprint](https://doi.org/10.1101/2021.05.04.21256508)\]
+    \[[doi: 10.1101/2021.05.04.21256508](https://doi.org/10.1101/2021.05.04.21256508)\]
+    \[[pdf
+    (preprint)](https://www.medrxiv.org/content/medrxiv/early/2021/05/07/2021.05.04.21256508.full.pdf)\]
+    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
+
+<table>
+
+<tr>
+
+<td width="150">
+
+![EarlyGrowth](docs/figures/early_growth.png?raw=true "Early Growth")
+
+</td>
+
+<td>
+
+*<sub>Longitudinal association of BMI with common variation - we
+identify different trajectory clusters, transient parent-of-origin
+effects, and show how the performance of risk scores evolve during early
+growth. It is our largest GWAS in MoBa and the first trio- halplotype-
+resolved analyses using [TrioGen](github.com/mvaudel/trioGen).</sub>*
+<br>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+2.  Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
     Njølstad PR, Barsnes H, Hermjakob H, **Vaudel
     M**<sup>:email:</sup>. *PathwayMatcher: proteoform-centric network
     construction enables fine-granularity multi-omics pathway mapping*,
@@ -69,7 +110,7 @@ biological networks.</sub>* <br>
 
 <br>
 
-2.  Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson
+3.  Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson
     S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>. *Genome-wide
     association study reveals a dynamic role of common genetic variation
     in infant and early childhood growth*, Nature Communications, 2019.
@@ -98,42 +139,8 @@ results during the first years of life, from birth to age 8, making
 possibly one of the first genetic time lapse. It represents 12 GWASs on
 the [MoBa
 cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/),
-for which we bust a complete bioinformatic environment from
+for which we built a complete bioinformatic environment from
 scratch.</sub>* <br>
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-3.  Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel
-    M**<sup>:email:</sup>. *Analyzing the Structure of Pathways and Its
-    Influence on the Interpretation of Biomedical Proteomics Data Sets*,
-    Journal of Proteome Research, 2018.
-    \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30251541)\]
-    \[[Preprint](https://doi.org/10.1101/333492)\]
-    \[[doi: 10.1021/acs.jproteome.8b00464](https://doi.org/10.1021/acs.jproteome.8b00464)\]
-    \[[pdf](https://bora.uib.no/bora-xmlui/bitstream/1956/22539/4/Burger%2bet%2bal.%2bAnalysing%2bthe%2bstructure%2bof%2bpathways%2band%2bits%2binfluence%2bon%2bthe%2binterpretation%2bof%2bbiomedical%2bdatasets%2b%2528postprint%2529.pdf)\]
-
-<table>
-
-<tr>
-
-<td width="150">
-
-![Pathways](docs/figures/TOC_bram.png?raw=true "Pathways")
-
-</td>
-
-<td>
-
-*<sub>An analysis of the knowledge consolidated in the
-[Reactome](reactome.org) pathway database. How are biochemical pathways
-modelled? What is the current extent of our knowledge? How does this
-affect the interpretation of biomedical (proteomics) data?</sub>* <br>
 
 </td>
 
@@ -257,7 +264,7 @@ support for sequence variants.</sub>* <br>
     cardiometabolic traits*, PLoS Genetics, 2020.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/33045005)\]
     \[[doi: 10.1371/journal.pgen.1008718](https://doi.org/10.1371/journal.pgen.1008718)\]
-    \[[pdf](https://doi.org/10.1371/journal.pgen.1008718)\]
+    \[[pdf](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1008718&type=printable)\]
 
 5.  Smajlagić D, Lavrichenko K, Berland S, Helgeland Ø, Knudsen GP,
     **Vaudel M**, Haavik J, Knappskog PM, Njølstad PR, Houge G,
@@ -293,7 +300,7 @@ support for sequence variants.</sub>* <br>
     morphology variability*, Stem Cells International, 2019.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31827534)\]
     \[[doi: 10.1155/2019/8036035](https://doi.org/10.1155/2019/8036035)\]
-    \[[pdf](https://doi.org/10.1155/2019/8036035)\]
+    \[[pdf](https://downloads.hindawi.com/journals/sci/2019/8036035.pdf)\]
 
 9.  Qiao Z, Zheng J, Helgeland Ø, **Vaudel M**, Johansson S, Njølstad
     PR, Davey Smith G, Warrington NM, Evans D<sup>:email:</sup>.
@@ -302,7 +309,7 @@ support for sequence variants.</sub>* <br>
     Genetics, 2019.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31493278)\]
     \[[doi: 10.1007/s10519-019-09969-4](https://doi.org/10.1007/s10519-019-09969-4)\]
-    \[[pdf](https://research-information.bris.ac.uk/ws/files/207903720/M_GCTA_R1.pdf)\]
+    \[[pdf](https://espace.library.uq.edu.au/view/UQ:2ce0c5e/M-GCTA_R1_Accepted.pdf)\]
 
 10. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
     Njølstad PR, Barsnes H, Hermjakob H, **Vaudel
@@ -440,8 +447,7 @@ support for sequence variants.</sub>* <br>
     Proteome Research, 2017.
     \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27728768)\]
     \[[doi: 10.1021/acs.jproteome.6b00659](https://doi.org/10.1021/acs.jproteome.6b00659)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://bora.uib.no/bora-xmlui/bitstream/1956/23324/4/Kroksveen%2bet%2bal.%2bIn-depth%2bcerebrospinal%2bfluid%2bquantitative%2bproteome%2band%2bdeglycoproteome%2banalysis%2b%2528postprint%2529.pdf)\]
 
 25. Hernandez-Valladares M<sup>1,:email:</sup>, Aasebø E<sup>1</sup>,
     Mjaavatten O, **Vaudel M**, Bruserud Ø, Berven FS, Selheim F.
@@ -919,12 +925,12 @@ sessionInfo()
     ## loaded via a namespace (and not attached):
     ##  [1] Rcpp_1.0.4.6     pillar_1.4.6     compiler_3.6.1   later_1.1.0.1   
     ##  [5] plyr_1.8.6       tools_3.6.1      digest_0.6.25    jsonlite_1.7.0  
-    ##  [9] evaluate_0.14    memoise_1.1.0    lifecycle_0.2.0  tibble_3.0.0    
-    ## [13] pkgconfig_2.0.3  rlang_0.4.10     shiny_1.5.0      cli_2.0.2       
+    ##  [9] evaluate_0.14    lifecycle_1.0.0  tibble_3.0.0     pkgconfig_2.0.3 
+    ## [13] rlang_0.4.10     shiny_1.5.0      cli_3.0.1        rstudioapi_0.13 
     ## [17] curl_4.3         yaml_2.2.1       xfun_0.16        fastmap_1.0.1   
     ## [21] dplyr_1.0.0      stringr_1.4.0    httr_1.4.2       knitr_1.29      
-    ## [25] generics_0.0.2   vctrs_0.3.1      tidyselect_1.1.0 glue_1.4.0      
-    ## [29] R6_2.4.1         fansi_0.4.1      rmarkdown_2.3    purrr_0.3.4     
-    ## [33] tidyr_1.1.0      magrittr_1.5     promises_1.1.1   ellipsis_0.3.0  
-    ## [37] htmltools_0.5.0  assertthat_0.2.1 mime_0.9         xtable_1.8-4    
-    ## [41] httpuv_1.5.4     stringi_1.4.6    miniUI_0.1.1.1   crayon_1.3.4
+    ## [25] generics_0.0.2   vctrs_0.3.8      tidyselect_1.1.0 glue_1.4.0      
+    ## [29] R6_2.4.1         rmarkdown_2.3    purrr_0.3.4      tidyr_1.1.3     
+    ## [33] magrittr_1.5     promises_1.1.1   ellipsis_0.3.0   htmltools_0.5.0 
+    ## [37] mime_0.9         xtable_1.8-4     httpuv_1.5.4     stringi_1.4.6   
+    ## [41] miniUI_0.1.1.1   cachem_1.0.5     crayon_1.3.4

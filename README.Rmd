@@ -190,7 +190,22 @@ Note: for the sake of brevity, author lists might be trimmed.
 
 ## Five Highlighted Original Articles
 
-1. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>. _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
+1. Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P, Flatley C, Juodakis J, Bacelis J, Koløen IL, Peggy Knudsen G, Johansson BB, Magnus P, Reichborn Kjennerud T, Juliusson PB, Stoltenberg C, Holmen OL, Andreassen OA, Jacobsson B, Njølstad PR<sup>:email:</sup>, Johansson S<sup>:email:</sup>. _Characterization of the genetic architecture of BMI in infancy and early childhood reveals age-specific effects and implicates pathways involved in Mendelian obesity_, under review. `r getLinks(preprintDOI = "10.1101/2021.05.04.21256508")`
+
+<table>
+<tr>
+<td width="150">
+![EarlyGrowth](docs/figures/early_growth.png?raw=true "Early Growth")
+</td>
+<td>
+_<sub>Longitudinal association of BMI with common variation - we identify different trajectory clusters, transient parent-of-origin effects, and show how the performance of risk scores evolve during early growth. It is our largest GWAS in MoBa and the first trio- halplotype- resolved analyses using [TrioGen](github.com/mvaudel/trioGen).</sub>_
+<br>
+</td>
+</tr>
+</table>
+<br>
+
+2. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>. _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
 <table>
 <tr>
@@ -206,7 +221,7 @@ _<sub>PathwayMatcher can build biological networks of different levels of granul
 <br>
 
 
-2. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>. _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, 2019. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
+3. Helgeland Ø, **Vaudel M**, Juliusson P, …, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>. _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, 2019. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
 
 <table>
 <tr>
@@ -214,23 +229,7 @@ _<sub>PathwayMatcher can build biological networks of different levels of granul
 ![MH time lapse](docs/figures/mh_time-lapse.gif?raw=true "MH time lapse")
 </td>
 <td> 
-_<sub>The association between genetic variation and phenotypes, _e.g._ with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we bust a complete bioinformatic environment from scratch.</sub>_
-<br>
-</td>
-</tr>
-</table>
-<br>
-
-
-3. Burger B, Hernández Sánchez LF, Lereim RR, Barsnes H, **Vaudel M**<sup>:email:</sup>. _Analyzing the Structure of Pathways and Its Influence on the Interpretation of Biomedical Proteomics Data Sets_, Journal of Proteome Research, 2018. `r getLinks(pmid = "30251541", journalDOI = "10.1021/acs.jproteome.8b00464", preprintDOI = "10.1101/333492")`
-
-<table>
-<tr>
-<td width="150">
-![Pathways](docs/figures/TOC_bram.png?raw=true "Pathways")
-</td>
-<td>
-_<sub>An analysis of the knowledge consolidated in the [Reactome](reactome.org) pathway database. How are biochemical pathways modelled? What is the current extent of our knowledge? How does this affect the interpretation of biomedical (proteomics) data?</sub>_
+_<sub>The association between genetic variation and phenotypes, _e.g._ with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we built a complete bioinformatic environment from scratch.</sub>_
 <br>
 </td>
 </tr>
