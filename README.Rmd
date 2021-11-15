@@ -270,7 +270,9 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 ## Original Articles
     
-1. Farag YM, Horro C, **Vaudel M**, Barsnes H<sup>:email:</sup>. _PeptideShaker Online: A User-Friendly Web-Based Framework for the Identification of Mass Spectrometry-Based Proteomics Data_, Journal of Proteome Research, 2021. `r getLinks(pmid = "34709836", journalDOI = "10.1021/acs.jproteome.1c00678 ")`
+1. Flatley C<sup>:email:</sup>, Sole-Navais P, Vaudel M, Helgeland Ø, Modzelewska D, Johansson S, Jacobsson B<sup>†</sup>, Njølstad P<sup>†</sup>. _Placental weight centiles adjusted for age, parity and fetal sex_, Placenta, 2022. `r getLinks(pmid = "34773745", journalDOI = "10.1016/j.placenta.2021.10.011")`
+    
+1. Farag YM, Horro C, **Vaudel M**, Barsnes H<sup>:email:</sup>. _PeptideShaker Online: A User-Friendly Web-Based Framework for the Identification of Mass Spectrometry-Based Proteomics Data_, Journal of Proteome Research, 2021. `r getLinks(pmid = "34709836", journalDOI = "10.1021/acs.jproteome.1c00678")`
     
 1. Dai C, Füllgrabe A, Pfeuffer J, Solovyeva EM, Deng J, Moreno P, Kamatchinathan S, Kundu DJ, George N, Fexova S, Grüning B, Föll MC, Griss J, **Vaudel M**, Audain E, Locard-Paulet M, Turewicz M, Eisenacher M, Uszkoreit J, Van Den Bossche T, Schwämmle V, Webel H, Schulze S, Bouyssié D, Jayaram S, Duggineni VK, Samaras P, Wilhelm M, Choi M, Wang M, Kohlbacher O, Brazma A, Papatheodorou I, Bandeira N, Deutsch EW, Vizcaíno JA, Bai M<sup>:email:</sup>, Sachsenberg T<sup>:email:</sup>, Levitsky LI<sup>:email:</sup>, Perez-Riverol Y<sup>:email:</sup>. _A proteomics sample metadata representation for multiomics integration and big data analysis_, Nature Communications, 2021. `r getLinks(pmid = "34615866", journalDOI = "10.1038/s41467-021-26111-3")`
 
