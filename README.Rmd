@@ -270,7 +270,9 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 ## Original Articles
     
-1. Flatley C<sup>:email:</sup>, Sole-Navais P, Vaudel M, Helgeland Ø, Modzelewska D, Johansson S, Jacobsson B<sup>†</sup>, Njølstad P<sup>†</sup>. _Placental weight centiles adjusted for age, parity and fetal sex_, Placenta, 2022. `r getLinks(pmid = "34773745", journalDOI = "10.1016/j.placenta.2021.10.011")`
+1. Carrasco M, Wang C, Søviknes AM, Bjørlykke Y, Abadpour S, Paulo JA, Tjora E, Njølstad P, Ghabayen J, Nermoen I, Lyssenko V, Chera S, Ghila LM, **Vaudel M**, Scholz H, Ræder H.<sup>:email:</sup>. _Spatial Environment Affects HNF4A Mutation-Specific Proteome Signatures and Cellular Morphology in hiPSC-Derived β-Like Cells_, Diabetes, 2022. `r getLinks(pmid = "35043148", journalDOI = "10.2337/db20-1279")`
+    
+1. Flatley C<sup>:email:</sup>, Sole-Navais P, **Vaudel M**, Helgeland Ø, Modzelewska D, Johansson S, Jacobsson B<sup>†</sup>, Njølstad P<sup>†</sup>. _Placental weight centiles adjusted for age, parity and fetal sex_, Placenta, 2022. `r getLinks(pmid = "34773745", journalDOI = "10.1016/j.placenta.2021.10.011")`
     
 1. Farag YM, Horro C, **Vaudel M**, Barsnes H<sup>:email:</sup>. _PeptideShaker Online: A User-Friendly Web-Based Framework for the Identification of Mass Spectrometry-Based Proteomics Data_, Journal of Proteome Research, 2021. `r getLinks(pmid = "34709836", journalDOI = "10.1021/acs.jproteome.1c00678")`
     
