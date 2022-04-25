@@ -190,7 +190,7 @@ Note: For the sake of brevity, some author lists are truncated as indicated with
 
 ## Five Highlighted Original Articles
 
-1. Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P, Flatley C, Juodakis J, Bacelis J, Koløen IL, Peggy Knudsen G, Johansson BB, Magnus P, Reichborn Kjennerud T, Juliusson PB, Stoltenberg C, Holmen OL, Andreassen OA, Jacobsson B, Njølstad PR<sup>:email:</sup>, Johansson S<sup>:email:</sup>. _Characterization of the genetic architecture of BMI in infancy and early childhood reveals age-specific effects and implicates pathways involved in Mendelian obesity_, under review. `r getLinks(preprintDOI = "10.1101/2021.05.04.21256508")`
+1. Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P, Flatley C, Juodakis J, Bacelis J, Koløen IL, Peggy Knudsen G, Johansson BB, Magnus P, Reichborn Kjennerud T, Juliusson PB, Stoltenberg C, Holmen OL, Andreassen OA, Jacobsson B, Njølstad PR<sup>:email:</sup>, Johansson S<sup>:email:</sup>. _Characterization of the genetic architecture of BMI in infancy and early childhood reveals age-specific effects and implicates pathways involved in Mendelian obesity_, Nature Metabolism, 2022. `r getLinks(pmid = "35315439", journalDOI = "10.1038/s42255-022-00549-1")`
 
 <table>
 <tr>
@@ -270,7 +270,11 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 ## Original Articles
     
-1. Carrasco M, Wang C, Søviknes AM, Bjørlykke Y, Abadpour S, Paulo JA, Tjora E, Njølstad P, Ghabayen J, Nermoen I, Lyssenko V, Chera S, Ghila LM, **Vaudel M**, Scholz H, Ræder H.<sup>:email:</sup>. _Spatial Environment Affects HNF4A Mutation-Specific Proteome Signatures and Cellular Morphology in hiPSC-Derived β-Like Cells_, Diabetes, 2022. `r getLinks(pmid = "35043148", journalDOI = "10.2337/db20-1279")`
+1. Burger B<sup>1</sup>, **Vaudel M**, Barsnes H. _Automated splitting into batches for observational biomedical studies with sequential processing_, Biostatistics, 2022. (_in press_)
+    
+1. Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P, Flatley C, Juodakis J, Bacelis J, Koløen IL, Knudsen GP, Johansson BB, Magnus P, Kjennerud TR, Juliusson PB, Stoltenberg C, Holmen OL, Andreassen OA, Jacobsson B, Njølstad PR<sup>:email:</sup>, Johansson S<sup>:email:</sup>. _Characterization of the genetic architecture of infant and early childhood body mass index_, Nature Metabolism, 2022. `r getLinks(pmid = "35315439", journalDOI = "10.1038/s42255-022-00549-1")`
+    
+1. Carrasco M, Wang C, Søviknes AM, Bjørlykke Y, Abadpour S, Paulo JA, Tjora E, Njølstad P, Ghabayen J, Nermoen I, Lyssenko V, Chera S, Ghila LM, **Vaudel M**, Scholz H, Ræder H<sup>:email:</sup>. _Spatial Environment Affects HNF4A Mutation-Specific Proteome Signatures and Cellular Morphology in hiPSC-Derived β-Like Cells_, Diabetes, 2022. `r getLinks(pmid = "35043148", journalDOI = "10.2337/db20-1279")`
     
 1. Flatley C<sup>:email:</sup>, Sole-Navais P, **Vaudel M**, Helgeland Ø, Modzelewska D, Johansson S, Jacobsson B<sup>†</sup>, Njølstad P<sup>†</sup>. _Placental weight centiles adjusted for age, parity and fetal sex_, Placenta, 2022. `r getLinks(pmid = "34773745", journalDOI = "10.1016/j.placenta.2021.10.011")`
     
