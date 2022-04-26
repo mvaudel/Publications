@@ -1050,8 +1050,11 @@ support for sequence variants.</sub>* <br>
 
 *Detailed analysis of the blood platelet proteome through the use of
 innovative bioinformatics methods for protein identification,
-quantification and post-translational modification localization.*
-[link](https://hdl.handle.net/1854/LU-3076565) <br>
+quantification and post-translational modification localization,* Ghent
+University, Faculty of Medicine and Health Sciences, 2012 (monograph).
+[\[link\]](https://hdl.handle.net/1854/LU-3076565)
+
+<br>
 
 ## About
 

@@ -445,7 +445,8 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 ## PhD thesis
 
-_Detailed analysis of the blood platelet proteome through the use of innovative bioinformatics methods for protein identification, quantification and post-translational modification localization._ [link](https://hdl.handle.net/1854/LU-3076565) 
+_Detailed analysis of the blood platelet proteome through the use of innovative bioinformatics methods for protein identification, quantification and post-translational modification localization,_ Ghent University, Faculty of Medicine and Health Sciences, 2012 (monograph). [[link]](https://hdl.handle.net/1854/LU-3076565) 
+
 <br>
 
 ## About
