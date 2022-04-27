@@ -267,6 +267,7 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 <br>
 
 ## Original Articles
+
     
 1. Burger B<sup>1</sup>, **Vaudel M**, Barsnes H. _Automated splitting into batches for observational biomedical studies with sequential processing_, Biostatistics, 2022. (_in press_)
     
@@ -389,9 +390,9 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 1. Willems S, Bouyssié D, David M, Locard-Paulet M, Mechtler K, Schwämmle V, Uszkoreit J, **Vaudel M**, Dorfer V<sup>:email:</sup>. _Proceedings of the EuBIC Winter School 2017_, Journal of Proteomics, 2017. `r getLinks(pmid = "28385664", journalDOI = "10.1016/j.jprot.2017.04.001")`
 
-1. **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer. _The EuPA Bioinformatics Community (EuBIC) initiative_, EuPA Open Proteomics, 2016. `r getLinks(pmid = "", journalDOI = "10.1016/j.euprot.2016.03.009")`
+1. Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>. _Framtiden for biomedisinsk forskning - store endringer og nye muligheter_, Best Practice Nordic, 2017. (Not peer reviewed) `r getLinks(aam = "docs/aam/Framtiden for biomedisink forskning - BestPractice 2017.pdf")`
 
-1. Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>. _Framtiden for biomedisinsk forskning - store endringer og nye muligheter_, Best Practice Nordic, 2016.  `r getLinks(aam = "docs/aam/Framtiden for biomedisink forskning - BestPractice 2017.pdf")`
+1. **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer. _The EuPA Bioinformatics Community (EuBIC) initiative_, EuPA Open Proteomics, 2016. `r getLinks(pmid = "", journalDOI = "10.1016/j.euprot.2016.03.009")`
 
 <br>
 
@@ -416,6 +417,8 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 <br>
 
 ## Book Chapters
+
+> Note: in our scientific field, book chapters are rarely peer reviewed by external experts and do not present substantial research advances.
 
 1. **Vaudel M**<sup>:email:</sup>. _Proteomics_, Processing Metabolomics and Proteomics Data with Open Software: A Practical Guide, 2019. `r getLinks(journalDOI = "10.1039/9781788019880-00096")`
 

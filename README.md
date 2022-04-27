@@ -854,19 +854,19 @@ support for sequence variants.</sub>* <br>
     \[[doi: 10.1016/j.jprot.2017.04.001](https://doi.org/10.1016/j.jprot.2017.04.001)\]
     \[[pdf](https://air.unimi.it/bitstream/2434/803373/2/1-s2.0-S2212968519300078-main.pdf)\]
 
-6.  **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer.
+6.  Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>.
+    *Framtiden for biomedisinsk forskning - store endringer og nye
+    muligheter*, Best Practice Nordic, 2017. (Not peer reviewed)
+    \[PubMed\] \[no DOI yet\] \[[pdf (accepted
+    version)](docs/aam/Framtiden%20for%20biomedisink%20forskning%20-%20BestPractice%202017.pdf)\]
+    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
+
+7.  **Vaudel M**, Veit Schwämmle<sup>:email:</sup>, Viktoria Dorfer.
     *The EuPA Bioinformatics Community (EuBIC) initiative*, EuPA Open
     Proteomics, 2016. \[[PubMed
     id](https://www.ncbi.nlm.nih.gov/pubmed/)\]
     \[[doi: 10.1016/j.euprot.2016.03.009](https://doi.org/10.1016/j.euprot.2016.03.009)\]
     \[[pdf](https://doi.org/10.1016/j.euprot.2016.03.009)\]
-
-7.  Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>.
-    *Framtiden for biomedisinsk forskning - store endringer og nye
-    muligheter*, Best Practice Nordic, 2016. \[PubMed\] \[no DOI yet\]
-    \[[pdf (accepted
-    version)](docs/aam/Framtiden%20for%20biomedisink%20forskning%20-%20BestPractice%202017.pdf)\]
-    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
 
 <br>
 
@@ -937,6 +937,9 @@ support for sequence variants.</sub>* <br>
 <br>
 
 ## Book Chapters
+
+> Note: in our scientific field, book chapters are rarely peer reviewed
+> by external experts and do not present substantial research advances.
 
 1.  **Vaudel M**<sup>:email:</sup>. *Proteomics*, Processing
     Metabolomics and Proteomics Data with Open Software: A Practical
