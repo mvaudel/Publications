@@ -6,7 +6,7 @@ Marc Vaudel
 [![DOI](https://zenodo.org/badge/200110790.svg)](https://zenodo.org/badge/latestdoi/200110790)
 
 This repository lists the scientific publications co-authored by [Marc
-Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 26.04.2022.
+Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 27.04.2022.
 
   - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
   - [NIH
@@ -863,8 +863,10 @@ support for sequence variants.</sub>* <br>
 
 7.  Guldbrandsen A, **Vaudel M**, Barsnes H<sup>:email:</sup>.
     *Framtiden for biomedisinsk forskning - store endringer og nye
-    muligheter*, Best Practice Nordic, 2016.
-    [\[Link\]](https://bestprac.no/framtiden-biomedisinsk-forskning-store-endringer-gir-nye-muligheter/)
+    muligheter*, Best Practice Nordic, 2016. \[PubMed\] \[no DOI yet\]
+    \[[pdf (accepted
+    version)](docs/aam/Framtiden%20for%20biomedisink%20forskning%20-%20BestPractice%202017.pdf)\]
+    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
 
 <br>
 
@@ -1052,7 +1054,7 @@ support for sequence variants.</sub>* <br>
 innovative bioinformatics methods for protein identification,
 quantification and post-translational modification localization,* Ghent
 University, Faculty of Medicine and Health Sciences, 2012 (monograph).
-[\[link\]](https://hdl.handle.net/1854/LU-3076565)
+\[[link](https://hdl.handle.net/1854/LU-3076565)\]
 
 <br>
 
