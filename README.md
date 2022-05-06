@@ -220,8 +220,6 @@ support for sequence variants.</sub>* <br>
 
 ## Original Articles
 
-<https://www.medrxiv.org/content/10.1101/2022.05.04.22274624v1>
-
 1.  Sole-Navais P<sup>:email:</sup>, Flatley C, Steinthorsdottir V,
     **Vaudel M**, Chen J, Laisk T, LaBella AL, Westergaard D, Bacelis J,
     Juodakis J, Brumpton B, Skotte L, Borges MC, Helgeland Ø, Mahajan A,
@@ -244,9 +242,9 @@ support for sequence variants.</sub>* <br>
     parturition and links to fetal birth weight*, *preprint*.
     \[[Preprint](https://www.medrxiv.org/content/10.1101/2022.05.04.22274624v1)\]
 
-2.  Burger B<sup>1</sup>, **Vaudel M**, Barsnes H. *Automated splitting
-    into batches for observational biomedical studies with sequential
-    processing*, Biostatistics, 2022. (*in press*)
+2.  Burger B<sup>:email:</sup>, **Vaudel M**, Barsnes H. *Automated
+    splitting into batches for observational biomedical studies with
+    sequential processing*, Biostatistics, 2022. (*in press*)
 
 3.  Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P,
     Flatley C, Juodakis J, Bacelis J, Koløen IL, Knudsen GP, Johansson
