@@ -6,7 +6,7 @@ Marc Vaudel
 [![DOI](https://zenodo.org/badge/200110790.svg)](https://zenodo.org/badge/latestdoi/200110790)
 
 This repository lists the scientific publications co-authored by [Marc
-Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 06.05.2022.
+Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 10.05.2022.
 
   - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
   - [NIH
@@ -244,7 +244,11 @@ support for sequence variants.</sub>* <br>
 
 2.  Burger B<sup>:email:</sup>, **Vaudel M**, Barsnes H. *Automated
     splitting into batches for observational biomedical studies with
-    sequential processing*, Biostatistics, 2022. (*in press*)
+    sequential processing*, Biostatistics, 2022. \[[PubMed
+    id 35536588](https://www.ncbi.nlm.nih.gov/pubmed/35536588)\]
+    \[[doi: 10.1093/biostatistics/kxac014](https://doi.org/10.1093/biostatistics/kxac014)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
 
 3.  Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P,
     Flatley C, Juodakis J, Bacelis J, Koløen IL, Knudsen GP, Johansson
