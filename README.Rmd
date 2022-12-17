@@ -227,7 +227,7 @@ _<sub>PathwayMatcher can build biological networks of different levels of granul
 ![MH time lapse](docs/figures/mh_time-lapse.gif?raw=true "MH time lapse")
 </td>
 <td> 
-_<sub>The association between genetic variation and phenotypes, _e.g._ with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we built a complete bioinformatic environment from scratch.</sub>_
+_<sub>The association between genetic variation and phenotypes, e.g. with the Body Mass Index (BMI), is often presented as static, yet it changes over the course of life. Here we present genome-wide association results during the first years of life, from birth to age 8, making possibly one of the first genetic time lapse. It represents 12 GWASs on the [MoBa cohort](https://www.fhi.no/studier/moba/forskere/sporreskjemaer---mor-og-barn-unders/), for which we built a complete bioinformatic environment from scratch.</sub>_
 <br>
 </td>
 </tr>
@@ -267,6 +267,12 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 <br>
 
 ## Original Articles
+    
+1. Vašíček J, Skiadopoulou D, Kuznetsova KG, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>., **Vaudel M**<sup>†,:email:</sup>. _Identifying Protein Haplotypes by Mass Spectrometry_, _preprint_. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.11.21.517096v1)]
+    
+1. Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel M**<sup>1</sup>, Xiaoping W, Chen J, Moen GH, Skotte L, Helgeland Ø, Sole-Navais P, Banasik K, Albiñana C, Ronkainen J, Fadista J, Stinson SE, Trajanoska K, Wang CA, Westergaard D, Srinivasan S, Sánchez-Soriano C, Bilbao JR, Allard C, Groleau M, Kuulasmaa T, Leirer DJ, White F, Jacques PE, Cheng H, Hao K, Andreassen OA, Åsvold BO, Atalay M, Bhatta L, Bouchard L, Brumpton BM, Brunak S, Bybjerg-Grauholm J, Ebbing C, Elliott P, Engelbrechtsen L, Erikstrup C, Estarlich M, Franks S, Gaillard R, Geller F, Grove J, Hougaard DM, Kajantie E, Morgen CS, Nohr EA, Nyegaard M, Palmer CNA, Pedersen OB, The Early Growth Genetics (EGG) Consortium, Rivadeneira F, Sebert S, Shields BM, Stoltenberg C, Surakka I, Thørner LW, Ullum H, Vaarasmaki M, Vilhjalmsson BJ, Willer CJ, Lakka TA, Gybel-Brask DJ, Bustamante M, Hansen T, Pearson ER, Reynolds R, Ostrowski SR, Pennell CE, Jaddoe VWV, Felix JF, Hattersley AT, Melbye M, Lawlor DA, Hveem K, Werge T, Nielsen HS, Magnus P, Evans DM, Jacobsson B, Järvelin MR, Zhang G, Hivert MF, Johansson S<sup>†</sup>, Freathy RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad PR<sup>†,:email:</sup>. _Genome-wide association study of placental weight in 179,025 children and parents reveals distinct and shared genetic influences between placental and fetal growth_, _preprint_. [[Preprint](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1)]
+    
+1. Sole-Navais P<sup>1,:email:</sup>, Juodakis J<sup>1</sup>, Ytterberg K, Xiaoping W, **Vaudel M**, Helgeland Ø, Flatley C, Geller F, Magnus P, Andreassen OA, Njolstad PR, Feenstra B, Muglia LJ, Johanson S, Jacobsson B<sup>:email:</sup>. _Genome-wide analysis of neonatal jaundice reveals a marked departure from adult bilirubin metabolism_, _preprint_. [[Preprint](https://www.medrxiv.org/content/10.1101/2022.12.14.22283348v1)]
     
 1. Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S, Njølstad PR, Barsnes H<sup>†</sup>., **Vaudel M**<sup>†,:email:</sup>. _Extending protein interaction networks using proteoforms and small molecules_, _preprint_. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.06.506730v1)]
     
