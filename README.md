@@ -181,9 +181,10 @@ support for sequence variants.</sub>* <br>
 
 ## Original Articles
 
-1.  Vašíček J, Skiadopoulou D, Kuznetsova KG, Johansson S, Njølstad PR,
-    Bruckner S, Käll L<sup>†</sup>., **Vaudel M**<sup>†,:email:</sup>.
-    *Identifying Protein Haplotypes by Mass Spectrometry*, *preprint*.
+1.  Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG,
+    Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>., **Vaudel
+    M**<sup>†,:email:</sup>. *Identifying Protein Haplotypes by Mass
+    Spectrometry*, *preprint*.
     \[[Preprint](https://www.biorxiv.org/content/10.1101/2022.11.21.517096v1)\]
 
 2.  Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel
