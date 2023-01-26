@@ -177,7 +177,6 @@ This repository lists the scientific publications co-authored by [Marc Vaudel](h
 
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
-- [NIH iCite](https://icite.od.nih.gov/analysis?search_id=87lghf7z77q1eloy)
 - [Google Scholar](https://scholar.google.com/citations?user=JTK8FTkAAAAJ)
 
 <br>
@@ -186,9 +185,84 @@ This repository lists the scientific publications co-authored by [Marc Vaudel](h
 
 <br>
 
-## Five Highlighted Original Articles
+## Ten Highlighted Original Articles
 
-1. Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P, Flatley C, Juodakis J, Bacelis J, Koløen IL, Peggy Knudsen G, Johansson BB, Magnus P, Reichborn Kjennerud T, Juliusson PB, Stoltenberg C, Holmen OL, Andreassen OA, Jacobsson B, Njølstad PR<sup>:email:</sup>, Johansson S<sup>:email:</sup>. _Characterization of the genetic architecture of BMI in infancy and early childhood reveals age-specific effects and implicates pathways involved in Mendelian obesity_, Nature Metabolism, 2022. `r getLinks(pmid = "35315439", journalDOI = "10.1038/s42255-022-00549-1")`
+1. Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, _preprint_. [[Preprint](https://doi.org/10.1101/2023.01.19.524722)]
+
+<table>
+<tr>
+<td width="150">
+![EarlyGrowth](docs/figures/mindmap_ksenia.png?raw=true "Ksenia variant mapping")
+</td>
+<td>
+_<sub>Ksenia, trained as a molecular biologist, wrote her first pipeline that maps, curates, and consolidates the variants associated with monogenic diabetes and translate their consequences to the protein level. An excellent teamwork with our molecular genetic diagnostic team and our colleagues Miriam Udler and Alisa Manning at the Broad. The pipeline can be used for other diseases, and is central to our work on proteogenomics.</sub>_
+<br>
+</td>
+</tr>
+</table>
+<br>
+
+2. Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _Identifying Protein Haplotypes by Mass Spectrometry_, _preprint_. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.11.21.517096v1)]
+
+<table>
+<tr>
+<td width="150">
+![EarlyGrowth](docs/figures/mindmap_ksenia.png?raw=true "Ksenia variant mapping")
+</td>
+<td>
+_<sub>The first paper by Jakub and Dafni, who study the distribution of protein haplotypes, and whether they can be identified by mass spectrometry. We show the prevalence of muli-variant peptides that can be identified, and how these are difficult to distinguish from similar peptides carrying PTMs. A great collaboration with Lukas Kâll at the SciLifeLab.</sub>_
+<br>
+</td>
+</tr>
+</table>
+<br>
+
+3. Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel M**<sup>1</sup>, Xiaoping W, Chen J, Moen GH, Skotte L, Helgeland Ø, Sole-Navais P, Banasik K, Albiñana C, Ronkainen J, Fadista J, Stinson SE, Trajanoska K, Wang CA, Westergaard D, Srinivasan S, Sánchez-Soriano C, Bilbao JR, Allard C, Groleau M, Kuulasmaa T, Leirer DJ, White F, Jacques PE, Cheng H, Hao K, Andreassen OA, Åsvold BO, Atalay M, Bhatta L, Bouchard L, Brumpton BM, Brunak S, Bybjerg-Grauholm J, Ebbing C, Elliott P, Engelbrechtsen L, Erikstrup C, Estarlich M, Franks S, Gaillard R, Geller F, Grove J, Hougaard DM, Kajantie E, Morgen CS, Nohr EA, Nyegaard M, Palmer CNA, Pedersen OB, The Early Growth Genetics (EGG) Consortium, Rivadeneira F, Sebert S, Shields BM, Stoltenberg C, Surakka I, Thørner LW, Ullum H, Vaarasmaki M, Vilhjalmsson BJ, Willer CJ, Lakka TA, Gybel-Brask DJ, Bustamante M, Hansen T, Pearson ER, Reynolds R, Ostrowski SR, Pennell CE, Jaddoe VWV, Felix JF, Hattersley AT, Melbye M, Lawlor DA, Hveem K, Werge T, Nielsen HS, Magnus P, Evans DM, Jacobsson B, Järvelin MR, Zhang G, Hivert MF, Johansson S<sup>†</sup>, Freathy RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad PR<sup>†,:email:</sup>. _Genome-wide association study of placental weight in 179,025 children and parents reveals distinct and shared genetic influences between placental and fetal growth_, _preprint_. [[Preprint](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1)]
+
+<table>
+<tr>
+<td width="150">
+![EarlyGrowth](docs/figures/pw.png?raw=true "Placental weight paper")
+</td>
+<td>
+_<sub>The first genome-wide analysis of placental weight. A multi-year meta-analysis of multiple cohorts including the Norwegian Mother, Father and Child Cohort Study (MoBa). We provide association results with the genomes of the children and parents, study modes of association, the relationship with birth weight, and to other traits.</sub>_
+<br>
+</td>
+</tr>
+</table>
+<br>
+
+4. Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S, Njølstad PR, Barsnes H<sup>†</sup>., **Vaudel M**<sup>†,:email:</sup>. _Extending protein interaction networks using proteoforms and small molecules_, _preprint_. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.06.506730v1)]
+
+<table>
+<tr>
+<td width="150">
+![EarlyGrowth](docs/figures/network_francisco.png?raw=true "Network representation")
+</td>
+<td>
+_<sub>The last paper of Francisco's PhD. We study how the structure of pathway-derived interaction networks change upon the inclusion of information on proteoforms and small molecules. Francisco has now defended his PhD and is happily pursuing his career as a scientist in a hospital in Oslo.</sub>_
+<br>
+</td>
+</tr>
+</table>
+<br>
+
+5. Burger B<sup>:email:</sup>, **Vaudel M**<sup>:email:</sup>, Barsnes H. _Importance of Block Randomization When Designing Proteomics Experiments_, Journal of Proteome Research, 2020. `r getLinks(pmid = " 32969222", journalDOI = "10.1021/acs.jproteome.0c00536")`
+
+<table>
+<tr>
+<td width="150">
+![EarlyGrowth](docs/figures/bram_block.jpeg?raw=true "Haplo paper Jakub")
+</td>
+<td>
+_<sub>A short paper to promote the use of block randomization when designing experiments. It was the cherry on the cake of Bram's PhD. The paper was received very positively by the community.</sub>_
+<br>
+</td>
+</tr>
+</table>
+<br>
+
+6. Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P, Flatley C, Juodakis J, Bacelis J, Koløen IL, Peggy Knudsen G, Johansson BB, Magnus P, Reichborn Kjennerud T, Juliusson PB, Stoltenberg C, Holmen OL, Andreassen OA, Jacobsson B, Njølstad PR<sup>:email:</sup>, Johansson S<sup>:email:</sup>. _Characterization of the genetic architecture of BMI in infancy and early childhood reveals age-specific effects and implicates pathways involved in Mendelian obesity_, Nature Metabolism, 2022. `r getLinks(pmid = "35315439", journalDOI = "10.1038/s42255-022-00549-1")`
 
 <table>
 <tr>
@@ -203,7 +277,7 @@ _<sub>Longitudinal association of BMI with common variation - we identify differ
 </table>
 <br>
 
-2. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>. _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
+7. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S, Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>. _PathwayMatcher: proteoform-centric network construction enables fine-granularity multi-omics pathway mapping_, GigaScience, 2019. `r getLinks(pmid = "31363752", journalDOI = "10.1093/gigascience/giz088", preprintDOI = "10.1101/375097")`
 
 <table>
 <tr>
@@ -219,7 +293,7 @@ _<sub>PathwayMatcher can build biological networks of different levels of granul
 <br>
 
 
-3. Helgeland Ø, **Vaudel M**, Juliusson PB, Lingaas Holmen O, Juodakis J, Bacelis J, Jacobsson B, Lindekleiv H, Hveem K, Lie RT, Knudsen GP, Stoltenberg C, Magnus P, Sagen JV, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>. _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, 2019. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
+8. Helgeland Ø, **Vaudel M**, Juliusson PB, Lingaas Holmen O, Juodakis J, Bacelis J, Jacobsson B, Lindekleiv H, Hveem K, Lie RT, Knudsen GP, Stoltenberg C, Magnus P, Sagen JV, Molven A, Johansson S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>. _Genome-wide association study reveals a dynamic role of common genetic variation in infant and early childhood growth_, Nature Communications, 2019. `r getLinks(pmid = "31575865", preprintDOI = "10.1101/478255", journalDOI = "10.1038/s41467-019-12308-0")`
 
 <table>
 <tr>
@@ -235,7 +309,7 @@ _<sub>The association between genetic variation and phenotypes, e.g. with the Bo
 <br>
 
 
-4. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>. _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. `r getLinks(pmid = "28334306", journalDOI = "10.1093/bioinformatics/btx122")`
+9. Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>. _PeptideMapper: Efficient and Versatile Amino Acid Sequence and Tag Mapping_, Bioinformatics, 2017. `r getLinks(pmid = "28334306", journalDOI = "10.1093/bioinformatics/btx122")`
 
 <table>
 <tr>
@@ -251,7 +325,7 @@ _<sub>PeptideMapper is an efficient sequence alignment tool for proteomics. Sequ
 <br>
 
 
-5. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H. _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. `r getLinks(pmid = "25574629", journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
+10. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann A, Martens L<sup>:email:</sup>, Barsnes H. _PeptideShaker enables reanalysis of mass spectrometry-derived proteomics datasets_, Nature Biotechnology, 2015. `r getLinks(pmid = "25574629", journalDOI = "10.1038/nbt.3109", aam = "docs/aam/peptideshaker_submitted.pdf")`
 
 <table>
 <tr>
@@ -268,9 +342,9 @@ _<sub>PeptideShaker is a bioinformatic tools that processes proteomics identific
 
 ## Original Articles
     
-1. Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>., **Vaudel M**<sup>†,:email:</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, _preprint_. [[Preprint](https://doi.org/10.1101/2023.01.19.524722)]
+1. Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, _preprint_. [[Preprint](https://doi.org/10.1101/2023.01.19.524722)]
     
-1. Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>., **Vaudel M**<sup>†,:email:</sup>. _Identifying Protein Haplotypes by Mass Spectrometry_, _preprint_. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.11.21.517096v1)]
+1. Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _Identifying Protein Haplotypes by Mass Spectrometry_, _preprint_. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.11.21.517096v1)]
     
 1. Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel M**<sup>1</sup>, Xiaoping W, Chen J, Moen GH, Skotte L, Helgeland Ø, Sole-Navais P, Banasik K, Albiñana C, Ronkainen J, Fadista J, Stinson SE, Trajanoska K, Wang CA, Westergaard D, Srinivasan S, Sánchez-Soriano C, Bilbao JR, Allard C, Groleau M, Kuulasmaa T, Leirer DJ, White F, Jacques PE, Cheng H, Hao K, Andreassen OA, Åsvold BO, Atalay M, Bhatta L, Bouchard L, Brumpton BM, Brunak S, Bybjerg-Grauholm J, Ebbing C, Elliott P, Engelbrechtsen L, Erikstrup C, Estarlich M, Franks S, Gaillard R, Geller F, Grove J, Hougaard DM, Kajantie E, Morgen CS, Nohr EA, Nyegaard M, Palmer CNA, Pedersen OB, The Early Growth Genetics (EGG) Consortium, Rivadeneira F, Sebert S, Shields BM, Stoltenberg C, Surakka I, Thørner LW, Ullum H, Vaarasmaki M, Vilhjalmsson BJ, Willer CJ, Lakka TA, Gybel-Brask DJ, Bustamante M, Hansen T, Pearson ER, Reynolds R, Ostrowski SR, Pennell CE, Jaddoe VWV, Felix JF, Hattersley AT, Melbye M, Lawlor DA, Hveem K, Werge T, Nielsen HS, Magnus P, Evans DM, Jacobsson B, Järvelin MR, Zhang G, Hivert MF, Johansson S<sup>†</sup>, Freathy RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad PR<sup>†,:email:</sup>. _Genome-wide association study of placental weight in 179,025 children and parents reveals distinct and shared genetic influences between placental and fetal growth_, _preprint_. [[Preprint](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1)]
     

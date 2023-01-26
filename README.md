@@ -6,11 +6,9 @@ Marc Vaudel
 [![DOI](https://zenodo.org/badge/200110790.svg)](https://zenodo.org/badge/latestdoi/200110790)
 
 This repository lists the scientific publications co-authored by [Marc
-Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 23.01.2023.
+Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 26.01.2023.
 
 -   [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
--   [NIH
-    iCite](https://icite.od.nih.gov/analysis?search_id=87lghf7z77q1eloy)
 -   [Google
     Scholar](https://scholar.google.com/citations?user=JTK8FTkAAAAJ)
 
@@ -21,9 +19,155 @@ Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 23.01.2023.
 
 <br>
 
-## Five Highlighted Original Articles
+## Ten Highlighted Original Articles
 
-1.  Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P,
+1.  Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes
+    J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>,
+    **Vaudel M**<sup>†,:email:</sup>. *A systematic mapping of the
+    genomic and proteomic variation associated with monogenic diabetes*,
+    *preprint*.
+    \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
+
+<table>
+<tr>
+<td width="150">
+
+![EarlyGrowth](docs/figures/mindmap_ksenia.png?raw=true "Ksenia variant mapping")
+
+</td>
+<td>
+*<sub>Ksenia, trained as a molecular biologist, wrote her first pipeline
+that maps, curates, and consolidates the variants associated with
+monogenic diabetes and translate their consequences to the protein
+level. An excellent teamwork with our molecular genetic diagnostic team
+and our colleagues Miriam Udler and Alisa Manning at the Broad. The
+pipeline can be used for other diseases, and is central to our work on
+proteogenomics.</sub>* <br>
+</td>
+</tr>
+</table>
+
+<br>
+
+2.  Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG,
+    Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>, **Vaudel
+    M**<sup>†,:email:</sup>. *Identifying Protein Haplotypes by Mass
+    Spectrometry*, *preprint*.
+    \[[Preprint](https://www.biorxiv.org/content/10.1101/2022.11.21.517096v1)\]
+
+<table>
+<tr>
+<td width="150">
+
+![EarlyGrowth](docs/figures/mindmap_ksenia.png?raw=true "Ksenia variant mapping")
+
+</td>
+<td>
+*<sub>The first paper by Jakub and Dafni, who study the distribution of
+protein haplotypes, and whether they can be identified by mass
+spectrometry. We show the prevalence of muli-variant peptides that can
+be identified, and how these are difficult to distinguish from similar
+peptides carrying PTMs. A great collaboration with Lukas Kâll at the
+SciLifeLab.</sub>* <br>
+</td>
+</tr>
+</table>
+
+<br>
+
+3.  Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel
+    M**<sup>1</sup>, Xiaoping W, Chen J, Moen GH, Skotte L, Helgeland Ø,
+    Sole-Navais P, Banasik K, Albiñana C, Ronkainen J, Fadista J,
+    Stinson SE, Trajanoska K, Wang CA, Westergaard D, Srinivasan S,
+    Sánchez-Soriano C, Bilbao JR, Allard C, Groleau M, Kuulasmaa T,
+    Leirer DJ, White F, Jacques PE, Cheng H, Hao K, Andreassen OA,
+    Åsvold BO, Atalay M, Bhatta L, Bouchard L, Brumpton BM, Brunak S,
+    Bybjerg-Grauholm J, Ebbing C, Elliott P, Engelbrechtsen L, Erikstrup
+    C, Estarlich M, Franks S, Gaillard R, Geller F, Grove J, Hougaard
+    DM, Kajantie E, Morgen CS, Nohr EA, Nyegaard M, Palmer CNA, Pedersen
+    OB, The Early Growth Genetics (EGG) Consortium, Rivadeneira F,
+    Sebert S, Shields BM, Stoltenberg C, Surakka I, Thørner LW, Ullum H,
+    Vaarasmaki M, Vilhjalmsson BJ, Willer CJ, Lakka TA, Gybel-Brask DJ,
+    Bustamante M, Hansen T, Pearson ER, Reynolds R, Ostrowski SR,
+    Pennell CE, Jaddoe VWV, Felix JF, Hattersley AT, Melbye M, Lawlor
+    DA, Hveem K, Werge T, Nielsen HS, Magnus P, Evans DM, Jacobsson B,
+    Järvelin MR, Zhang G, Hivert MF, Johansson S<sup>†</sup>, Freathy
+    RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad
+    PR<sup>†,:email:</sup>. *Genome-wide association study of placental
+    weight in 179,025 children and parents reveals distinct and shared
+    genetic influences between placental and fetal growth*, *preprint*.
+    \[[Preprint](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1)\]
+
+<table>
+<tr>
+<td width="150">
+
+![EarlyGrowth](docs/figures/pw.png?raw=true "Placental weight paper")
+
+</td>
+<td>
+*<sub>The first genome-wide analysis of placental weight. A multi-year
+meta-analysis of multiple cohorts including the Norwegian Mother, Father
+and Child Cohort Study (MoBa). We provide association results with the
+genomes of the children and parents, study modes of association, the
+relationship with birth weight, and to other traits.</sub>* <br>
+</td>
+</tr>
+</table>
+
+<br>
+
+4.  Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S,
+    Njølstad PR, Barsnes H<sup>†</sup>., **Vaudel
+    M**<sup>†,:email:</sup>. *Extending protein interaction networks
+    using proteoforms and small molecules*, *preprint*.
+    \[[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.06.506730v1)\]
+
+<table>
+<tr>
+<td width="150">
+
+![EarlyGrowth](docs/figures/network_francisco.png?raw=true "Network representation")
+
+</td>
+<td>
+*<sub>The last paper of Francisco’s PhD. We study how the structure of
+pathway-derived interaction networks change upon the inclusion of
+information on proteoforms and small molecules. Francisco has now
+defended his PhD and is happily pursuing his career as a scientist in a
+hospital in Oslo.</sub>* <br>
+</td>
+</tr>
+</table>
+
+<br>
+
+5.  Burger B<sup>:email:</sup>, **Vaudel M**<sup>:email:</sup>,
+    Barsnes H. *Importance of Block Randomization When Designing
+    Proteomics Experiments*, Journal of Proteome Research, 2020.
+    \[[PubMed id
+    32969222](https://www.ncbi.nlm.nih.gov/pubmed/%2032969222)\] \[[doi:
+    10.1021/acs.jproteome.0c00536](https://doi.org/10.1021/acs.jproteome.0c00536)\]
+    \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00536)\]
+
+<table>
+<tr>
+<td width="150">
+
+![EarlyGrowth](docs/figures/bram_block.jpeg?raw=true "Haplo paper Jakub")
+
+</td>
+<td>
+*<sub>A short paper to promote the use of block randomization when
+designing experiments. It was the cherry on the cake of Bram’s PhD. The
+paper was received very positively by the community.</sub>* <br>
+</td>
+</tr>
+</table>
+
+<br>
+
+6.  Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P,
     Flatley C, Juodakis J, Bacelis J, Koløen IL, Peggy Knudsen G,
     Johansson BB, Magnus P, Reichborn Kjennerud T, Juliusson PB,
     Stoltenberg C, Holmen OL, Andreassen OA, Jacobsson B, Njølstad
@@ -53,7 +197,7 @@ growth.</sub>* <br>
 
 <br>
 
-2.  Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
+7.  Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
     Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>:email:</sup>.
     *PathwayMatcher: proteoform-centric network construction enables
     fine-granularity multi-omics pathway mapping*, GigaScience, 2019.
@@ -87,7 +231,7 @@ biological networks.</sub>* <br>
 
 <br>
 
-3.  Helgeland Ø, **Vaudel M**, Juliusson PB, Lingaas Holmen O, Juodakis
+8.  Helgeland Ø, **Vaudel M**, Juliusson PB, Lingaas Holmen O, Juodakis
     J, Bacelis J, Jacobsson B, Lindekleiv H, Hveem K, Lie RT, Knudsen
     GP, Stoltenberg C, Magnus P, Sagen JV, Molven A, Johansson
     S<sup>†:email:</sup>, Njølstad PR<sup>†:email:</sup>. *Genome-wide
@@ -123,7 +267,7 @@ scratch.</sub>* <br>
 
 <br>
 
-4.  Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel
+9.  Kopczynski D, Barsnes H, Njølstad PR, Sickmann A, **Vaudel
     M**<sup>:email:</sup>, Ahrends R<sup>:email:</sup>. *PeptideMapper:
     Efficient and Versatile Amino Acid Sequence and Tag Mapping*,
     Bioinformatics, 2017. \[[PubMed id
@@ -149,7 +293,7 @@ modifications and sequence variants during mapping.</sub>* <br>
 
 <br>
 
-5.  **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann
+10. **Vaudel M**, Burkhart JM, Zahedi RP, Oveland E, Berven FS, Sickmann
     A, Martens L<sup>:email:</sup>, Barsnes H. *PeptideShaker enables
     reanalysis of mass spectrometry-derived proteomics datasets*, Nature
     Biotechnology, 2015. \[[PubMed id
@@ -182,14 +326,14 @@ support for sequence variants.</sub>* <br>
 ## Original Articles
 
 1.  Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes
-    J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>.,
+    J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>,
     **Vaudel M**<sup>†,:email:</sup>. *A systematic mapping of the
     genomic and proteomic variation associated with monogenic diabetes*,
     *preprint*.
     \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
 
 2.  Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG,
-    Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>., **Vaudel
+    Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>, **Vaudel
     M**<sup>†,:email:</sup>. *Identifying Protein Haplotypes by Mass
     Spectrometry*, *preprint*.
     \[[Preprint](https://www.biorxiv.org/content/10.1101/2022.11.21.517096v1)\]
@@ -645,7 +789,7 @@ support for sequence variants.</sub>* <br>
     patients*, Biol Proced Online, 2016. \[[PubMed id
     27330413](https://www.ncbi.nlm.nih.gov/pubmed/27330413)\] \[[doi:
     10.1186/s12575-016-0043-0](https://doi.org/10.1186/s12575-016-0043-0)\]
-    \[[pdf](https://doi.org/10.1186/s12575-016-0043-0)\]
+    \[[pdf](https://biologicalproceduresonline.biomedcentral.com/track/pdf/10.1186/s12575-016-0043-0)\]
 
 38. Aasebø E<sup>1</sup>, Mjaavatten O, **Vaudel M**, Farag Y, Selheim
     F, Berven FS, Bruserud Ø, Hernandez-Valladares
