@@ -25,8 +25,7 @@ Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 22.06.2023.
 1.  Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>,
     **Vaudel M**<sup>†,:email:</sup>. *Retention time and fragmentation
     predictors increase confidence in variant peptide identification*,
-    *preprint*.
-    \[[Preprint](https://doi.org/10.1101/2023.03.29.534843)\]
+    preprint. \[[Preprint](https://doi.org/10.1101/2023.03.29.534843)\]
 
 <table>
 <tr>
@@ -53,8 +52,7 @@ peptides.</sub>* <br>
     J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>,
     **Vaudel M**<sup>†,:email:</sup>. *A systematic mapping of the
     genomic and proteomic variation associated with monogenic diabetes*,
-    *preprint*.
-    \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
+    preprint. \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
 
 <table>
 <tr>
@@ -80,7 +78,7 @@ proteogenomics.</sub>* <br>
 3.  Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG,
     Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>,
     **Vaudel M**<sup>†,:email:</sup>. *Finding Haplotypic Signatures in
-    Proteins*, *preprint*.
+    Proteins*, preprint.
     \[[Preprint](https://doi.org/10.1101/2022.11.21.517096)\]
 
 <table>
@@ -123,7 +121,7 @@ SciLifeLab.</sub>* <br>
     RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad
     PR<sup>†,:email:</sup>. *Genome-wide association study of placental
     weight in 179,025 children and parents reveals distinct and shared
-    genetic influences between placental and fetal growth*, *preprint*.
+    genetic influences between placental and fetal growth*, preprint.
     \[[Preprint](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1)\]
 
 <table>
@@ -148,7 +146,7 @@ relationship with birth weight, and to other traits.</sub>* <br>
 5.  Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S,
     Njølstad PR, Barsnes H<sup>†</sup>., **Vaudel
     M**<sup>†,:email:</sup>. *Extending protein interaction networks
-    using proteoforms and small molecules*, *preprint*.
+    using proteoforms and small molecules*, preprint.
     \[[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.06.506730v1)\]
 
 <table>
@@ -314,88 +312,86 @@ sequence variants.</sub>* <br>
 ## Original Articles
 
 1.  Katherine A Kentistou<sup>1</sup>, Lena R Kaisinger<sup>1</sup>,
-    Stasa Stankovic, Marc Vaudel, Edson M de Oliveira, Andrea Messina,
-    Robin G Walters, Xiaoxi Liu, Alexander S Busch, Hannes Helgason,
-    Deborah J Thompson, Federico Santon, Konstantin M Petricek, Yassine
-    Zouaghi, Isabel Huang-Doran, Daniel F Gudbjartsson, Eirik Bratland,
-    Kuang Lin, Eugene J Gardner, Yajie Zhao, Raina Jia, Chikashi Terao,
-    Margie Riggan, Manjeet K Bolla, Mojgan Yazdanpanah, Nahid
-    Yazdanpanah, Jonath P Bradfield, Linda Broer, Archie Campbell,
-    Daniel I Chasman, Diana L Cousminer, Nora Franceschini, Lude H
-    Franke, Giorgia Girotto, Chunyan He, Marjo-Riitta Jarvelin, Peter K
-    Joshi, Yoichiro Kamatani, Robert Karlsson, Jian’an Luan, Kathryn L
-    Lunetta, Reedik Magi, Massimo Mangino, Sarah E Medland, Christa
-    Meisinger, Raymond Noordam, Teresa Nutile, Maria Pina Concas, Ozren
-    Polasek, Eleonora Porcu, Susan M Ring, Cinzia Sala, Albert V Smith,
-    Toshiko Tanaka, Peter J van der Most, Veronique Vitart, Carol A
-    Wang, Gonneke Willemsen, Marek Zygmunt, Thomas U Ahearn, Irene L
-    Andrulis, Hoda Anton-Culver, Antonis C Antoniou, Paul L Auer,
-    Catriona LK Barnes, Matthias W Beckmann, Amy Berrington, Natalia V
-    Bogdanova, Stig E Bojesen, Hermann Brenner, Julie E Buring, Federico
-    Canzian, Jenny Chang-Claude, Fergus J Couch, Angela Cox, Laura
-    Crisponi, Kamila Czene, Mary B Daly, Ellen W Demerath, Joe Dennis,
-    Peter Devilee, Immaculata De Vivo, Thilo Dork, Alison M Dunning,
-    Miriam Dwek, Johan G Eriksson, Peter A Fasching, Lindsay
-    Fernandez-Rhodes, Liana Ferreli, Olivia Fletcher, Manuela
-    Gago-Dominguez, Montserrat Garcia-Closas, Jose A Garcia-Saenz, Anna
-    Gonzalez-Neira, Harald Grallert, Pascal Guenel, Christopher A
-    Haiman, Per Hall, Ute Hamann, Hakon Hakonarson, Roger J Hart, Martha
-    Hickey, Maartje J Hooning, Reiner Hoppe, John L Hopper, Jouke-Jan
-    Hottenga, Frank B Hu, Hanna Hubner, David J Hunter, ABCTB
-    Investigators, Helena Jernstrom, Esther M John, David Karasik, Elza
-    K Khusnutdinova, Vessela N Kristensen, James V Lacey, Diether
-    Lambrechts, Lenore J Launer, Penelope A Lind, Annika Lindblom,
-    Patrik KE Magnusson, Arto Mannermaa, Mark I McCarthy, Thomas
-    Meitinger, Cristina Menni, Kyriaki Michailidou, Iona Y Millwood,
-    Roger L Milne, Grant W Montgomery, Heli Nevanlinna, Ilja M Nolte,
-    Dale R Nyholt, Nadia Obi, Katie M O’Brien, Kenneth Offit, Albertine
-    J Oldehinkel, Sisse R Ostrowski, Aarno Palotie, Ole B Pedersen,
-    Annette Peters, Giulia Pianigiani, Dijana Plaseska-Karanfilska,
-    Anneli Pouta, Alfred Pozarickij, Paolo Radice, Gad Rennert, Frits R
-    Rosendaal, Daniela Ruggiero, Emmanouil Saloustros, Dale P Sandler,
-    Sabine Schipf, Carsten O Schmidt, Marjanka K Schmidt, Kerrin Small,
-    Beatrice Spedicati, Meir Stampfer, Jennifer Stone, Rulla M Tamimi,
-    Lauren R Teras, Emmi Tikkanen, Constance Turman, Celine M Vachon,
-    Qin Wang, Robert Winqvist, Alicja Wolk, Babette S Zemel, Wei Zheng,
-    Ko W van Dijk, Behrooz Z Alizadeh, Stefania Bandinelli, Eric
-    Boerwinkle, Dorret I Boomsma, Marina Ciullo, Georgia
-    Chenevix-Trench, Francesco Cucca, Tonu Esko, Christian Gieger,
-    Struan FA Grant, Vilmundur Gudnason, Caroline Hayward, Ivana Kolcic,
-    Peter Kraft, Deborah A Lawlor, Nicholas G Martin, Ellen A Nohr,
-    Nancy L Pedersen, Craig E Pennell, Paul M Ridker, Antonietta Robino,
-    Harold Snieder, Ulla Sovio, Tim D Spector, Doris Stockl, Cathie
-    Sudlow, Nic J Timpson, Daniela Toniolo, Andre Uitterlinden, Sheila
-    Ulivi, Henry Volzke, Nicholas J Wareham, Elisabeth Widen, James F
-    Wilson, The Lifelines Cohort Study, The Danish Blood Donor study,
-    The Ovarian Cancer Association Consortium, The Breast Cancer
-    Association Consortium, The Biobank Japan Project, The China
-    Kadoorie Biobank Collaborative Group, Paul DP Pharoah, Liming Li,
-    Douglas F Easton, Pal Njolstad, Patrick Sulem, Joanne M Murabito,
-    Anna Murray, Despoina Manousaki, Anders Juul, Christian Erikstrup,
-    Kari Stefansson, Momoko Horikoshi, Zhengming Chen, I Sadaf Farooqi,
-    Nelly Pitteloud, Stefan Johansson, Felix R Day<sup>†</sup>, John RB
-    Perry<sup>†,:email:</sup>, Ken K Ong<sup>†</sup>. *Understanding the
-    genetic complexity of puberty timing across the allele frequency
-    spectrum*.
+    Stasa Stankovic, **Marc Vaudel**, Edson M de Oliveira, Andrea
+    Messina, Robin G Walters, Xiaoxi Liu, Alexander S Busch, Hannes
+    Helgason, Deborah J Thompson, Federico Santon, Konstantin M
+    Petricek, Yassine Zouaghi, Isabel Huang-Doran, Daniel F
+    Gudbjartsson, Eirik Bratland, Kuang Lin, Eugene J Gardner, Yajie
+    Zhao, Raina Jia, Chikashi Terao, Margie Riggan, Manjeet K Bolla,
+    Mojgan Yazdanpanah, Nahid Yazdanpanah, Jonath P Bradfield, Linda
+    Broer, Archie Campbell, Daniel I Chasman, Diana L Cousminer, Nora
+    Franceschini, Lude H Franke, Giorgia Girotto, Chunyan He,
+    Marjo-Riitta Jarvelin, Peter K Joshi, Yoichiro Kamatani, Robert
+    Karlsson, Jian’an Luan, Kathryn L Lunetta, Reedik Magi, Massimo
+    Mangino, Sarah E Medland, Christa Meisinger, Raymond Noordam, Teresa
+    Nutile, Maria Pina Concas, Ozren Polasek, Eleonora Porcu, Susan M
+    Ring, Cinzia Sala, Albert V Smith, Toshiko Tanaka, Peter J van der
+    Most, Veronique Vitart, Carol A Wang, Gonneke Willemsen, Marek
+    Zygmunt, Thomas U Ahearn, Irene L Andrulis, Hoda Anton-Culver,
+    Antonis C Antoniou, Paul L Auer, Catriona LK Barnes, Matthias W
+    Beckmann, Amy Berrington, Natalia V Bogdanova, Stig E Bojesen,
+    Hermann Brenner, Julie E Buring, Federico Canzian, Jenny
+    Chang-Claude, Fergus J Couch, Angela Cox, Laura Crisponi, Kamila
+    Czene, Mary B Daly, Ellen W Demerath, Joe Dennis, Peter Devilee,
+    Immaculata De Vivo, Thilo Dork, Alison M Dunning, Miriam Dwek, Johan
+    G Eriksson, Peter A Fasching, Lindsay Fernandez-Rhodes, Liana
+    Ferreli, Olivia Fletcher, Manuela Gago-Dominguez, Montserrat
+    Garcia-Closas, Jose A Garcia-Saenz, Anna Gonzalez-Neira, Harald
+    Grallert, Pascal Guenel, Christopher A Haiman, Per Hall, Ute Hamann,
+    Hakon Hakonarson, Roger J Hart, Martha Hickey, Maartje J Hooning,
+    Reiner Hoppe, John L Hopper, Jouke-Jan Hottenga, Frank B Hu, Hanna
+    Hubner, David J Hunter, ABCTB Investigators, Helena Jernstrom,
+    Esther M John, David Karasik, Elza K Khusnutdinova, Vessela N
+    Kristensen, James V Lacey, Diether Lambrechts, Lenore J Launer,
+    Penelope A Lind, Annika Lindblom, Patrik KE Magnusson, Arto
+    Mannermaa, Mark I McCarthy, Thomas Meitinger, Cristina Menni,
+    Kyriaki Michailidou, Iona Y Millwood, Roger L Milne, Grant W
+    Montgomery, Heli Nevanlinna, Ilja M Nolte, Dale R Nyholt, Nadia Obi,
+    Katie M O’Brien, Kenneth Offit, Albertine J Oldehinkel, Sisse R
+    Ostrowski, Aarno Palotie, Ole B Pedersen, Annette Peters, Giulia
+    Pianigiani, Dijana Plaseska-Karanfilska, Anneli Pouta, Alfred
+    Pozarickij, Paolo Radice, Gad Rennert, Frits R Rosendaal, Daniela
+    Ruggiero, Emmanouil Saloustros, Dale P Sandler, Sabine Schipf,
+    Carsten O Schmidt, Marjanka K Schmidt, Kerrin Small, Beatrice
+    Spedicati, Meir Stampfer, Jennifer Stone, Rulla M Tamimi, Lauren R
+    Teras, Emmi Tikkanen, Constance Turman, Celine M Vachon, Qin Wang,
+    Robert Winqvist, Alicja Wolk, Babette S Zemel, Wei Zheng, Ko W van
+    Dijk, Behrooz Z Alizadeh, Stefania Bandinelli, Eric Boerwinkle,
+    Dorret I Boomsma, Marina Ciullo, Georgia Chenevix-Trench, Francesco
+    Cucca, Tonu Esko, Christian Gieger, Struan FA Grant, Vilmundur
+    Gudnason, Caroline Hayward, Ivana Kolcic, Peter Kraft, Deborah A
+    Lawlor, Nicholas G Martin, Ellen A Nohr, Nancy L Pedersen, Craig E
+    Pennell, Paul M Ridker, Antonietta Robino, Harold Snieder, Ulla
+    Sovio, Tim D Spector, Doris Stockl, Cathie Sudlow, Nic J Timpson,
+    Daniela Toniolo, Andre Uitterlinden, Sheila Ulivi, Henry Volzke,
+    Nicholas J Wareham, Elisabeth Widen, James F Wilson, The Lifelines
+    Cohort Study, The Danish Blood Donor study, The Ovarian Cancer
+    Association Consortium, The Breast Cancer Association Consortium,
+    The Biobank Japan Project, The China Kadoorie Biobank Collaborative
+    Group, Paul DP Pharoah, Liming Li, Douglas F Easton, Pal Njolstad,
+    Patrick Sulem, Joanne M Murabito, Anna Murray, Despoina Manousaki,
+    Anders Juul, Christian Erikstrup, Kari Stefansson, Momoko Horikoshi,
+    Zhengming Chen, I Sadaf Farooqi, Nelly Pitteloud, Stefan Johansson,
+    Felix R Day<sup>†</sup>, John RB Perry<sup>†,:email:</sup>, Ken K
+    Ong<sup>†</sup>. *Understanding the genetic complexity of puberty
+    timing across the allele frequency spectrum*, preprint.
     \[[Preprint](https://doi.org/10.1101/2023.06.14.23291322)\]
 
 2.  Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>,
     **Vaudel M**<sup>†,:email:</sup>. *Retention time and fragmentation
     predictors increase confidence in variant peptide identification*,
-    *preprint*.
-    \[[Preprint](https://doi.org/10.1101/2023.03.29.534843)\]
+    preprint. \[[Preprint](https://doi.org/10.1101/2023.03.29.534843)\]
 
 3.  Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes
     J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>,
     **Vaudel M**<sup>†,:email:</sup>. *A systematic mapping of the
     genomic and proteomic variation associated with monogenic diabetes*,
-    *preprint*.
-    \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
+    preprint. \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
 
 4.  Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG,
     Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>,
     **Vaudel M**<sup>†,:email:</sup>. *Finding Haplotypic Signatures in
-    Proteins*, *preprint*.
+    Proteins*, preprint.
     \[[Preprint](https://doi.org/10.1101/2022.11.21.517096)\]
 
 5.  Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel
@@ -418,7 +414,7 @@ sequence variants.</sub>* <br>
     RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad
     PR<sup>†,:email:</sup>. *Genome-wide association study of placental
     weight in 179,025 children and parents reveals distinct and shared
-    genetic influences between placental and fetal growth*, *preprint*.
+    genetic influences between placental and fetal growth*, preprint.
     \[[Preprint](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1)\]
 
 6.  Sole-Navais P<sup>1,:email:</sup>, Juodakis J<sup>1</sup>, Ytterberg
@@ -426,13 +422,13 @@ sequence variants.</sub>* <br>
     Magnus P, Andreassen OA, Njolstad PR, Feenstra B, Muglia LJ,
     Johanson S, Jacobsson B<sup>:email:</sup>. *Genome-wide analysis of
     neonatal jaundice reveals a marked departure from adult bilirubin
-    metabolism*, *preprint*.
+    metabolism*, preprint.
     \[[Preprint](https://www.medrxiv.org/content/10.1101/2022.12.14.22283348v1)\]
 
 7.  Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S,
     Njølstad PR, Barsnes H<sup>†</sup>., **Vaudel
     M**<sup>†,:email:</sup>. *Extending protein interaction networks
-    using proteoforms and small molecules*, *preprint*.
+    using proteoforms and small molecules*, preprint.
     \[[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.06.506730v1)\]
 
 8.  Sole-Navais P<sup>:email:</sup>, Flatley C, Steinthorsdottir V,
@@ -464,8 +460,9 @@ sequence variants.</sub>* <br>
     sequential processing*, Biostatistics, 2022. \[[PubMed id
     35536588](https://www.ncbi.nlm.nih.gov/pubmed/35536588)\] \[[doi:
     10.1093/biostatistics/kxac014](https://doi.org/10.1093/biostatistics/kxac014)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[BORA](https://hdl.handle.net/11250/3054370) -
+    [pdf](https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3054370/kxac014.pdf?sequence=1&isAllowed=y)
+    \]
 
 10. Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P,
     Flatley C, Juodakis J, Bacelis J, Koløen IL, Knudsen GP, Johansson

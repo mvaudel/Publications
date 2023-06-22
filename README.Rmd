@@ -82,9 +82,11 @@ getDoiLink <- function(journalDOI = NULL, preprintDOI = NULL) {
 #' @param journalDOI the journal DOI
 #' @param preprintDOI the preprint DOI
 #' @param aam the path to the AAM
+#' @param bora the path to bora
+#' @param bora_pdf the path to the pdf in bora
 #' 
 #' @return a string containing the link to pdf
-getPdfLink <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
+getPdfLink <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL, bora = NULL, bora_pdf = NULL) {
     
     if (!is.null(journalDOI)) {
         
@@ -107,6 +109,12 @@ getPdfLink <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
                 
             }
         }
+    }
+    
+    if (!is.null(bora)) {
+        
+            return(paste0("[[BORA](", bora, ") - [pdf](", bora_pdf, ") ]"))
+        
     }
     
     if (!is.null(preprintDOI)) {
@@ -141,9 +149,10 @@ getPdfLink <- function(journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
 #' @param journalDOI the journal DOI
 #' @param preprintDOI the preprint DOI
 #' @param aam the path to the AAM
+#' @param bora the URI to bora
 #' 
 #' @return a string containing the DOI link
-getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = NULL) {
+getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = NULL, bora = NULL, bora_pdf = NULL) {
     
     return(
         paste(
@@ -160,7 +169,9 @@ getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = N
             getPdfLink(
                 journalDOI = journalDOI,
                 preprintDOI = preprintDOI,
-                aam = aam
+                aam = aam,
+                bora = bora,
+                bora_pdf = bora_pdf
             )
         )
     )
@@ -188,7 +199,7 @@ This repository lists the scientific publications co-authored by [Marc Vaudel](h
 
 ## Ten Highlighted Original Articles
 
-1. Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _Retention time and fragmentation predictors increase confidence in variant peptide identification_, _preprint_. [[Preprint](https://doi.org/10.1101/2023.03.29.534843)]
+1. Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _Retention time and fragmentation predictors increase confidence in variant peptide identification_, preprint. [[Preprint](https://doi.org/10.1101/2023.03.29.534843)]
 
 <table>
 <tr>
@@ -203,7 +214,7 @@ _<sub>Genetic variation is not commonly included in proteomic searches. We show 
 </table>
 <br>
 
-2. Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, _preprint_. [[Preprint](https://doi.org/10.1101/2023.01.19.524722)]
+2. Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, preprint. [[Preprint](https://doi.org/10.1101/2023.01.19.524722)]
 
 <table>
 <tr>
@@ -218,7 +229,7 @@ _<sub>Ksenia, trained as a molecular biologist, wrote her first pipeline that ma
 </table>
 <br>
 
-3. Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG, Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _Finding Haplotypic Signatures in Proteins_, _preprint_. [[Preprint](https://doi.org/10.1101/2022.11.21.517096)]
+3. Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG, Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _Finding Haplotypic Signatures in Proteins_, preprint. [[Preprint](https://doi.org/10.1101/2022.11.21.517096)]
 
 <table>
 <tr>
@@ -233,7 +244,7 @@ _<sub>The first paper by Jakub and Dafni, who study the distribution of protein 
 </table>
 <br>
 
-4. Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel M**<sup>1</sup>, Xiaoping W, Chen J, Moen GH, Skotte L, Helgeland Ø, Sole-Navais P, Banasik K, Albiñana C, Ronkainen J, Fadista J, Stinson SE, Trajanoska K, Wang CA, Westergaard D, Srinivasan S, Sánchez-Soriano C, Bilbao JR, Allard C, Groleau M, Kuulasmaa T, Leirer DJ, White F, Jacques PE, Cheng H, Hao K, Andreassen OA, Åsvold BO, Atalay M, Bhatta L, Bouchard L, Brumpton BM, Brunak S, Bybjerg-Grauholm J, Ebbing C, Elliott P, Engelbrechtsen L, Erikstrup C, Estarlich M, Franks S, Gaillard R, Geller F, Grove J, Hougaard DM, Kajantie E, Morgen CS, Nohr EA, Nyegaard M, Palmer CNA, Pedersen OB, The Early Growth Genetics (EGG) Consortium, Rivadeneira F, Sebert S, Shields BM, Stoltenberg C, Surakka I, Thørner LW, Ullum H, Vaarasmaki M, Vilhjalmsson BJ, Willer CJ, Lakka TA, Gybel-Brask DJ, Bustamante M, Hansen T, Pearson ER, Reynolds R, Ostrowski SR, Pennell CE, Jaddoe VWV, Felix JF, Hattersley AT, Melbye M, Lawlor DA, Hveem K, Werge T, Nielsen HS, Magnus P, Evans DM, Jacobsson B, Järvelin MR, Zhang G, Hivert MF, Johansson S<sup>†</sup>, Freathy RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad PR<sup>†,:email:</sup>. _Genome-wide association study of placental weight in 179,025 children and parents reveals distinct and shared genetic influences between placental and fetal growth_, _preprint_. [[Preprint](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1)]
+4. Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel M**<sup>1</sup>, Xiaoping W, Chen J, Moen GH, Skotte L, Helgeland Ø, Sole-Navais P, Banasik K, Albiñana C, Ronkainen J, Fadista J, Stinson SE, Trajanoska K, Wang CA, Westergaard D, Srinivasan S, Sánchez-Soriano C, Bilbao JR, Allard C, Groleau M, Kuulasmaa T, Leirer DJ, White F, Jacques PE, Cheng H, Hao K, Andreassen OA, Åsvold BO, Atalay M, Bhatta L, Bouchard L, Brumpton BM, Brunak S, Bybjerg-Grauholm J, Ebbing C, Elliott P, Engelbrechtsen L, Erikstrup C, Estarlich M, Franks S, Gaillard R, Geller F, Grove J, Hougaard DM, Kajantie E, Morgen CS, Nohr EA, Nyegaard M, Palmer CNA, Pedersen OB, The Early Growth Genetics (EGG) Consortium, Rivadeneira F, Sebert S, Shields BM, Stoltenberg C, Surakka I, Thørner LW, Ullum H, Vaarasmaki M, Vilhjalmsson BJ, Willer CJ, Lakka TA, Gybel-Brask DJ, Bustamante M, Hansen T, Pearson ER, Reynolds R, Ostrowski SR, Pennell CE, Jaddoe VWV, Felix JF, Hattersley AT, Melbye M, Lawlor DA, Hveem K, Werge T, Nielsen HS, Magnus P, Evans DM, Jacobsson B, Järvelin MR, Zhang G, Hivert MF, Johansson S<sup>†</sup>, Freathy RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad PR<sup>†,:email:</sup>. _Genome-wide association study of placental weight in 179,025 children and parents reveals distinct and shared genetic influences between placental and fetal growth_, preprint. [[Preprint](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1)]
 
 <table>
 <tr>
@@ -248,7 +259,7 @@ _<sub>The first genome-wide analysis of placental weight. A multi-year meta-anal
 </table>
 <br>
 
-5. Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S, Njølstad PR, Barsnes H<sup>†</sup>., **Vaudel M**<sup>†,:email:</sup>. _Extending protein interaction networks using proteoforms and small molecules_, _preprint_. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.06.506730v1)]
+5. Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S, Njølstad PR, Barsnes H<sup>†</sup>., **Vaudel M**<sup>†,:email:</sup>. _Extending protein interaction networks using proteoforms and small molecules_, preprint. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.06.506730v1)]
 
 <table>
 <tr>
@@ -342,23 +353,23 @@ _<sub>PeptideShaker processes proteomics identification resultsfeaturing rich gr
 
 ## Original Articles
     
-1. Katherine A Kentistou<sup>1</sup>, Lena R Kaisinger<sup>1</sup>, Stasa Stankovic, Marc Vaudel, Edson M de Oliveira, Andrea Messina, Robin G Walters, Xiaoxi Liu, Alexander S Busch, Hannes Helgason, Deborah J Thompson, Federico Santon, Konstantin M Petricek, Yassine Zouaghi, Isabel Huang-Doran, Daniel F Gudbjartsson, Eirik Bratland, Kuang Lin, Eugene J Gardner, Yajie Zhao, Raina Jia, Chikashi Terao, Margie Riggan, Manjeet K Bolla, Mojgan Yazdanpanah, Nahid Yazdanpanah, Jonath P Bradfield, Linda Broer, Archie Campbell, Daniel I Chasman, Diana L Cousminer, Nora Franceschini, Lude H Franke, Giorgia Girotto, Chunyan He, Marjo-Riitta Jarvelin, Peter K Joshi, Yoichiro Kamatani, Robert Karlsson, Jian'an Luan, Kathryn L Lunetta, Reedik Magi, Massimo Mangino, Sarah E Medland, Christa Meisinger, Raymond Noordam, Teresa Nutile, Maria Pina Concas, Ozren Polasek, Eleonora Porcu, Susan M Ring, Cinzia Sala, Albert V Smith, Toshiko Tanaka, Peter J van der Most, Veronique Vitart, Carol A Wang, Gonneke Willemsen, Marek Zygmunt, Thomas U Ahearn, Irene L Andrulis, Hoda Anton-Culver, Antonis C Antoniou, Paul L Auer, Catriona LK Barnes, Matthias W Beckmann, Amy Berrington, Natalia V Bogdanova, Stig E Bojesen, Hermann Brenner, Julie E Buring, Federico Canzian, Jenny Chang-Claude, Fergus J Couch, Angela Cox, Laura Crisponi, Kamila Czene, Mary B Daly, Ellen W Demerath, Joe Dennis, Peter Devilee, Immaculata De Vivo, Thilo Dork, Alison M Dunning, Miriam Dwek, Johan G Eriksson, Peter A Fasching, Lindsay Fernandez-Rhodes, Liana Ferreli, Olivia Fletcher, Manuela Gago-Dominguez, Montserrat Garcia-Closas, Jose A Garcia-Saenz, Anna Gonzalez-Neira, Harald Grallert, Pascal Guenel, Christopher A Haiman, Per Hall, Ute Hamann, Hakon Hakonarson, Roger J Hart, Martha Hickey, Maartje J Hooning, Reiner Hoppe, John L Hopper, Jouke-Jan Hottenga, Frank B Hu, Hanna Hubner, David J Hunter, ABCTB Investigators, Helena Jernstrom, Esther M John, David Karasik, Elza K Khusnutdinova, Vessela N Kristensen, James V Lacey, Diether Lambrechts, Lenore J Launer, Penelope A Lind, Annika Lindblom, Patrik KE Magnusson, Arto Mannermaa, Mark I McCarthy, Thomas Meitinger, Cristina Menni, Kyriaki Michailidou, Iona Y Millwood, Roger L Milne, Grant W Montgomery, Heli Nevanlinna, Ilja M Nolte, Dale R Nyholt, Nadia Obi, Katie M O'Brien, Kenneth Offit, Albertine J Oldehinkel, Sisse R Ostrowski, Aarno Palotie, Ole B Pedersen, Annette Peters, Giulia Pianigiani, Dijana Plaseska-Karanfilska, Anneli Pouta, Alfred Pozarickij, Paolo Radice, Gad Rennert, Frits R Rosendaal, Daniela Ruggiero, Emmanouil Saloustros, Dale P Sandler, Sabine Schipf, Carsten O Schmidt, Marjanka K Schmidt, Kerrin Small, Beatrice Spedicati, Meir Stampfer, Jennifer Stone, Rulla M Tamimi, Lauren R Teras, Emmi Tikkanen, Constance Turman, Celine M Vachon, Qin Wang, Robert Winqvist, Alicja Wolk, Babette S Zemel, Wei Zheng, Ko W van Dijk, Behrooz Z Alizadeh, Stefania Bandinelli, Eric Boerwinkle, Dorret I Boomsma, Marina Ciullo, Georgia Chenevix-Trench, Francesco Cucca, Tonu Esko, Christian Gieger, Struan FA Grant, Vilmundur Gudnason, Caroline Hayward, Ivana Kolcic, Peter Kraft, Deborah A Lawlor, Nicholas G Martin, Ellen A Nohr, Nancy L Pedersen, Craig E Pennell, Paul M Ridker, Antonietta Robino, Harold Snieder, Ulla Sovio, Tim D Spector, Doris Stockl, Cathie Sudlow, Nic J Timpson, Daniela Toniolo, Andre Uitterlinden, Sheila Ulivi, Henry Volzke, Nicholas J Wareham, Elisabeth Widen, James F Wilson, The Lifelines Cohort Study, The Danish Blood Donor study, The Ovarian Cancer Association Consortium, The Breast Cancer Association Consortium, The Biobank Japan Project, The China Kadoorie Biobank Collaborative Group, Paul DP Pharoah, Liming Li, Douglas F Easton, Pal Njolstad, Patrick Sulem, Joanne M Murabito, Anna Murray, Despoina Manousaki, Anders Juul, Christian Erikstrup, Kari Stefansson, Momoko Horikoshi, Zhengming Chen, I Sadaf Farooqi, Nelly Pitteloud, Stefan Johansson, Felix R Day<sup>†</sup>, John RB Perry<sup>†,:email:</sup>, Ken K Ong<sup>†</sup>. _Understanding the genetic complexity of puberty timing across the allele frequency spectrum_. [[Preprint](https://doi.org/10.1101/2023.06.14.23291322)]
+1. Katherine A Kentistou<sup>1</sup>, Lena R Kaisinger<sup>1</sup>, Stasa Stankovic, **Marc Vaudel**, Edson M de Oliveira, Andrea Messina, Robin G Walters, Xiaoxi Liu, Alexander S Busch, Hannes Helgason, Deborah J Thompson, Federico Santon, Konstantin M Petricek, Yassine Zouaghi, Isabel Huang-Doran, Daniel F Gudbjartsson, Eirik Bratland, Kuang Lin, Eugene J Gardner, Yajie Zhao, Raina Jia, Chikashi Terao, Margie Riggan, Manjeet K Bolla, Mojgan Yazdanpanah, Nahid Yazdanpanah, Jonath P Bradfield, Linda Broer, Archie Campbell, Daniel I Chasman, Diana L Cousminer, Nora Franceschini, Lude H Franke, Giorgia Girotto, Chunyan He, Marjo-Riitta Jarvelin, Peter K Joshi, Yoichiro Kamatani, Robert Karlsson, Jian'an Luan, Kathryn L Lunetta, Reedik Magi, Massimo Mangino, Sarah E Medland, Christa Meisinger, Raymond Noordam, Teresa Nutile, Maria Pina Concas, Ozren Polasek, Eleonora Porcu, Susan M Ring, Cinzia Sala, Albert V Smith, Toshiko Tanaka, Peter J van der Most, Veronique Vitart, Carol A Wang, Gonneke Willemsen, Marek Zygmunt, Thomas U Ahearn, Irene L Andrulis, Hoda Anton-Culver, Antonis C Antoniou, Paul L Auer, Catriona LK Barnes, Matthias W Beckmann, Amy Berrington, Natalia V Bogdanova, Stig E Bojesen, Hermann Brenner, Julie E Buring, Federico Canzian, Jenny Chang-Claude, Fergus J Couch, Angela Cox, Laura Crisponi, Kamila Czene, Mary B Daly, Ellen W Demerath, Joe Dennis, Peter Devilee, Immaculata De Vivo, Thilo Dork, Alison M Dunning, Miriam Dwek, Johan G Eriksson, Peter A Fasching, Lindsay Fernandez-Rhodes, Liana Ferreli, Olivia Fletcher, Manuela Gago-Dominguez, Montserrat Garcia-Closas, Jose A Garcia-Saenz, Anna Gonzalez-Neira, Harald Grallert, Pascal Guenel, Christopher A Haiman, Per Hall, Ute Hamann, Hakon Hakonarson, Roger J Hart, Martha Hickey, Maartje J Hooning, Reiner Hoppe, John L Hopper, Jouke-Jan Hottenga, Frank B Hu, Hanna Hubner, David J Hunter, ABCTB Investigators, Helena Jernstrom, Esther M John, David Karasik, Elza K Khusnutdinova, Vessela N Kristensen, James V Lacey, Diether Lambrechts, Lenore J Launer, Penelope A Lind, Annika Lindblom, Patrik KE Magnusson, Arto Mannermaa, Mark I McCarthy, Thomas Meitinger, Cristina Menni, Kyriaki Michailidou, Iona Y Millwood, Roger L Milne, Grant W Montgomery, Heli Nevanlinna, Ilja M Nolte, Dale R Nyholt, Nadia Obi, Katie M O'Brien, Kenneth Offit, Albertine J Oldehinkel, Sisse R Ostrowski, Aarno Palotie, Ole B Pedersen, Annette Peters, Giulia Pianigiani, Dijana Plaseska-Karanfilska, Anneli Pouta, Alfred Pozarickij, Paolo Radice, Gad Rennert, Frits R Rosendaal, Daniela Ruggiero, Emmanouil Saloustros, Dale P Sandler, Sabine Schipf, Carsten O Schmidt, Marjanka K Schmidt, Kerrin Small, Beatrice Spedicati, Meir Stampfer, Jennifer Stone, Rulla M Tamimi, Lauren R Teras, Emmi Tikkanen, Constance Turman, Celine M Vachon, Qin Wang, Robert Winqvist, Alicja Wolk, Babette S Zemel, Wei Zheng, Ko W van Dijk, Behrooz Z Alizadeh, Stefania Bandinelli, Eric Boerwinkle, Dorret I Boomsma, Marina Ciullo, Georgia Chenevix-Trench, Francesco Cucca, Tonu Esko, Christian Gieger, Struan FA Grant, Vilmundur Gudnason, Caroline Hayward, Ivana Kolcic, Peter Kraft, Deborah A Lawlor, Nicholas G Martin, Ellen A Nohr, Nancy L Pedersen, Craig E Pennell, Paul M Ridker, Antonietta Robino, Harold Snieder, Ulla Sovio, Tim D Spector, Doris Stockl, Cathie Sudlow, Nic J Timpson, Daniela Toniolo, Andre Uitterlinden, Sheila Ulivi, Henry Volzke, Nicholas J Wareham, Elisabeth Widen, James F Wilson, The Lifelines Cohort Study, The Danish Blood Donor study, The Ovarian Cancer Association Consortium, The Breast Cancer Association Consortium, The Biobank Japan Project, The China Kadoorie Biobank Collaborative Group, Paul DP Pharoah, Liming Li, Douglas F Easton, Pal Njolstad, Patrick Sulem, Joanne M Murabito, Anna Murray, Despoina Manousaki, Anders Juul, Christian Erikstrup, Kari Stefansson, Momoko Horikoshi, Zhengming Chen, I Sadaf Farooqi, Nelly Pitteloud, Stefan Johansson, Felix R Day<sup>†</sup>, John RB Perry<sup>†,:email:</sup>, Ken K Ong<sup>†</sup>. _Understanding the genetic complexity of puberty timing across the allele frequency spectrum_, preprint. [[Preprint](https://doi.org/10.1101/2023.06.14.23291322)]
     
-1. Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _Retention time and fragmentation predictors increase confidence in variant peptide identification_, _preprint_. [[Preprint](https://doi.org/10.1101/2023.03.29.534843)]
+1. Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _Retention time and fragmentation predictors increase confidence in variant peptide identification_, preprint. [[Preprint](https://doi.org/10.1101/2023.03.29.534843)]
     
-1. Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, _preprint_. [[Preprint](https://doi.org/10.1101/2023.01.19.524722)]
+1. Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, preprint. [[Preprint](https://doi.org/10.1101/2023.01.19.524722)]
     
-1. Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG, Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _Finding Haplotypic Signatures in Proteins_, _preprint_. [[Preprint](https://doi.org/10.1101/2022.11.21.517096)]
+1. Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG, Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>, **Vaudel M**<sup>†,:email:</sup>. _Finding Haplotypic Signatures in Proteins_, preprint. [[Preprint](https://doi.org/10.1101/2022.11.21.517096)]
     
-1. Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel M**<sup>1</sup>, Xiaoping W, Chen J, Moen GH, Skotte L, Helgeland Ø, Sole-Navais P, Banasik K, Albiñana C, Ronkainen J, Fadista J, Stinson SE, Trajanoska K, Wang CA, Westergaard D, Srinivasan S, Sánchez-Soriano C, Bilbao JR, Allard C, Groleau M, Kuulasmaa T, Leirer DJ, White F, Jacques PE, Cheng H, Hao K, Andreassen OA, Åsvold BO, Atalay M, Bhatta L, Bouchard L, Brumpton BM, Brunak S, Bybjerg-Grauholm J, Ebbing C, Elliott P, Engelbrechtsen L, Erikstrup C, Estarlich M, Franks S, Gaillard R, Geller F, Grove J, Hougaard DM, Kajantie E, Morgen CS, Nohr EA, Nyegaard M, Palmer CNA, Pedersen OB, The Early Growth Genetics (EGG) Consortium, Rivadeneira F, Sebert S, Shields BM, Stoltenberg C, Surakka I, Thørner LW, Ullum H, Vaarasmaki M, Vilhjalmsson BJ, Willer CJ, Lakka TA, Gybel-Brask DJ, Bustamante M, Hansen T, Pearson ER, Reynolds R, Ostrowski SR, Pennell CE, Jaddoe VWV, Felix JF, Hattersley AT, Melbye M, Lawlor DA, Hveem K, Werge T, Nielsen HS, Magnus P, Evans DM, Jacobsson B, Järvelin MR, Zhang G, Hivert MF, Johansson S<sup>†</sup>, Freathy RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad PR<sup>†,:email:</sup>. _Genome-wide association study of placental weight in 179,025 children and parents reveals distinct and shared genetic influences between placental and fetal growth_, _preprint_. [[Preprint](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1)]
+1. Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel M**<sup>1</sup>, Xiaoping W, Chen J, Moen GH, Skotte L, Helgeland Ø, Sole-Navais P, Banasik K, Albiñana C, Ronkainen J, Fadista J, Stinson SE, Trajanoska K, Wang CA, Westergaard D, Srinivasan S, Sánchez-Soriano C, Bilbao JR, Allard C, Groleau M, Kuulasmaa T, Leirer DJ, White F, Jacques PE, Cheng H, Hao K, Andreassen OA, Åsvold BO, Atalay M, Bhatta L, Bouchard L, Brumpton BM, Brunak S, Bybjerg-Grauholm J, Ebbing C, Elliott P, Engelbrechtsen L, Erikstrup C, Estarlich M, Franks S, Gaillard R, Geller F, Grove J, Hougaard DM, Kajantie E, Morgen CS, Nohr EA, Nyegaard M, Palmer CNA, Pedersen OB, The Early Growth Genetics (EGG) Consortium, Rivadeneira F, Sebert S, Shields BM, Stoltenberg C, Surakka I, Thørner LW, Ullum H, Vaarasmaki M, Vilhjalmsson BJ, Willer CJ, Lakka TA, Gybel-Brask DJ, Bustamante M, Hansen T, Pearson ER, Reynolds R, Ostrowski SR, Pennell CE, Jaddoe VWV, Felix JF, Hattersley AT, Melbye M, Lawlor DA, Hveem K, Werge T, Nielsen HS, Magnus P, Evans DM, Jacobsson B, Järvelin MR, Zhang G, Hivert MF, Johansson S<sup>†</sup>, Freathy RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad PR<sup>†,:email:</sup>. _Genome-wide association study of placental weight in 179,025 children and parents reveals distinct and shared genetic influences between placental and fetal growth_, preprint. [[Preprint](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1)]
     
-1. Sole-Navais P<sup>1,:email:</sup>, Juodakis J<sup>1</sup>, Ytterberg K, Xiaoping W, **Vaudel M**, Helgeland Ø, Flatley C, Geller F, Magnus P, Andreassen OA, Njolstad PR, Feenstra B, Muglia LJ, Johanson S, Jacobsson B<sup>:email:</sup>. _Genome-wide analysis of neonatal jaundice reveals a marked departure from adult bilirubin metabolism_, _preprint_. [[Preprint](https://www.medrxiv.org/content/10.1101/2022.12.14.22283348v1)]
+1. Sole-Navais P<sup>1,:email:</sup>, Juodakis J<sup>1</sup>, Ytterberg K, Xiaoping W, **Vaudel M**, Helgeland Ø, Flatley C, Geller F, Magnus P, Andreassen OA, Njolstad PR, Feenstra B, Muglia LJ, Johanson S, Jacobsson B<sup>:email:</sup>. _Genome-wide analysis of neonatal jaundice reveals a marked departure from adult bilirubin metabolism_, preprint. [[Preprint](https://www.medrxiv.org/content/10.1101/2022.12.14.22283348v1)]
     
-1. Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S, Njølstad PR, Barsnes H<sup>†</sup>., **Vaudel M**<sup>†,:email:</sup>. _Extending protein interaction networks using proteoforms and small molecules_, _preprint_. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.06.506730v1)]
+1. Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S, Njølstad PR, Barsnes H<sup>†</sup>., **Vaudel M**<sup>†,:email:</sup>. _Extending protein interaction networks using proteoforms and small molecules_, preprint. [[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.06.506730v1)]
     
 1. Sole-Navais P<sup>:email:</sup>, Flatley C, Steinthorsdottir V, **Vaudel M**, Chen J, Laisk T, LaBella AL, Westergaard D, Bacelis J, Juodakis J, Brumpton B, Skotte L, Borges MC, Helgeland Ø, Mahajan A, Wielscher M, Lin F, Briggs C, Wang CA, Moen GH, Beaumont RN, Bradfield JP, Thorleifsson G, Elvestad Gabrielsen M, Rye Ostrowski S, Modzelewska D, Estonian Biobank Research Team, Nohr EA, Hypponen E, Srivastava A, Talbot O, Allard C, Williams SM, Menon R, Shields BM, Sveinbjornsson G, Xu H, Danish Blood Donor Study Genomic Consortium, Early Growth Genetics Consortium, Melbye M, William L Jr, Bouchard L, Oken E, Birger Pedersen O, Gudbjartsson DF, Erikstrup C, Sorensen E, Lie RT, Teramo K, Hallman M, Juliusdottir T, Hakonarson H, Hattersley AT, Sletner L, Merialdi M, Rifas-Shiman S, Steingrimsdottir T, Scholtens D, Power C, West J, Nyegaard M, Capra JA, Skogholt AH, Magnus P, Andreassen OA, Thorsteinsdottir U, Grant SFA, Qvigstad E, Pennell CE, Hivert MF, Hayes GM, Jarvelin MR, McCarthy MI, Lawlor DA, Lawlor DA, Nielsen HS, Magi R, Rokas A, Hveem K, Stefansson K, Feenstra B, Njolstad PR, Muglia LJ, Freathy RM, Johanson S, Zhang G<sup>†</sup>, Jacobsson B<sup>†,:email:</sup>. _Genetic effects on the timing of parturition and links to fetal birth weight_, Nature Genetics, 2023. `r getLinks(pmid = "37012456", journalDOI = "10.1038/s41588-023-01343-9")`
     
-1. Burger B<sup>:email:</sup>, **Vaudel M**, Barsnes H. _Automated splitting into batches for observational biomedical studies with sequential processing_, Biostatistics, 2022. `r getLinks(pmid = "35536588", journalDOI = "10.1093/biostatistics/kxac014")`
+1. Burger B<sup>:email:</sup>, **Vaudel M**, Barsnes H. _Automated splitting into batches for observational biomedical studies with sequential processing_, Biostatistics, 2022. `r getLinks(pmid = "35536588", journalDOI = "10.1093/biostatistics/kxac014", bora = "https://hdl.handle.net/11250/3054370", bora_pdf = "https://bora.uib.no/bora-xmlui/bitstream/handle/11250/3054370/kxac014.pdf?sequence=1&isAllowed=y")`
 
 1. Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P, Flatley C, Juodakis J, Bacelis J, Koløen IL, Knudsen GP, Johansson BB, Magnus P, Kjennerud TR, Juliusson PB, Stoltenberg C, Holmen OL, Andreassen OA, Jacobsson B, Njølstad PR<sup>:email:</sup>, Johansson S<sup>:email:</sup>. _Characterization of the genetic architecture of infant and early childhood body mass index_, Nature Metabolism, 2022. `r getLinks(pmid = "35315439", journalDOI = "10.1038/s42255-022-00549-1")`
     
