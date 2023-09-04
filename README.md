@@ -6,7 +6,7 @@ Marc Vaudel
 [![DOI](https://zenodo.org/badge/200110790.svg)](https://zenodo.org/badge/latestdoi/200110790)
 
 This repository lists the scientific publications co-authored by [Marc
-Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 28.08.2023.
+Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 04.09.2023.
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
 - [OpenAlex](https://alpha.openalex.org/works?page=1&filter=authorships.author.id%3AA4354679390)
@@ -22,36 +22,7 @@ Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 28.08.2023.
 
 ## Ten Highlighted Original Articles
 
-1.  Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>,
-    **Vaudel M**<sup>†,:email:</sup>. *Retention time and fragmentation
-    predictors increase confidence in variant peptide identification*,
-    preprint. \[[Preprint](https://doi.org/10.1101/2023.03.29.534843)\]
-
-<table>
-<tr>
-<td width="150">
-
-<figure>
-<img src="docs/figures/Dafni_predictors.jpg?raw=true"
-alt="Predictors" />
-<figcaption aria-hidden="true">Predictors</figcaption>
-</figure>
-
-</td>
-<td>
-*<sub>Genetic variation is not commonly included in proteomic searches.
-We show that common variation can be included without affecting the
-identification rate. We further demonstrate how retention time and
-fragmentation predictors can be used to help the machine learning-based
-Percolator distinguish variant peptides from similar, possibly modified,
-peptides.</sub>* <br>
-</td>
-</tr>
-</table>
-
-<br>
-
-2.  Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes
+1.  Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes
     J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>,
     **Vaudel M**<sup>†,:email:</sup>. *A systematic mapping of the
     genomic and proteomic variation associated with monogenic diabetes*,
@@ -82,7 +53,7 @@ proteogenomics.</sub>* <br>
 
 <br>
 
-3.  Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG,
+2.  Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG,
     Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>,
     **Vaudel M**<sup>†,:email:</sup>. *Finding Haplotypic Signatures in
     Proteins*, preprint.
@@ -106,6 +77,38 @@ spectrometry. We show the prevalence of muli-variant peptides that can
 be identified, and how these are difficult to distinguish from similar
 peptides carrying PTMs. A great collaboration with Lukas Kâll at the
 SciLifeLab.</sub>* <br>
+</td>
+</tr>
+</table>
+
+<br>
+
+3.  Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>,
+    **Vaudel M**<sup>†,:email:</sup>. *Retention time and fragmentation
+    predictors increase confidence in variant peptide identification*,
+    Journal of Proteome Research, 2023. \[[PubMed id
+    37656829](https://www.ncbi.nlm.nih.gov/pubmed/37656829)\] \[[doi:
+    10.1021/acs.jproteome.3c00243](https://doi.org/10.1021/acs.jproteome.3c00243)\]
+    \[[pdf](https://doi.org/10.1021/acs.jproteome.3c00243)\]
+
+<table>
+<tr>
+<td width="150">
+
+<figure>
+<img src="docs/figures/Dafni_predictors.jpg?raw=true"
+alt="Predictors" />
+<figcaption aria-hidden="true">Predictors</figcaption>
+</figure>
+
+</td>
+<td>
+*<sub>Genetic variation is not commonly included in proteomic searches.
+We show that common variation can be included without affecting the
+identification rate. We further demonstrate how retention time and
+fragmentation predictors can be used to help the machine learning-based
+Percolator distinguish variant peptides from similar, possibly modified,
+peptides.</sub>* <br>
 </td>
 </tr>
 </table>
@@ -443,24 +446,19 @@ sequence variants.</sub>* <br>
     timing across the allele frequency spectrum*, preprint.
     \[[Preprint](https://doi.org/10.1101/2023.06.14.23291322)\]
 
-4.  Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>,
-    **Vaudel M**<sup>†,:email:</sup>. *Retention time and fragmentation
-    predictors increase confidence in variant peptide identification*,
-    preprint. \[[Preprint](https://doi.org/10.1101/2023.03.29.534843)\]
-
-5.  Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes
+4.  Kuznetsova KG<sup>:email:</sup>, Vašíček J, Skiadopoulou D, Molnes
     J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>,
     **Vaudel M**<sup>†,:email:</sup>. *A systematic mapping of the
     genomic and proteomic variation associated with monogenic diabetes*,
     preprint. \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
 
-6.  Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG,
+5.  Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG,
     Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>,
     **Vaudel M**<sup>†,:email:</sup>. *Finding Haplotypic Signatures in
     Proteins*, preprint.
     \[[Preprint](https://doi.org/10.1101/2022.11.21.517096)\]
 
-7.  Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel
+6.  Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel
     M**<sup>1</sup>, Xiaoping W, Chen J, Moen GH, Skotte L, Helgeland Ø,
     Sole-Navais P, Banasik K, Albiñana C, Ronkainen J, Fadista J,
     Stinson SE, Trajanoska K, Wang CA, Westergaard D, Srinivasan S,
@@ -483,7 +481,7 @@ sequence variants.</sub>* <br>
     genetic influences between placental and fetal growth*, preprint.
     \[[Preprint](https://www.medrxiv.org/content/10.1101/2022.11.25.22282723v1)\]
 
-8.  Sole-Navais P<sup>1,:email:</sup>, Juodakis J<sup>1</sup>, Ytterberg
+7.  Sole-Navais P<sup>1,:email:</sup>, Juodakis J<sup>1</sup>, Ytterberg
     K, Xiaoping W, **Vaudel M**, Helgeland Ø, Flatley C, Geller F,
     Magnus P, Andreassen OA, Njolstad PR, Feenstra B, Muglia LJ,
     Johanson S, Jacobsson B<sup>:email:</sup>. *Genome-wide analysis of
@@ -491,11 +489,19 @@ sequence variants.</sub>* <br>
     metabolism*, preprint.
     \[[Preprint](https://www.medrxiv.org/content/10.1101/2022.12.14.22283348v1)\]
 
-9.  Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S,
+8.  Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S,
     Njølstad PR, Barsnes H<sup>†</sup>., **Vaudel
     M**<sup>†,:email:</sup>. *Extending protein interaction networks
     using proteoforms and small molecules*, preprint.
     \[[Preprint](https://www.biorxiv.org/content/10.1101/2022.09.06.506730v1)\]
+
+9.  Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>,
+    **Vaudel M**<sup>†,:email:</sup>. *Retention time and fragmentation
+    predictors increase confidence in variant peptide identification*,
+    Journal of Proteome Research, 2023. \[[PubMed id
+    37656829](https://www.ncbi.nlm.nih.gov/pubmed/37656829)\] \[[doi:
+    10.1021/acs.jproteome.3c00243](https://doi.org/10.1021/acs.jproteome.3c00243)\]
+    \[[pdf](https://doi.org/10.1021/acs.jproteome.3c00243)\]
 
 10. Sole-Navais P<sup>:email:</sup>, Flatley C, Steinthorsdottir V,
     **Vaudel M**, Chen J, Laisk T, LaBella AL, Westergaard D, Bacelis J,
