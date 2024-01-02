@@ -30,7 +30,7 @@ as of 02.01.2024.
 <table>
 <tr>
 <td width="150">
-![](docs/figures/prohap.png?raw=true)
+<p><img src="docs/figures/prohap.png" alt="ProHap" title="ProHap" /></p>
 </td>
 <td>
 <i><sub>ProHap enables the creation of protein sequence databases from
