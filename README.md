@@ -27,15 +27,15 @@ as of 02.01.2024.
     accounting for population diversity*, preprint.
     \[[Preprint](https://doi.org/10.1101/2023.12.24.572591)\]
 
-<table style="border:white;">
-<tr style="border:white;">
-<td style="border:white;" width="150">
+<table>
+<tr>
+<td width="150">
 <p>
 <img src="docs/figures/prohap.png" alt="ProHap" title="ProHap" />
 </p>
 </td>
-<td style="border:white;">
-<p style="font-size:11px;">
+<td>
+<p style="font-size:10px;">
 <i>ProHap enables the creation of protein sequence databases from
 reference phased haplotypes. The tool can be used on public or private
 reference panels to build protein sequence databases that reflect the
@@ -57,15 +57,15 @@ thousand genomes redily usable for proteomic studies:
     randomization study*, preprint.
     \[[Preprint](https://doi.org/10.1101/2023.08.24.23294537)\]
 
-<table style="border:white;">
-<tr style="border:white;">
-<td style="border:white;" width="150">
+<table>
+<tr>
+<td width="150">
 <p>
 <img src="docs/figures/MR_placenta.png" alt="MR Placental Weight" title="MR Placental Weight" />
 </p>
 </td>
-<td style="border:white;">
-<p style="font-size:11px;">
+<td>
+<p style="font-size:10px;">
 <i>The relationship between smoking and placental weight is
 controversial, studies inconsistently report smaller and larger
 placentae for smokers. We conducted a Mendelian randomization among
@@ -87,15 +87,15 @@ pregnancies.</i>
     associated with monogenic diabetes*, preprint.
     \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
 
-<table style="border:white;">
-<tr style="border:white;">
-<td style="border:white;" width="150">
+<table>
+<tr>
+<td width="150">
 <p>
 <img src="docs/figures/mindmap_ksenia.png" alt="Sequence generation pipeline" title="Sequence generation pipeline" />
 </p>
 </td>
-<td style="border:white;">
-<p style="font-size:11px;">
+<td>
+<p style="font-size:10px;">
 <i>A pipeline that maps, curates, and consolidates the variants
 associated with monogenic diabetes and translate their consequences to
 the protein level onto common haplotypes. We use this pipeline to design
@@ -117,15 +117,15 @@ diseases.</i>
     10.1021/acs.jproteome.3c00243](https://doi.org/10.1021/acs.jproteome.3c00243)\]
     \[[pdf](https://doi.org/10.1021/acs.jproteome.3c00243)\]
 
-<table style="border:white;">
-<tr style="border:white;">
-<td style="border:white;" width="150">
+<table>
+<tr>
+<td width="150">
 <p>
 <img src="docs/figures/Dafni_predictors.jpg" alt="Predictors performance" title="Predictors performance" />
 </p>
 </td>
-<td style="border:white;">
-<p style="font-size:11px;">
+<td>
+<p style="font-size:10px;">
 <i>We demonstrate that common variation can be included without
 affecting the identification rate. We further show how retention time
 and fragmentation predictors can be used to help the machine
@@ -146,15 +146,15 @@ possibly modified, peptides.</i>
     10.1093/gigascience/giad093](https://doi.org/10.1093/gigascience/giad093)\]
     \[[pdf](https://academic.oup.com/gigascience/article-pdf/doi/10.1093/gigascience/giad093/52711879/giad093.pdf)\]
 
-<table style="border:white;">
-<tr style="border:white;">
-<td style="border:white;" width="150">
+<table>
+<tr>
+<td width="150">
 <p>
 <img src="docs/figures/haplo_paper.png" alt="Protein Haplotypes" title="Protein Haplotypes" />
 </p>
 </td>
-<td style="border:white;">
-<p style="font-size:11px;">
+<td>
+<p style="font-size:10px;">
 <i>A study of the distribution of protein haplotypes, and whether they
 can be identified by mass spectrometry. We show the prevalence of
 muli-variant peptides that can be identified, and how these are
@@ -191,15 +191,15 @@ difficult to distinguish from similar peptides carrying PTMs.</i>
     10.1038/s41588-023-01520-w](https://doi.org/10.1038/s41588-023-01520-w)\]
     \[[pdf](https://www.nature.com/articles/s41588-023-01520-w.pdf)\]
 
-<table style="border:white;">
-<tr style="border:white;">
-<td style="border:white;" width="150">
+<table>
+<tr>
+<td width="150">
 <p>
 <img src="docs/figures/pw.png" alt="Placental Weight GWAS" title="Placental Weight GWAS" />
 </p>
 </td>
-<td style="border:white;">
-<p style="font-size:11px;">
+<td>
+<p style="font-size:10px;">
 <i>The first genome-wide analysis of placental weight. A multi-year
 meta-analysis from the Early Growth Genetics (EGG) consortium including
 the Norwegian Mother, Father and Child Cohort Study (MoBa). We provide
@@ -221,15 +221,15 @@ traits.</i>
     10.1093/bioinformatics/btad598](https://doi.org/10.1093/bioinformatics/btad598)\]
     \[[pdf](https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btad598/51770602/btad598.pdf)\]
 
-<table style="border:white;">
-<tr style="border:white;">
-<td style="border:white;" width="150">
+<table>
+<tr>
+<td width="150">
 <p>
 <img src="docs/figures/network_francisco.png" alt="Proteoform network" title="Proteoform network" />
 </p>
 </td>
-<td style="border:white;">
-<p style="font-size:11px;">
+<td>
+<p style="font-size:10px;">
 <i>We study how the structure of pathway-derived interaction networks
 change upon the inclusion of information on proteoforms and small
 molecules. We show how accounting for proteoform information allows
@@ -251,15 +251,15 @@ the network.</i>
     10.1021/acs.jproteome.0c00536](https://doi.org/10.1021/acs.jproteome.0c00536)\]
     \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00536)\]
 
-<table style="border:white;">
-<tr style="border:white;">
-<td style="border:white;" width="150">
+<table>
+<tr>
+<td width="150">
 <p>
 <img src="docs/figures/bram_block.jpeg" alt="Block randomization" title="Block randomization" />
 </p>
 </td>
-<td style="border:white;">
-<p style="font-size:11px;">
+<td>
+<p style="font-size:10px;">
 <i>A short paper on the principles of block randomization in
 experimental design. This perspective article aimed at a broad audience
 is accompanied by a methodological paper on how to design batches for
@@ -285,15 +285,15 @@ sample processing of cohorts and registries:
     10.1038/s42255-022-00549-1](https://doi.org/10.1038/s42255-022-00549-1)\]
     \[[pdf](https://fhi.brage.unit.no/fhi-xmlui/bitstream/11250/3007670/2/Characterization%2bof%2bthe%2bgenetic%2barchitecture%2bof%2binfant%2band%2bearly%2bchildhood%2bbody%2bmass%2bindex.pdf)\]
 
-<table style="border:white;">
-<tr style="border:white;">
-<td style="border:white;" width="150">
+<table>
+<tr>
+<td width="150">
 <p>
 <img src="docs/figures/early_growth.png" alt="Early growth GWAS" title="Early growth GWAS" />
 </p>
 </td>
-<td style="border:white;">
-<p style="font-size:11px;">
+<td>
+<p style="font-size:10px;">
 <i>Association of BMI during childhood with common variation - we
 identify different trajectory clusters, time-dependent parent-of-origin
 effects, and show how the performance of risk scores evolve during early
@@ -314,15 +314,15 @@ growth.</i>
     10.1093/bioinformatics/btad598](https://doi.org/10.1093/bioinformatics/btad598)\]
     \[[pdf](https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btad598/51770602/btad598.pdf)\]
 
-<table style="border:white;">
-<tr style="border:white;">
-<td style="border:white;" width="150">
+<table>
+<tr>
+<td width="150">
 <p>
 <img src="docs/figures/PathwayMatcher.png" alt="PathwayMatcher" title="PathwayMatcher" />
 </p>
 </td>
-<td style="border:white;">
-<p style="font-size:11px;">
+<td>
+<p style="font-size:10px;">
 <i>PathwayMatcher can build biological networks of different levels of
 granularity using the Reactome pathway database, and map different types
 of omics data to it. Notably, it can build a network to the level of
