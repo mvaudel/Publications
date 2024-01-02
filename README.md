@@ -38,8 +38,8 @@ reference phased haplotypes. The tool can be used on public or private
 reference panels to build protein sequence databases that reflect the
 sequence diversity of a study population. Along with the tool, we
 provide protein sequences derived from the common haplotypes of the
-thousand genomes redily usable for proteomic studies: [doi
-10.5281/zenodo.10149278](https://doi.org/10.5281/zenodo.10149278).</sub></i>
+thousand genomes redily usable for proteomic studies: <a href="https://doi.org/10.5281/zenodo.10149278">doi
+10.5281/zenodo.10149278</a>.</sub></i>
 <br>
 </td>
 </tr>
