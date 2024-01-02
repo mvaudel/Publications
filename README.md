@@ -27,20 +27,24 @@ as of 02.01.2024.
     accounting for population diversity*, preprint.
     \[[Preprint](https://doi.org/10.1101/2023.12.24.572591)\]
 
-<table>
-<tr>
-<td width="150">
-<p><img src="docs/figures/prohap.png" alt="ProHap" title="ProHap" /></p>
+<table style="border:white;">
+<tr style="border:white;">
+<td style="border:white;" width="150">
+<p>
+<img src="docs/figures/prohap.png" alt="ProHap" title="ProHap" />
+</p>
 </td>
-<td>
-<i><sub>ProHap enables the creation of protein sequence databases from
+<td style="border:white;">
+<p style="font-size:11px;">
+<i>ProHap enables the creation of protein sequence databases from
 reference phased haplotypes. The tool can be used on public or private
 reference panels to build protein sequence databases that reflect the
 sequence diversity of a study population. Along with the tool, we
 provide protein sequences derived from the common haplotypes of the
-thousand genomes redily usable for proteomic studies: <a href="https://doi.org/10.5281/zenodo.10149278">doi
-10.5281/zenodo.10149278</a>.</sub></i>
-<br>
+thousand genomes redily usable for proteomic studies:
+<a href="https://doi.org/10.5281/zenodo.10149278">doi
+10.5281/zenodo.10149278</a>.</i>
+</p>
 </td>
 </tr>
 </table>
@@ -53,20 +57,24 @@ thousand genomes redily usable for proteomic studies: <a href="https://doi.org/1
     randomization study*, preprint.
     \[[Preprint](https://doi.org/10.1101/2023.08.24.23294537)\]
 
-<table>
-<tr>
-<td width="150">
-![](docs/figures/MR_placenta.png?raw=true)
+<table style="border:white;">
+<tr style="border:white;">
+<td style="border:white;" width="150">
+<p>
+<img src="docs/figures/MR_placenta.png" alt="MR Placental Weight" title="MR Placental Weight" />
+</p>
 </td>
-<td>
-<i><sub>The relationship between smoking and placental weight is
+<td style="border:white;">
+<p style="font-size:11px;">
+<i>The relationship between smoking and placental weight is
 controversial, studies inconsistently report smaller and larger
 placentae for smokers. We conducted a Mendelian randomization among
 pre-pregnancy smokers of the ALSPAC and MoBa studies. Our results show
 that continuous smoking during pregancy causes a higher placental weight
 and in turn suggest a lower birth weight relative to the placental
 weight, possibly indicating a malfunction of the placenta for these
-pregnancies.</sub></i> <br>
+pregnancies.</i>
+</p>
 </td>
 </tr>
 </table>
@@ -79,18 +87,22 @@ pregnancies.</sub></i> <br>
     associated with monogenic diabetes*, preprint.
     \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
 
-<table>
-<tr>
-<td width="150">
-![](docs/figures/mindmap_ksenia.png?raw=true)
+<table style="border:white;">
+<tr style="border:white;">
+<td style="border:white;" width="150">
+<p>
+<img src="docs/figures/mindmap_ksenia.png" alt="Sequence generation pipeline" title="Sequence generation pipeline" />
+</p>
 </td>
-<td>
-<i><sub>A pipeline that maps, curates, and consolidates the variants
+<td style="border:white;">
+<p style="font-size:11px;">
+<i>A pipeline that maps, curates, and consolidates the variants
 associated with monogenic diabetes and translate their consequences to
 the protein level onto common haplotypes. We use this pipeline to design
 custom proteomics database and mine for variant peptides in the
 Norwegian diabetes registries. The pipeline can be used for other
-diseases.</sub></i> <br>
+diseases.</i>
+</p>
 </td>
 </tr>
 </table>
@@ -105,17 +117,21 @@ diseases.</sub></i> <br>
     10.1021/acs.jproteome.3c00243](https://doi.org/10.1021/acs.jproteome.3c00243)\]
     \[[pdf](https://doi.org/10.1021/acs.jproteome.3c00243)\]
 
-<table>
-<tr>
-<td width="150">
-![](docs/figures/Dafni_predictors.jpg?raw=true)
+<table style="border:white;">
+<tr style="border:white;">
+<td style="border:white;" width="150">
+<p>
+<img src="docs/figures/Dafni_predictors.jpg" alt="Predictors performance" title="Predictors performance" />
+</p>
 </td>
-<td>
-<i><sub>We demonstrate that common variation can be included without
+<td style="border:white;">
+<p style="font-size:11px;">
+<i>We demonstrate that common variation can be included without
 affecting the identification rate. We further show how retention time
 and fragmentation predictors can be used to help the machine
 learning-based Percolator distinguish variant peptides from similar,
-possibly modified, peptides.</sub></i> <br>
+possibly modified, peptides.</i>
+</p>
 </td>
 </tr>
 </table>
@@ -130,17 +146,20 @@ possibly modified, peptides.</sub></i> <br>
     10.1093/gigascience/giad093](https://doi.org/10.1093/gigascience/giad093)\]
     \[[pdf](https://academic.oup.com/gigascience/article-pdf/doi/10.1093/gigascience/giad093/52711879/giad093.pdf)\]
 
-<table>
-<tr>
-<td width="150">
-![](docs/figures/haplo_paper.png?raw=true)
+<table style="border:white;">
+<tr style="border:white;">
+<td style="border:white;" width="150">
+<p>
+<img src="docs/figures/haplo_paper.png" alt="Protein Haplotypes" title="Protein Haplotypes" />
+</p>
 </td>
-<td>
-<i><sub>A study of the distribution of protein haplotypes, and whether
-they can be identified by mass spectrometry. We show the prevalence of
+<td style="border:white;">
+<p style="font-size:11px;">
+<i>A study of the distribution of protein haplotypes, and whether they
+can be identified by mass spectrometry. We show the prevalence of
 muli-variant peptides that can be identified, and how these are
-difficult to distinguish from similar peptides carrying PTMs.</sub></i>
-<br>
+difficult to distinguish from similar peptides carrying PTMs.</i>
+</p>
 </td>
 </tr>
 </table>
@@ -172,18 +191,22 @@ difficult to distinguish from similar peptides carrying PTMs.</sub></i>
     10.1038/s41588-023-01520-w](https://doi.org/10.1038/s41588-023-01520-w)\]
     \[[pdf](https://www.nature.com/articles/s41588-023-01520-w.pdf)\]
 
-<table>
-<tr>
-<td width="150">
-![](docs/figures/pw.png?raw=true)
+<table style="border:white;">
+<tr style="border:white;">
+<td style="border:white;" width="150">
+<p>
+<img src="docs/figures/pw.png" alt="Placental Weight GWAS" title="Placental Weight GWAS" />
+</p>
 </td>
-<td>
-<i><sub>The first genome-wide analysis of placental weight. A multi-year
+<td style="border:white;">
+<p style="font-size:11px;">
+<i>The first genome-wide analysis of placental weight. A multi-year
 meta-analysis from the Early Growth Genetics (EGG) consortium including
 the Norwegian Mother, Father and Child Cohort Study (MoBa). We provide
 association results with the genomes of the children and parents, study
 modes of association, the relationship with birth weight, and to other
-traits.</sub></i> <br>
+traits.</i>
+</p>
 </td>
 </tr>
 </table>
@@ -196,22 +219,25 @@ traits.</sub></i> <br>
     molecules*, Bioinformatics, 2023. \[[PubMed id
     37756698](https://www.ncbi.nlm.nih.gov/pubmed/37756698)\] \[[doi:
     10.1093/bioinformatics/btad598](https://doi.org/10.1093/bioinformatics/btad598)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btad598/51770602/btad598.pdf)\]
 
-<table>
-<tr>
-<td width="150">
-![](docs/figures/network_francisco.png?raw=true)
+<table style="border:white;">
+<tr style="border:white;">
+<td style="border:white;" width="150">
+<p>
+<img src="docs/figures/network_francisco.png" alt="Proteoform network" title="Proteoform network" />
+</p>
 </td>
-<td>
-<i><sub>We study how the structure of pathway-derived interaction
-networks change upon the inclusion of information on proteoforms and
-small molecules. We show how accounting for proteoform information
-allows refining the representation of protein interactions and how small
+<td style="border:white;">
+<p style="font-size:11px;">
+<i>We study how the structure of pathway-derived interaction networks
+change upon the inclusion of information on proteoforms and small
+molecules. We show how accounting for proteoform information allows
+refining the representation of protein interactions and how small
 molecules increase the connectivity of the network. But at the same time
 accounting for this information can create artefacts in the topology of
-the network.</sub></i> <br>
+the network.</i>
+</p>
 </td>
 </tr>
 </table>
@@ -225,24 +251,22 @@ the network.</sub></i> <br>
     10.1021/acs.jproteome.0c00536](https://doi.org/10.1021/acs.jproteome.0c00536)\]
     \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00536)\]
 
-<table>
-<tr>
-<td width="150">
-
-<figure>
-<img src="docs/figures/bram_block.jpeg?raw=true"
-alt="Block randomization" />
-<figcaption aria-hidden="true">Block randomization</figcaption>
-</figure>
-
+<table style="border:white;">
+<tr style="border:white;">
+<td style="border:white;" width="150">
+<p>
+<img src="docs/figures/bram_block.jpeg" alt="Block randomization" title="Block randomization" />
+</p>
 </td>
-<td>
-<i><sub>A short paper on the principles of block randomization in
+<td style="border:white;">
+<p style="font-size:11px;">
+<i>A short paper on the principles of block randomization in
 experimental design. This perspective article aimed at a broad audience
 is accompanied by a methodological paper on how to design batches for
-sample processing of cohorts and registries: [doi
-10.1093/biostatistics/kxac014](https://doi.org/10.1093/biostatistics/kxac014).</sub></i>
-<br>
+sample processing of cohorts and registries:
+<a href="https://doi.org/10.1093/biostatistics/kxac014">doi
+10.1093/biostatistics/kxac014</a>.</i>
+</p>
 </td>
 </tr>
 </table>
@@ -261,21 +285,20 @@ sample processing of cohorts and registries: [doi
     10.1038/s42255-022-00549-1](https://doi.org/10.1038/s42255-022-00549-1)\]
     \[[pdf](https://fhi.brage.unit.no/fhi-xmlui/bitstream/11250/3007670/2/Characterization%2bof%2bthe%2bgenetic%2barchitecture%2bof%2binfant%2band%2bearly%2bchildhood%2bbody%2bmass%2bindex.pdf)\]
 
-<table>
-<tr>
-<td width="150">
-
-<figure>
-<img src="docs/figures/early_growth.png?raw=true" alt="Early growth" />
-<figcaption aria-hidden="true">Early growth</figcaption>
-</figure>
-
+<table style="border:white;">
+<tr style="border:white;">
+<td style="border:white;" width="150">
+<p>
+<img src="docs/figures/early_growth.png" alt="Early growth GWAS" title="Early growth GWAS" />
+</p>
 </td>
-<td>
-<i><sub>Association of BMI during childhood with common variation - we
+<td style="border:white;">
+<p style="font-size:11px;">
+<i>Association of BMI during childhood with common variation - we
 identify different trajectory clusters, time-dependent parent-of-origin
 effects, and show how the performance of risk scores evolve during early
-growth.</sub></i> <br>
+growth.</i>
+</p>
 </td>
 </tr>
 </table>
@@ -289,29 +312,26 @@ growth.</sub></i> <br>
     \[[PubMed id
     37756698](https://www.ncbi.nlm.nih.gov/pubmed/37756698)\] \[[doi:
     10.1093/bioinformatics/btad598](https://doi.org/10.1093/bioinformatics/btad598)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btad598/51770602/btad598.pdf)\]
 
-<table>
-<tr>
-<td width="150">
-
-<figure>
-<img src="docs/figures/PathwayMatcher.png?raw=true"
-alt="PathwayMatcher" />
-<figcaption aria-hidden="true">PathwayMatcher</figcaption>
-</figure>
-
+<table style="border:white;">
+<tr style="border:white;">
+<td style="border:white;" width="150">
+<p>
+<img src="docs/figures/PathwayMatcher.png" alt="PathwayMatcher" title="PathwayMatcher" />
+</p>
 </td>
-<td>
-*<sub>PathwayMatcher can build biological networks of different levels
-of granularity using the Reactome pathway database, and map different
-types of omics data to it. Notably, it can build a network to the level
-of proteoforms, where genes and proteins are separated according to
-their post-translational state. Hence, interactions are more specific,
-and interactions between different forms of the same proteins become
-visible as connections between different nodes, thus providing a new
-dimension to study biological networks.</sub>* <br>
+<td style="border:white;">
+<p style="font-size:11px;">
+<i>PathwayMatcher can build biological networks of different levels of
+granularity using the Reactome pathway database, and map different types
+of omics data to it. Notably, it can build a network to the level of
+proteoforms, where genes and proteins are separated according to their
+post-translational state. Hence, interactions are more specific, and
+interactions between different forms of the same proteins become visible
+as connections between different nodes, thus providing a new dimension
+to study biological networks.</i>
+</p>
 </td>
 </tr>
 </table>
@@ -464,8 +484,7 @@ dimension to study biological networks.</sub>* <br>
     birth weight*, Nature Genetics, 2023. \[[PubMed id
     37012456](https://www.ncbi.nlm.nih.gov/pubmed/37012456)\] \[[doi:
     10.1038/s41588-023-01343-9](https://doi.org/10.1038/s41588-023-01343-9)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://www.nature.com/articles/s41588-023-01343-9.pdf)\]
 
 12. Burger B<sup>\$</sup>, **Vaudel M**, Barsnes H. *Automated splitting
     into batches for observational biomedical studies with sequential
@@ -524,8 +543,7 @@ dimension to study biological networks.</sub>* <br>
     analysis*, Nature Communications, 2021. \[[PubMed id
     34615866](https://www.ncbi.nlm.nih.gov/pubmed/34615866)\] \[[doi:
     10.1038/s41467-021-26111-3](https://doi.org/10.1038/s41467-021-26111-3)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://www.nature.com/articles/s41467-021-26111-3.pdf)\]
 
 18. Eriksson D<sup>1</sup>, Røyrvik EC<sup>1</sup>, Aranda-Guillén
     M<sup>1</sup>, Berger AH, Landegren N, Artaza H, Hallgren Å, Grytaas
@@ -548,8 +566,8 @@ dimension to study biological networks.</sub>* <br>
     time-to-spontaneous delivery in Norwegian parent-offspring trios*,
     Human Molecular Genetics, 2020. \[[PubMed id
     33291140](https://www.ncbi.nlm.nih.gov/pubmed/33291140)\] \[[doi:
-    10.1093/hmg/ddaa255](https://doi.org/10.1093/hmg/ddaa255)\] \[No
-    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
+    10.1093/hmg/ddaa255](https://doi.org/10.1093/hmg/ddaa255)\]
+    \[[pdf](https://academic.oup.com/hmg/article-pdf/29/23/3845/36194738/ddaa255.pdf)\]
 
 20. Gupta MK, Vethe H, Softic S, Rao TN, Wagh V, Shirakawa J, Barsnes H,
     **Vaudel M**, Takatani T, Kahraman S, Sakaguchi M, Martinez R, Hu J,
@@ -612,8 +630,7 @@ dimension to study biological networks.</sub>* <br>
     with Prognosis in Acute Myeloid Leukemia*, Cancers, 2020. \[[PubMed
     id 32192169](https://www.ncbi.nlm.nih.gov/pubmed/32192169)\] \[[doi:
     10.3390/cancers12030709](https://doi.org/10.3390/cancers12030709)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://www.mdpi.com/2072-6694/12/3/709/pdf?version=1584496962)\]
 
 24. Loo LSW, Vethe H, Soetedjo AAP, Paulo JA, Jasmen J, Jackson N,
     Bjørlykke Y, Valdez IA, **Vaudel M**, Barsnes H, Gygi SP, Ræder H,
@@ -647,8 +664,7 @@ dimension to study biological networks.</sub>* <br>
     \[[PubMed id
     31363752](https://www.ncbi.nlm.nih.gov/pubmed/31363752)\] \[[doi:
     10.1093/gigascience/giz088](https://doi.org/10.1093/gigascience/giz088)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://academic.oup.com/gigascience/article-pdf/8/8/giz088/29020604/giz088.pdf)\]
 
 28. Helgeland Ø, **Vaudel M**, Juliusson PB, Lingaas Holmen O, Juodakis
     J, Bacelis J, Jacobsson B, Lindekleiv H, Hveem K, Lie RT, Knudsen
@@ -732,8 +748,7 @@ dimension to study biological networks.</sub>* <br>
     31043758](https://www.ncbi.nlm.nih.gov/pubmed/31043758)\]
     \[[Preprint](https://doi.org/10.1101/442756)\] \[[doi:
     10.1038/s41588-019-0403-1](https://doi.org/10.1038/s41588-019-0403-1)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://europepmc.org/articles/pmc6522365?pdf=render)\]
 
 31. Zhang-James Y, **Vaudel M**, Mjaavatten O, Berven FS, Haavik J,
     Faraone SV. *Effect of disease-associated SLC9A9 mutations on
@@ -816,8 +831,7 @@ dimension to study biological networks.</sub>* <br>
     Research, 2017. \[[PubMed id
     29092937](https://www.ncbi.nlm.nih.gov/pubmed/29092937)\] \[[doi:
     10.1158/0008-5472.CAN-17-0331](https://doi.org/10.1158/0008-5472.CAN-17-0331)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://cancerres.aacrjournals.org/content/canres/77/21/e43.full.pdf)\]
 
 39. Vizcaíno JA, Meyer G, Perkins SR, Barsnes H, **Vaudel M**,
     Perez-Riverol Y, Terment T, Uszkoreit J, Eineacher M, Fischer L,
@@ -828,8 +842,7 @@ dimension to study biological networks.</sub>* <br>
     Proteomics, 2017. \[[PubMed id
     28515314](https://www.ncbi.nlm.nih.gov/pubmed/28515314)\] \[[doi:
     10.1074/mcp.M117.068429](https://doi.org/10.1074/mcp.M117.068429)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://www.mcponline.org/content/mcprot/16/7/1275.full.pdf)\]
 
 40. Leprevost FdV, Aflitos SA, Grüning BA, Röst HL, Uszkoreit J, Barsnes
     H, **Vaudel M**, Moreno P, Gatto L, Weber J, Bai M, Jimenez RC,
