@@ -5,10 +5,10 @@ Marc Vaudel
 
 with the submission This repository lists the scientific publications
 co-authored by [Marc Vaudel](https://www.uib.no/en/persons/Marc.Vaudel)
-as of 02.01.2024.
+as of 13.01.2024.
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
-- [OpenAlex](https://openalex.org/works?sort=cited_by_count%3Adesc&column=display_name,publication_year,type,open_access.is_oa,cited_by_count&page=1&filter=authorships.author.id%3AA5037607788)
+- [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3AA5037607788&sort=cited_by_count%3Adesc&group_by=publication_year,type)
 - [Google
   Scholar](https://scholar.google.com/citations?user=JTK8FTkAAAAJ)
 
