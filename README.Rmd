@@ -367,8 +367,9 @@ _Genome-wide association study of placental weight identifies distinct and share
 
 ## Research Articles
 
-1. Vašíček J, Kuznetsova KG, Skiadopoulou D, Njølstad PR, Johansson S, Bruckner S<sup>†</sup>, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _ProHap enables proteomic database generation accounting for
-population diversity_, preprint. [[Preprint](https://doi.org/10.1101/2023.12.24.572591 )]
+1. Artaza H, Lavrichenko K, Wolff ASB, Røyrvik EC, **Vaudel M**, Johansson S<sup>$</sup>. _Rare Copy Number Variant analysis in case-control studies using SNP Array Data: a scalable and automated data analysis pipeline_, preprint. [[Preprint](https://doi.org/10.1101/2024.03.13.584428)]
+
+1. Vašíček J, Kuznetsova KG, Skiadopoulou D, Njølstad PR, Johansson S, Bruckner S<sup>†</sup>, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _ProHap enables proteomic database generation accounting for population diversity_, preprint. [[Preprint](https://doi.org/10.1101/2023.12.24.572591)]
 
 1. Jaitner A, **Vaudel M**, Tsaneva-Atanasova K, Njølstad PR, Jacobsson B, Bowden J, Johansson S, Freathy R<sup>$</sup>. _Smoking during pregnancy and its effect on placental weight: A Mendelian randomization study_, preprint. [[Preprint](https://doi.org/10.1101/2023.08.24.23294537)]
 
