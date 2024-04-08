@@ -5,7 +5,7 @@ Marc Vaudel
 
 with the submission This repository lists the scientific publications
 co-authored by [Marc Vaudel](https://www.uib.no/en/persons/Marc.Vaudel)
-as of 18.03.2024.
+as of 08.04.2024.
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
 - [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3AA5037607788&sort=cited_by_count%3Adesc&group_by=publication_year,type)
@@ -51,37 +51,7 @@ thousand genomes redily usable for proteomic studies:
 
 <br>
 
-2.  Jaitner A, **Vaudel M**, Tsaneva-Atanasova K, Njølstad PR, Jacobsson
-    B, Bowden J, Johansson S, Freathy R<sup>\$</sup>. *Smoking during
-    pregnancy and its effect on placental weight: A Mendelian
-    randomization study*, preprint.
-    \[[Preprint](https://doi.org/10.1101/2023.08.24.23294537)\]
-
-<table>
-<tr>
-<td width="150">
-<p>
-<img src="docs/figures/MR_placenta.png" alt="MR Placental Weight" title="MR Placental Weight" />
-</p>
-</td>
-<td>
-<p style="font-size:10px;">
-<i>The relationship between smoking and placental weight is
-controversial, studies inconsistently report smaller and larger
-placentae for smokers. We conducted a Mendelian randomization among
-pre-pregnancy smokers of the ALSPAC and MoBa studies. Our results show
-that continuous smoking during pregancy causes a higher placental weight
-and in turn suggest a lower birth weight relative to the placental
-weight, possibly indicating a malfunction of the placenta for these
-pregnancies.</i>
-</p>
-</td>
-</tr>
-</table>
-
-<br>
-
-3.  Kuznetsova
+2.  Kuznetsova
     KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>.
     *A systematic mapping of the genomic and proteomic variation
     associated with monogenic diabetes*, preprint.
@@ -102,6 +72,38 @@ the protein level onto common haplotypes. We use this pipeline to design
 custom proteomics database and mine for variant peptides in the
 Norwegian diabetes registries. The pipeline can be used for other
 diseases.</i>
+</p>
+</td>
+</tr>
+</table>
+
+<br>
+
+3.  Jaitner A, **Vaudel M**, Tsaneva-Atanasova K, Njølstad PR, Jacobsson
+    B, Bowden J, Johansson S, Freathy R<sup>\$</sup>. *Smoking during
+    pregnancy and its effect on placental weight: A Mendelian
+    randomization study*, BMC Pregnancy Childbirth, 2024 \[[PubMed id
+    38575863](https://www.ncbi.nlm.nih.gov/pubmed/38575863)\] \[[doi:
+    10.1186/s12884-024-06431-0](https://doi.org/10.1186/s12884-024-06431-0)\]
+    \[[pdf](https://bmcpregnancychildbirth.biomedcentral.com/counter/pdf/10.1186/s12884-024-06431-0)\]
+
+<table>
+<tr>
+<td width="150">
+<p>
+<img src="docs/figures/MR_placenta.png" alt="MR Placental Weight" title="MR Placental Weight" />
+</p>
+</td>
+<td>
+<p style="font-size:10px;">
+<i>The relationship between smoking and placental weight is
+controversial, studies inconsistently report smaller and larger
+placentae for smokers. We conducted a Mendelian randomization among
+pre-pregnancy smokers of the ALSPAC and MoBa studies. Our results show
+that continuous smoking during pregancy causes a higher placental weight
+and in turn suggest a lower birth weight relative to the placental
+weight, possibly indicating a malfunction of the placenta for these
+pregnancies.</i>
 </p>
 </td>
 </tr>
@@ -352,13 +354,7 @@ to study biological networks.</i>
     accounting for population diversity*, preprint.
     \[[Preprint](https://doi.org/10.1101/2023.12.24.572591)\]
 
-3.  Jaitner A, **Vaudel M**, Tsaneva-Atanasova K, Njølstad PR, Jacobsson
-    B, Bowden J, Johansson S, Freathy R<sup>\$</sup>. *Smoking during
-    pregnancy and its effect on placental weight: A Mendelian
-    randomization study*, preprint.
-    \[[Preprint](https://doi.org/10.1101/2023.08.24.23294537)\]
-
-4.  Lammi V<sup>1</sup>, Nakanishi T<sup>1</sup>, Jones SE<sup>1</sup>,
+3.  Lammi V<sup>1</sup>, Nakanishi T<sup>1</sup>, Jones SE<sup>1</sup>,
     Andrews SJ, Karjalainen J, Cortés B, O’Brien HE, Fulton-Howard BE,
     Haapaniemi HH, Schmidt A, Mitchell RE, Mousas A, Mangino M,
     Huerta-Chagoya A, Sinnott-Armstrong N, Cirulli ET, **Vaudel M**,
@@ -376,7 +372,19 @@ to study biological networks.</i>
     Study of Long COVID*, preprint.
     \[[Preprint](https://doi.org/10.1101/2023.06.29.23292056)\]
 
-5.  Katherine A Kentistou<sup>1</sup>, Lena R Kaisinger<sup>1</sup>,
+4.  Kuznetsova
+    KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>.
+    *A systematic mapping of the genomic and proteomic variation
+    associated with monogenic diabetes*, preprint.
+    \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
+
+5.  Sole-Navais
+    P<sup>1,$</sup>, Juodakis J<sup>1</sup>, Ytterberg K, Xiaoping W, **Vaudel M**, Helgeland Ø, Flatley C, Geller F, Magnus P, Andreassen OA, Njolstad PR, Feenstra B, Muglia LJ, Johanson S, Jacobsson B<sup>$</sup>.
+    *Genome-wide analysis of neonatal jaundice reveals a marked
+    departure from adult bilirubin metabolism*, preprint.
+    \[[Preprint](https://www.medrxiv.org/content/10.1101/2022.12.14.22283348v3)\]
+
+6.  Katherine A Kentistou<sup>1</sup>, Lena R Kaisinger<sup>1</sup>,
     Stasa Stankovic, **Marc Vaudel**, de Oliveira EM, Messina A, Walters
     RG, Liu X, Busch AS, Helgason H, Thompson DJ, Santon F, Petricek KM,
     Zouaghi Y, Huang-Doran I, Gudbjartsson DF, Bratland E, Lin K,
@@ -424,26 +432,22 @@ to study biological networks.</i>
     preprint.
     \[[Preprint](https://doi.org/10.1101/2023.06.14.23291322)\]
 
-6.  Kuznetsova
-    KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>.
-    *A systematic mapping of the genomic and proteomic variation
-    associated with monogenic diabetes*, preprint.
-    \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
-
-7.  Sole-Navais
-    P<sup>1,$</sup>, Juodakis J<sup>1</sup>, Ytterberg K, Xiaoping W, **Vaudel M**, Helgeland Ø, Flatley C, Geller F, Magnus P, Andreassen OA, Njolstad PR, Feenstra B, Muglia LJ, Johanson S, Jacobsson B<sup>$</sup>.
-    *Genome-wide analysis of neonatal jaundice reveals a marked
-    departure from adult bilirubin metabolism*, preprint.
-    \[[Preprint](https://www.medrxiv.org/content/10.1101/2022.12.14.22283348v3)\]
+7.  Jaitner A, **Vaudel M**, Tsaneva-Atanasova K, Njølstad PR, Jacobsson
+    B, Bowden J, Johansson S, Freathy R<sup>\$</sup>. *Smoking during
+    pregnancy and its effect on placental weight: A Mendelian
+    randomization study*, BMC Pregnancy Childbirth, 2024 \[[PubMed id
+    38575863](https://www.ncbi.nlm.nih.gov/pubmed/38575863)\] \[[doi:
+    10.1186/s12884-024-06431-0](https://doi.org/10.1186/s12884-024-06431-0)\]
+    \[[pdf](https://bmcpregnancychildbirth.biomedcentral.com/counter/pdf/10.1186/s12884-024-06431-0)\]
 
 8.  Artaza H, Eriksson D, Lavrichenko K, Aranda-Guillén M, Bratland E,
     **Vaudel M**, Knappskog P, Husebye E, Bensing S, Wolff ASB, Kämpe O,
     Røyrvik EC<sup>$</sup>, Johansson S<sup>$</sup>. *Rare copy number
     variation in autoimmune Addison’s disease*, Frontiers in Immunology,
-    2024 \[PubMed\] \[[doi:
+    2024 \[[PubMed id
+    38562931](https://www.ncbi.nlm.nih.gov/pubmed/38562931)\] \[[doi:
     10.3389/fimmu.2024.1374499](https://doi.org/10.3389/fimmu.2024.1374499)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://doi.org/10.3389/fimmu.2024.1374499)\]
 
 9.  Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG,
     Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>,
@@ -481,9 +485,10 @@ to study biological networks.</i>
 11. Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S,
     Njølstad PR, Barsnes H<sup>†</sup>, **Vaudel M**<sup>†,\$</sup>.
     *Extending protein interaction networks using proteoforms and small
-    molecules*, Bioinformatics, 2023. \[[PubMed
-    37756698](https://www.ncbi.nlm.nih.gov/pubmed/37756698) [doi:
+    molecules*, Bioinformatics, 2023. \[[PubMed id
+    37756698](https://www.ncbi.nlm.nih.gov/pubmed/37756698)\] \[[doi:
     10.1093/bioinformatics/btad598](https://doi.org/10.1093/bioinformatics/btad598)\]
+    \[[pdf](https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btad598/51770602/btad598.pdf)\]
 
 12. Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>,
     **Vaudel M**<sup>†,\$</sup>. *Retention time and fragmentation
