@@ -5,7 +5,7 @@ Marc Vaudel
 
 with the submission This repository lists the scientific publications
 co-authored by [Marc Vaudel](https://www.uib.no/en/persons/Marc.Vaudel)
-as of 08.04.2024.
+as of 19.04.2024.
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
 - [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3AA5037607788&sort=cited_by_count%3Adesc&group_by=publication_year,type)
@@ -54,8 +54,10 @@ thousand genomes redily usable for proteomic studies:
 2.  Kuznetsova
     KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>.
     *A systematic mapping of the genomic and proteomic variation
-    associated with monogenic diabetes*, preprint.
-    \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
+    associated with monogenic diabetes*, Plos One, 2024. \[[PubMed id
+    38635808](https://www.ncbi.nlm.nih.gov/pubmed/38635808)\] \[[doi:
+    10.1371/journal.pone.0300350](https://doi.org/10.1371/journal.pone.0300350)\]
+    \[[pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0300350&type=printable)\]
 
 <table>
 <tr>
@@ -82,7 +84,7 @@ diseases.</i>
 3.  Jaitner A, **Vaudel M**, Tsaneva-Atanasova K, Njølstad PR, Jacobsson
     B, Bowden J, Johansson S, Freathy R<sup>\$</sup>. *Smoking during
     pregnancy and its effect on placental weight: A Mendelian
-    randomization study*, BMC Pregnancy Childbirth, 2024 \[[PubMed id
+    randomization study*, BMC Pregnancy Childbirth, 2024. \[[PubMed id
     38575863](https://www.ncbi.nlm.nih.gov/pubmed/38575863)\] \[[doi:
     10.1186/s12884-024-06431-0](https://doi.org/10.1186/s12884-024-06431-0)\]
     \[[pdf](https://bmcpregnancychildbirth.biomedcentral.com/counter/pdf/10.1186/s12884-024-06431-0)\]
@@ -372,19 +374,13 @@ to study biological networks.</i>
     Study of Long COVID*, preprint.
     \[[Preprint](https://doi.org/10.1101/2023.06.29.23292056)\]
 
-4.  Kuznetsova
-    KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>.
-    *A systematic mapping of the genomic and proteomic variation
-    associated with monogenic diabetes*, preprint.
-    \[[Preprint](https://doi.org/10.1101/2023.01.19.524722)\]
-
-5.  Sole-Navais
+4.  Sole-Navais
     P<sup>1,$</sup>, Juodakis J<sup>1</sup>, Ytterberg K, Xiaoping W, **Vaudel M**, Helgeland Ø, Flatley C, Geller F, Magnus P, Andreassen OA, Njolstad PR, Feenstra B, Muglia LJ, Johanson S, Jacobsson B<sup>$</sup>.
     *Genome-wide analysis of neonatal jaundice reveals a marked
     departure from adult bilirubin metabolism*, preprint.
     \[[Preprint](https://www.medrxiv.org/content/10.1101/2022.12.14.22283348v3)\]
 
-6.  Katherine A Kentistou<sup>1</sup>, Lena R Kaisinger<sup>1</sup>,
+5.  Katherine A Kentistou<sup>1</sup>, Lena R Kaisinger<sup>1</sup>,
     Stasa Stankovic, **Marc Vaudel**, de Oliveira EM, Messina A, Walters
     RG, Liu X, Busch AS, Helgason H, Thompson DJ, Santon F, Petricek KM,
     Zouaghi Y, Huang-Doran I, Gudbjartsson DF, Bratland E, Lin K,
@@ -432,10 +428,18 @@ to study biological networks.</i>
     preprint.
     \[[Preprint](https://doi.org/10.1101/2023.06.14.23291322)\]
 
+6.  Kuznetsova
+    KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>.
+    *A systematic mapping of the genomic and proteomic variation
+    associated with monogenic diabetes*, Plos One, 2024. \[[PubMed id
+    38635808](https://www.ncbi.nlm.nih.gov/pubmed/38635808)\] \[[doi:
+    10.1371/journal.pone.0300350](https://doi.org/10.1371/journal.pone.0300350)\]
+    \[[pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0300350&type=printable)\]
+
 7.  Jaitner A, **Vaudel M**, Tsaneva-Atanasova K, Njølstad PR, Jacobsson
     B, Bowden J, Johansson S, Freathy R<sup>\$</sup>. *Smoking during
     pregnancy and its effect on placental weight: A Mendelian
-    randomization study*, BMC Pregnancy Childbirth, 2024 \[[PubMed id
+    randomization study*, BMC Pregnancy Childbirth, 2024. \[[PubMed id
     38575863](https://www.ncbi.nlm.nih.gov/pubmed/38575863)\] \[[doi:
     10.1186/s12884-024-06431-0](https://doi.org/10.1186/s12884-024-06431-0)\]
     \[[pdf](https://bmcpregnancychildbirth.biomedcentral.com/counter/pdf/10.1186/s12884-024-06431-0)\]
@@ -443,8 +447,8 @@ to study biological networks.</i>
 8.  Artaza H, Eriksson D, Lavrichenko K, Aranda-Guillén M, Bratland E,
     **Vaudel M**, Knappskog P, Husebye E, Bensing S, Wolff ASB, Kämpe O,
     Røyrvik EC<sup>$</sup>, Johansson S<sup>$</sup>. *Rare copy number
-    variation in autoimmune Addison’s disease*, Frontiers in Immunology,
-    2024 \[[PubMed id
+    variation in autoimmune Addison’s disease*, Frontiers in
+    Immunology, 2024. \[[PubMed id
     38562931](https://www.ncbi.nlm.nih.gov/pubmed/38562931)\] \[[doi:
     10.3389/fimmu.2024.1374499](https://doi.org/10.3389/fimmu.2024.1374499)\]
     \[[pdf](https://doi.org/10.3389/fimmu.2024.1374499)\]
@@ -452,7 +456,7 @@ to study biological networks.</i>
 9.  Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG,
     Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>,
     **Vaudel M**<sup>†,\$</sup>. *Finding Haplotypic Signatures in
-    Proteins*, GigaScience, 2023 \[[PubMed id
+    Proteins*, GigaScience, 2023. \[[PubMed id
     37919975](https://www.ncbi.nlm.nih.gov/pubmed/37919975)\] \[[doi:
     10.1093/gigascience/giad093](https://doi.org/10.1093/gigascience/giad093)\]
     \[[pdf](https://academic.oup.com/gigascience/article-pdf/doi/10.1093/gigascience/giad093/52711879/giad093.pdf)\]
