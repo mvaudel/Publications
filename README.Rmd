@@ -221,8 +221,21 @@ getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = N
 
 ## Ten highlighted recent publications
 
-1. Vašíček J, Kuznetsova KG, Skiadopoulou D, Njølstad PR, Johansson S, Bruckner S<sup>†</sup>, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _ProHap enables proteomic database generation accounting for
-population diversity_, preprint. [[Preprint](https://doi.org/10.1101/2023.12.24.572591 )]
+1. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, preprint. [[Preprint](https://doi.org/10.1101/2024.11.19.24317559)]
+
+<table>
+<tr>
+<td width="150">
+<p><img src="docs/figures/hg_gwas.jpg" alt="HG GWAS" title="HG GWAS" /></p>
+</td>
+<td>
+<p style="font-size:10px;"><i>Our latest meta-analysis of the genetics of nausea and vomiting during pregnancy. We confirm the association with GDF15 in multiple cohorts and link to health consequences during pregnancy.</i></p>
+</td>
+</tr>
+</table>
+<br>
+
+2. Vašíček J, Kuznetsova KG, Skiadopoulou D, Njølstad PR, Johansson S, Bruckner S<sup>†</sup>, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _ProHap enables proteomic database generation accounting for population diversity_, Nature Methods, 2025. `r getLinks(pmid = "39653819", journalDOI = "10.1038/s41592-024-02506-0")`
 
 <table>
 <tr>
@@ -237,7 +250,7 @@ population diversity_, preprint. [[Preprint](https://doi.org/10.1101/2023.12.24.
 </table>
 <br>
 
-2. Kuznetsova KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, Plos One, 2024. `r getLinks(pmid = "38635808", journalDOI = "10.1371/journal.pone.0300350")`
+3. Kuznetsova KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, Plos One, 2024. `r getLinks(pmid = "38635808", journalDOI = "10.1371/journal.pone.0300350")`
 
 <table>
 <tr>
@@ -251,7 +264,7 @@ population diversity_, preprint. [[Preprint](https://doi.org/10.1101/2023.12.24.
 </table>
 <br>
 
-3. Jaitner A, **Vaudel M**, Tsaneva-Atanasova K, Njølstad PR, Jacobsson B, Bowden J, Johansson S, Freathy R<sup>$</sup>. _Smoking during pregnancy and its effect on placental weight: A Mendelian randomization study_,  BMC Pregnancy Childbirth, 2024. `r getLinks(pmid = "38575863", journalDOI = "10.1186/s12884-024-06431-0")`
+4. Jaitner A, **Vaudel M**, Tsaneva-Atanasova K, Njølstad PR, Jacobsson B, Bowden J, Johansson S, Freathy R<sup>$</sup>. _Smoking during pregnancy and its effect on placental weight: A Mendelian randomization study_,  BMC Pregnancy Childbirth, 2024. `r getLinks(pmid = "38575863", journalDOI = "10.1186/s12884-024-06431-0")`
 
 <table>
 <tr>
@@ -265,7 +278,7 @@ population diversity_, preprint. [[Preprint](https://doi.org/10.1101/2023.12.24.
 </table>
 <br>
 
-4. Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _Retention time and fragmentation predictors increase confidence in variant peptide identification_, Journal of Proteome Research, 2023. `r getLinks(pmid = "37656829", journalDOI = "10.1021/acs.jproteome.3c00243")`
+5. Skiadopoulou D, Vašíček J, Kuznetsova KG, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _Retention time and fragmentation predictors increase confidence in variant peptide identification_, Journal of Proteome Research, 2023. `r getLinks(pmid = "37656829", journalDOI = "10.1021/acs.jproteome.3c00243")`
 
 <table>
 <tr>
@@ -279,7 +292,7 @@ population diversity_, preprint. [[Preprint](https://doi.org/10.1101/2023.12.24.
 </table>
 <br>
 
-5. Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG, Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _Finding Haplotypic Signatures in Proteins_, Gigascience, 2023. `r getLinks(pmid = "37919975", journalDOI = "10.1093/gigascience/giad093")`
+6. Vašíček J<sup>1</sup>, Skiadopoulou D<sup>1</sup>, Kuznetsova KG, Wen B, Johansson S, Njølstad PR, Bruckner S, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _Finding Haplotypic Signatures in Proteins_, Gigascience, 2023. `r getLinks(pmid = "37919975", journalDOI = "10.1093/gigascience/giad093")`
 
 <table>
 <tr>
@@ -293,7 +306,7 @@ population diversity_, preprint. [[Preprint](https://doi.org/10.1101/2023.12.24.
 </table>
 <br>
 
-6. Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel M**<sup>1</sup>, Xiaoping W, Chen J, Moen GH, Skotte L, Helgeland Ø, Sole-Navais P, Banasik K, Albiñana C, Ronkainen J, Fadista J, Stinson SE, Trajanoska K, Wang CA, Westergaard D, Srinivasan S, Sánchez-Soriano C, Bilbao JR, Allard C, Groleau M, Kuulasmaa T, Leirer DJ, White F, Jacques PE, Cheng H, Hao K, Andreassen OA, Åsvold BO, Atalay M, Bhatta L, Bouchard L, Brumpton BM, Brunak S, Bybjerg-Grauholm J, Ebbing C, Elliott P, Engelbrechtsen L, Erikstrup C, Estarlich M, Franks S, Gaillard R, Geller F, Grove J, Hougaard DM, Kajantie E, Morgen CS, Nohr EA, Nyegaard M, Palmer CNA, Pedersen OB, The Early Growth Genetics (EGG) Consortium, Rivadeneira F, Sebert S, Shields BM, Stoltenberg C, Surakka I, Thørner LW, Ullum H, Vaarasmaki M, Vilhjalmsson BJ, Willer CJ, Lakka TA, Gybel-Brask DJ, Bustamante M, Hansen T, Pearson ER, Reynolds R, Ostrowski SR, Pennell CE, Jaddoe VWV, Felix JF, Hattersley AT, Melbye M, Lawlor DA, Hveem K, Werge T, Nielsen HS, Magnus P, Evans DM, Jacobsson B, Järvelin MR, Zhang G, Hivert MF, Johansson S<sup>†</sup>, Freathy RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad PR<sup>†,$</sup>. _
+7. Beaumont RN<sup>1</sup>, Flatley C<sup>1</sup>, **Vaudel M**<sup>1</sup>, Xiaoping W, Chen J, Moen GH, Skotte L, Helgeland Ø, Sole-Navais P, Banasik K, Albiñana C, Ronkainen J, Fadista J, Stinson SE, Trajanoska K, Wang CA, Westergaard D, Srinivasan S, Sánchez-Soriano C, Bilbao JR, Allard C, Groleau M, Kuulasmaa T, Leirer DJ, White F, Jacques PE, Cheng H, Hao K, Andreassen OA, Åsvold BO, Atalay M, Bhatta L, Bouchard L, Brumpton BM, Brunak S, Bybjerg-Grauholm J, Ebbing C, Elliott P, Engelbrechtsen L, Erikstrup C, Estarlich M, Franks S, Gaillard R, Geller F, Grove J, Hougaard DM, Kajantie E, Morgen CS, Nohr EA, Nyegaard M, Palmer CNA, Pedersen OB, The Early Growth Genetics (EGG) Consortium, Rivadeneira F, Sebert S, Shields BM, Stoltenberg C, Surakka I, Thørner LW, Ullum H, Vaarasmaki M, Vilhjalmsson BJ, Willer CJ, Lakka TA, Gybel-Brask DJ, Bustamante M, Hansen T, Pearson ER, Reynolds R, Ostrowski SR, Pennell CE, Jaddoe VWV, Felix JF, Hattersley AT, Melbye M, Lawlor DA, Hveem K, Werge T, Nielsen HS, Magnus P, Evans DM, Jacobsson B, Järvelin MR, Zhang G, Hivert MF, Johansson S<sup>†</sup>, Freathy RM<sup>†</sup>, Feenstra B<sup>†</sup>, Njølstad PR<sup>†,$</sup>. _
 _Genome-wide association study of placental weight identifies distinct and shared genetic influences between placental and fetal growth_, Nature Genetics, 2023. `r getLinks(pmid = "37798380", journalDOI = "10.1038/s41588-023-01520-w")`
 
 <table>
@@ -308,7 +321,7 @@ _Genome-wide association study of placental weight identifies distinct and share
 </table>
 <br>
 
-7. Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S, Njølstad PR, Barsnes H<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _Extending protein interaction networks using proteoforms and small molecules_, Bioinformatics, 2023. `r getLinks(pmid = "37756698", journalDOI = "10.1093/bioinformatics/btad598")`
+8. Hernández Sánchez LF, Burger B, Castro Campos RA, Johansson S, Njølstad PR, Barsnes H<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _Extending protein interaction networks using proteoforms and small molecules_, Bioinformatics, 2023. `r getLinks(pmid = "37756698", journalDOI = "10.1093/bioinformatics/btad598")`
 
 <table>
 <tr>
@@ -317,20 +330,6 @@ _Genome-wide association study of placental weight identifies distinct and share
 </td>
 <td>
 <p style="font-size:10px;"><i>We study how the structure of pathway-derived interaction networks change upon the inclusion of information on proteoforms and small molecules. We show how accounting for proteoform information allows refining the representation of protein interactions and how small molecules increase the connectivity of the network. But at the same time accounting for this information can create artefacts in the topology of the network.</i></p>
-</td>
-</tr>
-</table>
-<br>
-
-8. Burger B<sup>$</sup>, **Vaudel M**<sup>$</sup>, Barsnes H. _Importance of Block Randomization When Designing Proteomics Experiments_, Journal of Proteome Research, 2020. `r getLinks(pmid = " 32969222", journalDOI = "10.1021/acs.jproteome.0c00536")`
-
-<table>
-<tr>
-<td width="150">
-<p><img src="docs/figures/bram_block.jpeg" alt="Block randomization" title="Block randomization" /></p>
-</td>
-<td>
-<p style="font-size:10px;"><i>A short paper on the principles of block randomization in experimental design. This perspective article aimed at a broad audience is accompanied by a methodological paper on how to design batches for sample processing of cohorts and registries: <a href="https://doi.org/10.1093/biostatistics/kxac014">doi 10.1093/biostatistics/kxac014</a>.</i></p>
 </td>
 </tr>
 </table>
@@ -367,13 +366,15 @@ _Genome-wide association study of placental weight identifies distinct and share
 
 ## Research Articles
 
-1. Artaza H, Lavrichenko K, Wolff ASB, Røyrvik EC, **Vaudel M**, Johansson S<sup>$</sup>. _Rare Copy Number Variant analysis in case-control studies using SNP Array Data: a scalable and automated data analysis pipeline_, preprint. [[Preprint](https://doi.org/10.1101/2024.03.13.584428)]
-
-1. Vašíček J, Kuznetsova KG, Skiadopoulou D, Njølstad PR, Johansson S, Bruckner S<sup>†</sup>, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _ProHap enables proteomic database generation accounting for population diversity_, preprint. [[Preprint](https://doi.org/10.1101/2023.12.24.572591)]
+1. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, preprint. [[Preprint](https://doi.org/10.1101/2024.11.19.24317559)]
 
 1. Lammi V<sup>1</sup>, Nakanishi T<sup>1</sup>, Jones SE<sup>1</sup>, Andrews SJ, Karjalainen J, Cortés B, O’Brien HE, Fulton-Howard BE, Haapaniemi HH, Schmidt A, Mitchell RE, Mousas A, Mangino M, Huerta-Chagoya A, Sinnott-Armstrong N, Cirulli ET, **Vaudel M**, Kwong ASF, Maiti AK, Marttila M, Batini C, Minnai F, Dearman AR, Warmerdam R, Sequeros CB, Winkler TW, Jordan DM, Guare L, Vergasova E, Marouli E, Striano P, Zainulabid UA, Kumar A, Ahmad HF, Edahiro R, Azekawa S, Long COVID Host Genetics Initiative, FinnGen, DBDS Genomic Consortium, GEN-COVID Multicenter Study, Grzymski JJ, Ishii M, Okada Y, Beckmann ND, Kumari M, Wagner R, Heid IM, John C, Short PJ, Magnus P, Banasik K, Geller F, Franke LH, Rakitko A, Duncan EL, Renieri A, Tsilidis KK, de Cid R, Niavarani A, Tusié-Luna T, Verma SS, Davey Smith G, Timpson NJ, Daly MJ, Ganna A, Schulte EC, Brent Richards J, Ludwig KU, Hultström M, Zeberg H<sup>†,$</sup>, Ollila HM<sup>†,$</sup>. _Genome-wide Association Study of Long COVID_, preprint. [[Preprint](https://doi.org/10.1101/2023.06.29.23292056)]
 
-1. Sole-Navais P<sup>1,$</sup>, Juodakis J<sup>1</sup>, Ytterberg K, Xiaoping W, **Vaudel M**, Helgeland Ø, Flatley C, Geller F, Magnus P, Andreassen OA, Njolstad PR, Feenstra B, Muglia LJ, Johanson S, Jacobsson B<sup>$</sup>. _Genome-wide analysis of neonatal jaundice reveals a marked departure from adult bilirubin metabolism_, preprint. [[Preprint](https://www.medrxiv.org/content/10.1101/2022.12.14.22283348v3)]
+1. Vašíček J, Kuznetsova KG, Skiadopoulou D, Njølstad PR, Johansson S, Bruckner S<sup>†</sup>, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _ProHap enables proteomic database generation accounting for population diversity_, Nature Methods, 2025. `r getLinks(pmid = "39653819", journalDOI = "10.1038/s41592-024-02506-0")`
+
+1. Artaza H, Lavrichenko K, Wolff ASB, Røyrvik EC, **Vaudel M**, Johansson S<sup>$</sup>. _Rare Copy Number Variant analysis in case-control studies using SNP Array Data: a scalable and automated data analysis pipeline_, BMC Bioinformatics, 2024. `r getLinks(pmid = "39548362", journalDOI = "10.1186/s12859-024-05979-0")`
+
+1. Sole-Navais P<sup>1,$</sup>, Juodakis J<sup>1</sup>, Ytterberg K, Xiaoping W, **Vaudel M**, Helgeland Ø, Flatley C, Geller F, Magnus P, Andreassen OA, Njolstad PR, Feenstra B, Muglia LJ, Johanson S, Jacobsson B<sup>$</sup>. _Genome-wide analysis of neonatal jaundice reveals a marked departure from adult bilirubin metabolism_, Nature Communications, 2024. `r getLinks(pmid = "39214992", journalDOI = "10.1038/s41467-024-51947-w")`
 
 1. Olwi DI, Kaisinger LR KG, Kentistou KA, **Vaudel M**, Stankovic S, Njølstad PR, Johansson S, Perry JRB, Day FR, Ong KK<sup>†,$</sup>. _Likely causal effects of insulin resistance and IGF-1 bioaction on childhood and adult adiposity: a Mendelian randomization study _, International Journal of Obesity, 2024. `r getLinks(pmid = "39174749", journalDOI = "10.1038/s41366-024-01605-4")`
 
