@@ -366,6 +366,9 @@ _Genome-wide association study of placental weight identifies distinct and share
 
 ## Research Articles
 
+1. Vašíček J, Skiadopoulou D, Kuznetsova KG, Käll L<sup>†</sup>, **Vaudel M**<sup>†</sup>, Bruckner S<sup>†,$</sup>. _ProHap Explorer: Visualizing Haplotypes in Proteogenomic Datasets_, preprint. [[Preprint]( 	
+https://doi.org/10.48550/arXiv.2504.06282)]
+
 1. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, preprint. [[Preprint](https://doi.org/10.1101/2024.11.19.24317559)]
 
 1. Hofmeister RJ, Cavinato T, Karimi R, van der Graaf A, Pajuste F-D, Kronberg J, Taba N, Estonian Biobank research team, Mägi R, **Vaudel M**, Rubinacci S, Johansson S, Milani L, Delaneau O, Kutalik Z. _Parent-of-Origin inference and its role in the genetic architecture of complex traits: evidence from ∼265,000 individuals_, preprint. [[Preprint](https://doi.org/10.1101/2024.12.03.24318392)]
