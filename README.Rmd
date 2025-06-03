@@ -221,7 +221,22 @@ getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = N
 
 ## Ten highlighted recent publications
 
-1. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, preprint. [[Preprint](https://doi.org/10.1101/2024.11.19.24317559)]
+1. Kentistou KA, Sundfjord J, Karimi R, Kaisinger LR, Hofmeister RJ, Lupu AE, Fragoso-Bargas N, Zhao Y, Tadrass JA, Dowsett GK, Lockhart S, Bruening JC, Liu J, Davitte AJ, Clement L, Havdahl A, Andreassen OA, Bratland E, Lam BYH, O'Rahilly S, Yeo GSH, Njølstad PR, Kutalik Z, Day FR<sup>†</sup>, **Vaudel M**<sup>†</sup>, Perry JRB<sup>†</sup>, Ong KK<sup>†</sup>, Johansson S<sup>†,$</sup>. _The role of common and rare genetic variation on adiposity across childhood_, preprint. [[Preprint]( 	
+https://doi.org/10.1101/2025.05.13.25327505)]
+
+<table>
+<tr>
+<td width="150">
+<p><img src="docs/figures/chidhood_adiposity.jpg" alt="Childhood adiposity" title="Childhood adiposity" /></p>
+</td>
+<td>
+<p style="font-size:10px;"><i>A multi-phenotypes analysis of the genetics of childhood adiposity.</i></p>
+</td>
+</tr>
+</table>
+<br>
+
+2. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, preprint. [[Preprint](https://doi.org/10.1101/2024.11.19.24317559)]
 
 <table>
 <tr>
@@ -235,7 +250,7 @@ getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = N
 </table>
 <br>
 
-2. Vašíček J, Kuznetsova KG, Skiadopoulou D, Njølstad PR, Johansson S, Bruckner S<sup>†</sup>, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _ProHap enables proteomic database generation accounting for population diversity_, Nature Methods, 2025. `r getLinks(pmid = "39653819", journalDOI = "10.1038/s41592-024-02506-0")`
+3. Vašíček J, Kuznetsova KG, Skiadopoulou D, Njølstad PR, Johansson S, Bruckner S<sup>†</sup>, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _ProHap enables proteomic database generation accounting for population diversity_, Nature Methods, 2025. `r getLinks(pmid = "39653819", journalDOI = "10.1038/s41592-024-02506-0")`
 
 <table>
 <tr>
@@ -250,7 +265,7 @@ getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = N
 </table>
 <br>
 
-3. Kuznetsova KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, Plos One, 2024. `r getLinks(pmid = "38635808", journalDOI = "10.1371/journal.pone.0300350")`
+4. Kuznetsova KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, Plos One, 2024. `r getLinks(pmid = "38635808", journalDOI = "10.1371/journal.pone.0300350")`
 
 <table>
 <tr>
@@ -259,20 +274,6 @@ getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = N
 </td>
 <td>
 <p style="font-size:10px;"><i>A pipeline that maps, curates, and consolidates the variants associated with monogenic diabetes and translate their consequences to the protein level onto common haplotypes. We use this pipeline to design custom proteomics database and mine for variant peptides in the Norwegian diabetes registries. The pipeline can be used for other diseases.</i></p>
-</td>
-</tr>
-</table>
-<br>
-
-4. Jaitner A, **Vaudel M**, Tsaneva-Atanasova K, Njølstad PR, Jacobsson B, Bowden J, Johansson S, Freathy R<sup>$</sup>. _Smoking during pregnancy and its effect on placental weight: A Mendelian randomization study_,  BMC Pregnancy Childbirth, 2024. `r getLinks(pmid = "38575863", journalDOI = "10.1186/s12884-024-06431-0")`
-
-<table>
-<tr>
-<td width="150">
-<p><img src="docs/figures/MR_placenta.png" alt="MR Placental Weight" title="MR Placental Weight" /></p>
-</td>
-<td>
-<p style="font-size:10px;"><i>The relationship between smoking and placental weight is controversial, studies inconsistently report smaller and larger placentae for smokers. We conducted a Mendelian randomization among pre-pregnancy smokers of the ALSPAC and MoBa studies. Our results show that continuous smoking during pregancy causes a higher placental weight and in turn suggest a lower birth weight relative to the placental weight, possibly indicating a malfunction of the placenta for these pregnancies.</i></p>
 </td>
 </tr>
 </table>
@@ -366,14 +367,21 @@ _Genome-wide association study of placental weight identifies distinct and share
 
 ## Research Articles
 
-1. Vašíček J, Skiadopoulou D, Kuznetsova KG, Käll L<sup>†</sup>, **Vaudel M**<sup>†</sup>, Bruckner S<sup>†,$</sup>. _ProHap Explorer: Visualizing Haplotypes in Proteogenomic Datasets_, preprint. [[Preprint]( 	
-https://doi.org/10.48550/arXiv.2504.06282)]
+1. Parehk P<sup>$</sup>, Parker N, Pecheva D, Frei E, **Vaudel M**, Smith DM, Rigby A, Jaholkowski P, Sønderby IE, Birkenæs V, Bakken NR, Fan CC, Makowski C, Kopal J, Loughnan R, Hagler Donald J Kr, van der Meer D, Johansson S ,Njølstad PR, Jernigan TL, Thompson WK, Frei Oleksandr, Shadrin AA, Nichols TE, Andreassen OA, Dale AM<sup>†,$</sup>. _FEMA-Long: Modeling unstructured covariances for discovery of time-dependent effects in large-scale longitudinal datasets_, preprint. [[Preprint](https://doi.org/10.1101/2025.05.09.653146)]
+
+1. Skiadopoulou D, Käll L, Barsnes H, Schwämmle V, **Vaudel M**<sup>†,$</sup>. _A graph-based approach for modification site assignment in proteomics_, preprint. [[Preprint](https://doi.org/10.48550/arXiv.2505.17755)]
+
+1. Unger L, Larsen U, Sharmine S, Hossain MK, Legøy TA, **Vaudel M**, Ghila L, Chera S<sup>†,$</sup>. _SAM: A FIJI-Based Tool for Semi-Automated Quantification of Cytoplasmic Expression in Cells_, preprint. [[Preprint](https://doi.org/10.21203/rs.3.rs-6466373/v1)]
+
+1. Kentistou KA, Sundfjord J, Karimi R, Kaisinger LR, Hofmeister RJ, Lupu AE, Fragoso-Bargas N, Zhao Y, Tadrass JA, Dowsett GK, Lockhart S, Bruening JC, Liu J, Davitte AJ, Clement L, Havdahl A, Andreassen OA, Bratland E, Lam BYH, O'Rahilly S, Yeo GSH, Njølstad PR, Kutalik Z, Day FR<sup>†</sup>, **Vaudel M**<sup>†</sup>, Perry JRB<sup>†</sup>, Ong KK<sup>†</sup>, Johansson S<sup>†,$</sup>. _The role of common and rare genetic variation on adiposity across childhood_, preprint. [[Preprint](https://doi.org/10.1101/2025.05.13.25327505)]
+
+1. Vašíček J, Skiadopoulou D, Kuznetsova KG, Käll L<sup>†</sup>, **Vaudel M**<sup>†</sup>, Bruckner S<sup>†,$</sup>. _ProHap Explorer: Visualizing Haplotypes in Proteogenomic Datasets_, preprint. [[Preprint](https://doi.org/10.48550/arXiv.2504.06282)]
 
 1. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, preprint. [[Preprint](https://doi.org/10.1101/2024.11.19.24317559)]
 
 1. Hofmeister RJ, Cavinato T, Karimi R, van der Graaf A, Pajuste F-D, Kronberg J, Taba N, Estonian Biobank research team, Mägi R, **Vaudel M**, Rubinacci S, Johansson S, Milani L, Delaneau O, Kutalik Z. _Parent-of-Origin inference and its role in the genetic architecture of complex traits: evidence from ∼265,000 individuals_, preprint. [[Preprint](https://doi.org/10.1101/2024.12.03.24318392)]
 
-1. Lammi V<sup>1</sup>, Nakanishi T<sup>1</sup>, Jones SE<sup>1</sup>, Andrews SJ, Karjalainen J, Cortés B, O’Brien HE, Fulton-Howard BE, Haapaniemi HH, Schmidt A, Mitchell RE, Mousas A, Mangino M, Huerta-Chagoya A, Sinnott-Armstrong N, Cirulli ET, **Vaudel M**, Kwong ASF, Maiti AK, Marttila M, Batini C, Minnai F, Dearman AR, Warmerdam R, Sequeros CB, Winkler TW, Jordan DM, Guare L, Vergasova E, Marouli E, Striano P, Zainulabid UA, Kumar A, Ahmad HF, Edahiro R, Azekawa S, Long COVID Host Genetics Initiative, FinnGen, DBDS Genomic Consortium, GEN-COVID Multicenter Study, Grzymski JJ, Ishii M, Okada Y, Beckmann ND, Kumari M, Wagner R, Heid IM, John C, Short PJ, Magnus P, Banasik K, Geller F, Franke LH, Rakitko A, Duncan EL, Renieri A, Tsilidis KK, de Cid R, Niavarani A, Tusié-Luna T, Verma SS, Davey Smith G, Timpson NJ, Daly MJ, Ganna A, Schulte EC, Brent Richards J, Ludwig KU, Hultström M, Zeberg H<sup>†,$</sup>, Ollila HM<sup>†,$</sup>. _Genome-wide Association Study of Long COVID_, preprint. [[Preprint](https://doi.org/10.1101/2023.06.29.23292056)]
+1. Lammi V<sup>1</sup>, Nakanishi T<sup>1</sup>, Jones SE<sup>1</sup>, Andrews SJ, Karjalainen J, Cortés B, O’Brien HE, Fulton-Howard BE, Haapaniemi HH, Schmidt A, Mitchell RE, Mousas A, Mangino M, Huerta-Chagoya A, Sinnott-Armstrong N, Cirulli ET, **Vaudel M**, Kwong ASF, Maiti AK, Marttila M, Batini C, Minnai F, Dearman AR, Warmerdam R, Sequeros CB, Winkler TW, Jordan DM, Guare L, Vergasova E, Marouli E, Striano P, Zainulabid UA, Kumar A, Ahmad HF, Edahiro R, Azekawa S, Long COVID Host Genetics Initiative, FinnGen, DBDS Genomic Consortium, GEN-COVID Multicenter Study, Grzymski JJ, Ishii M, Okada Y, Beckmann ND, Kumari M, Wagner R, Heid IM, John C, Short PJ, Magnus P, Banasik K, Geller F, Franke LH, Rakitko A, Duncan EL, Renieri A, Tsilidis KK, de Cid R, Niavarani A, Tusié-Luna T, Verma SS, Davey Smith G, Timpson NJ, Daly MJ, Ganna A, Schulte EC, Brent Richards J, Ludwig KU, Hultström M, Zeberg H<sup>†,$</sup>, Ollila HM<sup>†,$</sup>. _Genome-wide Association Study of Long COVID_, Nature Genetics, 2025. `r getLinks(pmid = "40399555", journalDOI = "10.1038/s41588-025-02100-w")`
 
 1. Vašíček J, Kuznetsova KG, Skiadopoulou D, Njølstad PR, Johansson S, Bruckner S<sup>†</sup>, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _ProHap enables proteomic database generation accounting for population diversity_, Nature Methods, 2025. `r getLinks(pmid = "39653819", journalDOI = "10.1038/s41592-024-02506-0")`
 
