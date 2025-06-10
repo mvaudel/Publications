@@ -373,6 +373,8 @@ _Genome-wide association study of placental weight identifies distinct and share
 
 1. Unger L, Larsen U, Sharmine S, Hossain MK, Legøy TA, **Vaudel M**, Ghila L, Chera S<sup>†,$</sup>. _SAM: A FIJI-Based Tool for Semi-Automated Quantification of Cytoplasmic Expression in Cells_, preprint. [[Preprint](https://doi.org/10.21203/rs.3.rs-6466373/v1)]
 
+1. Artaza H, Priyanka Tallapragada DS, Molnes J, Lavrichenko K, Wolff ASB, Røyrvik EC, Skrivarhaug T, **Vaudel M**, Bratland E, Johansson BB, Njølstad PR, Johansson S<sup>$</sup>. _Contribution of Rare Large High-Penetrance CNVs to Pediatric and MODY Diabetes in Norway_, preprint. [[Preprint](https://doi.org/10.1101/2025.02.25.25322584 )]
+
 1. Kentistou KA, Sundfjord J, Karimi R, Kaisinger LR, Hofmeister RJ, Lupu AE, Fragoso-Bargas N, Zhao Y, Tadrass JA, Dowsett GK, Lockhart S, Bruening JC, Liu J, Davitte AJ, Clement L, Havdahl A, Andreassen OA, Bratland E, Lam BYH, O'Rahilly S, Yeo GSH, Njølstad PR, Kutalik Z, Day FR<sup>†</sup>, **Vaudel M**<sup>†</sup>, Perry JRB<sup>†</sup>, Ong KK<sup>†</sup>, Johansson S<sup>†,$</sup>. _The role of common and rare genetic variation on adiposity across childhood_, preprint. [[Preprint](https://doi.org/10.1101/2025.05.13.25327505)]
 
 1. Vašíček J, Skiadopoulou D, Kuznetsova KG, Käll L<sup>†</sup>, **Vaudel M**<sup>†</sup>, Bruckner S<sup>†,$</sup>. _ProHap Explorer: Visualizing Haplotypes in Proteogenomic Datasets_, preprint. [[Preprint](https://doi.org/10.48550/arXiv.2504.06282)]
