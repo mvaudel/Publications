@@ -367,7 +367,9 @@ _Genome-wide association study of placental weight identifies distinct and share
 
 ## Research Articles
 
-1. Parehk P<sup>$</sup>, Parker N, Pecheva D, Frei E, **Vaudel M**, Smith DM, Rigby A, Jaholkowski P, Sønderby IE, Birkenæs V, Bakken NR, Fan CC, Makowski C, Kopal J, Loughnan R, Hagler Donald J Kr, van der Meer D, Johansson S ,Njølstad PR, Jernigan TL, Thompson WK, Frei Oleksandr, Shadrin AA, Nichols TE, Andreassen OA, Dale AM<sup>†,$</sup>. _FEMA-Long: Modeling unstructured covariances for discovery of time-dependent effects in large-scale longitudinal datasets_, preprint. [[Preprint](https://doi.org/10.1101/2025.05.09.653146)]
+1. Ytterberg K<sup>$</sup>, Sundelin H, Juodakis J, **Vaudel M**, Corfield EC, Andreassen OA, Magnus P, Havdahl A, Nilsson S, Njølstad PR, Johansson S, Jacobsson B<sup>$</sup>, Solé-Navais P<sup>†,$</sup>. _Parity modifies the effect of genetic variants associated with gestational duration and birth weight_, preprint. [[Preprint](https://doi.org/10.1101/2025.06.17.25329777)]
+
+1. Parehk P<sup>$</sup>, Parker N, Pecheva D, Frei E, **Vaudel M**, Smith DM, Rigby A, Jaholkowski P, Sønderby IE, Birkenæs V, Bakken NR, Fan CC, Makowski C, Kopal J, Loughnan R, Hagler Donald J Kr, van der Meer D, Johansson S ,Njølstad PR, Jernigan TL, Thompson WK, Frei Oleksandr, Shadrin AA, Nichols TE, Andreassen OA<sup>†</sup>, Dale AM<sup>†,$</sup>. _FEMA-Long: Modeling unstructured covariances for discovery of time-dependent effects in large-scale longitudinal datasets_, preprint. [[Preprint](https://doi.org/10.1101/2025.05.09.653146)]
 
 1. Skiadopoulou D, Käll L, Barsnes H, Schwämmle V, **Vaudel M**<sup>†,$</sup>. _A graph-based approach for modification site assignment in proteomics_, preprint. [[Preprint](https://doi.org/10.48550/arXiv.2505.17755)]
 
