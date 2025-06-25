@@ -5,7 +5,7 @@ Marc Vaudel
 
 with the submission This repository lists the scientific publications
 co-authored by [Marc Vaudel](https://www.uib.no/en/persons/Marc.Vaudel)
-as of 20.06.2025.
+as of 25.06.2025.
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
 - [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3AA5037607788&sort=cited_by_count%3Adesc&group_by=publication_year,type)
@@ -386,12 +386,7 @@ to study biological networks.</i>
     childhood*, preprint.
     \[[Preprint](https://doi.org/10.1101/2025.05.13.25327505)\]
 
-7.  Vašíček J, Skiadopoulou D, Kuznetsova KG, Käll L<sup>†</sup>,
-    **Vaudel M**<sup>†</sup>, Bruckner S<sup>†,\$</sup>. *ProHap
-    Explorer: Visualizing Haplotypes in Proteogenomic Datasets*,
-    preprint. \[[Preprint](https://doi.org/10.48550/arXiv.2504.06282)\]
-
-8.  Fejzo M<sup>†,\$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T;
+7.  Fejzo M<sup>†,\$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T;
     Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health
     Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez
     Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A,
@@ -402,12 +397,22 @@ to study biological networks.</i>
     appetite, insulin signaling, and brain plasticity*, preprint.
     \[[Preprint](https://doi.org/10.1101/2024.11.19.24317559)\]
 
-9.  Hofmeister RJ, Cavinato T, Karimi R, van der Graaf A, Pajuste F-D,
+8.  Hofmeister RJ, Cavinato T, Karimi R, van der Graaf A, Pajuste F-D,
     Kronberg J, Taba N, Estonian Biobank research team, Mägi R, **Vaudel
     M**, Rubinacci S, Johansson S, Milani L, Delaneau O, Kutalik Z.
     *Parent-of-Origin inference and its role in the genetic architecture
     of complex traits: evidence from ∼265,000 individuals*, preprint.
     \[[Preprint](https://doi.org/10.1101/2024.12.03.24318392)\]
+
+9.  Vašíček J, Skiadopoulou D, Kuznetsova KG, Käll L<sup>†</sup>,
+    **Vaudel M**<sup>†</sup>, Bruckner S<sup>†,\$</sup>. *ProHap
+    Explorer: Visualizing Haplotypes in Proteogenomic Datasets*,
+    preprint. \[[PubMed id
+    40540386](https://www.ncbi.nlm.nih.gov/pubmed/40540386)\]
+    \[[Preprint](https://doi.org/10.48550/arXiv.2504.06282)\] \[[doi:
+    10.1109/MCG.2025.3581736](https://doi.org/10.1109/MCG.2025.3581736)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
 
 10. Lammi V<sup>1</sup>, Nakanishi T<sup>1</sup>, Jones SE<sup>1</sup>,
     Andrews SJ, Karjalainen J, Cortés B, O’Brien HE, Fulton-Howard BE,
