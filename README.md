@@ -5,7 +5,7 @@ Marc Vaudel
 
 with the submission This repository lists the scientific publications
 co-authored by [Marc Vaudel](https://www.uib.no/en/persons/Marc.Vaudel)
-as of 25.06.2025.
+as of 25.07.2025.
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
 - [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3AA5037607788&sort=cited_by_count%3Adesc&group_by=publication_year,type)
@@ -35,13 +35,14 @@ as of 25.06.2025.
 <tr>
 <td width="150">
 <p>
-<img src="docs/figures/chidhood_adiposity.jpg" alt="Childhood adiposity" title="Childhood adiposity" />
+<img src="docs/figures/jonas_bmi.jpg" alt="Childhood adiposity" title="Childhood adiposity" />
 </p>
 </td>
 <td>
 <p style="font-size:10px;">
-<i>A multi-phenotypes analysis of the genetics of childhood
-adiposity.</i>
+<i>Our latest study of the genetics of childhood adiposity. We combined
+multiple phenotypes across different stages of childhood to chart the
+genetic drivers of adiposity.</i>
 </p>
 </td>
 </tr>

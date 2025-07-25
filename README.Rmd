@@ -227,10 +227,10 @@ https://doi.org/10.1101/2025.05.13.25327505)]
 <table>
 <tr>
 <td width="150">
-<p><img src="docs/figures/chidhood_adiposity.jpg" alt="Childhood adiposity" title="Childhood adiposity" /></p>
+<p><img src="docs/figures/jonas_bmi.jpg" alt="Childhood adiposity" title="Childhood adiposity" /></p>
 </td>
 <td>
-<p style="font-size:10px;"><i>A multi-phenotypes analysis of the genetics of childhood adiposity.</i></p>
+<p style="font-size:10px;"><i>Our latest study of the genetics of childhood adiposity. We combined multiple phenotypes across different stages of childhood to chart the genetic drivers of adiposity.</i></p>
 </td>
 </tr>
 </table>
