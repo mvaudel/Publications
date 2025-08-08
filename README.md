@@ -5,7 +5,7 @@ Marc Vaudel
 
 with the submission This repository lists the scientific publications
 co-authored by [Marc Vaudel](https://www.uib.no/en/persons/Marc.Vaudel)
-as of 25.07.2025.
+as of 08.08.2025.
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
 - [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3AA5037607788&sort=cited_by_count%3Adesc&group_by=publication_year,type)
@@ -289,7 +289,7 @@ the network.</i>
     obesity*, Nature Metabolism, 2022. \[[PubMed id
     35315439](https://www.ncbi.nlm.nih.gov/pubmed/35315439)\] \[[doi:
     10.1038/s42255-022-00549-1](https://doi.org/10.1038/s42255-022-00549-1)\]
-    \[[pdf](http://hdl.handle.net/10852/95061)\]
+    \[[pdf](https://hdl.handle.net/11250/3007670)\]
 
 <table>
 <tr>
@@ -364,20 +364,14 @@ to study biological networks.</i>
     assignment in proteomics*, preprint.
     \[[Preprint](https://doi.org/10.48550/arXiv.2505.17755)\]
 
-4.  Unger L, Larsen U, Sharmine S, Hossain MK, Legøy TA, **Vaudel M**,
-    Ghila L, Chera S<sup>†,\$</sup>. *SAM: A FIJI-Based Tool for
-    Semi-Automated Quantification of Cytoplasmic Expression in Cells*,
-    preprint.
-    \[[Preprint](https://doi.org/10.21203/rs.3.rs-6466373/v1)\]
-
-5.  Artaza H, Priyanka Tallapragada DS, Molnes J, Lavrichenko K, Wolff
+4.  Artaza H, Priyanka Tallapragada DS, Molnes J, Lavrichenko K, Wolff
     ASB, Røyrvik EC, Skrivarhaug T, **Vaudel M**, Bratland E, Johansson
     BB, Njølstad PR, Johansson S<sup>\$</sup>. *Contribution of Rare
     Large High-Penetrance CNVs to Pediatric and MODY Diabetes in
     Norway*, preprint.
     \[[Preprint](https://doi.org/10.1101/2025.02.25.25322584)\]
 
-6.  Kentistou KA, Sundfjord J, Karimi R, Kaisinger LR, Hofmeister RJ,
+5.  Kentistou KA, Sundfjord J, Karimi R, Kaisinger LR, Hofmeister RJ,
     Lupu AE, Fragoso-Bargas N, Zhao Y, Tadrass JA, Dowsett GK, Lockhart
     S, Bruening JC, Liu J, Davitte AJ, Clement L, Havdahl A, Andreassen
     OA, Bratland E, Lam BYH, O’Rahilly S, Yeo GSH, Njølstad PR, Kutalik
@@ -387,7 +381,7 @@ to study biological networks.</i>
     childhood*, preprint.
     \[[Preprint](https://doi.org/10.1101/2025.05.13.25327505)\]
 
-7.  Fejzo M<sup>†,\$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T;
+6.  Fejzo M<sup>†,\$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T;
     Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health
     Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez
     Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A,
@@ -398,17 +392,32 @@ to study biological networks.</i>
     appetite, insulin signaling, and brain plasticity*, preprint.
     \[[Preprint](https://doi.org/10.1101/2024.11.19.24317559)\]
 
+7.  Unger L, Larsen U, Sharmine S, Hossain MK, Legøy TA, **Vaudel M**,
+    Ghila L, Chera S<sup>†,\$</sup>. *SAM: A FIJI-Based Tool for
+    Semi-Automated Quantification of Cytoplasmic Expression in Cells*,
+    Scientific Reports, 2025. \[[PubMed id
+    40721622](https://www.ncbi.nlm.nih.gov/pubmed/40721622)\]
+    \[[Preprint](https://doi.org/10.21203/rs.3.rs-6466373/v1)\] \[[doi:
+    10.1038/s41598-025-12144-x](https://doi.org/10.1038/s41598-025-12144-x)\]
+    \[[pdf
+    (preprint)](https://www.researchsquare.com/article/rs-6466373/latest.pdf)\]
+    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
+
 8.  Hofmeister RJ, Cavinato T, Karimi R, van der Graaf A, Pajuste F-D,
     Kronberg J, Taba N, Estonian Biobank research team, Mägi R, **Vaudel
     M**, Rubinacci S, Johansson S, Milani L, Delaneau O, Kutalik Z.
-    *Parent-of-Origin inference and its role in the genetic architecture
-    of complex traits: evidence from ∼265,000 individuals*, preprint.
-    \[[Preprint](https://doi.org/10.1101/2024.12.03.24318392)\]
+    *Parent-of-origin effects on complex traits in up to 236,781
+    individuals*, Nature, 2025. \[[PubMed id
+    40770099](https://www.ncbi.nlm.nih.gov/pubmed/40770099)\]
+    \[[Preprint](https://doi.org/10.1101/2024.12.03.24318392)\] \[[doi:
+    10.1038/s41586-025-09357-5](https://doi.org/10.1038/s41586-025-09357-5)\]
+    \[[pdf (preprint)]()\] \[[Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
 
 9.  Vašíček J, Skiadopoulou D, Kuznetsova KG, Käll L<sup>†</sup>,
     **Vaudel M**<sup>†</sup>, Bruckner S<sup>†,\$</sup>. *ProHap
-    Explorer: Visualizing Haplotypes in Proteogenomic Datasets*,
-    preprint. \[[PubMed id
+    Explorer: Visualizing Haplotypes in Proteogenomic Datasets*, IEEE
+    Computer Graphics and Applications, 2025. \[[PubMed id
     40540386](https://www.ncbi.nlm.nih.gov/pubmed/40540386)\]
     \[[Preprint](https://doi.org/10.48550/arXiv.2504.06282)\] \[[doi:
     10.1109/MCG.2025.3581736](https://doi.org/10.1109/MCG.2025.3581736)\]
@@ -431,7 +440,8 @@ to study biological networks.</i>
     Richards J, Ludwig KU, Hultström M, Zeberg
     H<sup>†,$</sup>, Ollila HM<sup>†,$</sup>. *Genome-wide Association
     Study of Long COVID*, Nature Genetics, 2025. \[[PubMed id
-    40399555](https://www.ncbi.nlm.nih.gov/pubmed/40399555)\] \[[doi:
+    40399555](https://www.ncbi.nlm.nih.gov/pubmed/40399555)\]
+    \[[Preprint](https://doi.org/10.1101/2024.10.07.24315052)\] \[[doi:
     10.1038/s41588-025-02100-w](https://doi.org/10.1038/s41588-025-02100-w)\]
     \[[pdf](https://www.nature.com/articles/s41588-025-02100-w.pdf)\]
 
@@ -440,7 +450,8 @@ to study biological networks.</i>
     M**<sup>†,\$</sup>. *ProHap enables proteomic database generation
     accounting for population diversity*, Nature Methods, 2025.
     \[[PubMed id
-    39653819](https://www.ncbi.nlm.nih.gov/pubmed/39653819)\] \[[doi:
+    39653819](https://www.ncbi.nlm.nih.gov/pubmed/39653819)\]
+    \[[Preprint](https://doi.org/10.48550/arXiv.2504.06282)\] \[[doi:
     10.1038/s41592-024-02506-0](https://doi.org/10.1038/s41592-024-02506-0)\]
     \[No Open Access found [Request a
     reprint](mailto:marc.vaudel@uib.no)\]
@@ -619,7 +630,7 @@ to study biological networks.</i>
     Nature Metabolism, 2022. \[[PubMed id
     35315439](https://www.ncbi.nlm.nih.gov/pubmed/35315439)\] \[[doi:
     10.1038/s42255-022-00549-1](https://doi.org/10.1038/s42255-022-00549-1)\]
-    \[[pdf](http://hdl.handle.net/10852/95061)\]
+    \[[pdf](https://hdl.handle.net/11250/3007670)\]
 
 26. Carrasco M, Wang C, Søviknes AM, Bjørlykke Y, Abadpour S, Paulo JA,
     Tjora E, Njølstad P, Ghabayen J, Nermoen I, Lyssenko V, Chera S,
