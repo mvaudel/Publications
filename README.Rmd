@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 author: Marc Vaudel
-date: 2019-08-01
 output: 
     github_document:
     toc: true
@@ -206,7 +205,7 @@ getLinks <- function(pmid = NULL, journalDOI = NULL, preprintDOI = NULL, aam = N
 
 ```
 
- with the submission This repository lists the scientific publications co-authored by [Marc Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of `r format(Sys.time(), "%d.%m.%Y")`. 
+This repository lists the scientific publications co-authored by [Marc Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of `r format(Sys.time(), "%d.%m.%Y")`. 
 
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
@@ -373,7 +372,7 @@ limited evidence of pregnancy-specific genetic effects_, preprint. [[Preprint](h
 
 1. Ytterberg K<sup>$</sup>, Sundelin H, Juodakis J, **Vaudel M**, Corfield EC, Andreassen OA, Magnus P, Havdahl A, Nilsson S, Njølstad PR, Johansson S, Jacobsson B<sup>$</sup>, Solé-Navais P<sup>†,$</sup>. _Parity modifies the effect of genetic variants associated with gestational duration and birth weight_, preprint. [[Preprint](https://doi.org/10.1101/2025.06.17.25329777)]
 
-1. Parehk P<sup>$</sup>, Parker N, Pecheva D, Frei E, **Vaudel M**, Smith DM, Rigby A, Jaholkowski P, Sønderby IE, Birkenæs V, Bakken NR, Fan CC, Makowski C, Kopal J, Loughnan R, Hagler Donald J Kr, van der Meer D, Johansson S ,Njølstad PR, Jernigan TL, Thompson WK, Frei Oleksandr, Shadrin AA, Nichols TE, Andreassen OA<sup>†</sup>, Dale AM<sup>†,$</sup>. _FEMA-Long: Modeling unstructured covariances for discovery of time-dependent effects in large-scale longitudinal datasets_, preprint. [[Preprint](https://doi.org/10.1101/2025.05.09.653146)]
+1. Parekh P<sup>$</sup>, Parker N, Pecheva D, Frei E, **Vaudel M**, Smith DM, Rigby A, Jaholkowski P, Sønderby IE, Birkenæs V, Bakken NR, Fan CC, Makowski C, Kopal J, Loughnan R, Hagler Donald J Kr, van der Meer D, Johansson S ,Njølstad PR, Jernigan TL, Thompson WK, Frei Oleksandr, Shadrin AA, Nichols TE, Andreassen OA<sup>†</sup>, Dale AM<sup>†,$</sup>. _FEMA-Long: Modeling unstructured covariances for discovery of time-dependent effects in large-scale longitudinal datasets_, preprint. [[Preprint](https://doi.org/10.1101/2025.05.09.653146)]
 
 1. Skiadopoulou D, Käll L, Barsnes H, Schwämmle V, **Vaudel M**<sup>†,$</sup>. _A graph-based approach for modification site assignment in proteomics_, preprint. [[Preprint](https://doi.org/10.48550/arXiv.2505.17755)]
 

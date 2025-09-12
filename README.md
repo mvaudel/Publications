@@ -1,11 +1,9 @@
 Publications
 ================
 Marc Vaudel
-2019-08-01
 
-with the submission This repository lists the scientific publications
-co-authored by [Marc Vaudel](https://www.uib.no/en/persons/Marc.Vaudel)
-as of 01.09.2025.
+This repository lists the scientific publications co-authored by [Marc
+Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 12.09.2025.
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
 - [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3AA5037607788&sort=cited_by_count%3Adesc&group_by=publication_year,type)
@@ -150,7 +148,7 @@ diseases.</i>
     Journal of Proteome Research, 2023. \[[PubMed id
     37656829](https://www.ncbi.nlm.nih.gov/pubmed/37656829)\] \[[doi:
     10.1021/acs.jproteome.3c00243](https://doi.org/10.1021/acs.jproteome.3c00243)\]
-    \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.3c00243)\]
+    \[[pdf](https://doi.org/10.1021/acs.jproteome.3c00243)\]
 
 <table>
 <tr>
@@ -361,7 +359,7 @@ to study biological networks.</i>
     preprint.
     \[[Preprint](https://doi.org/10.1101/2025.06.17.25329777)\]
 
-3.  Parehk
+3.  Parekh
     P<sup>$</sup>, Parker N, Pecheva D, Frei E, **Vaudel M**, Smith DM, Rigby A, Jaholkowski P, Sønderby IE, Birkenæs V, Bakken NR, Fan CC, Makowski C, Kopal J, Loughnan R, Hagler Donald J Kr, van der Meer D, Johansson S ,Njølstad PR, Jernigan TL, Thompson WK, Frei Oleksandr, Shadrin AA, Nichols TE, Andreassen OA<sup>†</sup>, Dale AM<sup>†,$</sup>.
     *FEMA-Long: Modeling unstructured covariances for discovery of
     time-dependent effects in large-scale longitudinal datasets*,
@@ -407,7 +405,7 @@ to study biological networks.</i>
     40721622](https://www.ncbi.nlm.nih.gov/pubmed/40721622)\]
     \[[Preprint](https://doi.org/10.21203/rs.3.rs-6466373/v1)\] \[[doi:
     10.1038/s41598-025-12144-x](https://doi.org/10.1038/s41598-025-12144-x)\]
-    \[[pdf](https://www.nature.com/articles/s41598-025-12144-x.pdf)\]
+    \[[pdf](https://doi.org/10.1038/s41598-025-12144-x)\]
 
 9.  Hofmeister RJ, Cavinato T, Karimi R, van der Graaf A, Pajuste F-D,
     Kronberg J, Taba N, Estonian Biobank research team, Mägi R, **Vaudel
@@ -467,7 +465,7 @@ to study biological networks.</i>
     data analysis pipeline*, BMC Bioinformatics, 2024. \[[PubMed id
     39548362](https://www.ncbi.nlm.nih.gov/pubmed/39548362)\] \[[doi:
     10.1186/s12859-024-05979-0](https://doi.org/10.1186/s12859-024-05979-0)\]
-    \[[pdf](https://link.springer.com/content/pdf/10.1186/s12859-024-05979-0.pdf)\]
+    \[[pdf](https://doi.org/10.1186/s12859-024-05979-0)\]
 
 14. Sole-Navais
     P<sup>1,$</sup>, Juodakis J<sup>1</sup>, Ytterberg K, Xiaoping W, **Vaudel M**, Helgeland Ø, Flatley C, Geller F, Magnus P, Andreassen OA, Njolstad PR, Feenstra B, Muglia LJ, Johanson S, Jacobsson B<sup>$</sup>.
@@ -485,7 +483,7 @@ to study biological networks.</i>
     International Journal of Obesity, 2024. \[[PubMed id
     39174749](https://www.ncbi.nlm.nih.gov/pubmed/39174749)\] \[[doi:
     10.1038/s41366-024-01605-4](https://doi.org/10.1038/s41366-024-01605-4)\]
-    \[[pdf](https://www.nature.com/articles/s41366-024-01605-4.pdf)\]
+    \[[pdf](https://doi.org/10.1038/s41366-024-01605-4)\]
 
 16. Kentistou KA<sup>1</sup>, Kaisinger LR<sup>1</sup>, Stankovic S,
     **Vaudel M**, de Oliveira EM, Messina A, Walters RG, Liu X, Busch
@@ -535,7 +533,7 @@ to study biological networks.</i>
     \[[PubMed id
     38951643](https://www.ncbi.nlm.nih.gov/pubmed/38951643)\] \[[doi:
     10.1038/s41588-024-01798-4](https://doi.org/10.1038/s41588-024-01798-4)\]
-    \[[pdf](https://escholarship.org/content/qt1bn7s85g/qt1bn7s85g.pdf)\]
+    \[[pdf](https://escholarship.org/uc/item/1bn7s85g)\]
 
 17. Kuznetsova
     KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>.
@@ -609,7 +607,7 @@ to study biological networks.</i>
     Journal of Proteome Research, 2023. \[[PubMed id
     37656829](https://www.ncbi.nlm.nih.gov/pubmed/37656829)\] \[[doi:
     10.1021/acs.jproteome.3c00243](https://doi.org/10.1021/acs.jproteome.3c00243)\]
-    \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.3c00243)\]
+    \[[pdf](https://doi.org/10.1021/acs.jproteome.3c00243)\]
 
 24. Sole-Navais
     P<sup>$</sup>, Flatley C, Steinthorsdottir V, **Vaudel M**, Chen J, Laisk T, LaBella AL, Westergaard D, Bacelis J, Juodakis J, Brumpton B, Skotte L, Borges MC, Helgeland Ø, Mahajan A, Wielscher M, Lin F, Briggs C, Wang CA, Moen GH, Beaumont RN, Bradfield JP, Thorleifsson G, Elvestad Gabrielsen M, Rye Ostrowski S, Modzelewska D, Estonian Biobank Research Team, Nohr EA, Hypponen E, Srivastava A, Talbot O, Allard C, Williams SM, Menon R, Shields BM, Sveinbjornsson G, Xu H, Danish Blood Donor Study Genomic Consortium, Early Growth Genetics Consortium, Melbye M, William L Jr, Bouchard L, Oken E, Birger Pedersen O, Gudbjartsson DF, Erikstrup C, Sorensen E, Lie RT, Teramo K, Hallman M, Juliusdottir T, Hakonarson H, Hattersley AT, Sletner L, Merialdi M, Rifas-Shiman S, Steingrimsdottir T, Scholtens D, Power C, West J, Nyegaard M, Capra JA, Skogholt AH, Magnus P, Andreassen OA, Thorsteinsdottir U, Grant SFA, Qvigstad E, Pennell CE, Hivert MF, Hayes GM, Jarvelin MR, McCarthy MI, Lawlor DA, Lawlor DA, Nielsen HS, Magi R, Rokas A, Hveem K, Stefansson K, Feenstra B, Njolstad PR, Muglia LJ, Freathy RM, Johanson S, Zhang G<sup>†</sup>, Jacobsson B<sup>†,$</sup>.
@@ -624,7 +622,7 @@ to study biological networks.</i>
     processing*, Biostatistics, 2022. \[[PubMed id
     35536588](https://www.ncbi.nlm.nih.gov/pubmed/35536588)\] \[[doi:
     10.1093/biostatistics/kxac014](https://doi.org/10.1093/biostatistics/kxac014)\]
-    \[[pdf](https://academic.oup.com/biostatistics/article-pdf/24/4/1031/52215311/kxac014.pdf)\]
+    \[[pdf](https://doi.org/10.1093/biostatistics/kxac014)\]
 
 26. Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P,
     Flatley C, Juodakis J, Bacelis J, Koløen IL, Knudsen GP, Johansson
@@ -662,7 +660,7 @@ to study biological networks.</i>
     of Proteome Research, 2021. \[[PubMed id
     34709836](https://www.ncbi.nlm.nih.gov/pubmed/34709836)\] \[[doi:
     10.1021/acs.jproteome.1c00678](https://doi.org/10.1021/acs.jproteome.1c00678)\]
-    \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.1c00678)\]
+    \[[pdf](https://doi.org/10.1021/acs.jproteome.1c00678)\]
 
 30. Dai C, Füllgrabe A, Pfeuffer J, Solovyeva EM, Deng J, Moreno P,
     Kamatchinathan S, Kundu DJ, George N, Fexova S, Grüning B, Föll MC,
@@ -980,7 +978,7 @@ to study biological networks.</i>
     Proteomics, 2017. \[[PubMed id
     28515314](https://www.ncbi.nlm.nih.gov/pubmed/28515314)\] \[[doi:
     10.1074/mcp.M117.068429](https://doi.org/10.1074/mcp.M117.068429)\]
-    \[[pdf](https://escholarship.org/content/qt9p04z2zp/qt9p04z2zp.pdf)\]
+    \[[pdf](https://escholarship.org/uc/item/9p04z2zp)\]
 
 53. Leprevost FdV, Aflitos SA, Grüning BA, Röst HL, Uszkoreit J, Barsnes
     H, **Vaudel M**, Moreno P, Gatto L, Weber J, Bai M, Jimenez RC,
