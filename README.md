@@ -30,7 +30,7 @@ Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 16.11.2025.
 <tr>
 <td width="150">
 <p>
-<img src="docs/figures/jonas_bmi.jpg" alt="Childhood adiposity" title="Childhood adiposity" />
+<img src="docs/figures/miguel_clusters.png" alt="Childhood adiposity" title="Childhood adiposity" />
 </p>
 </td>
 <td>
