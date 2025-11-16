@@ -225,7 +225,7 @@ This repository lists the scientific publications co-authored by [Marc Vaudel](h
 <table>
 <tr>
 <td width="150">
-<p><img src="docs/figures/jonas_bmi.jpg" alt="Childhood adiposity" title="Childhood adiposity" /></p>
+<p><img src="docs/figures/miguel_clusters.png" alt="Childhood adiposity" title="Childhood adiposity" /></p>
 </td>
 <td>
 <p style="font-size:10px;"><i>While we have recently gained unprecedented knowledge on the different subtypes of adult diabetes, the heterogeneity of paediatric diabetes remains largely underexplored. In this study, we find clusters of disease presentation among children from the Norwegian Childhood Diabetes Regsitry. Genetic risk score analysis demonstrates that variation in presentation correlates with the non-HLA genetic component, while NMR-based metabolomics links adolescent clusters to metabolic stress and early signs of renal dysfunction. Contrary to the prevailing view that early-onset diabetes represents a more aggressive form, our findings associate late diagnosis with deleterious metabolic consequences and early complications.</i></p>
