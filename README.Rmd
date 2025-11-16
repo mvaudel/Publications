@@ -220,7 +220,21 @@ This repository lists the scientific publications co-authored by [Marc Vaudel](h
 
 ## Ten highlighted recent publications
 
-1. Kentistou KA, Sundfjord J, Karimi R, Kaisinger LR, Hofmeister RJ, Lupu AE, Fragoso-Bargas N, Zhao Y, Tadrass JA, Dowsett GK, Lockhart S, Bruening JC, Liu J, Davitte AJ, Clement L, Havdahl A, Andreassen OA, Bratland E, Lam BYH, O'Rahilly S, Yeo GSH, Njølstad PR, Kutalik Z, Day FR<sup>†</sup>, **Vaudel M**<sup>†</sup>, Perry JRB<sup>†</sup>, Ong KK<sup>†</sup>, Johansson S<sup>†,$</sup>. _The role of common and rare genetic variation on adiposity across childhood_, preprint. [[Preprint]( 	
+1. Juárez Garzón MA, Muganga SI, Tallapragada DSP, Johansson BB, Molnes J, Skrivarhaug T, Lyssenko V, Udler M, Johansson S, Kuznetsova KG<sup>†</sup>, **Vaudel M**<sup>†</sup>, Njølstad PR<sup>†,$</sup>. _Heterogeneity in paediatric diabetes clinical presentation and its link to disease severity_, preprint. [[Preprint](https://doi.org/10.1101/2025.11.10.25339758)]
+
+<table>
+<tr>
+<td width="150">
+<p><img src="docs/figures/jonas_bmi.jpg" alt="Childhood adiposity" title="Childhood adiposity" /></p>
+</td>
+<td>
+<p style="font-size:10px;"><i>While we have recently gained unprecedented knowledge on the different subtypes of adult diabetes, the heterogeneity of paediatric diabetes remains largely underexplored. In this study, we find clusters of disease presentation among children from the Norwegian Childhood Diabetes Regsitry. Genetic risk score analysis demonstrates that variation in presentation correlates with the non-HLA genetic component, while NMR-based metabolomics links adolescent clusters to metabolic stress and early signs of renal dysfunction. Contrary to the prevailing view that early-onset diabetes represents a more aggressive form, our findings associate late diagnosis with deleterious metabolic consequences and early complications.</i></p>
+</td>
+</tr>
+</table>
+<br>
+
+2. Kentistou KA, Sundfjord J, Karimi R, Kaisinger LR, Hofmeister RJ, Lupu AE, Fragoso-Bargas N, Zhao Y, Tadrass JA, Dowsett GK, Lockhart S, Bruening JC, Liu J, Davitte AJ, Clement L, Havdahl A, Andreassen OA, Bratland E, Lam BYH, O'Rahilly S, Yeo GSH, Njølstad PR, Kutalik Z, Day FR<sup>†</sup>, **Vaudel M**<sup>†</sup>, Perry JRB<sup>†</sup>, Ong KK<sup>†</sup>, Johansson S<sup>†,$</sup>. _The role of common and rare genetic variation on adiposity across childhood_, preprint. [[Preprint]( 	
 https://doi.org/10.1101/2025.05.13.25327505)]
 
 <table>
@@ -235,7 +249,7 @@ https://doi.org/10.1101/2025.05.13.25327505)]
 </table>
 <br>
 
-2. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, preprint. [[Preprint](https://doi.org/10.1101/2024.11.19.24317559)]
+3. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, preprint. [[Preprint](https://doi.org/10.1101/2024.11.19.24317559)]
 
 <table>
 <tr>
@@ -249,7 +263,7 @@ https://doi.org/10.1101/2025.05.13.25327505)]
 </table>
 <br>
 
-3. Vašíček J, Kuznetsova KG, Skiadopoulou D, Njølstad PR, Johansson S, Bruckner S<sup>†</sup>, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _ProHap enables proteomic database generation accounting for population diversity_, Nature Methods, 2025. `r getLinks(pmid = "39653819", journalDOI = "10.1038/s41592-024-02506-0")`
+4. Vašíček J, Kuznetsova KG, Skiadopoulou D, Njølstad PR, Johansson S, Bruckner S<sup>†</sup>, Käll L<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _ProHap enables proteomic database generation accounting for population diversity_, Nature Methods, 2025. `r getLinks(pmid = "39653819", journalDOI = "10.1038/s41592-024-02506-0")`
 
 <table>
 <tr>
@@ -259,20 +273,6 @@ https://doi.org/10.1101/2025.05.13.25327505)]
 <td>
 <p style="font-size:10px;"><i>ProHap enables the creation of protein sequence databases from reference phased haplotypes. The tool can be used on public or private reference panels to build protein sequence databases that reflect the sequence diversity of a study population. Along with the tool, we provide protein sequences derived from the common haplotypes of the thousand genomes redily usable for proteomic studies: <a href="https://doi.org/10.5281/zenodo.10149278">doi
 10.5281/zenodo.10149278</a>.</i></p>
-</td>
-</tr>
-</table>
-<br>
-
-4. Kuznetsova KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Molnes J, Udler M, Johansson S, Njølstad PR, Manning A<sup>†</sup>, **Vaudel M**<sup>†,$</sup>. _A systematic mapping of the genomic and proteomic variation associated with monogenic diabetes_, Plos One, 2024. `r getLinks(pmid = "38635808", journalDOI = "10.1371/journal.pone.0300350")`
-
-<table>
-<tr>
-<td width="150">
-<p><img src="docs/figures/mindmap_ksenia.png" alt="Sequence generation pipeline" title="Sequence generation pipeline" /></p>
-</td>
-<td>
-<p style="font-size:10px;"><i>A pipeline that maps, curates, and consolidates the variants associated with monogenic diabetes and translate their consequences to the protein level onto common haplotypes. We use this pipeline to design custom proteomics database and mine for variant peptides in the Norwegian diabetes registries. The pipeline can be used for other diseases.</i></p>
 </td>
 </tr>
 </table>
@@ -365,6 +365,10 @@ _Genome-wide association study of placental weight identifies distinct and share
 
 
 ## Research Articles
+
+1. Juárez Garzón MA, Muganga SI, Tallapragada DSP, Johansson BB, Molnes J, Skrivarhaug T, Lyssenko V, Udler M, Johansson S, Kuznetsova KG<sup>†</sup>, **Vaudel M**<sup>†</sup>, Njølstad PR<sup>†,$</sup>. _Heterogeneity in paediatric diabetes clinical presentation and its link to disease severity_, preprint. [[Preprint](https://doi.org/10.1101/2025.11.10.25339758)]
+
+1. Fragoso-Bargas N<sup>$</sup>, Lupu AE, Sundfjord J, Karimi R, Havdahl A, Andreassen OA, Sole-Navais P, Jacobsson B, Bratland E, Davey Smith G, Juliusson PB, Ong KK, Njølstad PR, **Vaudel M**, Johansson S<sup>†,$</sup>. _Early-Life Genetic Determinants of Height and their Time-Dependent Links to Type 2 Diabetes_, preprint. [[Preprint](https://doi.org/10.1101/2025.11.10.25339894)]
 
 1. Brito Nunes C<sup>1,$</sup>, Rukins V<sup>1</sup>, Cisse AH<sup>1</sup>, White F<sup>1</sup>, McBride N, Kuang A, Allard C, Ronkainen J, Hughes A, Elliott A, Thorleifsson G, **Vaudel M**, Laisk T, Gu Y, Lamri A, Chen L, Tuhkanen J, Lahti J, Calas L, Muntaner N, Karhunen V, Choi J, Heiskala A, Hatem G, Fragoso-Bargas N, Rifas-Shiman SL, Paz-Lopez G, Stinson SE, Bhowmik B, Ahlqvist A, Estonian Biobank Research Team, Genes & Health Research Team, Deleuze JF, Eriksson JG, Park J, Teo K, Räikkönen K, Stefansson K, Molina-Vega M, Subbarao P, Beaumont RN, Johansson S, Tuomi T, Hansen T, Engelbrechtsen L, Morcillo S, Oken E, Quigstad E, Birkeland KI, Vääräsmäki M, Hattersley AT, Sebert S, Hitman GA, Heon Kwak S, Järvelin MR, Prasad RB, Heude B, Meirhaeghe A, Bouchard L, Jacques PE, Laivuori H, Hian Tan K, Anand SS, van Heel DA, Liu S, Njølstad PR, Steinthorsdottir V, Widén E, Keikkala E, Scholtens DM, Lowe WL, Finer S, Morris AP, Mägi R, Zöllner J, Carolina Borges M, Lawlor DA, Hivert MF<sup>†</sup>, Freathy RM<sup>†</sup>, Evans DM<sup>†</sup>, Moen GH<sup>†,$</sup>. _Multi-ancestry, trans-generational GWAS meta-analysis of
 gestational diabetes and glycaemic traits during pregnancy reveals
