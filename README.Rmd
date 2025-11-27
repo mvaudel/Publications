@@ -366,6 +366,8 @@ _Genome-wide association study of placental weight identifies distinct and share
 
 ## Research Articles
 
+1. Kuznetsova KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Unger L, Nethala RA, Wierer M, Ghila L, Johansson S, Njølstad PR, Chera S, Johansson BB, Manning A<sup>†</sup>, **Vaudel M**<sup>†</sup>. _MODY mutations in transcription factors HNF1A and HNF1B affect the production of interferon signaling proteins: evidence at the proteome level_, preprint. [[Preprint](https://doi.org/10.1101/2025.11.24.690114)]
+
 1. Juárez Garzón MA, Muganga SI, Tallapragada DSP, Johansson BB, Molnes J, Skrivarhaug T, Lyssenko V, Udler M, Johansson S, Kuznetsova KG<sup>†</sup>, **Vaudel M**<sup>†</sup>, Njølstad PR<sup>†,$</sup>. _Heterogeneity in paediatric diabetes clinical presentation and its link to disease severity_, preprint. [[Preprint](https://doi.org/10.1101/2025.11.10.25339758)]
 
 1. Fragoso-Bargas N<sup>$</sup>, Lupu AE, Sundfjord J, Karimi R, Havdahl A, Andreassen OA, Sole-Navais P, Jacobsson B, Bratland E, Davey Smith G, Juliusson PB, Ong KK, Njølstad PR, **Vaudel M**, Johansson S<sup>†,$</sup>. _Early-Life Genetic Determinants of Height and their Time-Dependent Links to Type 2 Diabetes_, preprint. [[Preprint](https://doi.org/10.1101/2025.11.10.25339894)]
