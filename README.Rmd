@@ -549,6 +549,14 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 <br>
 
+## Conference papers
+
+> Note: in informatics, conference papers are an important venue to publish findings.
+
+1. Ziman R, Budich B, **Vaudel M**, Garrison L. _The MoBa Pregnancy and Child Development Dashboard: A Design Study_, VCBM 2024: Eurographics Workshop on Visual Computing for Biology and Medicine, The Eurographics Association, 2024. `r getLinks(journalDOI = "10.2312/vcbm.20241194")`
+
+<br>
+
 ## Reviews
 
 1. Muth T<sup>$</sup>, Hartkopf F, **Vaudel M**<sup>$</sup>, Renard BY. _A Potential Golden Age to Come-Current Tools, Recent Use Cases, and Future Avenues for De Novo Sequencing in Proteomics_, Proteomics, 2018. `r getLinks(pmid = "29968278", journalDOI = "10.1002/pmic.201700150")`
@@ -571,7 +579,7 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 ## Book Chapters
 
-> Note: in our scientific field, book chapters are rarely peer reviewed by external experts and do not present substantial research advances.
+> Note: in our scientific field, book chapters are not always peer reviewed by external experts and rarely present major research advances.
 
 1. **Vaudel M**<sup>$</sup>. _Proteomics_, Processing Metabolomics and Proteomics Data with Open Software: A Practical Guide, 2019. `r getLinks(journalDOI = "10.1039/9781788019880-00096")`
 

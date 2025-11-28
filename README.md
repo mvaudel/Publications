@@ -3,7 +3,7 @@ Publications
 Marc Vaudel
 
 This repository lists the scientific publications co-authored by [Marc
-Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 27.11.2025.
+Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 28.11.2025.
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
 - [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3AA5037607788&sort=cited_by_count%3Adesc&group_by=publication_year,type)
@@ -856,7 +856,7 @@ to study biological networks.</i>
     Human Molecular Genetics, 2019. \[[PubMed id
     31504550](https://www.ncbi.nlm.nih.gov/pubmed/31504550)\] \[[doi:
     10.1093/hmg/ddz161](https://doi.org/10.1093/hmg/ddz161)\]
-    \[[pdf](http://hdl.handle.net/10138/319734)\]
+    \[[pdf](https://hdl.handle.net/11250/3008618)\]
 
 46. Warrington NM<sup>1</sup>, Beaumont RN<sup>1</sup>, Horikoshi
     M<sup>1</sup>, Day FR<sup>1</sup>, Helgeland Ø<sup>1</sup>, Laurin
@@ -1288,6 +1288,20 @@ to study biological networks.</i>
 
 <br>
 
+## Conference papers
+
+> Note: in informatics, conference papers are an important venue to
+> publish findings.
+
+1.  Ziman R, Budich B, **Vaudel M**, Garrison L. *The MoBa Pregnancy and
+    Child Development Dashboard: A Design Study*, VCBM 2024:
+    Eurographics Workshop on Visual Computing for Biology and Medicine,
+    The Eurographics Association, 2024. \[PubMed\] \[[doi:
+    10.2312/vcbm.20241194](https://doi.org/10.2312/vcbm.20241194)\] \[No
+    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
+
+<br>
+
 ## Reviews
 
 1.  Muth T<sup>$</sup>, Hartkopf F, **Vaudel M**<sup>$</sup>, Renard BY.
@@ -1358,8 +1372,9 @@ to study biological networks.</i>
 
 ## Book Chapters
 
-> Note: in our scientific field, book chapters are rarely peer reviewed
-> by external experts and do not present substantial research advances.
+> Note: in our scientific field, book chapters are not always peer
+> reviewed by external experts and rarely present major research
+> advances.
 
 1.  **Vaudel M**<sup>\$</sup>. *Proteomics*, Processing Metabolomics and
     Proteomics Data with Open Software: A Practical Guide, 2019.
