@@ -366,6 +366,8 @@ _Genome-wide association study of placental weight identifies distinct and share
 
 ## Research Articles
 
+1. Pavithram A<sup>1</sup>, Johansson BB<sup>1,$</sup>, Tjora E, Svalastoga P, Mohamed KA, Koløen IL, Toftdahl M, Skrivarhaug T, **Vaudel M**, Bjørkhaug L, Maloney KA, Pollin TI, Johansson S, Bellanné-Chantelot C, Sagen JV<sup>†</sup>, Molned J, Njølstad PR<sup>†,$</sup>. _HNF1B-MODY in the Norwegian MODY Registry and the Norwegian Childhood Diabetes Registry: Clinical insights and prevalence informed by genetic and functional evaluation_, preprint. [[Preprint](https://doi.org/10.64898/2026.03.23.26348894)]
+
 1. Kuznetsova KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Unger L, Nethala RA, Wierer M, Ghila L, Johansson S, Njølstad PR, Chera S, Johansson BB, Manning A<sup>†</sup>, **Vaudel M**<sup>†</sup>. _MODY mutations in transcription factors HNF1A and HNF1B affect the production of interferon signaling proteins: evidence at the proteome level_, preprint. [[Preprint](https://doi.org/10.1101/2025.11.24.690114)]
 
 1. Juárez Garzón MA, Muganga SI, Tallapragada DSP, Johansson BB, Molnes J, Skrivarhaug T, Lyssenko V, Udler M, Johansson S, Kuznetsova KG<sup>†</sup>, **Vaudel M**<sup>†</sup>, Njølstad PR<sup>†,$</sup>. _Heterogeneity in paediatric diabetes clinical presentation and its link to disease severity_, preprint. [[Preprint](https://doi.org/10.1101/2025.11.10.25339758)]
