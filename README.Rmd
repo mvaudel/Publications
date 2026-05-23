@@ -249,7 +249,7 @@ https://doi.org/10.1101/2025.05.13.25327505)]
 </table>
 <br>
 
-3. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, preprint. [[Preprint](https://doi.org/10.1101/2024.11.19.24317559)]
+3. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, Nature Genetics, 2026. `r getLinks(pmid = "41981316", journalDOI = "10.1038/s41588-026-02564-4")`
 
 <table>
 <tr>
@@ -366,7 +366,7 @@ _Genome-wide association study of placental weight identifies distinct and share
 
 ## Research Articles
 
-1. Pavithram A<sup>1</sup>, Johansson BB<sup>1,$</sup>, Tjora E, Svalastoga P, Mohamed KA, Koløen IL, Toftdahl M, Skrivarhaug T, **Vaudel M**, Bjørkhaug L, Maloney KA, Pollin TI, Johansson S, Bellanné-Chantelot C, Sagen JV<sup>†</sup>, Molned J, Njølstad PR<sup>†,$</sup>. _HNF1B-MODY in the Norwegian MODY Registry and the Norwegian Childhood Diabetes Registry: Clinical insights and prevalence informed by genetic and functional evaluation_, preprint. [[Preprint](https://doi.org/10.64898/2026.03.23.26348894)]
+1. Pavithram A<sup>1</sup>, Johansson BB<sup>1,$</sup>, Tjora E, Svalastoga P, Mohamed KA, Koløen IL, Toftdahl M, Skrivarhaug T, **Vaudel M**, Bjørkhaug L, Maloney KA, Pollin TI, Johansson S, Bellanné-Chantelot C, Sagen JV, Molnes J<sup>†</sup>, Njølstad PR<sup>†,$</sup>. _HNF1B-MODY in the Norwegian MODY Registry and the Norwegian Childhood Diabetes Registry: Clinical insights and prevalence informed by genetic and functional evaluation_, preprint. [[Preprint](https://doi.org/10.64898/2026.03.23.26348894)]
 
 1. Kuznetsova KG<sup>$</sup>, Vašíček J, Skiadopoulou D, Unger L, Nethala RA, Wierer M, Ghila L, Johansson S, Njølstad PR, Chera S, Johansson BB, Manning A<sup>†</sup>, **Vaudel M**<sup>†</sup>. _MODY mutations in transcription factors HNF1A and HNF1B affect the production of interferon signaling proteins: evidence at the proteome level_, preprint. [[Preprint](https://doi.org/10.1101/2025.11.24.690114)]
 
@@ -388,7 +388,9 @@ limited evidence of pregnancy-specific genetic effects_, preprint. [[Preprint](h
 
 1. Kentistou KA, Sundfjord J, Karimi R, Kaisinger LR, Hofmeister RJ, Lupu AE, Fragoso-Bargas N, Zhao Y, Tadrass JA, Dowsett GK, Lockhart S, Bruening JC, Liu J, Davitte AJ, Clement L, Havdahl A, Andreassen OA, Bratland E, Lam BYH, O'Rahilly S, Yeo GSH, Njølstad PR, Kutalik Z, Day FR<sup>†</sup>, **Vaudel M**<sup>†</sup>, Perry JRB<sup>†</sup>, Ong KK<sup>†</sup>, Johansson S<sup>†,$</sup>. _The role of common and rare genetic variation on adiposity across childhood_, preprint. [[Preprint](https://doi.org/10.1101/2025.05.13.25327505)]
 
-1. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, preprint. [[Preprint](https://doi.org/10.1101/2024.11.19.24317559)]
+1. Fejzo M<sup>†,$</sup>, Wang X, Zöllner J, Pujol-Gualdo N, Laisk T; Estonian Biobank Research Team; Finer S, van Heel DA; Genes & Health Research Team; Brumpton B, Bhatta L, Hveem K, Jasper EA, Velez Edwards DR, Hellwege JN, Edwards T, Jarvik GP, Luo Y, Khan A, MacGibbon K, Gao Y, Ge G, Averbukh I, Soon E, Angelo M, Magnus P, Johansson S, Njølstad PR, **Vaudel M**<sup>†</sup>, Shu C<sup>†</sup>, Mancuso N<sup>†</sup>. _Multi-ancestry GWAS of severe pregnancy nausea and vomiting identifies risk loci associated with appetite, insulin signaling, and brain plasticity_, Nature Genetics, 2026. `r getLinks(pmid = "41981316", journalDOI = "10.1038/s41588-026-02564-4")`
+
+1. Nguyen K-M<sup>1,$</sup>, Karimi R, **Vaudel M**, Havdahl A, Johansson S, Evans DM, Warrington NM<sup>$</sup>. _Disentangling the relationship between intrauterine exposures and offspring growth in mid-childhood_, BMC Medicine, 2026. `r getLinks(pmid = "42116159", journalDOI = "10.1186/s12916-026-04910-z")`
 
 1. Unger L, Larsen U, Sharmine S, Hossain MK, Legøy TA, **Vaudel M**, Ghila L, Chera S<sup>†,$</sup>. _SAM: A FIJI-Based Tool for Semi-Automated Quantification of Cytoplasmic Expression in Cells_, Scientific Reports, 2025. `r getLinks(pmid = "40721622", journalDOI = "10.1038/s41598-025-12144-x", preprintDOI = "10.21203/rs.3.rs-6466373/v1")`
 
