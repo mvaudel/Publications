@@ -3,7 +3,7 @@ Publications
 Marc Vaudel
 
 This repository lists the scientific publications co-authored by [Marc
-Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 03.06.2026.
+Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 05.06.2026.
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
 - [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3AA5037607788&sort=cited_by_count%3Adesc&group_by=publication_year,type)
@@ -414,8 +414,8 @@ to study biological networks.</i>
     Childhood Diabetes Registry: Clinical Insights and Prevalence
     Informed by Genetic and Functional Evaluation*, International
     Journal of Molecular Sciences, 2026. \[PubMed\] \[[doi:
-    10.3390/ijms27115067](https://doi.org/10.3390/ijms27115067)\] \[No
-    Open Access found [Request a reprint](mailto:marc.vaudel@uib.no)\]
+    10.3390/ijms27115067](https://doi.org/10.3390/ijms27115067)\]
+    \[[pdf](https://doi.org/10.3390/ijms27115067)\]
 
 10. Brito Nunes
     C<sup>1,$</sup>, Rukins V<sup>1</sup>, Cisse AH<sup>1</sup>, White F<sup>1</sup>, McBride N, Kuang A, Allard C, Ronkainen J, Hughes A, Elliott A, Thorleifsson G, **Vaudel M**, Laisk T, Gu Y, Lamri A, Chen L, Tuhkanen J, Lahti J, Calas L, Muntaner N, Karhunen V, Choi J, Heiskala A, Hatem G, Fragoso-Bargas N, Rifas-Shiman SL, Paz-Lopez G, Stinson SE, Bhowmik B, Ahlqvist A, Estonian Biobank Research Team, Genes & Health Research Team, Deleuze JF, Eriksson JG, Park J, Teo K, Räikkönen K, Stefansson K, Molina-Vega M, Subbarao P, Beaumont RN, Johansson S, Tuomi T, Hansen T, Engelbrechtsen L, Morcillo S, Oken E, Quigstad E, Birkeland KI, Vääräsmäki M, Hattersley AT, Sebert S, Hitman GA, Heon Kwak S, Järvelin MR, Prasad RB, Heude B, Meirhaeghe A, Bouchard L, Jacques PE, Laivuori H, Hian Tan K, Anand SS, van Heel DA, Liu S, Njølstad PR, Steinthorsdottir V, Widén E, Keikkala E, Scholtens DM, Lowe WL, Finer S, Morris AP, Mägi R, Zöllner J, Carolina Borges M, Lawlor DA, Hivert MF<sup>†</sup>, Freathy RM<sup>†</sup>, Evans DM<sup>†</sup>, Moen GH<sup>†,$</sup>.
@@ -1251,14 +1251,25 @@ to study biological networks.</i>
 
 ## Outreach - Proceeding
 
-1.  Burger B<sup>$</sup>, **Vaudel M**<sup>$</sup>, Barsnes H.
+1.  Andreassen OA<sup>\$</sup>, Heimer H, Aarsland D, Dale AM,
+    Gudbjartsson D, Jacobsson B, Kockum I, Lappalainen T, Metspalu A,
+    Milani L, Njølstad PR, Palotie A, Ripatti S, Sandvik A, Smeland OB,
+    Stefánsson H, Stefánsson K, **Vaudel M**, Vilo J, Werge T, Brunak S,
+    Kallioniemi O. *Importance of Block Randomization When Designing
+    Proteomics Experiments*, Journal of Proteome Research, 2020.
+    \[[PubMed id
+    32969222](https://www.ncbi.nlm.nih.gov/pubmed/%2032969222)\] \[[doi:
+    10.1021/acs.jproteome.0c00536](https://doi.org/10.1021/acs.jproteome.0c00536)\]
+    \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00536)\]
+
+2.  Burger B<sup>$</sup>, **Vaudel M**<sup>$</sup>, Barsnes H.
     *Importance of Block Randomization When Designing Proteomics
     Experiments*, Journal of Proteome Research, 2020. \[[PubMed id
     32969222](https://www.ncbi.nlm.nih.gov/pubmed/%2032969222)\] \[[doi:
     10.1021/acs.jproteome.0c00536](https://doi.org/10.1021/acs.jproteome.0c00536)\]
     \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.0c00536)\]
 
-2.  Njølstad PR<sup>\$</sup>, Andreassen OA, Brunak S, Børglum AD,
+3.  Njølstad PR<sup>\$</sup>, Andreassen OA, Brunak S, Børglum AD,
     Dillner J, Esko T, Franks PW, Freimer N, Groop L, Heimer H, Hougaard
     DM, Hovig E, Hveem K, Jalanko A, Kaprio J, Knudsen GP, Melbye M,
     Metspalu A, Mortensen PB, Palmgren J, Palotie A, Reed W, Stefánsson
@@ -1270,14 +1281,14 @@ to study biological networks.</i>
     10.1038/s41588-019-0391-1](https://doi.org/10.1038/s41588-019-0391-1)\]
     \[[pdf](http://hdl.handle.net/10138/325612)\]
 
-3.  Grüning BA, Lampa S, **Vaudel M**, Blankenberg D<sup>\$</sup>.
+4.  Grüning BA, Lampa S, **Vaudel M**, Blankenberg D<sup>\$</sup>.
     *Software engineering for scientific big data analysis*,
     Gigascience, 2019. \[[PubMed id
     31121028](https://www.ncbi.nlm.nih.gov/pubmed/31121028)\] \[[doi:
     10.1093/gigascience/giz054](https://doi.org/10.1093/gigascience/giz054)\]
     \[[pdf](https://academic.oup.com/gigascience/article-pdf/8/5/giz054/28698071/giz054.pdf)\]
 
-4.  Willems S, bouyssié D, Deforce D, Dorfer V, Gorshkov V, Kopczynski
+5.  Willems S, bouyssié D, Deforce D, Dorfer V, Gorshkov V, Kopczynski
     D, Laukens K, Locard-Paulet M, Schwämml V, Uszkoreit J, Valkenborg
     D, **Vaudel M**, Bittremieux W<sup>\$</sup>. *Proceedings of the
     EuBIC developer’s meeting 2018*, Journal of Proteomics, 2018.
@@ -1286,7 +1297,7 @@ to study biological networks.</i>
     10.1016/j.jprot.2018.05.015](https://doi.org/10.1016/j.jprot.2018.05.015)\]
     \[[pdf](https://ars.els-cdn.com/content/image/1-s2.0-S1874391918302276-fx1_lrg.jpg)\]
 
-5.  Willems S, Bouyssié D, David M, Locard-Paulet M, Mechtler K,
+6.  Willems S, Bouyssié D, David M, Locard-Paulet M, Mechtler K,
     Schwämmle V, Uszkoreit J, **Vaudel M**, Dorfer V<sup>\$</sup>.
     *Proceedings of the EuBIC Winter School 2017*, Journal of
     Proteomics, 2017. \[[PubMed id
@@ -1294,14 +1305,14 @@ to study biological networks.</i>
     10.1016/j.jprot.2017.04.001](https://doi.org/10.1016/j.jprot.2017.04.001)\]
     \[[pdf](https://ars.els-cdn.com/content/image/1-s2.0-S1874391917301203-fx1_lrg.jpg)\]
 
-6.  Guldbrandsen A, **Vaudel M**, Barsnes H<sup>\$</sup>. *Framtiden for
+7.  Guldbrandsen A, **Vaudel M**, Barsnes H<sup>\$</sup>. *Framtiden for
     biomedisinsk forskning - store endringer og nye muligheter*, Best
     Practice Nordic, 2017. (Not peer reviewed) \[PubMed\] \[no DOI yet\]
     \[[pdf (accepted
     version)](docs/aam/Framtiden%20for%20biomedisink%20forskning%20-%20BestPractice%202017.pdf)\]
     \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
 
-7.  **Vaudel M**, Veit Schwämmle<sup>\$</sup>, Viktoria Dorfer. *The
+8.  **Vaudel M**, Veit Schwämmle<sup>\$</sup>, Viktoria Dorfer. *The
     EuPA Bioinformatics Community (EuBIC) initiative*, EuPA Open
     Proteomics, 2016. \[[PubMed
     id](https://www.ncbi.nlm.nih.gov/pubmed/)\] \[[doi:
@@ -1315,7 +1326,15 @@ to study biological networks.</i>
 > Note: in informatics, conference papers are an important venue to
 > publish findings.
 
-1.  Ziman R, Budich B, **Vaudel M**, Garrison L. *The MoBa Pregnancy and
+1.  Balaka H, **Vaudel M**, Garrison L. *The MoBa GWAS Explorer:
+    Designing Approachable Visualizations of GWAS Data for a Mixed
+    Audience*, 2025 IEEE 16th Workshop on Visual Analytics in Healthcare
+    (VAHC), 2025. \[PubMed\] \[[doi:
+    10.1109/VAHC69430.2025.00010](https://doi.org/10.1109/VAHC69430.2025.00010)\]
+    \[No Open Access found [Request a
+    reprint](mailto:marc.vaudel@uib.no)\]
+
+2.  Ziman R, Budich B, **Vaudel M**, Garrison L. *The MoBa Pregnancy and
     Child Development Dashboard: A Design Study*, VCBM 2024:
     Eurographics Workshop on Visual Computing for Biology and Medicine,
     The Eurographics Association, 2024. \[PubMed\] \[[doi:

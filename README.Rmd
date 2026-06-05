@@ -535,6 +535,8 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 
 ## Outreach - Proceeding
 
+1. Andreassen OA<sup>$</sup>, Heimer H, Aarsland D, Dale AM, Gudbjartsson D, Jacobsson B, Kockum I, Lappalainen T, Metspalu A, Milani L, Njølstad PR, Palotie A, Ripatti S, Sandvik A, Smeland OB, Stefánsson H, Stefánsson K, **Vaudel M**, Vilo J, Werge T, Brunak S, Kallioniemi O. _Importance of Block Randomization When Designing Proteomics Experiments_, Journal of Proteome Research, 2020. `r getLinks(pmid = " 32969222", journalDOI = "10.1021/acs.jproteome.0c00536")`
+
 1. Burger B<sup>$</sup>, **Vaudel M**<sup>$</sup>, Barsnes H. _Importance of Block Randomization When Designing Proteomics Experiments_, Journal of Proteome Research, 2020. `r getLinks(pmid = " 32969222", journalDOI = "10.1021/acs.jproteome.0c00536")`
 
 1. Njølstad PR<sup>$</sup>, Andreassen OA, Brunak S, Børglum AD, Dillner J, Esko T, Franks PW, Freimer N, Groop L, Heimer H, Hougaard DM, Hovig E, Hveem K, Jalanko A, Kaprio J, Knudsen GP, Melbye M, Metspalu A, Mortensen PB, Palmgren J, Palotie A, Reed W, Stefánsson H, Stitziel NO, Sullivan PF, Thorsteinsdóttir U, **Vaudel M**, Vuorio E, Werge T, Stoltenberg C, Stefánsson K. _Roadmap for a precision-medicine initiative in the Nordic region_, Nature Genetics, 2019. `r getLinks(pmid = "30988515", journalDOI = "10.1038/s41588-019-0391-1")`
@@ -554,6 +556,8 @@ effects on offspring phenotypes_, Behavior Genetics, 2019. `r getLinks(pmid = "3
 ## Conference papers
 
 > Note: in informatics, conference papers are an important venue to publish findings.
+
+1. Balaka H, **Vaudel M**, Garrison L. _The MoBa GWAS Explorer: Designing Approachable Visualizations of GWAS Data for a Mixed Audience_, 2025 IEEE 16th Workshop on Visual Analytics in Healthcare (VAHC), 2025. `r getLinks(journalDOI = "10.1109/VAHC69430.2025.00010")`
 
 1. Ziman R, Budich B, **Vaudel M**, Garrison L. _The MoBa Pregnancy and Child Development Dashboard: A Design Study_, VCBM 2024: Eurographics Workshop on Visual Computing for Biology and Medicine, The Eurographics Association, 2024. `r getLinks(journalDOI = "10.2312/vcbm.20241194")`
 
