@@ -3,7 +3,7 @@ Publications
 Marc Vaudel
 
 This repository lists the scientific publications co-authored by [Marc
-Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 05.06.2026.
+Vaudel](https://www.uib.no/en/persons/Marc.Vaudel) as of 12.08.2026.
 
 - [ORCID: 0000-0003-1179-9578](https://orcid.org/0000-0003-1179-9578)
 - [OpenAlex](https://openalex.org/works?page=1&filter=authorships.author.id%3AA5037607788&sort=cited_by_count%3Adesc&group_by=publication_year,type)
@@ -94,8 +94,7 @@ genetic drivers of adiposity.</i>
     Genetics, 2026. \[[PubMed id
     41981316](https://www.ncbi.nlm.nih.gov/pubmed/41981316)\] \[[doi:
     10.1038/s41588-026-02564-4](https://doi.org/10.1038/s41588-026-02564-4)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://doi.org/10.1038/s41588-026-02564-4)\]
 
 <table>
 <tr>
@@ -156,7 +155,7 @@ thousand genomes redily usable for proteomic studies:
     Journal of Proteome Research, 2023. \[[PubMed id
     37656829](https://www.ncbi.nlm.nih.gov/pubmed/37656829)\] \[[doi:
     10.1021/acs.jproteome.3c00243](https://doi.org/10.1021/acs.jproteome.3c00243)\]
-    \[[pdf](https://doi.org/10.1021/acs.jproteome.3c00243)\]
+    \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.3c00243)\]
 
 <table>
 <tr>
@@ -352,53 +351,39 @@ to study biological networks.</i>
 
 ## Research Articles
 
-1.  Kuznetsova KG<sup>\$</sup>, Vašíček J, Skiadopoulou D, Unger L,
-    Nethala RA, Wierer M, Ghila L, Johansson S, Njølstad PR, Chera S,
-    Johansson BB, Manning A<sup>†</sup>, **Vaudel M**<sup>†</sup>. *MODY
-    mutations in transcription factors HNF1A and HNF1B affect the
-    production of interferon signaling proteins: evidence at the
-    proteome level*, preprint.
-    \[[Preprint](https://doi.org/10.1101/2025.11.24.690114)\]
-
-2.  Juárez Garzón MA, Muganga SI, Tallapragada DSP, Johansson BB, Molnes
+1.  Juárez Garzón MA, Muganga SI, Tallapragada DSP, Johansson BB, Molnes
     J, Skrivarhaug T, Lyssenko V, Udler M, Johansson S, Kuznetsova
     KG<sup>†</sup>, **Vaudel M**<sup>†</sup>, Njølstad
     PR<sup>†,\$</sup>. *Heterogeneity in paediatric diabetes clinical
     presentation and its link to disease severity*, preprint.
     \[[Preprint](https://doi.org/10.1101/2025.11.10.25339758)\]
 
-3.  Fragoso-Bargas
+2.  Fragoso-Bargas
     N<sup>$</sup>, Lupu AE, Sundfjord J, Karimi R, Havdahl A, Andreassen OA, Sole-Navais P, Jacobsson B, Bratland E, Davey Smith G, Juliusson PB, Ong KK, Njølstad PR, **Vaudel M**, Johansson S<sup>†,$</sup>.
     *Early-Life Genetic Determinants of Height and their Time-Dependent
     Links to Type 2 Diabetes*, preprint.
     \[[Preprint](https://doi.org/10.1101/2025.11.10.25339894)\]
 
-4.  Ytterberg
+3.  Ytterberg
     K<sup>$</sup>, Sundelin H, Juodakis J, **Vaudel M**, Corfield EC, Andreassen OA, Magnus P, Havdahl A, Nilsson S, Njølstad PR, Johansson S, Jacobsson B<sup>$</sup>,
     Solé-Navais P<sup>†,\$</sup>. *Parity modifies the effect of genetic
     variants associated with gestational duration and birth weight*,
     preprint.
     \[[Preprint](https://doi.org/10.1101/2025.06.17.25329777)\]
 
-5.  Parekh
-    P<sup>$</sup>, Parker N, Pecheva D, Frei E, **Vaudel M**, Smith DM, Rigby A, Jaholkowski P, Sønderby IE, Birkenæs V, Bakken NR, Fan CC, Makowski C, Kopal J, Loughnan R, Hagler Donald J Kr, van der Meer D, Johansson S ,Njølstad PR, Jernigan TL, Thompson WK, Frei Oleksandr, Shadrin AA, Nichols TE, Andreassen OA<sup>†</sup>, Dale AM<sup>†,$</sup>.
-    *FEMA-Long: Modeling unstructured covariances for discovery of
-    time-dependent effects in large-scale longitudinal datasets*,
-    preprint. \[[Preprint](https://doi.org/10.1101/2025.05.09.653146)\]
-
-6.  Skiadopoulou D, Käll L, Barsnes H, Schwämmle V, **Vaudel
+4.  Skiadopoulou D, Käll L, Barsnes H, Schwämmle V, **Vaudel
     M**<sup>†,\$</sup>. *A graph-based approach for modification site
     assignment in proteomics*, preprint.
     \[[Preprint](https://doi.org/10.48550/arXiv.2505.17755)\]
 
-7.  Artaza H, Priyanka Tallapragada DS, Molnes J, Lavrichenko K, Wolff
+5.  Artaza H, Priyanka Tallapragada DS, Molnes J, Lavrichenko K, Wolff
     ASB, Røyrvik EC, Skrivarhaug T, **Vaudel M**, Bratland E, Johansson
     BB, Njølstad PR, Johansson S<sup>\$</sup>. *Contribution of Rare
     Large High-Penetrance CNVs to Pediatric and MODY Diabetes in
     Norway*, preprint.
     \[[Preprint](https://doi.org/10.1101/2025.02.25.25322584)\]
 
-8.  Kentistou KA, Sundfjord J, Karimi R, Kaisinger LR, Hofmeister RJ,
+6.  Kentistou KA, Sundfjord J, Karimi R, Kaisinger LR, Hofmeister RJ,
     Lupu AE, Fragoso-Bargas N, Zhao Y, Tadrass JA, Dowsett GK, Lockhart
     S, Bruening JC, Liu J, Davitte AJ, Clement L, Havdahl A, Andreassen
     OA, Bratland E, Lam BYH, O’Rahilly S, Yeo GSH, Njølstad PR, Kutalik
@@ -408,12 +393,35 @@ to study biological networks.</i>
     childhood*, preprint.
     \[[Preprint](https://doi.org/10.1101/2025.05.13.25327505)\]
 
+7.  Kuznetsova KG<sup>\$</sup>, Vašíček J, Skiadopoulou D, Unger L,
+    Nethala RA, Wierer M, Ghila L, Johansson S, Njølstad PR, Chera S,
+    Johansson BB, Manning A<sup>†</sup>, **Vaudel M**<sup>†</sup>. *MODY
+    mutations in transcription factors HNF1A and HNF1B affect the
+    production of interferon signaling proteins: evidence at the
+    proteome level*, Proteomics, 2026. \[[PubMed id
+    42554236](https://www.ncbi.nlm.nih.gov/pubmed/42554236)\]
+    \[[Preprint](https://doi.org/10.1101/2025.11.24.690114)\] \[[doi:
+    10.1002/pmic.70166](https://doi.org/10.1002/pmic.70166)\] \[[pdf
+    (preprint)](https://www.biorxiv.org/content/biorxiv/early/2025/11/25/2025.11.24.690114.full.pdf)\]
+    \[[Request a reprint](mailto:marc.vaudel@uib.no)\]
+
+8.  Parekh
+    P<sup>$</sup>, Parker N, Pecheva D, Frei E, **Vaudel M**, Smith DM, Rigby A, Jaholkowski P, Sønderby IE, Birkenæs V, Bakken NR, Fan CC, Makowski C, Kopal J, Loughnan R, Hagler Donald J Kr, van der Meer D, Johansson S ,Njølstad PR, Jernigan TL, Thompson WK, Frei Oleksandr, Shadrin AA, Nichols TE, Andreassen OA<sup>†</sup>, Dale AM<sup>†,$</sup>.
+    *FEMA-Long: Modeling unstructured covariances for discovery of
+    time-dependent effects in large-scale longitudinal datasets*, Plos
+    Genetics, 2026. \[[PubMed id
+    42275417](https://www.ncbi.nlm.nih.gov/pubmed/42275417)\]
+    \[[Preprint](https://doi.org/10.1101/2025.05.09.653146)\] \[[doi:
+    10.1371/journal.pgen.1012184](https://doi.org/10.1371/journal.pgen.1012184)\]
+    \[[pdf](https://journals.plos.org/plosgenetics/article/file?id=10.1371/journal.pgen.1012184&type=printable)\]
+
 9.  Pavithram A<sup>1</sup>, Johansson
     BB<sup>1,$</sup>, Tjora E, Svalastoga P, Mohamed KA, Koløen IL, Toftdahl M, Skrivarhaug T, **Vaudel M**, Bjørkhaug L, Maloney KA, Pollin TI, Johansson S, Bellanné-Chantelot C, Sagen JV, Molnes J<sup>†</sup>, Njølstad PR<sup>†,$</sup>.
     *HNF1B-MODY in the Norwegian MODY Registry and the Norwegian
     Childhood Diabetes Registry: Clinical Insights and Prevalence
     Informed by Genetic and Functional Evaluation*, International
-    Journal of Molecular Sciences, 2026. \[PubMed\] \[[doi:
+    Journal of Molecular Sciences, 2026. \[[PubMed id
+    42278591](https://www.ncbi.nlm.nih.gov/pubmed/42278591)\] \[[doi:
     10.3390/ijms27115067](https://doi.org/10.3390/ijms27115067)\]
     \[[pdf](https://doi.org/10.3390/ijms27115067)\]
 
@@ -439,8 +447,7 @@ to study biological networks.</i>
     Genetics, 2026. \[[PubMed id
     41981316](https://www.ncbi.nlm.nih.gov/pubmed/41981316)\] \[[doi:
     10.1038/s41588-026-02564-4](https://doi.org/10.1038/s41588-026-02564-4)\]
-    \[No Open Access found [Request a
-    reprint](mailto:marc.vaudel@uib.no)\]
+    \[[pdf](https://doi.org/10.1038/s41588-026-02564-4)\]
 
 12. Nguyen
     K-M<sup>1,$</sup>, Karimi R, **Vaudel M**, Havdahl A, Johansson S, Evans DM, Warrington NM<sup>$</sup>.
@@ -659,7 +666,7 @@ to study biological networks.</i>
     Journal of Proteome Research, 2023. \[[PubMed id
     37656829](https://www.ncbi.nlm.nih.gov/pubmed/37656829)\] \[[doi:
     10.1021/acs.jproteome.3c00243](https://doi.org/10.1021/acs.jproteome.3c00243)\]
-    \[[pdf](https://doi.org/10.1021/acs.jproteome.3c00243)\]
+    \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.3c00243)\]
 
 29. Sole-Navais
     P<sup>$</sup>, Flatley C, Steinthorsdottir V, **Vaudel M**, Chen J, Laisk T, LaBella AL, Westergaard D, Bacelis J, Juodakis J, Brumpton B, Skotte L, Borges MC, Helgeland Ø, Mahajan A, Wielscher M, Lin F, Briggs C, Wang CA, Moen GH, Beaumont RN, Bradfield JP, Thorleifsson G, Elvestad Gabrielsen M, Rye Ostrowski S, Modzelewska D, Estonian Biobank Research Team, Nohr EA, Hypponen E, Srivastava A, Talbot O, Allard C, Williams SM, Menon R, Shields BM, Sveinbjornsson G, Xu H, Danish Blood Donor Study Genomic Consortium, Early Growth Genetics Consortium, Melbye M, William L Jr, Bouchard L, Oken E, Birger Pedersen O, Gudbjartsson DF, Erikstrup C, Sorensen E, Lie RT, Teramo K, Hallman M, Juliusdottir T, Hakonarson H, Hattersley AT, Sletner L, Merialdi M, Rifas-Shiman S, Steingrimsdottir T, Scholtens D, Power C, West J, Nyegaard M, Capra JA, Skogholt AH, Magnus P, Andreassen OA, Thorsteinsdottir U, Grant SFA, Qvigstad E, Pennell CE, Hivert MF, Hayes GM, Jarvelin MR, McCarthy MI, Lawlor DA, Lawlor DA, Nielsen HS, Magi R, Rokas A, Hveem K, Stefansson K, Feenstra B, Njolstad PR, Muglia LJ, Freathy RM, Johanson S, Zhang G<sup>†</sup>, Jacobsson B<sup>†,$</sup>.
@@ -674,7 +681,7 @@ to study biological networks.</i>
     processing*, Biostatistics, 2022. \[[PubMed id
     35536588](https://www.ncbi.nlm.nih.gov/pubmed/35536588)\] \[[doi:
     10.1093/biostatistics/kxac014](https://doi.org/10.1093/biostatistics/kxac014)\]
-    \[[pdf](https://doi.org/10.1093/biostatistics/kxac014)\]
+    \[[pdf](https://academic.oup.com/biostatistics/advance-article-pdf/doi/10.1093/biostatistics/kxac014/43650930/kxac014.pdf)\]
 
 31. Helgeland Ø<sup>1</sup>, **Vaudel M**<sup>1</sup>, Sole-Navais P,
     Flatley C, Juodakis J, Bacelis J, Koløen IL, Knudsen GP, Johansson
@@ -703,7 +710,7 @@ to study biological networks.</i>
     and fetal sex*, Placenta, 2022. \[[PubMed id
     34773745](https://www.ncbi.nlm.nih.gov/pubmed/34773745)\] \[[doi:
     10.1016/j.placenta.2021.10.011](https://doi.org/10.1016/j.placenta.2021.10.011)\]
-    \[[pdf](https://doi.org/10.1016/j.placenta.2021.10.011)\]
+    \[[pdf](https://www.sciencedirect.com/science/article/pii/S0143400421006299/pdf)\]
 
 34. Farag YM, Horro C, **Vaudel M**, Barsnes H<sup>\$</sup>.
     *PeptideShaker Online: A User-Friendly Web-Based Framework for the
@@ -838,7 +845,7 @@ to study biological networks.</i>
     effects on offspring phenotypes*, Behavior Genetics, 2019. \[[PubMed
     id 31493278](https://www.ncbi.nlm.nih.gov/pubmed/31493278)\] \[[doi:
     10.1007/s10519-019-09969-4](https://doi.org/10.1007/s10519-019-09969-4)\]
-    \[[pdf](https://research-information.bris.ac.uk/en/publications/8d649575-20f6-4267-8ad4-13ae1ac078bc)\]
+    \[[pdf](https://research-information.bris.ac.uk/ws/files/207903720/M_GCTA_R1.pdf)\]
 
 45. Hernández Sánchez LF, Burger B, Horro C, Fabregat A, Johansson S,
     Njølstad PR, Barsnes H, Hermjakob H, **Vaudel M**<sup>\$</sup>.
@@ -1117,7 +1124,7 @@ to study biological networks.</i>
     mass spectra*, Journal of Proteome Research, 2014. \[[PubMed id
     24295440](https://www.ncbi.nlm.nih.gov/pubmed/24295440)\] \[[doi:
     10.1021/pr4008078](https://doi.org/10.1021/pr4008078)\]
-    \[[pdf](https://doi.org/10.1021/pr4008078)\]
+    \[[pdf](https://pubs.acs.org/doi/pdf/10.1021/pr4008078?ref=article_openPDF)\]
 
 68. Helgeland E, Breivik LE, **Vaudel M**, Svendsen OS, Garberg H,
     Nordrehaug JE, Berven FS, Jonassen AK<sup>\$</sup>. *Exploring the
@@ -1317,7 +1324,7 @@ to study biological networks.</i>
     Proteomics, 2016. \[[PubMed
     id](https://www.ncbi.nlm.nih.gov/pubmed/)\] \[[doi:
     10.1016/j.euprot.2016.03.009](https://doi.org/10.1016/j.euprot.2016.03.009)\]
-    \[[pdf](https://doi.org/10.1016/j.euprot.2016.03.009)\]
+    \[[pdf](https://www.sciencedirect.com/science/article/pii/S2212968516300277/pdf)\]
 
 <br>
 
